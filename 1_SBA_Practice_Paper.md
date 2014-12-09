@@ -4,6 +4,8 @@ SBA Practice Paper: 1
 Questions 1-10
 --------------
 
+- 50%: F: 1, 2, 3, 5, 6 
+
 ### 1
 The superior vena cava (SVC) is formed by the union of the right and left brachiocephalic veins behind the:
 
@@ -13,10 +15,11 @@ The superior vena cava (SVC) is formed by the union of the right and left brachi
 	D. Left first cost cartilage junction - F
 	E. Manubriosternal joint - F
 
-#### Answer: A. Right sternoclavicular joint (SCJ) - ?
+#### Answer: A. Right sternoclavicular joint (SCJ) - *FALSE*
+C. Right first costal cartilage junction
 
 ### 2
-The oblique sinus of the heart:
+The _oblique sinus_ of the heart:
 
 	A. Is bounded by the pulmonary arteries
 	B. Forms a recess between the pericardium and the left atrium 
@@ -24,18 +27,21 @@ The oblique sinus of the heart:
 	D. Lies anteriorly between the superior vena vaca (SVC) and left atrium - F
 	E. Is smaller than the transverse sinus - F
 	
-#### Answer: A. Is bounded by the pulmonary arteries - ?
+#### Answer: A. Is bounded by the pulmonary arteries - *FALSE*
+- Note: had this correct but changed answer!
+- TODO
 
 ### 3
 Which of the following statements regarding core temperature is TRUE?
 
 	A. Axillary temperature is normally 0.5C higher than core temperature - F
-	B. Hypothermia is defined as core temperature <35ºC - F
+	B. Hypothermia is defined as core temperature <35ºC - F 
 	C. Diurnal variation is seen, with core temperature higher in the morning that in the evening - F
 	D. Autonomic temperature control is regulated by the parasympathetic system
 	E. Core temperature rises minimally during sleep - F
 	
-#### Answer: D. Autonomic temperature control is regulated by the parasympathetic system - ?
+#### Answer: D. Autonomic temperature control is regulated by the parasympathetic system - *FALSE*
+B. Hypothermia is defined as core temperature <35ºC
 
 ### 4
 Which statement is true of the brachial plexus? - LEARN
@@ -46,7 +52,8 @@ Which statement is true of the brachial plexus? - LEARN
 	D. The nerve to subclavius is a branch of the C8 nerve root - F
 	E. The suprascapular nerve is a branch of the lower trunk - F
 	
-#### Answer: B. The posterior cord continues as the axillary nerve - ?
+#### Answer: B. The posterior cord continues as the axillary nerve - TRUE
+- TODO
 
 ### 5
 Structure NOT at risk of being damaged during carotid enarterectomy include the:
@@ -57,7 +64,7 @@ Structure NOT at risk of being damaged during carotid enarterectomy include the:
 	D. Recurrent laryngeal nerve - T
 	E. (Spinal) Accessory nerve (CN XI) - T
 
-#### Answer: B. Greater auricular nerve - ?
+#### Answer: B. Greater auricular nerve - *FALSE*
 
 ### 6
 For a 70 kg man, the volume of intracellular water in the body in litres (L) is approximately:
@@ -68,9 +75,11 @@ For a 70 kg man, the volume of intracellular water in the body in litres (L) is 
 	D. 35 L
 	E. 42 L - F
 	
-#### Answer: D. 35 L - ?
+#### Answer: D. 35 L - *FALSE*
 - 70 kg * 60% * 2/3 = 42 * 2/3 = 28 L
 - 70 kg * 70% * 2/3 = 49 * 2/3 = 33 L
+
+- **TODO**
 
 ### 7
 A 72-yo man underwent an emergency operation for a strangulated inguinal hernia, during which he also had a small-bowel resection for infarcted bowel. He is noted on post-operative bloods to have a potassium of 6.5 mmol/L. In looking at his past medical history, he suffers from hypertension, adrenal problems, and a recently Dx oesophageal stricture. HyPERkalaemia in this patient is most likely to result from:
@@ -81,7 +90,8 @@ A 72-yo man underwent an emergency operation for a strangulated inguinal hernia,
 	D. Loop diuretics - F
 	E. Dysphagia - F
 
-#### Answer: B. Metabolic acidosis - GUESS
+#### Answer: B. Metabolic acidosis - TRUE (Guess)
+- TODO
 
 ### 8
 Causes of HyPOnatraemia include all of the following EXCEPT:
@@ -92,24 +102,33 @@ Causes of HyPOnatraemia include all of the following EXCEPT:
 	D. Addison's disease
 	E. Post-operative excess IV 5% dextrose prescribing - T
 
-#### Answer: C. Diabetes Insipidus - ?
+#### Answer: C. Diabetes Insipidus - TRUE
+- TODO
 
 ### 9
 The correct composition of _Hartmann's solution_ is as follows (mmol/L):
 
 	| Na	| Cl	| Dex	| K		| PO4	| Ca	| HCO3	|
-----|------:|-------|-------|-------|-------|-------|-------|
-A	| 154	| 154	| –		| 20	| –
-B	| 131	| 111	| –		|  5	| –
-C 	| 129	| 109	| –		|  4	| 1.5
-D 	|  30	|  30	| 222	|  2	| –
-E 	| 147	| 156	| –		|  4	| –
+----|------:|------:|------:|------:|------:|------:|------:|
+A	| 154	| 154	| –		| 20	| –		|  2	| 18
+B	| 131	| 111	| –		|  5	| –		|  2	| 29
+C 	| 129	| 109	| –		|  4	| 1.5	|  –	| 29
+D 	|  30	|  30	| 222	|  2	| –		|  2	| –
+E 	| 147	| 156	| –		|  4	| –		| 22	| –
 
-#### Answer: 
+#### Answer: B: Na 131, Cl 111, HCO3 29, K 5, Ca 2 - TRUE
+- TODO
 
 ### 10
-X
-#### Answer: 
+The abdominal aorta lies on the:
+
+	A. Left of sympathetic trunk - F
+	B. Left on inferior mesenteric vessels - F
+	C. Left of azygos vein - T
+	D. Right of Cisterna Chyli - F
+	E. Right of Interior Vena Cava (IVC) - F
+	
+#### Answer: C. Left of azygos vein - TRUE
 
 Questions 11-20
 ---------------
