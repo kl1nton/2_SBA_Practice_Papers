@@ -36,8 +36,16 @@ The _oblique sinus_ of the heart:
 	E. Is smaller than the transverse sinus - F
 	
 #### Answer: A. Is bounded by the pulmonary arteries - *FALSE*
-- Note: had this correct but changed answer!
-- TODO
+- **Note**: had this correct but changed answer!
+
+- Pericardial sinuses (2x) are formed by 
+	- Reflection of pericardium on heart and great vessels
+- **Transverse sinus** lies
+	- Posteriorly between aorta and pulmonary trunk
+	- Anteriorly between superior vena cava (SVC) and left atrium
+- **Oblique sinus** forms a recess between pericardium and left atrium 
+	- Bounded by four pulmonary veins and inferior vena cava (IVC)
+	- It is larger, more J-shaped, and lies *inferior* to transverse sinus
 
 ### 3
 Which of the following statements regarding core temperature is TRUE?
@@ -51,8 +59,26 @@ Which of the following statements regarding core temperature is TRUE?
 #### Answer: D. Autonomic temperature control is regulated by the parasympathetic system - *FALSE*
 B. Hypothermia is defined as core temperature <35ºC
 
+1. Temperature control is regulated by hypothalamus + sympathetic nervous system (SNS)
+	- Core temperature is generally about 0.5°C higher than axillary temperature
+		- Normal range is between 36 °C and 37.5 °C
+	- Temperature <35°C is regarded as **hypothermia**
+		- Can often be fatal at levels under 30°C
+		
+2. Temperature variation can be seen throughout the day
+	- Core temperatures being lower in morning and higher in evening
+	
+3. Variation may also be seen over menstrual cycle
+	- T is 0.5 °C higher in latter half of the cycle
+	- During sleep, core temperature *falls* slightly
+	
+4. Cardiac arrhythmias occur at core temperature below 32°C
+	- Asystole can supervene below 28°C
+	- Re-warming a patient can reactivate heart
+	- Essential to re-warm patient before confirming cardiac arrest
+	
 ### 4
-Which statement is true of the brachial plexus? - LEARN
+Which statement is true of the brachial plexus? - **LEARN**
 
 	A. The medial cord continues as the musculocutaneous nerve - F
 	B. The posterior cord continues as the axillary nerve
@@ -61,18 +87,30 @@ Which statement is true of the brachial plexus? - LEARN
 	E. The suprascapular nerve is a branch of the lower trunk - F
 	
 #### Answer: B. The posterior cord continues as the axillary nerve - TRUE
-- TODO
+- Medial cord continues as ulnar nerve
+- Lateral cord continues as musculocutaneous nerve
+- Posterior cord continues as radial nerve + axillary nerve
+- Nerve to subclavius is a branch of C6 root
+- Suprascapular nerve is a branch from upper trunk
 
 ### 5
-Structure NOT at risk of being damaged during carotid enarterectomy include the:
+Structure NOT at risk of being damaged during carotid endarterectomy include the:
 
-	A. Hypoglossal nerve (CN XII) - T
+	A. Hypoglossal nerve (CN XII)
 	B. Greater auricular nerve
-	C. Vagus nerve - T
-	D. Recurrent laryngeal nerve - T
-	E. (Spinal) Accessory nerve (CN XI) - T
+	C. Vagus nerve 
+	D. Recurrent laryngeal nerve
+	E. (Spinal) Accessory nerve (CN XI)
 
-#### Answer: B. Greater auricular nerve - *FALSE*
+#### Answer: E. (Spinal) Accessory Nerve (CN XI) - TRUE
+- Following nerves are **all** at risk during Carotid Endarterectomy:
+	- Vagus Nerve (CX X)
+	- Hypoglossal Nerve (CN XII)
+	- Greater Auricular Nerve 
+	- Recurrent Laryngeal Nerve
+- Following nerves are **not** at risk 
+	- (Spinal) Accessory Nerve (CN XI)
+	- Superior Laryngeal Nerve
 
 ### 6
 For a 70 kg man, the volume of intracellular water in the body in litres (L) is approximately:
