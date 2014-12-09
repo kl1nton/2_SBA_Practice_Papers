@@ -10,13 +10,21 @@ Questions 1-10
 The superior vena cava (SVC) is formed by the union of the right and left brachiocephalic veins behind the:
 
 	A. Right sternoclavicular joint (SCJ)
-	B. Left sternoclavicular joint (SCJ) - F
+	B. Left sternoclavicular joint (SCJ)
 	C. Right first costal cartilage junction
-	D. Left first cost cartilage junction - F
-	E. Manubriosternal joint - F
+	D. Left first cost cartilage junction
+	E. Manubriosternal joint
 
-#### Answer: A. Right sternoclavicular joint (SCJ) - *FALSE*
-C. Right first costal cartilage junction
+#### Answer: C. Right first costal cartilage junction - TRUE
+
+- Right brachiocephalic vein is formed behind right sternoclavicular joint (SCJ) by union of: 
+	1. Right internal jugular vein (IJV)
+	2. Right subclavian vein (SCV)
+- Similarly, Left brachiocephalic vein forms behind left sternoclavicular joint with the union of:
+	1. Left internal jugular vein (IJV)
+	2. Left subclavian vein (SCV)
+- Both brachiocephalic veins (BCV) join to form superior vena cava (SVC) behind
+	- **Right first costal cartilage junction** and descend to enter right atrium
 
 ### 2
 The _oblique sinus_ of the heart:
