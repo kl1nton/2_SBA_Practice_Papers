@@ -5,19 +5,47 @@ Questions 1-10
 --------------
 
 ### 1
-X
-#### Answer: 
+The superior vena cava (SVC) is formed by the union of the right and left brachiocephalic veins behind the:
+
+	A. Right sternoclavicular joint (SCJ)
+	B. Left sternoclavicular joint (SCJ) - F
+	C. Right first costal cartilage junction
+	D. Left first cost cartilage junction - F
+	E. Manubriosternal joint - F
+
+#### Answer: A. Right sternoclavicular joint (SCJ) - ?
 
 ### 2
-X
-#### Answer: 
+The oblique sinus of the heart:
+
+	A. Is bounded by the pulmonary arteries
+	B. Forms a recess between the pericardium and the left atrium 
+	C. Lies posteriorly between the aorta and pulmonary trunk anteriorly - F
+	D. Lies anteriorly between the superior vena vaca (SVC) and left atrium - F
+	E. Is smaller than the transverse sinus - F
+	
+#### Answer: A. Is bounded by the pulmonary arteries - ?
 
 ### 3
-X
-#### Answer: 
+Which of the following statements regarding core temperature is TRUE?
+
+	A. Axillary temperature is normally 0.5C higher than core temperature - F
+	B. Hypothermia is defined as core temperature <35ºC - F
+	C. Diurnal variation is seen, with core temperature higher in the morning that in the evening - F
+	D. Autonomic temperature control is regulated by the parasympathetic system
+	E. Core temperature rises minimally during sleep - F
+	
+#### Answer: D. Autonomic temperature control is regulated by the parasympathetic system - ?
 
 ### 4
-X
+Which statement is true of the brachial plexus?
+
+	A. The medial cord continues as the musculocutaneous nerve
+	B. The posterior cord continues as the axillary nerve
+	C. The lateral cord continues as the axillary nerve
+	D. The nerve to subclavius is a branch of the C8 nerve root
+	E. The subscapular nerve is a branch of the lower trunk
+	
 #### Answer: 
 
 ### 5
