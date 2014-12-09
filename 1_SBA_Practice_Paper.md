@@ -62,18 +62,26 @@ Structure NOT at risk of being damaged during carotid enarterectomy include the:
 ### 6
 For a 70 kg man, the volume of intracellular water in the body in litres (L) is approximately:
 
-	A. 11 L
-	B. 14 L
+	A. 11 L - F
+	B. 14 L - F
 	C. 28 L
 	D. 35 L
-	E. 42 L
+	E. 42 L - F
 	
 #### Answer: D. 35 L - ?
+- 70 kg * 60% * 2/3 = 42 * 2/3 = 28 L
 - 70 kg * 70% * 2/3 = 49 * 2/3 = 33 L
 
 ### 7
+A 72-yo man underwent an emergency operation for a strangulated inguinal hernia, during which he also had a small-bowel resection for infarcted bowel. He is noted on post-operative bloods to have a potassium of 6.5 mmol/L. In looking at his past medical history, he suffers from hypertension, adrenal problems, and a recently Dx oesophageal stricture. HyPERkalaemia in this patient is most likely to result from:
 
-#### Answer: 
+	A. HyPERaldosteronism
+	B. Metabolic acidosis
+	C. Steroid therapy
+	D. Loop diuretics - F
+	E. Dysphagia - F
+
+#### Answer: B. Metabolic acidosis - GUESS
 
 ### 8
 Causes of HyPOnatraemia include all of the following EXCEPT:
@@ -87,7 +95,16 @@ Causes of HyPOnatraemia include all of the following EXCEPT:
 #### Answer: C. Diabetes Insipidus - ?
 
 ### 9
-X
+The correct composition of _Hartmann's solution_ is as follows (mmol/L):
+
+	| Na	| Cl	| Dex	| K		| PO4	| Ca	| HCO3	|
+----|------:|-------|-------|-------|-------|-------|-------|
+A	| 154	| 154	| –		| 20	| –
+B	| 131	| 111	| –		|  5	| –
+C 	| 129	| 109	| –		|  4	| 1.5
+D 	|  30	|  30	| 222	|  2	| –
+E 	| 147	| 156	| –		|  4	| –
+
 #### Answer: 
 
 ### 10
