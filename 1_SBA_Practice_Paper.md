@@ -38,31 +38,53 @@ Which of the following statements regarding core temperature is TRUE?
 #### Answer: D. Autonomic temperature control is regulated by the parasympathetic system - ?
 
 ### 4
-Which statement is true of the brachial plexus?
+Which statement is true of the brachial plexus? - LEARN
 
-	A. The medial cord continues as the musculocutaneous nerve
+	A. The medial cord continues as the musculocutaneous nerve - F
 	B. The posterior cord continues as the axillary nerve
 	C. The lateral cord continues as the axillary nerve
-	D. The nerve to subclavius is a branch of the C8 nerve root
-	E. The subscapular nerve is a branch of the lower trunk
+	D. The nerve to subclavius is a branch of the C8 nerve root - F
+	E. The suprascapular nerve is a branch of the lower trunk - F
 	
-#### Answer: 
+#### Answer: B. The posterior cord continues as the axillary nerve - ?
 
 ### 5
-X
-#### Answer: 
+Structure NOT at risk of being damaged during carotid enarterectomy include the:
+
+	A. Hypoglossal nerve (CN XII) - T
+	B. Greater auricular nerve
+	C. Vagus nerve - T
+	D. Recurrent laryngeal nerve - T
+	E. (Spinal) Accessory nerve (CN XI) - T
+
+#### Answer: B. Greater auricular nerve - ?
 
 ### 6
-X
-#### Answer: 
+For a 70 kg man, the volume of intracellular water in the body in litres (L) is approximately:
+
+	A. 11 L
+	B. 14 L
+	C. 28 L
+	D. 35 L
+	E. 42 L
+	
+#### Answer: D. 35 L - ?
+- 70 kg * 70% * 2/3 = 49 * 2/3 = 33 L
 
 ### 7
-X
+
 #### Answer: 
 
 ### 8
-X
-#### Answer: 
+Causes of HyPOnatraemia include all of the following EXCEPT:
+
+	A. Heart failure
+	B. HyPOalbuminaemia
+	C. Diabetes Insipidus - F
+	D. Addison's disease
+	E. Post-operative excess IV 5% dextrose prescribing - T
+
+#### Answer: C. Diabetes Insipidus - ?
 
 ### 9
 X
