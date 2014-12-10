@@ -108,24 +108,33 @@ Structure NOT at risk of being damaged during carotid endarterectomy include the
 	- Hypoglossal Nerve (CN XII)
 	- Greater Auricular Nerve 
 	- Recurrent Laryngeal Nerve
-- Following nerves are **not** at risk 
+- Following nerves are **not** at risk: **'S' not at risk**
 	- (Spinal) Accessory Nerve (CN XI)
 	- Superior Laryngeal Nerve
 
 ### 6
 For a 70 kg man, the volume of intracellular water in the body in litres (L) is approximately:
 
-	A. 11 L - F
-	B. 14 L - F
+	A. 11 L 
+	B. 14 L 
 	C. 28 L
 	D. 35 L
-	E. 42 L - F
+	E. 42 L 
 	
-#### Answer: D. 35 L - *FALSE*
+#### Answer: C. 28 L - TRUE
 - 70 kg * 60% * 2/3 = 42 * 2/3 = 28 L
-- 70 kg * 70% * 2/3 = 49 * 2/3 = 33 L
 
-- **TODO**
+TODO
+- Water in average 70-kg male is ~60% of body weight (42 L)
+	- 2/3 is *intracellular* (28 L) 	
+	- 1/3 is *extracellular* (14 L)
+- Extracellular compartment can be further divided into 
+	- Plasma (3 L)
+	- Interstitial fluid (11 L)
+		- Transcellular fluid (1 L) makes up part of interstitial fluid
+			- Cerebrospinal fluid
+			- Peritoneal fluid
+			- Intraocular fluid 
 
 ### 7
 A 72-yo man underwent an emergency operation for a strangulated inguinal hernia, during which he also had a small-bowel resection for infarcted bowel. He is noted on post-operative bloods to have a potassium of 6.5 mmol/L. In looking at his past medical history, he suffers from hypertension, adrenal problems, and a recently Dx oesophageal stricture. HyPERkalaemia in this patient is most likely to result from:
@@ -136,7 +145,7 @@ A 72-yo man underwent an emergency operation for a strangulated inguinal hernia,
 	D. Loop diuretics - F
 	E. Dysphagia - F
 
-#### Answer: B. Metabolic acidosis - TRUE (Guess)
+#### Answer: B. Metabolic acidosis - TRUE (Guess) - HERE
 - TODO
 
 ### 8
