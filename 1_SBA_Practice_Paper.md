@@ -163,7 +163,7 @@ A 72-yo man underwent an emergency operation for a strangulated inguinal hernia,
 	D. Loop diuretics - F
 	E. Dysphagia - F
 
-#### Answer: B. Metabolic acidosis - TRUE (Guess) - HERE
+#### Answer: B. Metabolic acidosis - TRUE (Guess)
 - TODO
 
 ### 8
