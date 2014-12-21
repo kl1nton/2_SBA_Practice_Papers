@@ -1423,53 +1423,54 @@ Which of the following is NOT a benign skin lesion?
 	E	Turban tumour
 #### Answer: 
 
+
 Questions 131-135
 -----------------
 
 ### Q131
-Which of the following is NOT a nutritional factor involved in wound healing?
-	A	Vitamin A
-	B	Vitamin B3
-	C	Vitamin B6
-	D	Zinc
-	E	Copper
-#### Answer: 
+Which of the following is NOT a nutritional factor _involved in wound healing_?
+	A. Vitamin A
+	B. Vitamin B3
+	C. Vitamin B6
+	D. Zinc
+	E. Copper
+#### Answer: E. Copper - ?
  
 ### Q132
-For which of the following is blood for transfusion NOT screened?
-	A	EBV
-	B	Hepatitis B
-	C	Syphilis
-	D	Hepatitis C
-	E	HIV
-#### Answer: 
+For which of the following is _blood for transfusion_ NOT screened?
+	A. EBV
+	B. Hepatitis B
+	C. Syphilis
+	D. Hepatitis C
+	E. HIV
+#### Answer: A. EBV - ?
  
 ### Q133
-Which of the following statements is correct regarding cells involved in wound healing?
-	A	Platelets take 1 day to appear
-	B	Neutrophils take 2 days to appear
-	C	Macrophages appear immediately
-	D	Fibroblasts take 3 days to appear
-	E	Endothelial cells take 1 day to appear
-#### Answer: 
+Which of the following statements is correct regarding _cells involved in wound healing_?
+	A. Platelets take 1 day to appear - F
+	B. Neutrophils take 2 days to appear
+	C. Macrophages appear immediately
+	D. Fibroblasts take 3 days to appear
+	E. Endothelial cells take 1 day to appear
+#### Answer: D. Fibroblasts take 3 days to appear - ?
  
 ### Q134
-Which of the following statements regarding cell growth is NOT true?
+Which of the following statements regarding _cell growth_ is NOT true?
 	A. Hypertrophy is an increase in cell size - T
 	B. Hyperplasia is an increase in cell number - T
 	C. Metaplasia is the conversion of one tissue type to another - T
 	D. Teratoma is a growth of cells originating from more than one germ-cell line - T
 	E. Hamartoma is an overgrowth of a cell not normally found in that tissue - F
 
-#### Answer: E	Hamartoma is an overgrowth of a cell not normally found in that tissue - FALSE
+#### Answer: E. Hamartoma is an overgrowth of a cell not normally found in that tissue - TRUE
  
 ### Q135
-The most common type of lung cancer is:
-	A	Squamous cell carcinoma
-	B	Small-cell carcinoma
-	C	Large-cell carcinoma
-	D	Adenocarcinoma
-	E	Adenosquamous carcinoma
-#### Answer: 
+The _most common_ type of _lung cancer_ is:
+	A. Squamous cell carcinoma
+	B. Small-cell carcinoma
+	C. Large-cell carcinoma
+	D. Adenocarcinoma
+	E. Adenosquamous carcinoma
+#### Answer: B. Small-cell carcinoma - ?
 
 ---
