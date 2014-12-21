@@ -3,18 +3,18 @@ SBA Practice Paper: 1
 
 Group	| Score			| Errors 					|
 --------|---------------|---------------------------|
-1		| 
-11		| 
-21		| 
-31		| 
-41		| 
-51		| 
-61		| 
-71		| 
-81		| 
-91		| 
-101		| 
-111		| 
+1-10	| 8/10 = 80%	| 2, 3
+11-20	| 
+21-30	| 
+31-40	| 
+41-50	| 
+51-60	| 
+61-70	| 
+71-80	| 
+81-90	| 
+91-100	| 
+101-110	| 
+111-120	| 
 
 Overall: ??/120 = ??.0%
 
@@ -22,9 +22,9 @@ Overall: ??/120 = ??.0%
 Questions 1-10
 --------------
 
-- 50%: F: 1, 2, 3, 5, 6 
+80% = F: 2, 3
 
-### 1
+### Q1
 The superior vena cava (SVC) is formed by the union of the right and left brachiocephalic veins behind the:
 
 	A. Right sternoclavicular joint (SCJ)
@@ -34,17 +34,13 @@ The superior vena cava (SVC) is formed by the union of the right and left brachi
 	E. Manubriosternal joint
 
 #### Answer: C. Right first costal cartilage junction - TRUE
-
-- Right brachiocephalic vein is formed behind right sternoclavicular joint (SCJ) by union of: 
-	1. Right internal jugular vein (IJV)
-	2. Right subclavian vein (SCV)
-- Similarly, Left brachiocephalic vein forms behind left sternoclavicular joint with the union of:
-	1. Left internal jugular vein (IJV)
-	2. Left subclavian vein (SCV)
-- Both brachiocephalic veins (BCV) join to form superior vena cava (SVC) behind
+- Right/Left brachiocephalic vein is formed behind Right/Left SternoClavicular Joint (SCJ) by union of: 
+	1. Right/Left Internal Jugular Vein (IJV)
+	2. Right/Left Subclavian Vein
+- Both brachiocephalic veins join to form Superior Vena Cava (SVC) behind
 	- **Right first costal cartilage junction** and descend to enter right atrium
 
-### 2
+### Q2
 The _oblique sinus_ of the heart:
 
 	A. Is bounded by the pulmonary arteries
@@ -53,29 +49,31 @@ The _oblique sinus_ of the heart:
 	D. Lies anteriorly between the superior vena vaca (SVC) and left atrium - F
 	E. Is smaller than the transverse sinus - F
 	
-#### Answer: A. Is bounded by the pulmonary arteries - *FALSE*
+#### Answer: A. Is bounded by the pulmonary arteries - *FALSE* = B. Forms a recess between the pericardium and the left atrium - TRUE
 - **Note**: had this correct but changed answer!
-
 - Pericardial sinuses (2x) are formed by 
 	- Reflection of pericardium on heart and great vessels
-- **Transverse sinus** lies
-	- Posteriorly between aorta and pulmonary trunk
-	- Anteriorly between superior vena cava (SVC) and left atrium
-- **Oblique sinus** forms a recess between pericardium and left atrium 
+
+##### Transverse Sinus
+	- Lies posteriorly between aorta and pulmonary trunk
+	- Lies anteriorly between superior vena cava (SVC) and left atrium
+
+##### Oblique Sinus
+	- Forms a recess between pericardium and left atrium 
 	- Bounded by four pulmonary veins and inferior vena cava (IVC)
 	- It is larger, more J-shaped, and lies *inferior* to transverse sinus
 
-### 3
+### Q3
 Which of the following statements regarding core temperature is TRUE?
 
-	A. Axillary temperature is normally 0.5C higher than core temperature - F
-	B. Hypothermia is defined as core temperature <35ºC - F 
-	C. Diurnal variation is seen, with core temperature higher in the morning that in the evening - F
+	A. Axillary temperature is normally 0.5C higher than core temperature
+	B. Hypothermia is defined as core temperature <35ºC
+	C. Diurnal variation is seen, with core temperature higher in the morning that in the evening
 	D. Autonomic temperature control is regulated by the parasympathetic system
-	E. Core temperature rises minimally during sleep - F
+	E. Core temperature rises minimally during sleep
 	
 #### Answer: D. Autonomic temperature control is regulated by the parasympathetic system - *FALSE*
-B. Hypothermia is defined as core temperature <35ºC
+B. Hypothermia is defined as core temperature <35ºC - TRUE
 
 1. Temperature control is regulated by hypothalamus + sympathetic nervous system (SNS)
 	- Core temperature is generally about 0.5°C higher than axillary temperature
@@ -95,8 +93,8 @@ B. Hypothermia is defined as core temperature <35ºC
 	- Re-warming a patient can reactivate heart
 	- Essential to re-warm patient before confirming cardiac arrest
 	
-### 4
-Which statement is true of the brachial plexus? - **LEARN**
+### Q4 - LEARN
+Which statement is true of the brachial plexus?
 
 	A. The medial cord continues as the musculocutaneous nerve - F
 	B. The posterior cord continues as the axillary nerve
@@ -105,13 +103,13 @@ Which statement is true of the brachial plexus? - **LEARN**
 	E. The suprascapular nerve is a branch of the lower trunk - F
 	
 #### Answer: B. The posterior cord continues as the axillary nerve - TRUE
-- Medial cord continues as ulnar nerve
-- Lateral cord continues as musculocutaneous nerve
-- Posterior cord continues as radial nerve + axillary nerve
+- Medial Cord continues as Ulnar nerve
+- Lateral Cord continues as Musculocutaneous Nerve
+- **Posterior Cord** continues as Radial Nerve + Axillary Nerve
 - Nerve to subclavius is a branch of C6 root
 - Suprascapular nerve is a branch from upper trunk
 
-### 5
+### Q5
 Structure NOT at risk of being damaged during carotid endarterectomy include the:
 
 	A. Hypoglossal nerve (CN XII)
@@ -126,11 +124,11 @@ Structure NOT at risk of being damaged during carotid endarterectomy include the
 	- Hypoglossal Nerve (CN XII)
 	- Greater Auricular Nerve 
 	- Recurrent Laryngeal Nerve
-- Following nerves are **not** at risk: **'S' not at risk**
+- Following nerves are **not** at risk: **'S' == NOT at risk**
 	- (Spinal) Accessory Nerve (CN XI)
 	- Superior Laryngeal Nerve
 
-### 6
+### Q6
 For a 70 kg man, the volume of intracellular water in the body in litres (L) is approximately:
 
 	A. 11 L 
@@ -142,19 +140,18 @@ For a 70 kg man, the volume of intracellular water in the body in litres (L) is 
 #### Answer: C. 28 L - TRUE
 - 70 kg * 60% * 2/3 = 42 * 2/3 = 28 L
 
-TODO
 - Water in average 70-kg male is ~60% of body weight (42 L)
-	- 2/3 is *intracellular* (28 L) 	
-	- 1/3 is *extracellular* (14 L)
-- Extracellular compartment can be further divided into 
+	- **Intracellular: 2/3 (= 28 L)** 	
+	- Extracellular: 1/3 (= 14 L)
+- Extracellular Compartment
 	- Plasma (3 L)
-	- Interstitial fluid (11 L)
-		- Transcellular fluid (1 L) makes up part of interstitial fluid
+	- Interstitial Fluid (11 L), part of which is
+		- Transcellular Fluid (1 L)
 			- Cerebrospinal fluid
 			- Peritoneal fluid
 			- Intraocular fluid 
 
-### 7
+### Q7
 A 72-yo man underwent an emergency operation for a strangulated inguinal hernia, during which he also had a small-bowel resection for infarcted bowel. He is noted on post-operative bloods to have a potassium of 6.5 mmol/L. In looking at his past medical history, he suffers from hypertension, adrenal problems, and a recently Dx oesophageal stricture. HyPERkalaemia in this patient is most likely to result from:
 
 	A. HyPERaldosteronism
@@ -164,9 +161,31 @@ A 72-yo man underwent an emergency operation for a strangulated inguinal hernia,
 	E. Dysphagia - F
 
 #### Answer: B. Metabolic acidosis - TRUE (Guess)
-- TODO
+- Hyperkalaemia can result from decreased excretion, increased extraneous load, or release from cells
+- In this gentleman, cell lysis from the infarcted bowel is the most likely cause and he would also have a metabolic (lactic) acidosis, which would also result in hyperkalaemia
+- In the post-operative period, secretion of ADH in response to the operation also tends to raise serum potassium levels
+- The best answer from the choices given is therefore metabolic acidosis
 
-### 8
+##### Decreased Excretion
+- Renal failure
+- Potassium-sparing diuretics
+- Adrenocortical insufficiency
+- **Metabolic acidosis**
+
+##### Increased Extraneous Load
+- Potassium chloride
+- Blood transfusion
+- Potassium citrate
+
+##### Release From Cells
+- Acidosis
+- Rhabdomyolysis
+- Tumour lysis
+- Succinylcholine
+- Digoxin poisoning
+- Vigorous exercise
+
+### Q8
 Causes of HyPOnatraemia include all of the following EXCEPT:
 
 	A. Heart failure
@@ -176,9 +195,10 @@ Causes of HyPOnatraemia include all of the following EXCEPT:
 	E. Post-operative excess IV 5% dextrose prescribing - T
 
 #### Answer: C. Diabetes Insipidus - TRUE
+- HyPOnatraemia is defined as a serum sodium concentration of < 135 mmol/L
 - TODO
 
-### 9
+### Q9 - LEARN
 The correct composition of _Hartmann's solution_ is as follows (mmol/L):
 
 	| Na	| Cl	| Dex	| K		| PO4	| Ca	| HCO3	|
@@ -190,9 +210,15 @@ D 	|  30	|  30	| 222	|  2	| –		|  2	| –
 E 	| 147	| 156	| –		|  4	| –		| 22	| –
 
 #### Answer: B: Na 131, Cl 111, HCO3 29, K 5, Ca 2 - TRUE
-- TODO
+- Hartmann’s solution is a crystalloid solution (isotonic with body fluid)
+	- Na+ 	131 mmol/l
+	- Cl- 	111 mmol/l
+	- HCO3-  29 mmol/l
+	- K+ 	  5 mmol/l
+	- Ca2+ 	  2 mmol/l
+- As composition is near-physiological, it is commonly used intraoperatively to replace fluid losses
 
-### 10
+### Q10 - LEARN
 The abdominal aorta lies on the:
 
 	A. Left of sympathetic trunk - F
@@ -202,6 +228,18 @@ The abdominal aorta lies on the:
 	E. Right of Interior Vena Cava (IVC) - F
 	
 #### Answer: C. Left of azygos vein - TRUE
+- Aorta lies on RIGHT of 
+	- Sympathetic Trunk
+	- Inferior Mesenteric Vessels
+	- Left Crus of Diaphragm
+	- Coeliac Ganglion
+- Aorta lies on LEFT of 
+	- Azygos Vein
+	- Cisterna Chyli
+	- Thoracic Duct
+	- IVC
+	- Right Crus of Diaphragm
+
 
 Questions 11-20 - HERE
 ---------------
