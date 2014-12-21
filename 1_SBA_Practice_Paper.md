@@ -1239,106 +1239,236 @@ A 67-year-old man presents extremely unwell with left-sided abdominal pain, feve
 Questions 111-120
 -----------------
 
-### 111
-X
+### Q111
+Multiple endocrine neoplasia type I (MEN I)
+	A	Has an autosomal recessive inheritance
+	B	Has its gene located on chromosome 10
+	C	Is known as Sipple syndrome
+	D	Commonly includes phaeochromocytoma
+	E	Commonly includes hyperparathyroidism
+#### Answer: 
+ 
+### Q112
+Which of the following is NOT true regarding malignant hyperpyrexia?
+	A	It can be caused by suxamethonium
+	B	It can be caused by isoflurane
+	C	It can be caused by nitrous oxide
+	D	Dantrolene is the treatment
+	E	It occurs in 1 in 150 000
+#### Answer: 
+ 
+### Q113
+The liver does NOT synthesise:
+	A	Prothrombin
+	B	Pro-accelerin
+	C	Plasminogen
+	D	Antithrombin
+	E	Fibrinogen
+#### Answer: 
+ 
+### Q114
+Local factors that affect wound healing do NOT include:
+	A	Foreign bodies
+	B	Haematoma
+	C	Malnutrition
+	D	Infection
+	E	Decreased blood supply
+#### Answer: 
+ 
+### Q115
+Which statement is correct regarding the renin–angiotensin system?
+	A	Antidiuretic hormone (ADH) is released from the anterior pituitary
+	B	Renin is secreted by the granular cells of the juxtaglomerular apparatus
+	C	Angiotensinogen is released into the plasma only when required
+	D	Antidiuretic hormone is produced by the anterior pituitary
+	E	Angiotensin I is converted to angiotensin II by angiotensin-converting enzyme (ACE) in the liver
+#### Answer: 
+ 
+### Q116
+Which statement is correct regarding transport in the proximal tubule of the kidney?
+	A	Sodium is passively reabsorbed
+	B	Glucose is passively reabsorbed
+	C	Amino acids are actively reabsorbed
+	D	Urea is actively reabsorbed
+	E	Potassium is secreted
+#### Answer: 
+ 
+### Q117
+The chemoreceptors involved in maintenance of blood pressure are:
+	A	Located in the pulmonary arteries
+	B	Stimulated by high oxygen levels
+	C	Stimulated by alkaline pH
+	D	Stimulated by high carbon dioxide levels
+	E	Stimulated by stretching of the vessel walls
+#### Answer: 
+ 
+### Q118
+Which of the following is NOT part of the flight or fight response?
+	A	Constriction of blood vessels
+	B	Constriction of the pupils
+	C	Sweating
+	D	Increased heart rate
+	E	Decreased GI activity
+#### Answer: 
+ 
+### Q119
+Which of the following is an anion?
+	A	Sodium
+	B	Magnesium
+	C	Phosphate
+	D	Calcium
+	E	Potassium
+#### Answer: 
+ 
+### Q120
+Which is NOT a common feature of MEN IIB?
+	A	Medullary thyroid carcinoma
+	B	Multiple mucosal neuromas
+	C	Phaeochromocytoma
+	D	Marfanoid appearance
+	E	Gastrinoma
 #### Answer: 
 
-### 112
-X
-#### Answer: 
-
-### 113
-X
-#### Answer: 
-
-### 114
-X
-#### Answer: 
-
-### 115
-X
-#### Answer: 
-
-### 116
-X
-#### Answer: 
-
-### 117
-X
-#### Answer: 
-
-### 118
-X
-#### Answer: 
-
-### 119
-X
-#### Answer: 
-
-### 120
-X
-#### Answer: 
 
 Questions 121-130
 -----------------
 
-### 121
-X
+### Q121
+Which of the following is an accessory muscle of expiration?
+	A	Sternocleidomastoid
+	B	Pectoralis major
+	C	Scalenus anterior
+	D	Latissimus dorsi
+	E	Rectus abdominis
+#### Answer: 
+ 
+### Q122
+Characteristic signs of acute inflammation include all of the following, EXCEPT:
+	A	Dolor
+	B	Palor
+	C	Rubor
+	D	Tumor
+	E	Calor
+#### Answer: 
+ 
+### Q123
+Apoptosis:
+	A	Is a process which results from energy deprivation
+	B	Is initially reversible and becomes irreversible
+	C	Is initiated by an injury
+	D	Causes swelling of the cell
+	E	Results in orderly vesicle formation
+#### Answer: 
+ 
+### Q124
+Tumours that commonly metastasise to bone do NOT include:
+	A	Breast
+	B	Lung
+	C	Prostate
+	D	Adrenal
+	E	Thyroid
+#### Answer: 
+ 
+### Q125
+Meckel’s diverticulum:
+	A	Is more common in females
+	B	Is usually 2-cm long
+	C	Can contain hepatic mucosa
+	D	Contains only the mucosa and submucosa of the intestinal wall
+	E	Is a remnant of the omphalomesenteric duct
+#### Answer: 
+ 
+### Q126
+Granulomas are NOT found in:
+	A	Tuberculosis (TB)
+	B	Sarcoidosis
+	C	Ulcerative colitis
+	D	Crohn’s disease
+	E	Leprosy
+#### Answer: 
+ 
+### Q127
+Dysplasia does NOT cause:
+	A	Increased cell growth
+	B	Cellular atypia
+	C	Abnormal differentiation
+	D	A low nuclear-to-cytoplasmic ratio
+	E	Pleomorphism
+#### Answer: 
+ 
+### Q128
+Psammoma bodies are characteristic of:
+	A	Follicular thyroid carcinoma
+	B	Anaplastic thyroid carcinoma
+	C	Papillary thyroid carcinoma
+	D	Medullary thyroid carcinoma
+	E	Thyroid lymphoma
+#### Answer: 
+ 
+### Q129
+Risk factors for malignant melanoma include:
+	A	Fair skin
+	B	Family history
+	C	Continuous sun exposure
+	D	Xeroderma pigmentosa
+	E	Albinism
+#### Answer: 
+ 
+### Q130
+Which of the following is NOT a benign skin lesion?
+	A	Pott’s peculiar tumour
+	B	Seborrhoeic keratosis
+	C	Hamartoma
+	D	Merkel cell tumour
+	E	Turban tumour
 #### Answer: 
 
-### 122
-X
-#### Answer: 
-
-### 123
-X
-#### Answer: 
-
-### 124
-X
-#### Answer: 
-
-### 125
-X
-#### Answer: 
-
-### 126
-X
-#### Answer: 
-
-### 127
-X
-#### Answer: 
-
-### 128
-X
-#### Answer: 
-
-### 129
-X
-#### Answer: 
-
-### 1300
-X
-#### Answer: 
-
-Questions 131-134
+Questions 131-135
 -----------------
 
-### 131
-X
+### Q131
+Which of the following is NOT a nutritional factor involved in wound healing?
+	A	Vitamin A
+	B	Vitamin B3
+	C	Vitamin B6
+	D	Zinc
+	E	Copper
 #### Answer: 
-
-### 132
-X
+ 
+### Q132
+For which of the following is blood for transfusion NOT screened?
+	A	EBV
+	B	Hepatitis B
+	C	Syphilis
+	D	Hepatitis C
+	E	HIV
 #### Answer: 
-
-### 133
-X
+ 
+### Q133
+Which of the following statements is correct regarding cells involved in wound healing?
+	A	Platelets take 1 day to appear
+	B	Neutrophils take 2 days to appear
+	C	Macrophages appear immediately
+	D	Fibroblasts take 3 days to appear
+	E	Endothelial cells take 1 day to appear
 #### Answer: 
-
-### 134
-X
+ 
+### Q134
+Which of the following statements regarding cell growth is NOT true?
+	A	Hypertrophy is an increase in cell size
+	B	Hyperplasia is an increase in cell number
+	C	Metaplasia is the conversion of one tissue type to another
+	D	Teratoma is a growth of cells originating from more than one germ-cell line
+	E	Hamartoma is an overgrowth of a cell not normally found in that tissue
+#### Answer: 
+ 
+### Q135
+The most common type of lung cancer is:
+	A	Squamous cell carcinoma
+	B	Small-cell carcinoma
+	C	Large-cell carcinoma
+	D	Adenocarcinoma
+	E	Adenosquamous carcinoma
 #### Answer: 
 
 ---
