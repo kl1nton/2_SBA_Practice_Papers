@@ -1145,8 +1145,96 @@ Which of the following are NOT normally found in bile?
 Questions 101-110
 -----------------
 
-### 101
+### Q101
+A 26-year-old woman is involved in a road traffic accident. On arrival in the Emegency Department she has a painful, deformed-looking left leg, which is shortened and internally rotated. She is unable to dorsiflex or plantar-flex her foot and there is sensory loss below the knee apart from the medial leg and foot and upper back of the calf. The nerve most likely to have been affected is:
+	A	Obturator nerve
+	B	Sciatic nerve
+	C	Femoral nerve
+	D	Tibial nerve
+	E	Common peroneal nerve
 #### Answer: 
+ 
+### Q102
+Reed–Sternberg cells are characteristic of:
+	A	Hodgkin’s lymphoma
+	B	Non-Hodgkin’s lymphoma
+	C	Burkitt’s lymphoma
+	D	B-cell lymphoma
+	E	T-cell lymphoma
+#### Answer: 
+ 
+### Q103
+Risk factors for hepatocellular carcinoma do NOT include:
+	A	Hepatitis B
+	B	Hepatitis C
+	C	Hepatitis E
+	D	Aflatoxin
+	E	Anabolic steroids
+#### Answer: 
+ 
+### Q104
+A 35-year-old tennis player finds herself unable to play because of a painful left shoulder. Pain is worse on lifting the arm, particularly when elevated between 60–120 degrees. On examination there is tenderness just lateral to the acromium process. The diagnosis is:
+	A	Supraspinatus rupture
+	B	Frozen shoulder
+	C	Acromioclavicular joint dislocation
+	D	Supraspinatus tendonitis
+	E	Biceps tendon rupture
+#### Answer: 
+ 
+### Q105
+Infantile hypertrophic pyloric stenosis:
+	A	Is more common in females
+	B	Is more common in second-born and subsequent children
+	C	Usually presents at approximately 3 months old
+	D	Causes a metabolic acidosis
+	E	Occurs in 1 in 31 000 live births
+#### Answer: 
+ 
+### Q106
+Tumour markers for testicular cancer do NOT include:
+	A	Gamma-glutamyltransferase (GGT) for seminoma and non-seminomatous germ-cell tumour (NSGCT)
+	B	Human chorionic gonadotropin (γ-hCG) for seminoma and NSGCT
+	C	Lactate dehydrogenase (LDH) for NSGCT
+	D	Carcinoembryonic antigen (CEA) for NSGCT
+	E	Alpha-fetoprotein (AFP) for NSGCT
+#### Answer: 
+ 
+### Q107
+All of the following statements about a fractured neck of femur are true, EXCEPT:
+	A	The affected leg is shortened and externally rotated
+	B	Associated mortality is in the region of >30% at 6 months
+	C	Intertrochanteric fractures are usually fixed using a dynamic hip screw
+	D	Intracapsular fractures can result in avascular necrosis of the femoral head
+	E	Femoral nerve injury is common
+#### Answer: 
+ 
+### Q108
+The following viruses are NOT known to be carcinogenic:
+	A	Epstein–Barr virus
+	B	Hepatitis B
+	C	Human immunodeficiency virus (HIV)
+	D	Hepatitis A
+	E	Human papilloma virus (HPV)
+#### Answer: 
+ 
+### Q109
+Swan–Ganz catheters CANNOT be used to directly measure:
+	A	Pulmonary artery wedge pressure
+	B	Mean arterial pressure
+	C	Cardiac output
+	D	Systemic vascular resistance (SVR)
+	E	Central venous pressure (CVP)
+#### Answer: 
+ 
+### Q110
+A 67-year-old man presents extremely unwell with left-sided abdominal pain, fever and shock. At emergency laparotomy he is found to have a large tumour of the sigmoid colon, which has perforated, causing faecal contamination. What is the most appropriate operation?
+	A	Left hemicolectomy and primary anastomosis
+	B	Sigmoid colectomy
+	C	Hartmann’s procedure
+	D	Anterior resection
+	E	Abdominoperineal resection
+#### Answer: 
+
 
 Questions 111-120
 -----------------
