@@ -1455,12 +1455,13 @@ Which of the following statements is correct regarding cells involved in wound h
  
 ### Q134
 Which of the following statements regarding cell growth is NOT true?
-	A	Hypertrophy is an increase in cell size
-	B	Hyperplasia is an increase in cell number
-	C	Metaplasia is the conversion of one tissue type to another
-	D	Teratoma is a growth of cells originating from more than one germ-cell line
-	E	Hamartoma is an overgrowth of a cell not normally found in that tissue
-#### Answer: 
+	A. Hypertrophy is an increase in cell size - T
+	B. Hyperplasia is an increase in cell number - T
+	C. Metaplasia is the conversion of one tissue type to another - T
+	D. Teratoma is a growth of cells originating from more than one germ-cell line - T
+	E. Hamartoma is an overgrowth of a cell not normally found in that tissue - F
+
+#### Answer: E	Hamartoma is an overgrowth of a cell not normally found in that tissue - FALSE
  
 ### Q135
 The most common type of lung cancer is:
