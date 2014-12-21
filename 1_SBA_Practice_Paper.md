@@ -769,45 +769,96 @@ Which statement is correct regarding cerebrospinal fluid (CSF)?
 Questions 61-70
 ---------------
 
-### 61
-X
+### Q61
+The maximum safe dose of 1% lidocaine without adrenaline for a 70-kg male is:
+	A	14 ml
+	B	21 ml
+	C	28 ml
+	D	35 ml
+	E	40 ml
+#### Answer: 
+ 
+### Q62	
+Parathyroid hormone (PTH) secretion is decreased by:
+	A	An increase in serum phosphate
+	B	A decrease in free Ca2+
+	C	A large decrease in serum magnesium
+	D	An increase in serum potassium
+	E	A decrease in 1,25(OH)2 vitamin D
+#### Answer: 
+ 
+### Q63	
+Structures passing through the foramen magnum do NOT include the:
+	A	Vagus nerve
+	B	Accessory nerve
+	C	Medulla
+	D	Meninges
+	E	Vertebral arteries
+#### Answer: 
+ 
+### Q64	
+Calot’s triangle:
+	A	Is bounded laterally by the common hepatic duct
+	B	Is bounded medially by the right hepatic duct
+	C	Is bounded laterally by the cystic duct
+	D	Contains the left hepatic duct
+	E	Contains the hepatic artery
+#### Answer: 
+ 
+### Q65	
+The epiploic foramen:
+	A	Is the opening of the lesser sac on the left side of the abdomen
+	B	Lies anterior to the SVC
+	C	Lies inferior to the quadrate lobe of the liver
+	D	Is superior to the third part of the duodenum
+	E	Contains the hepatic artery lying on the left of the common bile duct in the anterior border
+#### Answer: 
+ 
+### Q66	
+A 60-year-old man presents with a history of claudication pain in his left leg after walking 20 yards, which is impacting significantly on his lifestyle. He is investigated by arteriography, which shows an 2-cm stenosis in the proximal superficial femoral artery. The most appropriate management is:
+	A	Below-knee amputation
+	B	Correction of risk factors only
+	C	Percutaneous balloon angioplasty
+	D	Femoro-popliteal bypass
+	E	Femoro-distal bypass
+#### Answer: 
+ 
+### Q67	
+Types of tumour markers do NOT include:
+	A	Enzymes
+	B	Hormones
+	C	Ectopic hormones
+	D	Oncofetal antibodies
+	E	Oncofetal antigens
+#### Answer: 
+ 
+### Q68	
+The transpyloric plane of Addison:
+	A	Passes through the inferior border of L2
+	B	Encompasses the tail of the pancreas
+	C	Is at the same level as the 8th costal cartilages
+	D	Is the level at which the inferior mesenteric artery commences
+	E	Lies halfway between the jugular notch and the pubic symphysis
+#### Answer: 
+ 
+### Q69	
+A man presents with left buttock, thigh and calf claudication pain. Which of the following is the most likely site of arterial disease?
+	A	Left superficial femoral artery
+	B	Left common iliac artery
+	C	Left external iliac artery
+	D	Left internal iliac artery
+	E	Lower aorta
+#### Answer: 
+ 
+### Q70	
+The stomach bed does NOT include the:
+	A	Splenic artery
+	B	Coeliac trunk
+	C	Transverse mesocolon
+	D	Left adrenal gland
+	E	Neck of the pancreas
 #### Answer: 
 
-### 62
-X
-#### Answer: 
-
-### 63
-X
-#### Answer: 
-
-### 64
-X
-#### Answer: 
-
-### 65
-X
-#### Answer: 
-
-### 66
-X
-#### Answer: 
-
-### 67
-X
-#### Answer: 
-
-### 68
-X
-#### Answer: 
-
-### 69
-X
-#### Answer: 
-
-### 70
-X
-#### Answer: 
 
 Questions 71-80
 ---------------
