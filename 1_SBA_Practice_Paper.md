@@ -957,87 +957,101 @@ Epstein–Barr virus (EBV) is known to be a carcinogen for:
 Questions 81-90
 ---------------
 
-### 81
-X
+### Q81
+One litre of Hartmann’s solution contains
+	A	154 mmol/l of sodium
+	B	5 mmol/l of glucose
+	C	130 mmol/l of chloride
+	D	10 mmol/l of calcium
+	E	5 mmol/l of potassium
+#### Answer: 
+ 
+### Q82	
+A 4-year-old girl falls from her bike, landing on her left leg, which becomes tender and swollen. X-ray shows a fracture of the proximal tibia, which goes through a radiolucent area with a well-defined sclerotic edge. The most likely diagnosis is:
+	A	Osteosarcoma
+	B	Chondrosarcoma
+	C	Bone cyst
+	D	Bone metastasis
+	E	Ewing’s sarcoma
+#### Answer: 
+ 
+### Q83	
+Which of the following statements is true regarding the adrenal glands?
+	A	The right adrenal is more medial than the left
+	B	The right adrenal lies lateral to the superior phrenic vessels
+	C	The left adrenal lies posterior to the splenic artery
+	D	The right adrenal vein drains into the right renal vein
+	E	Cortisol is secreted by the zona glomerulosa
+#### Answer: 
+ 
+### Q84	
+Volumes of gastrointestinal secretions per day are:
+	A	3000 ml of saliva
+	B	2000 ml of pancreatic juices
+	C	2000 ml of bile
+	D	3500 ml of small-bowel secretions
+	E	1500 ml of large-bowel secretions
+#### Answer: 
+ 
+### Q85	
+A 40-year-old diabetic man presents with pain in the upper lumbar spine. X-ray at the time showed soft-tissue swelling only and he was discharged home with anti-inflammatories. He returns 10 days later as his symptoms are no better and he has been suffering from a constant fever. X-ray at this time shows sclerotic changes and periosteal reaction. His symptoms are most likely to be due to infection with:
+	A	Salmonella
+	B	Haemophilus influenzae
+	C	Gonococcus
+	D	Tuberculosis
+	E	Staphylococcus aureus
+#### Answer: 
+ 
+### Q86	
+Which of the following is NOT true regarding gastric secretions?
+	A	Gastrin is produced by the G cells of the pyloric glands
+	B	Pepsinogen is produced by the chief cells
+	C	Mucus is produced by the surface epithelial cells
+	D	Intrinsic factor is produced by the parietal cells
+	E	Hydrochloric acid is produced by the chief cells
+#### Answer: 
+ 
+### Q87	
+Which of the following factors is part of the extrinsic pathway in the coagulation cascade?
+	A	Factor XII
+	B	Factor XI
+	C	Factor IX
+	D	Factor VII
+	E	Factor XIII
+#### Answer: 
+ 
+### Q88	
+The following are all features of carpal tunnel syndrome, EXCEPT:
+	A	Pain often worse at night
+	B	Positive Tinel’s test
+	C	Positive Phalen’s test
+	D	Wasting of the hypothenar muscles
+	E	Paraesthesia over thumb and lateral two fingers
+#### Answer: 
+ 
+### Q89	
+Functions of the terminal ileum do NOT include:
+	A	Folate reuptake
+	B	Bile salt reuptake
+	C	Vitamin B12 uptake
+	D	Water reabsorption
+	E	Gamma-globulin uptake
+#### Answer: 
+ 
+### Q90	
+Which of the following statements is NOT true regarding vitamin B12?
+	A	It is necessary for maturation of red cells
+	B	It is stored in the liver
+	C	Intrinsic factor is required for its absorption
+	D	Stores can last for up to a year
+	E	There is a small amount in bile
 #### Answer: 
 
-### 82
-X
-#### Answer: 
-
-### 83
-X
-#### Answer: 
-
-### 84
-X
-#### Answer: 
-
-### 85
-X
-#### Answer: 
-
-### 86
-X
-#### Answer: 
-
-### 87
-X
-#### Answer: 
-
-### 88
-X
-#### Answer: 
-
-### 89
-X
-#### Answer: 
-
-### 90
-X
-#### Answer: 
 
 Questions 91-100
 ----------------
 
 ### 91
-X
-#### Answer: 
-
-### 92
-X
-#### Answer: 
-
-### 93
-X
-#### Answer: 
-
-### 94
-X
-#### Answer: 
-
-### 95
-X
-#### Answer: 
-
-### 96
-X
-#### Answer: 
-
-### 97
-X
-#### Answer: 
-
-### 98
-X
-#### Answer: 
-
-### 99
-X
-#### Answer: 
-
-### 100
-X
 #### Answer: 
 
 Questions 101-110
