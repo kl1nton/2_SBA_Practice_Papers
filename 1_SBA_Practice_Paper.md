@@ -1052,94 +1052,104 @@ Questions 91-100
 ----------------
 
 ### Q91
-Which of the following is an exocrine secretion of the pancreas?
-	A	Pancreatic polypeptide
-	B	Somatostatin
-	C	Trypsinogen
-	D	Glucagon
-	E	Insulin
-#### Answer: 
+Which of the following is an _exocrine secretion_ of the pancreas?
+
+	A. Pancreatic polypeptide
+	B. Somatostatin
+	C. Trypsinogen
+	D. Glucagon - F
+	E. Insulin - F
+#### Answer: B. Somatostatin - ?
  
 ### Q92	
-All of the following may be radiological features of osteoarthritis, EXCEPT:
-	A	Bone cysts
-	B	Subchondral sclerosis
-	C	Osteophytes
-	D	Increased joint space
-	E	Joint effusion
-#### Answer: 
+All of the following may be _radiological features_ of osteoarthritis, EXCEPT:
+
+	A. Bone cysts
+	B. Subchondral sclerosis
+	C. Osteophytes
+	D. Increased joint space - F
+	E. Joint effusion
+#### Answer: D. Increased joint space - ?
  
 ### Q93	
-Lung compliance is increased by:
-	A	Alveolar oedema
-	B	Pulmonary hypertension
-	C	Atelectasis
-	D	Pulmonary fibrosis
-	E	Emphysema
-#### Answer: 
+_Lung compliance_ is increased by:
+
+	A. Alveolar oedema
+	B. Pulmonary hypertension
+	C. Atelectasis - F
+	D. Pulmonary fibrosis - F
+	E. Emphysema - F
+#### Answer: A. Alveolar oedema - ?
  
-### Q94	
-The posterior pituitary releases:
-	A	Adrenocorticotropic hormone (ACTH)
-	B	Follicle-stimulating hormone (FSH)
-	C	Antidiuretic hormone (ADH)
-	D	Thyroid-stimulating hormone (TSH)
-	E	Growth hormone (GH)
-#### Answer: 
+### Q94	- LEARN
+The _posterior pituitary_ releases:
+
+	A. Adrenocorticotropic hormone (ACTH) - F
+	B. Follicle-stimulating hormone (FSH)
+	C. Antidiuretic hormone (ADH)
+	D. Thyroid-stimulating hormone (TSH) - F
+	E. Growth hormone (GH) - F
+#### Answer: B. Follicle-stimulating hormone (FSH) - ?
  
 ### Q95	
-Which of the following statements about the popliteal fossa is TRUE?
-	A	The lateral edge is bounded by semimembranosus and gastrocnemius
-	B	The deep fascia forms the roof and is pierced by the long saphenous vein
-	C	The popliteal artery is the deepest structure within the fossa
-	D	The common peroneal nerve lies medially within the fossa
-	E	Soleus forms the medial lower edge
-#### Answer: 
+Which of the following statements about the _popliteal fossa_ is TRUE?
+
+	A. The lateral edge is bounded by semimembranosus and gastrocnemius - F
+	B. The deep fascia forms the roof and is pierced by the long saphenous vein - F
+	C. The popliteal artery is the deepest structure within the fossa - F
+	D. The common peroneal nerve lies medially within the fossa - F
+	E. Soleus forms the medial lower edge
+#### Answer: E. Soleus forms the medial lower edge - ?
  
 ### Q96	
-Which of the following is NOT the correct daily requirement for an average 70-kg male?
-	A	150 mmol sodium
-	B	2500 ml water
-	C	70 mmol calcium
-	D	70 mmol potassium
-	E	70 mmol chloride
-#### Answer: 
+Which of the following is NOT the _correct daily requirement_ for an average 70-kg male?
+
+	A. 150 mmol sodium
+	B. 2500 ml water
+	C. 70 mmol calcium
+	D. 70 mmol potassium
+	E. 70 mmol chloride
+#### Answer: E. 70 mmol chloride - ?
  
-### Q97	
-Which of the following statements about the brachial plexus is FALSE?
-	A	The thoracodorsal nerve arises from the posterior cord
-	B	The medial and lateral cords join to form the median nerve
-	C	The trunks of the plexus are found in the posterior triangle of the neck
-	D	The long thoracic nerve originates from trunks C5, C6 and C7
-	E	The nerve that supplies subscapularis is a branch from the posterior cord
-#### Answer: 
+### Q97	- LEARN
+Which of the following statements about the _brachial plexus_ is FALSE?
+
+	A. The thoracodorsal nerve arises from the posterior cord
+	B. The medial and lateral cords join to form the median nerve - T
+	C. The trunks of the plexus are found in the posterior triangle of the neck - T
+	D. The long thoracic nerve originates from trunks C5, C6 and C7 - T
+	E. The nerve that supplies subscapularis is a branch from the posterior cord
+#### Answer: A. The thoracodorsal nerve arises from the posterior cord - ?
  
-### Q98	
-Causes of metabolic acidosis with a normal anion gap include:
-	A	Diarrhoea
-	B	Diabetic ketoacidosis
-	C	Salicylate overdose
-	D	Renal tubular acidosis
-	E	Lactic acidosis
-#### Answer: 
+### Q98	- LEARN
+Causes of _metabolic acidosis_ with a _normal anion gap_ include:
+
+	A. Diarrhoea
+	B. Diabetic ketoacidosis
+	C. Salicylate overdose
+	D. Renal tubular acidosis
+	E. Lactic acidosis
+#### Answer: C. Salicylate overdose - ?
  
 ### Q99	
-Which statement is true of pleomorphic adenoma:
-	A	It is the second commonest salivary gland tumour
-	B	It usually affects the submandibular gland
-	C	It is more common in females
-	D	Approximately 10% are bilateral
-	E	It is commonest in the fourth and fifth decades
-#### Answer: 
+Which statement is true of _pleomorphic adenoma_:
+
+	A. It is the second commonest salivary gland tumour
+	B. It usually affects the submandibular gland
+	C. It is more common in females
+	D. Approximately 10% are bilateral
+	E. It is commonest in the fourth and fifth decades
+#### Answer: C. It is more common in females - ?
  
 ### Q100
 Which of the following are NOT normally found in bile?
-	A	Sodium chloride
-	B	Unconjugated bilirubin
-	C	Cholesterol
-	D	Water
-	E	Bile salts
-#### Answer: 
+
+	A. Sodium chloride
+	B. Unconjugated bilirubin
+	C. Cholesterol - F
+	D. Water - F
+	E. Bile salts - F
+#### Answer: B. Unconjugated bilirubin - ?
 
 
 Questions 101-110
