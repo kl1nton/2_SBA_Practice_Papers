@@ -575,43 +575,44 @@ Questions 41-50
 ---------------
 
 ### Q41
-Which of these nerves does NOT lie in the lateral wall of the cavernous sinus?
+Which of these nerves does NOT lie in the lateral wall of the _cavernous sinus_?
 
-	A. Trochlear nerve
-	B. Oculomotor nerve
-	C. Mandibular branch of the trigeminal nerve
-	D. Maxillary branch of the trigeminal nerve
-	E. Ophthalmic branch of the trigeminal nerve
-#### Answer: 
+	A. Trochlear nerve (CN IV)
+	B. Oculomotor nerve (CN III)
+	C. Mandibular branch of the trigeminal nerve (CN Vc)
+	D. Maxillary branch of the trigeminal nerve (CN Vb)
+	E. Ophthalmic branch of the trigeminal nerve (CN Va)
+#### Answer: B. Oculomotor nerve (CN III) - ?
  
 ### Q42	
-Which of the following muscles does NOT attach to the common flexor origin of the forearm?
+Which of the following muscles does NOT attach to the _common flexor origin_ of the forearm?
 
 	A. Pronator teres
 	B. Palmaris longus
-	C. Flexor carpi ulnaris
-	D. Flexor carpi radialis
-	E. Flexor pollicis longus
-#### Answer: 
+	C. Flexor carpi ulnaris (FCU)
+	D. Flexor carpi radialis (FCR)
+	E. Flexor pollicis longus (FPL)
+#### Answer: A. Pronator teres - ?
  
-### Q43	
-Which of these statements is TRUE regarding the femoral triangle?
+### Q43	- LEARN
+Which of these statements is TRUE regarding the _femoral triangle_?
 
-	A. The lateral border of sartorius forms the lateral border
+	A. The lateral border of sartorius forms the lateral border - F
 	B. The lateral border of adductor magnus forms the medial border
 	C. Adductor brevis forms part of the floor
 	D. Adductor magnus forms part of the floor
 	E. Pectineus forms part of the floor
-#### Answer: 
+#### Answer: B. The lateral border of adductor magnus forms the medial border - ?
  
 ### Q44	
 All of the following statements about radiotherapy are true, EXCEPT:
-	A. It can be administered via X-rays
+
+	A. It can be administered via X-rays - T
 	B. The nature of the surrounding tissue influences how much radiotherapy is administered
-	C. Multiple fractions are required for palliation of bone pain
+	C. Multiple fractions are required for palliation of bone pain - T
 	D. Seminomas are very sensitive to radiotherapy
-	E. Ulceration is a recognised complication
-#### Answer: 
+	E. Ulceration is a recognised complication - T
+#### Answer: D. Seminomas are very sensitive to radiotherapy - ?
  
 ### Q45	
 The rectus sheath does NOT contain the:
@@ -621,9 +622,9 @@ The rectus sheath does NOT contain the:
 	C. Superior epigastric artery
 	D. Lower eight thoracic nerves
 	E. Pyramidalis
-#### Answer: 
+#### Answer: B. Inferior epigastric vein - ?
  
-### Q46	
+### Q46	- LEARN
 Which statement is correct regarding respiratory volumes?
 
 	A. The tidal volume in males is 1000 ml
@@ -631,19 +632,19 @@ Which statement is correct regarding respiratory volumes?
 	C. The vital capacity is 2000 ml
 	D. The residual volume is 1900 ml
 	E. The total lung capacity is 4000 ml
-#### Answer: 
+#### Answer: E. The total lung capacity is 4000 ml - ?
  
 ### Q47
 The following statements regarding lung function tests are true, EXCEPT:
 
 	A. The functional residual capacity is made up of the residual volume and expiratory reserve volume
-	B. In an average 20-year-old male, tidal volume is approximately 0.5 litres
+	B. In an average 20-year-old male, tidal volume is approximately 0.5 litres - F
 	C. The residual volume is the amount of air remaining in the lungs after maximum expiration
 	D. Total lung capacity is the sum of residual volume and tidal volume
-	E. Vital capacity can be measured by spirometry
-#### Answer: 
+	E. Vital capacity can be measured by spirometry - T
+#### Answer: B. In an average 20-year-old male, tidal volume is approximately 0.5 litres - ?
  
-### Q48	
+### Q48	- LEARN
 Which of these is NOT part of the medial longitudinal arch of the foot?
 
 	A. Talus
@@ -651,25 +652,27 @@ Which of these is NOT part of the medial longitudinal arch of the foot?
 	C. Cuboid
 	D. Calcaneus
 	E. Medial cuneiform
-#### Answer: 
+#### Answer: A. Talus - ?
  
 ### Q49	
 The plane of Louis is NOT the:
+
 	A. Level of the aortic arch
 	B. Level of the third costal cartilage
 	C. Level of the lower border of T4
 	D. Level of the bifurcation of the trachea
 	E. Level at which the azygos vein enters the SVC
-#### Answer: 
+#### Answer: B. Level of the third costal cartilage - ?
  
 ### Q50	
-Which of the following regarding the duodenum is INCORRECT?
-	A. The duodenum is composed of four parts
+Which of the following regarding the _duodenum_ is INCORRECT?
+
+	A. The duodenum is composed of four parts - F
 	B. The first part lies at the level of L1
 	C. The second part lies at the level of L2
 	D. The third part lies at the level of L3
 	E. The fourth part lies at the level of L4
-#### Answer: 
+#### Answer: E. The fourth part lies at the level of L4 - ?
 
 
 Questions 51-60
