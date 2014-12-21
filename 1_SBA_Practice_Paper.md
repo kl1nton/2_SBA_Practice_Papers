@@ -1239,95 +1239,105 @@ A 67-year-old man presents extremely unwell with left-sided abdominal pain, feve
 Questions 111-120
 -----------------
 
-### Q111
-Multiple endocrine neoplasia type I (MEN I)
-	A	Has an autosomal recessive inheritance
-	B	Has its gene located on chromosome 10
-	C	Is known as Sipple syndrome
-	D	Commonly includes phaeochromocytoma
-	E	Commonly includes hyperparathyroidism
-#### Answer: 
+### Q111 - LEARN
+_Multiple endocrine neoplasia_ type I (MEN I)
+
+	A. Has an autosomal recessive inheritance
+	B. Has its gene located on chromosome 10 - F
+	C. Is known as Sipple syndrome - F
+	D. Commonly includes phaeochromocytoma
+	E. Commonly includes hyperparathyroidism
+#### Answer: D. Commonly includes phaeochromocytoma - ?
  
 ### Q112
-Which of the following is NOT true regarding malignant hyperpyrexia?
-	A	It can be caused by suxamethonium
-	B	It can be caused by isoflurane
-	C	It can be caused by nitrous oxide
-	D	Dantrolene is the treatment
-	E	It occurs in 1 in 150 000
-#### Answer: 
+Which of the following is NOT true regarding _malignant hyperpyrexia_?
+
+	A. It can be caused by suxamethonium
+	B. It can be caused by isoflurane
+	C. It can be caused by nitrous oxide
+	D. Dantrolene is the treatment
+	E. It occurs in 1 in 150 000
+#### Answer: A. It can be caused by suxamethonium - ?
  
 ### Q113
 The liver does NOT synthesise:
-	A	Prothrombin
-	B	Pro-accelerin
-	C	Plasminogen
-	D	Antithrombin
-	E	Fibrinogen
-#### Answer: 
+
+	A. Prothrombin
+	B. Pro-accelerin
+	C. Plasminogen
+	D. Antithrombin
+	E. Fibrinogen
+#### Answer: D. Antithrombin - ?
  
 ### Q114
 Local factors that affect wound healing do NOT include:
-	A	Foreign bodies
-	B	Haematoma
-	C	Malnutrition
-	D	Infection
-	E	Decreased blood supply
-#### Answer: 
+
+	A. Foreign bodies - F
+	B. Haematoma
+	C. Malnutrition - F
+	D. Infection - F
+	E. Decreased blood supply - F
+#### Answer: B. Haematoma - ?
  
 ### Q115
-Which statement is correct regarding the renin–angiotensin system?
-	A	Antidiuretic hormone (ADH) is released from the anterior pituitary
-	B	Renin is secreted by the granular cells of the juxtaglomerular apparatus
-	C	Angiotensinogen is released into the plasma only when required
-	D	Antidiuretic hormone is produced by the anterior pituitary
-	E	Angiotensin I is converted to angiotensin II by angiotensin-converting enzyme (ACE) in the liver
-#### Answer: 
+Which statement is correct regarding the renin–angiotensin system (RAAS)?
+
+	A. Antidiuretic hormone (ADH) is released from the anterior pituitary
+	B. Renin is secreted by the granular cells of the juxtaglomerular apparatus - F
+	C. Angiotensinogen is released into the plasma only when required - F
+	D. Antidiuretic hormone is produced by the anterior pituitary
+	E. Angiotensin I is converted to angiotensin II by angiotensin-converting enzyme (ACE) in the liver - F
+#### Answer: D. Antidiuretic hormone is produced by the anterior pituitary - ?
  
 ### Q116
-Which statement is correct regarding transport in the proximal tubule of the kidney?
-	A	Sodium is passively reabsorbed
-	B	Glucose is passively reabsorbed
-	C	Amino acids are actively reabsorbed
-	D	Urea is actively reabsorbed
-	E	Potassium is secreted
-#### Answer: 
+Which statement is correct regarding transport in the _proximal tubule of the kidney_?
+
+	A. Sodium is passively reabsorbed - F
+	B. Glucose is passively reabsorbed - F
+	C. Amino acids are actively reabsorbed - F
+	D. Urea is actively reabsorbed - F
+	E. Potassium is secreted
+#### Answer: E. Potassium is secreted - ?
  
 ### Q117
 The chemoreceptors involved in maintenance of blood pressure are:
-	A	Located in the pulmonary arteries
-	B	Stimulated by high oxygen levels
-	C	Stimulated by alkaline pH
-	D	Stimulated by high carbon dioxide levels
-	E	Stimulated by stretching of the vessel walls
-#### Answer: 
+
+	A. Located in the pulmonary arteries - F
+	B. Stimulated by high oxygen levels - F
+	C. Stimulated by alkaline pH - F
+	D. Stimulated by high carbon dioxide levels - F
+	E. Stimulated by stretching of the vessel walls
+#### Answer: E. Stimulated by stretching of the vessel walls - ?
  
 ### Q118
-Which of the following is NOT part of the flight or fight response?
-	A	Constriction of blood vessels
-	B	Constriction of the pupils
-	C	Sweating
-	D	Increased heart rate
-	E	Decreased GI activity
-#### Answer: 
+Which of the following is NOT part of the _'flight or fight'_ response?
+
+	A. Constriction of blood vessels - F
+	B. Constriction of the pupils
+	C. Sweating
+	D. Increased heart rate
+	E. Decreased GI activity
+#### Answer: A. Constriction of blood vessels - ?
  
 ### Q119
-Which of the following is an anion?
-	A	Sodium
-	B	Magnesium
-	C	Phosphate
-	D	Calcium
-	E	Potassium
-#### Answer: 
+Which of the following is an _anion_?
+
+	A. Sodium
+	B. Magnesium
+	C. Phosphate
+	D. Calcium
+	E. Potassium
+#### Answer: C. Phosphate - ?
  
-### Q120
-Which is NOT a common feature of MEN IIB?
-	A	Medullary thyroid carcinoma
-	B	Multiple mucosal neuromas
-	C	Phaeochromocytoma
-	D	Marfanoid appearance
-	E	Gastrinoma
-#### Answer: 
+### Q120 - LEARN
+Which is NOT a common feature of _MEN IIB_?
+
+	A. Medullary thyroid carcinoma - F
+	B. Multiple mucosal neuromas
+	C. Phaeochromocytoma - F
+	D. Marfanoid appearance - F
+	E. Gastrinoma
+#### Answer: E. Gastrinoma - ?
 
 
 Questions 121-130 - HERE
