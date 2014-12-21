@@ -461,88 +461,192 @@ Which statement is TRUE regarding the rotator cuff?
 Questions 31-40
 ---------------
 
-### 31
-X
+### Q31
+A 74-year-old immunosuppressed patient presents with recurrent pneumonia. He is quite unwell and showing signs of a swinging pyrexia. A chest CT scan reveals that he has an empyema in his right chest cavity. Complications of an empyema within the pleural cavity include all of the following, EXCEPT:
+
+	A. Chronic scarring
+	B. Bronchiectasis
+	C. Systemic sepsis
+	D. Bronchopleural fistula
+	E. Lung collapse
+#### Answer: 
+ 
+### Q32	
+A 61-year old man is referred to your surgical clinic with right calf pain which occurs on walking 300 yards and is relieved by rest. He has a past history of hypertension, diabetes and hypercholesterolaemia and smokes 15 cigarettes a day. On examination, he has weak groin pulses and absent distal pulses on the right side and weak pulses distal to a normal femoral pulse on the left side. Which of the following is the correct next step in managing this patient?
+
+	A. Arrange a duplex scan of his vessels
+	B. Arrange a digital subtraction angiogram
+	C. Lifestyle advice and tightening of risk factor control
+	D. Prescribe warfarin to prevent thrombus formation
+	E. Elective admission for a left femoro-popliteal bypass graft
+#### Answer: 
+ 
+### Q33
+An 81-year-old patient is noted to be in atrial fibrillation but she states that she has never been on anticoagulation therapy. You consider that to lessen the risk of future emboli, she would benefit from starting on long-term warfarin and that this would reduce her risk of developing acute strokes, visceral or limb ischaemia. Arterial emboli leading to acute limb ischaemia most commonly lodge at which one of the following sites?
+
+	A. Brachial artery
+	B. Common femoral artery
+	C. Popliteal artery
+	D. Aortic bifurcation
+	E. Common iliac bifurcation
+#### Answer: 
+ 
+### Q34	
+Sites of ulnar nerve entrapment include the:
+
+	A. Arcade of Frohse
+	B. Carpal tunnel
+	C. Lateral triangular space
+	D. Arcade of Struthers
+	E. Cubital fossa
+#### Answer: 
+ 
+### Q35	
+Which statement is true of the inguinal region?
+
+	A. The midpoint of the inguinal ligament lies halfway between the anterior superior iliac spine and the pubic symphysis
+	B. The midinguinal point lies halfway between the anterior superior iliac spine and the pubic tubercle
+	C. The deep inguinal ring lies at the midinguinal point
+	D. The femoral artery lies at the midpoint of the inguinal ligament
+	E. The femoral nerve lies halfway between the anterior superior iliac spine and the pubic tubercle
+#### Answer: 
+ 
+### Q36	
+A pregnant 41-year-old woman with tortuous varicose veins in the right thigh and leg attends the Vascular Clinic. A Doppler scan shows incompetence at the right sapheno-femoral junction, with multiple perforators. Which one of the following treatment options is best in this case?
+
+	A. Multiple avulsions
+	B. Endovenous laser therapy (EVLT)
+	C. Compression hosiery and review in clinic at a later date
+	D. Multiple avulsions plus high tie at the sapheno-femoral junction
+	E. Compression bandaging and injection of sclerosant
+#### Answer: 
+ 
+### Q37	
+An elderly man is admitted to the Surgical Assessment Unit with diverticulitis. On clerking him, you note that he appears to have bibasal crepitations and bronchial breathing in the right lower zone, with dullness to percussion. A blood gas taken shows the following:
+
+Measurement	| Value			| Range		|
+------------|---------------|-----------|
+pH	  		| 7.54			|	 
+Po2	  		| 9.1 kPa		|
+Pco2	  	| 5.5 kPa		|
+Bicarbonate	| 34.7 mmol/L	|
+
+Which of the following best describes the blood gas results?
+
+	A. Uncompensated respiratory alkalosis
+	B. Compensated respiratory alkalosis
+	C. Uncompensated metabolic alkalosis
+	D. Compensated metabolic alkalosis
+	E. Compensated respiratory acidosis
+#### Answer: 
+ 
+### Q38	
+The boundaries of the inguinal canal include:
+
+	A. The lacunar ligament as part of the roof
+	B. The inguinal ligament as part of the roof
+	C. External oblique as part of the roof
+	D. The conjoint tendon as part of the roof
+	E. The transversalis fascia as part of the roof
+#### Answer: 
+ 
+### Q39	
+Which of these structures does NOT pass posterior to the medial malleolus?
+
+	A. Tibialis posterior tendon
+	B. Saphenous vein
+	C. Flexor digitorum longus tendon
+	D. Flexor hallucis longus tendon
+	E. Posterior tibial artery
+#### Answer: 
+ 
+### Q40	
+Which of the following statements about hernias is TRUE?
+
+	A. Paraumbilical hernias are usually congenital
+	B. Lumbar hernias usually present as an emergency with strangulation
+	C. A hernia containing a strangulated Meckel’s diverticulum is a Littre’s hernia
+	D. Femoral hernias appear below and medial to the pubic tubercle
+	E. Spigelian hernias generally occur through the epiploic foramen of Winslow
 #### Answer: 
 
-### 32
-X
-#### Answer: 
-
-### 33
-X
-#### Answer: 
-
-### 34
-X
-#### Answer: 
-
-### 35
-X
-#### Answer: 
-
-### 36
-X
-#### Answer: 
-
-### 37
-X
-#### Answer: 
-
-### 38
-X
-#### Answer: 
-
-### 39
-X
-#### Answer: 
-
-### 40
-X
-#### Answer: 
 
 Questions 41-50
 ---------------
 
 ### 41
-X
+Which of these nerves does NOT lie in the lateral wall of the cavernous sinus?
+	A	Trochlear nerve
+	B	Oculomotor nerve
+	C	Mandibular branch of the trigeminal nerve
+	D	Maxillary branch of the trigeminal nerve
+	E	Ophthalmic branch of the trigeminal nerve
+ 
+42	Which of the following muscles does NOT attach to the common flexor origin of the forearm?
+	A	Pronator teres
+	B	Palmaris longus
+	C	Flexor carpi ulnaris
+	D	Flexor carpi radialis
+	E	Flexor pollicis longus
+ 
+43	Which of these statements is TRUE regarding the femoral triangle?
+	A	The lateral border of sartorius forms the lateral border
+	B	The lateral border of adductor magnus forms the medial border
+	C	Adductor brevis forms part of the floor
+	D	Adductor magnus forms part of the floor
+	E	Pectineus forms part of the floor
+ 
+44	All of the following statements about radiotherapy are true, EXCEPT:
+	A	It can be administered via X-rays
+	B	The nature of the surrounding tissue influences how much radiotherapy is administered
+	C	Multiple fractions are required for palliation of bone pain
+	D	Seminomas are very sensitive to radiotherapy
+	E	Ulceration is a recognised complication
+ 
+45	The rectus sheath does NOT contain the:
+	A	Rectus abdominis
+	B	Inferior epigastric vein
+	C	Superior epigastric artery
+	D	Lower eight thoracic nerves
+	E	Pyramidalis
+ 
+46	Which statement is correct regarding respiratory volumes?
+	A	The tidal volume in males is 1000 ml
+	B	The inspiratory reserve volume is 2000 ml
+	C	The vital capacity is 2000 ml
+	D	The residual volume is 1900 ml
+	E	The total lung capacity is 4000 ml
+ 
+47	The following statements regarding lung function tests are true, EXCEPT:
+	A	The functional residual capacity is made up of the residual volume and expiratory reserve volume
+	B	In an average 20-year-old male, tidal volume is approximately 0.5 litres
+	C	The residual volume is the amount of air remaining in the lungs after maximum expiration
+	D	Total lung capacity is the sum of residual volume and tidal volume
+	E	Vital capacity can be measured by spirometry
+ 
+48	Which of these is NOT part of the medial longitudinal arch of the foot?
+	A	Talus
+	B	Navicular
+	C	Cuboid
+	D	Calcaneus
+	E	Medial cuneiform
+ 
+49	The plane of Louis is NOT the:
+	A	Level of the aortic arch
+	B	Level of the third costal cartilage
+	C	Level of the lower border of T4
+	D	Level of the bifurcation of the trachea
+	E	Level at which the azygos vein enters the SVC
+ 
+50	Which of the following regarding the duodenum is INCORRECT?
+	A	The duodenum is composed of four parts
+	B	The first part lies at the level of L1
+	C	The second part lies at the level of L2
+	D	The third part lies at the level of L3
+	E	The fourth part lies at the level of L4
+
 #### Answer: 
 
-### 42
-X
-#### Answer: 
-
-### 43
-X
-#### Answer: 
-
-### 44
-X
-#### Answer: 
-
-### 45
-X
-#### Answer: 
-
-### 46
-X
-#### Answer: 
-
-### 47
-X
-#### Answer: 
-
-### 48
-X
-#### Answer: 
-
-### 49
-X
-#### Answer: 
-
-### 50
-X
-#### Answer: 
 
 Questions 51-60
 ---------------
