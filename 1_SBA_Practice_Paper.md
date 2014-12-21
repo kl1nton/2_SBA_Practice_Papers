@@ -244,45 +244,105 @@ The abdominal aorta lies on the:
 Questions 11-20 - HERE
 ---------------
 
-### 11
-X
+### Q11
+You ask your surgical house officer to prescribe a 1-litre bag of normal saline for a patient who is suffering from small-bowel obstruction and appears dehydrated. The sodium content of 0.9% normal saline is:
+
+	A. 30 mmol/l
+	B. 131 mmol/l
+	C. 147 mmol/l
+	D. 154 mmol/l
+	E. 308 mmol/l
 #### Answer: 
 
-### 12
-X
+### Q12
+Which of the following antiemetics is correctly classed as a 5-HT3 antagonist:
+
+	A. Prochlorperazine
+	B. Metoclopramide
+	C. Ondansetron
+	D. Hyoscine
+	E. Cyclizine
 #### Answer: 
 
-### 13
-X
+### Q13
+Which of the following parenteral analgesics would be the most appropriate in a severely injured, haemodynamically unstable patient following a road traffic accident?
+
+	A. Paracetamol
+	B. Morphine
+	C. Midazolam
+	D. Propofol
+	E. Fentanyl
 #### Answer: 
 
-### 14
-X
+### Q14
+The right ureter in females:
+
+	A. Lies beneath the third part of the duodenum at its origin
+	B. Runs over the ovarian artery
+	C. Crosses the uterine artery
+	D. Is crossed by the right colic artery
+	E. Lies beneath the bifurcation of the iliac vessels
+#### Answer: 
+ 
+### Q15	
+Passing through the lesser sciatic foramen are the:
+
+	A. Inferior gluteal artery
+	B. Pudendal nerve
+	C. Posterior cutaneous nerve of the thigh
+	D. Inferior gluteal nerve
+	E. Nerve to quadratus femoris
+#### Answer: 
+ 
+### Q16	
+All of the following functions are mediated by the α adrenoreceptors within the sympathetic nervous system, EXCEPT:
+
+	A. Inhibition of detrusor contraction
+	B. Bronchodilation
+	D. Pupillary dilation
+	E. Secretion of thick saliva
+#### Answer: 
+ 
+### Q17	
+Stimulation of the parasympathetic nervous system:
+
+	A. Increases the heart rate
+	B. Decreases the rate of gastric emptying
+	C. Dilates the pupil
+	D. Causes vasoconstriction
+	E. Causes contraction of the detrusor muscle in the bladder
+#### Answer: 
+ 
+### Q18	
+Which of the following statements regarding pulmonary physiology is CORRECT?
+
+	A. Pulmonary airways are all collapsible
+	B. An increased systemic PCO2 causes a respiratory alkalosis
+	C. The Haldane effect promotes the transport of O2 in systemic arterial blood
+	D. Respiratory chemoreceptors in the carotid and aortic bodies are the most important in the ventilatory response to an elevated Po2
+	E. Ventilation can be increased in respiratory failure
+#### Answer: 
+ 
+### Q19	
+Which statement is true of the compartments of the leg?
+
+	A. The anterior compartment contains the superficial peroneal nerve
+	B. The lateral compartment contains the deep peroneal nerve
+	C. The lateral compartment contains peroneus tertius
+	D. The deep posterior compartment contains plantaris
+	E. The posterior compartment contains the peroneal artery
+#### Answer: 
+ 
+### Q20	
+The brachial artery:
+
+	A. Commences at the upper border of teres major
+	B. Initially lies anterior to the humerus
+	C. Lies medial to the median nerve proximally
+	D. Lies medial to the ulnar nerve proximally
+	E. Lies lateral to biceps distally
 #### Answer: 
 
-### 15
-X
-#### Answer: 
-
-### 16
-X
-#### Answer: 
-
-### 17
-X
-#### Answer: 
-
-### 18
-X
-#### Answer: 
-
-### 19
-X
-#### Answer: 
-
-### 20
-X
-#### Answer: 
 
 Questions 21-30
 ---------------
