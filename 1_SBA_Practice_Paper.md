@@ -958,94 +958,105 @@ Questions 81-90
 ---------------
 
 ### Q81
-One litre of Hartmann’s solution contains
-	A	154 mmol/l of sodium
-	B	5 mmol/l of glucose
-	C	130 mmol/l of chloride
-	D	10 mmol/l of calcium
-	E	5 mmol/l of potassium
-#### Answer: 
- 
+One litre of _Hartmann’s solution_ contains
+
+	A. 154 mmol/l of sodium - F
+	B. 5 mmol/l of glucose - F
+	C. 130 mmol/l of chloride - F
+	D. 10 mmol/l of calcium - F
+	E. 5 mmol/l of potassium
+#### Answer: E. 5 mmol/l of potassium - ?
+- Hartmann's Solution (CSL), in mmol/L = Na: 131, Cl: 111, HCO3: 29, K: 5, Ca: 2 
+
 ### Q82	
-A 4-year-old girl falls from her bike, landing on her left leg, which becomes tender and swollen. X-ray shows a fracture of the proximal tibia, which goes through a radiolucent area with a well-defined sclerotic edge. The most likely diagnosis is:
-	A	Osteosarcoma
-	B	Chondrosarcoma
-	C	Bone cyst
-	D	Bone metastasis
-	E	Ewing’s sarcoma
-#### Answer: 
+A _4-year-old girl_ falls from her bike, landing on her left leg, which becomes tender and swollen. X-ray shows a fracture of the _proximal tibia_, which goes through a _radiolucent area_ with a well-defined _sclerotic edge_. The most likely diagnosis is:
+
+	A. Osteosarcoma
+	B. Chondrosarcoma
+	C. Bone cyst
+	D. Bone metastasis
+	E. Ewing’s sarcoma
+#### Answer: B. Chondrosarcoma - ?
  
 ### Q83	
-Which of the following statements is true regarding the adrenal glands?
-	A	The right adrenal is more medial than the left
-	B	The right adrenal lies lateral to the superior phrenic vessels
-	C	The left adrenal lies posterior to the splenic artery
-	D	The right adrenal vein drains into the right renal vein
-	E	Cortisol is secreted by the zona glomerulosa
-#### Answer: 
+Which of the following statements is true regarding the _adrenal glands_?
+
+	A. The right adrenal is more medial than the left
+	B. The right adrenal lies lateral to the superior phrenic vessels
+	C. The left adrenal lies posterior to the splenic artery
+	D. The right adrenal vein drains into the right renal vein
+	E. Cortisol is secreted by the zona glomerulosa
+#### Answer: C. The left adrenal lies posterior to the splenic artery - ?
  
 ### Q84	
-Volumes of gastrointestinal secretions per day are:
-	A	3000 ml of saliva
-	B	2000 ml of pancreatic juices
-	C	2000 ml of bile
-	D	3500 ml of small-bowel secretions
-	E	1500 ml of large-bowel secretions
-#### Answer: 
+Volumes of _gastrointestinal secretions_ per day are:
+
+	A. 3000 ml of saliva
+	B. 2000 ml of pancreatic juices
+	C. 2000 ml of bile
+	D. 3500 ml of small-bowel secretions
+	E. 1500 ml of large-bowel secretions
+#### Answer: B. 2000 ml of pancreatic juices - ?
  
 ### Q85	
-A 40-year-old diabetic man presents with pain in the upper lumbar spine. X-ray at the time showed soft-tissue swelling only and he was discharged home with anti-inflammatories. He returns 10 days later as his symptoms are no better and he has been suffering from a constant fever. X-ray at this time shows sclerotic changes and periosteal reaction. His symptoms are most likely to be due to infection with:
-	A	Salmonella
-	B	Haemophilus influenzae
-	C	Gonococcus
-	D	Tuberculosis
-	E	Staphylococcus aureus
-#### Answer: 
+A 40-year-old _diabetic_ man presents with _pain in the upper lumbar spine_. X-ray at the time showed soft-tissue swelling only and he was discharged home with anti-inflammatories. He returns 10 days later as his symptoms are no better and he has been suffering from a _constant fever_. X-ray at this time shows _sclerotic changes_ and _periosteal reaction_. His symptoms are most likely to be due to infection with:
+
+	A. Salmonella - F
+	B. Haemophilus influenzae
+	C. Gonococcus - F
+	D. Tuberculosis - F
+	E. Staphylococcus aureus
+#### Answer: B. Haemophilus influenzae - ?
  
 ### Q86	
 Which of the following is NOT true regarding gastric secretions?
-	A	Gastrin is produced by the G cells of the pyloric glands
-	B	Pepsinogen is produced by the chief cells
-	C	Mucus is produced by the surface epithelial cells
-	D	Intrinsic factor is produced by the parietal cells
-	E	Hydrochloric acid is produced by the chief cells
-#### Answer: 
+
+	A. Gastrin is produced by the G cells of the pyloric glands - T
+	B. Pepsinogen is produced by the chief cells - T
+	C. Mucus is produced by the surface epithelial cells - T
+	D. Intrinsic factor is produced by the parietal cells - T
+	E. Hydrochloric acid is produced by the chief cells
+#### Answer: E. Hydrochloric acid is produced by the chief cells - ?
  
-### Q87	
-Which of the following factors is part of the extrinsic pathway in the coagulation cascade?
-	A	Factor XII
-	B	Factor XI
-	C	Factor IX
-	D	Factor VII
-	E	Factor XIII
-#### Answer: 
+### Q87	- LEARN
+Which of the following factors is part of the _extrinsic pathway_ in the coagulation cascade?
+	
+	A. Factor XII - F
+	B. Factor XI - F
+	C. Factor IX
+	D. Factor VII
+	E. Factor XIII - F
+#### Answer: C. Factor IX - ?
  
 ### Q88	
 The following are all features of carpal tunnel syndrome, EXCEPT:
-	A	Pain often worse at night
-	B	Positive Tinel’s test
-	C	Positive Phalen’s test
-	D	Wasting of the hypothenar muscles
-	E	Paraesthesia over thumb and lateral two fingers
-#### Answer: 
+
+	A. Pain often worse at night - T
+	B. Positive Tinel’s test
+	C. Positive Phalen’s test
+	D. Wasting of the hypothenar muscles - T
+	E. Paraesthesia over thumb and lateral two fingers - T
+#### Answer: C. Positive Phalen’s test - ?
  
 ### Q89	
 Functions of the terminal ileum do NOT include:
-	A	Folate reuptake
-	B	Bile salt reuptake
-	C	Vitamin B12 uptake
-	D	Water reabsorption
-	E	Gamma-globulin uptake
-#### Answer: 
+
+	A. Folate reuptake
+	B. Bile salt reuptake
+	C. Vitamin B12 uptake
+	D. Water reabsorption
+	E. Gamma-globulin uptake
+#### Answer: D. Water reabsorption - ?
  
 ### Q90	
 Which of the following statements is NOT true regarding vitamin B12?
-	A	It is necessary for maturation of red cells
-	B	It is stored in the liver
-	C	Intrinsic factor is required for its absorption
-	D	Stores can last for up to a year
-	E	There is a small amount in bile
-#### Answer: 
+
+	A. It is necessary for maturation of red cells - T
+	B. It is stored in the liver - T
+	C. Intrinsic factor is required for its absorption - T
+	D. Stores can last for up to a year - F
+	E. There is a small amount in bile - ?
+#### Answer: D. Stores can last for up to a year - ?
 
 
 Questions 91-100
