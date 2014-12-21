@@ -863,45 +863,96 @@ The stomach bed does NOT include the:
 Questions 71-80
 ---------------
 
-### 71
-X
+### Q71
+Which of the following statements is true regarding the planes of the abdomen?
+	A	The subcostal plane runs through the inferior border of L3
+	B	The transtubercular plane runs through the body of L5
+	C	The sagittal planes run through the midpoints of the inguinal ligaments
+	D	The transpyloric plane runs through the superior border of L2
+	E	The transumbilical plane runs through the L2/3 intervertebral disc
+#### Answer: 
+ 
+### Q72	
+The facial nerve passes through:
+	A	The superior orbital fissure
+	B	The foramen ovale
+	C	The foramen rotundum
+	D	The stylomastoid foramen
+	E	The petrosquamous fissure
+#### Answer: 
+ 
+### Q73	
+Which of the following statements about abdominal aortic aneurysms is TRUE?
+	A	They can can be stented if above the renal arteries
+	B	They are operated on when <5.5 cm in diameter
+	C	They can cause emboli
+	D	They are not identified on ultrasound scan
+	E	They are more common in females
+#### Answer: 
+ 
+### Q74	
+Extensor compartment II of the wrist contains:
+	A	Abductor pollicis longus
+	B	Extensor pollicis brevis
+	C	Extensor carpi radialis
+	D	Extensor pollicis longus
+	E	Extensor digitorum
+#### Answer: 
+ 
+### Q75	
+Which of the following is NOT a Gram-negative rod?
+	A	Escherichia coli
+	B	Clostridium tetani
+	C	Proteus species
+	D	Legionella
+	E	Pseudomonas
+#### Answer: 
+ 
+### Q76	
+The quadrilateral space:
+	A	Is bounded inferiorly by teres minor
+	B	Is bounded inferiorly by subscapularis
+	C	Is bounded laterally by the long head of triceps
+	D	Is bounded inferiorly by teres major
+	E	Contains the radial nerve
+#### Answer: 
+ 
+### Q77	
+All of these statements about lymphoedema are correct, EXCEPT:
+	A	It can be a primary problem
+	B	Malignant infiltration of lymphatics is a common cause of secondary lymphoedema
+	C	It can occur secondary to radiotherapy
+	D	Ulceration in primary lymphoedema is common
+	E	Operative treatment is rarely used
+#### Answer: 
+ 
+### Q78	
+Which statement is correct regarding secretions from the adrenal glands?
+	A	Aldosterone is produced by the zona glomerulosa
+	B	Progesterone is produced by the zona fasciculata
+	C	Testosterone is produced by the zona reticularis
+	D	Adrenaline is produced by the zona reticularis
+	E	Cortisol is produced by the zona glomerulosa
+#### Answer: 
+ 
+### Q79	
+Which of the following statements is true regarding the pharyngeal arches and pouches?
+	A	The superior parathyroid glands are derived from the fourth pharyngeal pouch
+	B	The mandible is derived from the second pharyngeal arch
+	C	The third pharyngeal arch is supplied by the vagus nerve
+	D	The pharyngeal arches consist of endoderm and ectoderm only
+	E	The inferior parathyroid glands are derived from the fifth pharyngeal pouch
+#### Answer: 
+ 
+### Q80	
+Epstein–Barr virus (EBV) is known to be a carcinogen for:
+	A	T-cell lymphoma
+	B	Non-Hodgkin’s lymphoma
+	C	Leukaemia
+	D	B-cell lymphoma
+	E	Hepatocellular carcinoma
 #### Answer: 
 
-### 72
-X
-#### Answer: 
-
-### 73
-X
-#### Answer: 
-
-### 74
-X
-#### Answer: 
-
-### 75
-X
-#### Answer: 
-
-### 76
-X
-#### Answer: 
-
-### 77
-X
-#### Answer: 
-
-### 78
-X
-#### Answer: 
-
-### 79
-X
-#### Answer: 
-
-### 80
-X
-#### Answer: 
 
 Questions 81-90
 ---------------
