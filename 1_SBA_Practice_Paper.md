@@ -1330,98 +1330,110 @@ Which is NOT a common feature of MEN IIB?
 #### Answer: 
 
 
-Questions 121-130
+Questions 121-130 - HERE
 -----------------
 
 ### Q121
-Which of the following is an accessory muscle of expiration?
-	A	Sternocleidomastoid
-	B	Pectoralis major
-	C	Scalenus anterior
-	D	Latissimus dorsi
-	E	Rectus abdominis
-#### Answer: 
+Which of the following is an _accessory muscle of expiration_?
+
+	A. Sternocleidomastoid
+	B. Pectoralis major
+	C. Scalenus anterior
+	D. Latissimus dorsi
+	E. Rectus abdominis
+#### Answer: D. Latissimus dorsi - ?
  
 ### Q122
-Characteristic signs of acute inflammation include all of the following, EXCEPT:
-	A	Dolor
-	B	Palor
-	C	Rubor
-	D	Tumor
-	E	Calor
-#### Answer: 
+_Characteristic signs of acute inflammation_ include all of the following, EXCEPT:
+
+	A. Dolor
+	B. Palor
+	C. Rubor
+	D. Tumor
+	E. Calor
+#### Answer: B. Palor - ?
  
 ### Q123
 Apoptosis:
-	A	Is a process which results from energy deprivation
-	B	Is initially reversible and becomes irreversible
-	C	Is initiated by an injury
-	D	Causes swelling of the cell
-	E	Results in orderly vesicle formation
-#### Answer: 
+
+	A. Is a process which results from energy deprivation
+	B. Is initially reversible and becomes irreversible
+	C. Is initiated by an injury
+	D. Causes swelling of the cell
+	E. Results in orderly vesicle formation
+#### Answer: D. Causes swelling of the cell - ?
  
 ### Q124
 Tumours that commonly metastasise to bone do NOT include:
-	A	Breast
-	B	Lung
-	C	Prostate
-	D	Adrenal
-	E	Thyroid
-#### Answer: 
+
+	A. Breast - B
+	B. Lung - L
+	C. Prostate - P
+	D. Adrenal
+	E. Thyroid - T
+#### Answer: D. Adrenal - ?
+- BLT-KP
  
 ### Q125
 Meckel’s diverticulum:
-	A	Is more common in females
-	B	Is usually 2-cm long
-	C	Can contain hepatic mucosa
-	D	Contains only the mucosa and submucosa of the intestinal wall
-	E	Is a remnant of the omphalomesenteric duct
-#### Answer: 
- 
+
+	A. Is more common in females - F
+	B. Is usually 2-cm long
+	C. Can contain hepatic mucosa
+	D. Contains only the mucosa and submucosa of the intestinal wall
+	E. Is a remnant of the omphalomesenteric duct
+#### Answer:  B. Is usually 2-cm long - ?
+- Rule of 2s 
+
 ### Q126
-Granulomas are NOT found in:
-	A	Tuberculosis (TB)
-	B	Sarcoidosis
-	C	Ulcerative colitis
-	D	Crohn’s disease
-	E	Leprosy
-#### Answer: 
+_Granulomas_ are NOT found in:
+
+	A. Tuberculosis (TB) - F
+	B. Sarcoidosis - F
+	C. Ulcerative colitis
+	D. Crohn’s disease - F
+	E. Leprosy - F
+#### Answer: C. Ulcerative colitis - ?
  
 ### Q127
-Dysplasia does NOT cause:
-	A	Increased cell growth
-	B	Cellular atypia
-	C	Abnormal differentiation
-	D	A low nuclear-to-cytoplasmic ratio
-	E	Pleomorphism
-#### Answer: 
+_Dysplasia_ does NOT cause:
+
+	A. Increased cell growth - F
+	B. Cellular atypia - F
+	C. Abnormal differentiation - F
+	D. A low nuclear-to-cytoplasmic ratio
+	E. Pleomorphism - F
+#### Answer: D. A low nuclear-to-cytoplasmic ratio - ?
  
 ### Q128
-Psammoma bodies are characteristic of:
-	A	Follicular thyroid carcinoma
-	B	Anaplastic thyroid carcinoma
-	C	Papillary thyroid carcinoma
-	D	Medullary thyroid carcinoma
-	E	Thyroid lymphoma
-#### Answer: 
+_Psammoma bodies_ are characteristic of:
+
+	A. Follicular thyroid carcinoma
+	B. Anaplastic thyroid carcinoma
+	C. Papillary thyroid carcinoma - F
+	D. Medullary thyroid carcinoma
+	E. Thyroid lymphoma - F
+#### Answer: A. Follicular thyroid carcinoma - ?
  
 ### Q129
-Risk factors for malignant melanoma include:
-	A	Fair skin
-	B	Family history
-	C	Continuous sun exposure
-	D	Xeroderma pigmentosa
-	E	Albinism
-#### Answer: 
+Risk factors for _malignant melanoma_ include:
+
+	A. Fair skin
+	B. Family history
+	C. Continuous sun exposure
+	D. Xeroderma pigmentosa
+	E. Albinism
+#### Answer: A. Fair skin - ?
  
 ### Q130
-Which of the following is NOT a benign skin lesion?
-	A	Pott’s peculiar tumour
-	B	Seborrhoeic keratosis
-	C	Hamartoma
-	D	Merkel cell tumour
-	E	Turban tumour
-#### Answer: 
+Which of the following is NOT a _benign skin lesion_?
+
+	A. Pott’s peculiar tumour
+	B. Seborrhoeic keratosis - F
+	C. Hamartoma - F
+	D. Merkel cell tumour - F
+	E. Turban tumour - F
+#### Answer: A. Pott’s peculiar tumour - ?
 
 
 Questions 131-135
