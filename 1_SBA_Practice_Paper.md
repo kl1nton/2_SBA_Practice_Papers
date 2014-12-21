@@ -462,67 +462,67 @@ Questions 31-40
 ---------------
 
 ### Q31
-A 74-year-old immunosuppressed patient presents with recurrent pneumonia. He is quite unwell and showing signs of a swinging pyrexia. A chest CT scan reveals that he has an empyema in his right chest cavity. Complications of an empyema within the pleural cavity include all of the following, EXCEPT:
+A 74-year-old _immunosuppressed patient_ presents with _recurrent pneumonia_. He is quite unwell and showing signs of a _swinging pyrexia_. A chest CT scan reveals that he has an empyema in his right chest cavity. _Complications of an empyema_ within the pleural cavity include all of the following, EXCEPT:
 
 	A. Chronic scarring
 	B. Bronchiectasis
 	C. Systemic sepsis
-	D. Bronchopleural fistula
-	E. Lung collapse
-#### Answer: 
+	D. Bronchopleural fistula - T
+	E. Lung collapse - T
+#### Answer: C. Systemic sepsis - ?
  
 ### Q32	
-A 61-year old man is referred to your surgical clinic with right calf pain which occurs on walking 300 yards and is relieved by rest. He has a past history of hypertension, diabetes and hypercholesterolaemia and smokes 15 cigarettes a day. On examination, he has weak groin pulses and absent distal pulses on the right side and weak pulses distal to a normal femoral pulse on the left side. Which of the following is the correct next step in managing this patient?
+A 61-year old man is referred to your surgical clinic with _right calf pain_ which occurs on walking 300 yards and is relieved by rest. He has a past history of hypertension, diabetes and hypercholesterolaemia and smokes 15 cigarettes a day. On examination, he has _weak groin pulses_ and _absent distal pulses_ on the right side and _weak pulses distal_ to a _normal femoral pulse on the left side_. Which of the following is the correct **next step** in managing this patient?
 
 	A. Arrange a duplex scan of his vessels
 	B. Arrange a digital subtraction angiogram
-	C. Lifestyle advice and tightening of risk factor control
+	C. Lifestyle advice and tightening of risk factor control - F
 	D. Prescribe warfarin to prevent thrombus formation
-	E. Elective admission for a left femoro-popliteal bypass graft
-#### Answer: 
+	E. Elective admission for a left femoro-popliteal bypass graft - ?
+#### Answer: B. Arrange a digital subtraction angiogram - ?
  
 ### Q33
-An 81-year-old patient is noted to be in atrial fibrillation but she states that she has never been on anticoagulation therapy. You consider that to lessen the risk of future emboli, she would benefit from starting on long-term warfarin and that this would reduce her risk of developing acute strokes, visceral or limb ischaemia. Arterial emboli leading to acute limb ischaemia most commonly lodge at which one of the following sites?
+An 81-year-old patient is noted to be in _atrial fibrillation_ but she states that she has never been on anticoagulation therapy. You consider that to lessen the risk of future emboli, she would benefit from starting on _long-term warfarin_ and that this would reduce her risk of developing acute strokes, visceral or limb ischaemia. Arterial emboli leading to _acute limb ischaemia_ most commonly lodge at which one of the following sites?
 
-	A. Brachial artery
-	B. Common femoral artery
+	A. Brachial artery - F
+	B. Common femoral artery - F
 	C. Popliteal artery
-	D. Aortic bifurcation
-	E. Common iliac bifurcation
-#### Answer: 
+	D. Aortic bifurcation - F
+	E. Common iliac bifurcation - F
+#### Answer: C. Popliteal artery -?
  
 ### Q34	
-Sites of ulnar nerve entrapment include the:
+Sites of _ulnar nerve entrapment_ include the:
 
 	A. Arcade of Frohse
-	B. Carpal tunnel
-	C. Lateral triangular space
+	B. Carpal tunnel - F
+	C. Lateral triangular space - F
 	D. Arcade of Struthers
-	E. Cubital fossa
-#### Answer: 
+	E. Cubital fossa - F
+#### Answer: A. Arcade of Frohse - ?
  
-### Q35	
-Which statement is true of the inguinal region?
+### Q35	- LEARN
+Which statement is true of the _inguinal region_?
 
-	A. The midpoint of the inguinal ligament lies halfway between the anterior superior iliac spine and the pubic symphysis
-	B. The midinguinal point lies halfway between the anterior superior iliac spine and the pubic tubercle
-	C. The deep inguinal ring lies at the midinguinal point
-	D. The femoral artery lies at the midpoint of the inguinal ligament
-	E. The femoral nerve lies halfway between the anterior superior iliac spine and the pubic tubercle
-#### Answer: 
+	A. The midpoint of the inguinal ligament lies halfway between the anterior superior iliac spine and the pubic symphysis - T
+	B. The midinguinal point lies halfway between the anterior superior iliac spine and the pubic tubercle - F
+	C. The deep inguinal ring lies at the midinguinal point - F (MPoIL)
+	D. The femoral artery lies at the midpoint of the inguinal ligament - F (MIP)
+	E. The femoral nerve lies halfway between the anterior superior iliac spine and the pubic tubercle - F
+#### Answer: A. The midpoint of the inguinal ligament lies halfway between the anterior superior iliac spine and the pubic symphysis - ?
  
 ### Q36	
-A pregnant 41-year-old woman with tortuous varicose veins in the right thigh and leg attends the Vascular Clinic. A Doppler scan shows incompetence at the right sapheno-femoral junction, with multiple perforators. Which one of the following treatment options is best in this case?
+A **pregnant** 41-year-old woman with tortuous varicose veins in the right thigh and leg attends the Vascular Clinic. A Doppler scan shows _incompetence at the right sapheno-femoral junction_ (SFJ), with multiple perforators. Which one of the following treatment options is best in this case?
 
 	A. Multiple avulsions
 	B. Endovenous laser therapy (EVLT)
 	C. Compression hosiery and review in clinic at a later date
 	D. Multiple avulsions plus high tie at the sapheno-femoral junction
 	E. Compression bandaging and injection of sclerosant
-#### Answer: 
+#### Answer: C. Compression hosiery and review in clinic at a later date - ?
  
-### Q37	
-An elderly man is admitted to the Surgical Assessment Unit with diverticulitis. On clerking him, you note that he appears to have bibasal crepitations and bronchial breathing in the right lower zone, with dullness to percussion. A blood gas taken shows the following:
+### Q37	- TODO
+An elderly man is admitted to the Surgical Assessment Unit with *diverticulitis*. On clerking him, you note that he appears to have bibasal crepitations and bronchial breathing in the right lower zone, with dullness to percussion. A blood gas taken shows the following:
 
 Measurement	| Value			| Range		|
 ------------|---------------|-----------|
@@ -538,37 +538,37 @@ Which of the following best describes the blood gas results?
 	C. Uncompensated metabolic alkalosis
 	D. Compensated metabolic alkalosis
 	E. Compensated respiratory acidosis
-#### Answer: 
+#### Answer: C. Uncompensated metabolic alkalosis - ?
  
-### Q38	
-The boundaries of the inguinal canal include:
+### Q38	- LEARN
+The _boundaries of the inguinal canal_ include:
 
 	A. The lacunar ligament as part of the roof
-	B. The inguinal ligament as part of the roof
-	C. External oblique as part of the roof
+	B. The inguinal ligament as part of the roof - F
+	C. External oblique as part of the roof - F
 	D. The conjoint tendon as part of the roof
-	E. The transversalis fascia as part of the roof
-#### Answer: 
+	E. The transversalis fascia as part of the roof - F
+#### Answer: D. The conjoint tendon as part of the roof -?
  
-### Q39	
-Which of these structures does NOT pass posterior to the medial malleolus?
+### Q39	- LEARN
+Which of these structures does NOT pass _posterior to the medial malleolus_?
 
 	A. Tibialis posterior tendon
-	B. Saphenous vein
-	C. Flexor digitorum longus tendon
+	B. Saphenous vein - F
+	C. Flexor digitorum longus tendon - T
 	D. Flexor hallucis longus tendon
-	E. Posterior tibial artery
-#### Answer: 
+	E. Posterior tibial artery - T
+#### Answer: B. Saphenous vein - ?
  
-### Q40	
+### Q40	- LEARN
 Which of the following statements about hernias is TRUE?
 
-	A. Paraumbilical hernias are usually congenital
-	B. Lumbar hernias usually present as an emergency with strangulation
+	A. Paraumbilical hernias are usually congenital - F
+	B. Lumbar hernias usually present as an emergency with strangulation - F
 	C. A hernia containing a strangulated Meckel’s diverticulum is a Littre’s hernia
-	D. Femoral hernias appear below and medial to the pubic tubercle
-	E. Spigelian hernias generally occur through the epiploic foramen of Winslow
-#### Answer: 
+	D. Femoral hernias appear below and medial to the pubic tubercle - F
+	E. Spigelian hernias generally occur through the epiploic foramen of Winslow - F
+#### Answer: C. A hernia containing a strangulated Meckel’s diverticulum is a Littre’s hernia - ?
 
 
 Questions 41-50
