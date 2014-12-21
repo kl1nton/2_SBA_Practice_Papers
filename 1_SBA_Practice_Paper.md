@@ -347,45 +347,116 @@ The brachial artery:
 Questions 21-30
 ---------------
 
-### 21
-X
-#### Answer: 
+### Q21
+During the surgical ward round, you note that two of your patients are on the ITU following complicated emergency abdominal surgery. The ITU nurse mentions that both of your patients are still requiring inotropes. Which of the following inotropes are commonly used in the management of sepsis in an ITU setting?
 
-### 22
-X
+	A. Dobutamine
+	B. Adrenaline (epinephrine)
+	C. Dopamine
+	D. Noradrenaline (norepinephrine)
+	E. Isoprenaline
 #### Answer: 
+ 
+### Q22	
+The following statements regarding the absolute refractory period in the ventricles are correct, EXCEPT:
 
-### 23
-X
-#### Answer: 
+	A. This is the period when the ventricles are completely inexcitable
+	B. It corresponds to the period of ventricular depolarisation
+	C. It corresponds to the period of ventricular contraction
+	D. It is shorter than the corresponding period in atrial muscle
+	E. It decreases during sympathetic stimulation of the heart
+#### Answer:  
 
-### 24
-X
-#### Answer: 
+### Q23	
+The role of coronary angioplasty and coronary artery bypass surgery is to improve coronary blood flow. In a normal, healthy 70-kg man, which of the following statements regarding myocardial blood flow is correct?
 
-### 25
-X
+	A. It is approximately 125 ml/min at rest
+	B. It is increased by pain
+	C. The right coronary artery typically a third of the blood to the right ventricular muscle
+	D. Occurs during systole and diastole
+	E. It is independent of arterial pressure
 #### Answer: 
+ 
+### Q24	
+Which of the following medications is NOT known to cause renal failure?
 
-### 26
-X
+	A. Diclofenac
+	B. Ciprofloxacin
+	C. Simvastatin
+	D. Furosemide
+	E. Mannitol
 #### Answer: 
+ 
+### Q25	
+Which statement is true of diaphragmatic openings?
 
-### 27
-X
-#### Answer: 
+	A. The thoracic duct passes through the opening at T12
+	B. The aorta passes through the opening at T10
+	C. The left phrenic nerve passes through the opening at T8
+	D. The right gastric artery passes through the opening at T10
+	E. The azygos vein passes through the opening at T10
+#### Answer:
+ 
+### Q26	
+Regarding shock, which one of the following associations is most correct?
 
-### 28
-X
-#### Answer: 
+	A. Cardiogenic shock is associated with a high cardiac output and low systemic vascular resistance (SVR)
+	B. Septic shock is characterised by a low SVR and a high cardiac output
+	C. Cardiogenic shock is best treated with noradrenaline (norepinephrine)
+	D. Septic shock is characterised by a high SVR and a low cardiac output
+	E. Noradrenaline is a vasodilator
+#### Answer:  
 
-### 29
-X
-#### Answer: 
+### Q27	
+Your medical student has just performed her first arterial blood gas procedure and runs to the ITU to process the sample. She returns promptly with the results below and asks you to explain them. You outline the clinical picture and then describe the blood gas results.
 
-### 30
-X
+Measurement	| Value		| Range		|
+------------|-----------|-----------|
+pH	  		| 7.39		|
+Po2	  		| 14.6 kPa	|
+Pco2	  	| 2.6 kPa	|
+Bicarbonate	| 10 mmol/l	|
+Base excess	| –13		|
+
+Which statement best describes this arterial blood gas profile?
+
+	A. Uncompensated respiratory acidosis
+	B. Compensated respiratory acidosis
+	C. Compensated metabolic acidosis
+	D. Uncompensated metabolic acidosis
+	E. Compensated respiratory alkalosis
+#### Answer:  
+
+### Q28	
+Regarding inotropes and circulatory support, which one of the following statements is correct?
+
+	A. Dobutamine acts mainly on α-adrenergic receptors
+	B. Salbutamol has maximal effect on β1-adrenergic receptors
+	C. Noradrenaline has maximal effect on α-adrenergic receptors
+	D. All inotropic agents are vasocontrictors
+	E. Milrinone acts via adrenergic receptors
 #### Answer: 
+ 
+### Q29	
+The muscle divided in the Hardinge approach to the hip is the:
+
+	A. Obturator internus
+	B. Piriformis
+	C. Gluteus maximus
+	D. Superior gemellus
+	E. Vastus lateralis
+#### Answer: 
+ 
+### Q30	
+Which statement is TRUE regarding the rotator cuff?
+
+	A. Teres minor is attached to the lesser tuberosity
+	B. The muscles attach at the level of the surgical neck of the humerus
+	C. The tendon of infraspinatus is fused with the capsule of the shoulder joint
+	D. Subscapularis runs through a tunnel formed by the acromion and the coraco-acromial ligament
+	E. It supports the shoulder joint but is deficient inferiorly
+#### Answer:
+
 
 Questions 31-40
 ---------------
