@@ -241,107 +241,108 @@ The abdominal aorta lies on the:
 	- Right Crus of Diaphragm
 
 
-Questions 11-20 - HERE
+Questions 11-20
 ---------------
 
 ### Q11
-You ask your surgical house officer to prescribe a 1-litre bag of normal saline for a patient who is suffering from small-bowel obstruction and appears dehydrated. The sodium content of 0.9% normal saline is:
+You ask your surgical house officer to prescribe a 1-litre bag of _normal saline_ for a patient who is suffering from small-bowel obstruction and appears dehydrated. The _sodium content_ of 0.9% normal saline is:
 
 	A. 30 mmol/l
 	B. 131 mmol/l
 	C. 147 mmol/l
 	D. 154 mmol/l
 	E. 308 mmol/l
-#### Answer: 
+#### Answer: D. 154 mmol/l - ?
 
 ### Q12
-Which of the following antiemetics is correctly classed as a 5-HT3 antagonist:
+Which of the following _antiemetics_ is correctly classed as a _5-HT3 antagonist_:
 
 	A. Prochlorperazine
 	B. Metoclopramide
 	C. Ondansetron
 	D. Hyoscine
 	E. Cyclizine
-#### Answer: 
+#### Answer: C. Ondansetron - ?
 
 ### Q13
-Which of the following parenteral analgesics would be the most appropriate in a severely injured, haemodynamically unstable patient following a road traffic accident?
+Which of the following _parenteral analgesics_ would be the most appropriate in a severely injured, _haemodynamically unstable_ patient following a road traffic accident?
 
 	A. Paracetamol
-	B. Morphine
+	B. Morphine - F
 	C. Midazolam
-	D. Propofol
+	D. Propofol - F
 	E. Fentanyl
-#### Answer: 
+#### Answer: A. Paracetamol - ?
 
 ### Q14
-The right ureter in females:
+The _right ureter_ in females:
 
 	A. Lies beneath the third part of the duodenum at its origin
 	B. Runs over the ovarian artery
 	C. Crosses the uterine artery
 	D. Is crossed by the right colic artery
-	E. Lies beneath the bifurcation of the iliac vessels
-#### Answer: 
+	E. Lies beneath the bifurcation of the iliac vessels - F
+#### Answer: B. Runs over the ovarian artery - ?
  
-### Q15	
-Passing through the lesser sciatic foramen are the:
+### Q15	- LEARN
+Passing through the _lesser sciatic foramen_ are the:
 
 	A. Inferior gluteal artery
 	B. Pudendal nerve
-	C. Posterior cutaneous nerve of the thigh
+	C. Posterior cutaneous nerve of the thigh - F
 	D. Inferior gluteal nerve
-	E. Nerve to quadratus femoris
-#### Answer: 
+	E. Nerve to quadratus femoris - F
+#### Answer: D. Inferior gluteal nerve - ?
  
 ### Q16	
-All of the following functions are mediated by the α adrenoreceptors within the sympathetic nervous system, EXCEPT:
+All of the following functions are mediated by the α-adrenoreceptors within the _sympathetic nervous system_, EXCEPT:
 
 	A. Inhibition of detrusor contraction
 	B. Bronchodilation
+	C. - DELETED - 
 	D. Pupillary dilation
 	E. Secretion of thick saliva
-#### Answer: 
+#### Answer: D. Pupillary dilation - ?
  
 ### Q17	
-Stimulation of the parasympathetic nervous system:
+Stimulation of the _parasympathetic nervous system_ (PNS):
 
 	A. Increases the heart rate
 	B. Decreases the rate of gastric emptying
-	C. Dilates the pupil
-	D. Causes vasoconstriction
+	C. Dilates the pupil - F
+	D. Causes vasoconstriction - F
 	E. Causes contraction of the detrusor muscle in the bladder
-#### Answer: 
+#### Answer: B. Decreases the rate of gastric emptying - ?
  
 ### Q18	
-Which of the following statements regarding pulmonary physiology is CORRECT?
+Which of the following statements regarding _pulmonary physiology_ is CORRECT?
 
-	A. Pulmonary airways are all collapsible
-	B. An increased systemic PCO2 causes a respiratory alkalosis
+	A. Pulmonary airways are all collapsible - F
+	B. An increased systemic PCO2 causes a respiratory alkalosis - F
 	C. The Haldane effect promotes the transport of O2 in systemic arterial blood
 	D. Respiratory chemoreceptors in the carotid and aortic bodies are the most important in the ventilatory response to an elevated Po2
 	E. Ventilation can be increased in respiratory failure
-#### Answer: 
+#### Answer: C. The Haldane effect promotes the transport of O2 in systemic arterial blood - ?
  
-### Q19	
-Which statement is true of the compartments of the leg?
+### Q19	- LEARN
+Which statement is true of the _compartments of the leg_?
 
-	A. The anterior compartment contains the superficial peroneal nerve
-	B. The lateral compartment contains the deep peroneal nerve
+	A. The anterior compartment contains the superficial peroneal nerve - F
+	B. The lateral compartment contains the deep peroneal nerve - F
 	C. The lateral compartment contains peroneus tertius
 	D. The deep posterior compartment contains plantaris
 	E. The posterior compartment contains the peroneal artery
-#### Answer: 
+#### Answer: E. The posterior compartment contains the peroneal artery - ?
  
 ### Q20	
-The brachial artery:
+The _brachial artery_:
 
 	A. Commences at the upper border of teres major
 	B. Initially lies anterior to the humerus
 	C. Lies medial to the median nerve proximally
 	D. Lies medial to the ulnar nerve proximally
 	E. Lies lateral to biceps distally
-#### Answer: 
+#### Answer: C. Lies medial to the median nerve proximally - ?
 
 
 Questions 21-30
