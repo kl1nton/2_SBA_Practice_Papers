@@ -864,85 +864,95 @@ Questions 71-80
 ---------------
 
 ### Q71
-Which of the following statements is true regarding the planes of the abdomen?
-	A	The subcostal plane runs through the inferior border of L3
-	B	The transtubercular plane runs through the body of L5
-	C	The sagittal planes run through the midpoints of the inguinal ligaments
-	D	The transpyloric plane runs through the superior border of L2
-	E	The transumbilical plane runs through the L2/3 intervertebral disc
-#### Answer: 
+Which of the following statements is true regarding the _planes of the abdomen_?
+
+	A. The subcostal plane runs through the inferior border of L3 - F
+	B. The transtubercular plane runs through the body of L5
+	C. The sagittal planes run through the midpoints of the inguinal ligaments
+	D. The transpyloric plane runs through the superior border of L2
+	E. The transumbilical plane runs through the L2/3 intervertebral disc
+#### Answer: A. The subcostal plane runs through the inferior border of L3 - ?
  
-### Q72	
-The facial nerve passes through:
-	A	The superior orbital fissure
-	B	The foramen ovale
-	C	The foramen rotundum
-	D	The stylomastoid foramen
-	E	The petrosquamous fissure
-#### Answer: 
+### Q72 - LEARN	
+The _facial nerve_ passes through:
+
+	A. The superior orbital fissure - F
+	B. The foramen ovale
+	C. The foramen rotundum
+	D. The stylomastoid foramen - F
+	E. The petrosquamous fissure - F
+#### Answer: C. The foramen rotundum - ?
+- Mnemonics!
  
 ### Q73	
-Which of the following statements about abdominal aortic aneurysms is TRUE?
-	A	They can can be stented if above the renal arteries
-	B	They are operated on when <5.5 cm in diameter
-	C	They can cause emboli
-	D	They are not identified on ultrasound scan
-	E	They are more common in females
-#### Answer: 
+Which of the following statements about _abdominal aortic aneurysms_ (AAA) is TRUE?
+
+	A. They can can be stented if above the renal arteries - F
+	B. They are operated on when <5.5 cm in diameter - F
+	C. They can cause emboli
+	D. They are not identified on ultrasound scan
+	E. They are more common in females - F
+#### Answer: D. They are not identified on ultrasound scan - ?
  
-### Q74	
+### Q74	- LEARN
 Extensor compartment II of the wrist contains:
-	A	Abductor pollicis longus
-	B	Extensor pollicis brevis
-	C	Extensor carpi radialis
-	D	Extensor pollicis longus
-	E	Extensor digitorum
-#### Answer: 
+
+	A. Abductor pollicis longus 
+	B. Extensor pollicis brevis (EPB)
+	C. Extensor carpi radialis (ECR)
+	D. Extensor pollicis longus (EPL)
+	E. Extensor digitorum
+#### Answer: D. Extensor pollicis longus (EPL) - ?
  
 ### Q75	
-Which of the following is NOT a Gram-negative rod?
-	A	Escherichia coli
-	B	Clostridium tetani
-	C	Proteus species
-	D	Legionella
-	E	Pseudomonas
-#### Answer: 
+Which of the following is NOT a _Gram-negative rod_?
+
+	A. Escherichia coli
+	B. Clostridium tetani
+	C. Proteus species
+	D. Legionella
+	E. Pseudomonas 
+#### Answer: E. Pseudomonas - ?
  
-### Q76	
-The quadrilateral space:
-	A	Is bounded inferiorly by teres minor
-	B	Is bounded inferiorly by subscapularis
-	C	Is bounded laterally by the long head of triceps
-	D	Is bounded inferiorly by teres major
-	E	Contains the radial nerve
-#### Answer: 
+### Q76	- LEARN
+The _quadrilateral space_:
+
+	A. Is bounded inferiorly by teres minor
+	B. Is bounded inferiorly by subscapularis - F
+	C. Is bounded laterally by the long head of triceps - F
+	D. Is bounded inferiorly by teres major 
+	E. Contains the radial nerve - F
+#### Answer: A. Is bounded inferiorly by teres minor - ?
  
 ### Q77	
-All of these statements about lymphoedema are correct, EXCEPT:
-	A	It can be a primary problem
-	B	Malignant infiltration of lymphatics is a common cause of secondary lymphoedema
-	C	It can occur secondary to radiotherapy
-	D	Ulceration in primary lymphoedema is common
-	E	Operative treatment is rarely used
-#### Answer: 
+All of these statements about _lymphoedema_ are correct, EXCEPT:
+
+	A. It can be a primary problem - T
+	B. Malignant infiltration of lymphatics is a common cause of secondary lymphoedema - T
+	C. It can occur secondary to radiotherapy - T
+	D. Ulceration in primary lymphoedema is common
+	E. Operative treatment is rarely used - F
+#### Answer: D. Ulceration in primary lymphoedema is common -?
  
-### Q78	
-Which statement is correct regarding secretions from the adrenal glands?
-	A	Aldosterone is produced by the zona glomerulosa
-	B	Progesterone is produced by the zona fasciculata
-	C	Testosterone is produced by the zona reticularis
-	D	Adrenaline is produced by the zona reticularis
-	E	Cortisol is produced by the zona glomerulosa
-#### Answer: 
+### Q78	- LEARN
+Which statement is correct regarding _secretions_ from the _adrenal glands_?
+
+	A. Aldosterone is produced by the zona glomerulosa
+	B. Progesterone is produced by the zona fasciculata - F
+	C. Testosterone is produced by the zona reticularis - F
+	D. Adrenaline is produced by the zona reticularis
+	E. Cortisol is produced by the zona glomerulosa
+#### Answer: E. Cortisol is produced by the zona glomerulosa - ?
  
 ### Q79	
-Which of the following statements is true regarding the pharyngeal arches and pouches?
-	A	The superior parathyroid glands are derived from the fourth pharyngeal pouch
-	B	The mandible is derived from the second pharyngeal arch
-	C	The third pharyngeal arch is supplied by the vagus nerve
-	D	The pharyngeal arches consist of endoderm and ectoderm only
-	E	The inferior parathyroid glands are derived from the fifth pharyngeal pouch
-#### Answer: 
+Which of the following statements is true regarding the _pharyngeal arches and pouches_?
+
+	A. The superior parathyroid glands are derived from the fourth pharyngeal pouch
+	B. The mandible is derived from the second pharyngeal arch - F
+	C. The third pharyngeal arch is supplied by the vagus nerve - F
+	D. The pharyngeal arches consist of endoderm and ectoderm only - F
+	E. The inferior parathyroid glands are derived from the fifth pharyngeal pouch - F
+#### Answer: A. The superior parathyroid glands are derived from the fourth pharyngeal pouch - ?
  
 ### Q80	
 Epstein–Barr virus (EBV) is known to be a carcinogen for:
