@@ -770,94 +770,104 @@ Questions 61-70
 ---------------
 
 ### Q61
-The maximum safe dose of 1% lidocaine without adrenaline for a 70-kg male is:
-	A	14 ml
-	B	21 ml
-	C	28 ml
-	D	35 ml
-	E	40 ml
-#### Answer: 
+The _maximum safe dose_ of 1% _lidocaine without adrenaline_ for a 70-kg male is:
+
+	A. 14 ml
+	B. 21 ml
+	C. 28 ml
+	D. 35 ml
+	E. 40 ml
+#### Answer: C. 28 ml - ?
  
 ### Q62	
-Parathyroid hormone (PTH) secretion is decreased by:
-	A	An increase in serum phosphate
-	B	A decrease in free Ca2+
-	C	A large decrease in serum magnesium
-	D	An increase in serum potassium
-	E	A decrease in 1,25(OH)2 vitamin D
-#### Answer: 
+_Parathyroid hormone_ (PTH) secretion is decreased by:
+
+	A. An increase in serum phosphate - F
+	B. A decrease in free Ca2+ - F
+	C. A large decrease in serum magnesium - F
+	D. An increase in serum potassium - F
+	E. A decrease in 1,25(OH)2 vitamin D
+#### Answer: E. A decrease in 1,25(OH)2 vitamin D - ?
  
 ### Q63	
-Structures passing through the foramen magnum do NOT include the:
-	A	Vagus nerve
-	B	Accessory nerve
-	C	Medulla
-	D	Meninges
-	E	Vertebral arteries
-#### Answer: 
+Structures passing through the _foramen magnum_ do NOT include the:
+
+	A. Vagus nerve
+	B. Accessory nerve
+	C. Medulla - F
+	D. Meninges - F
+	E. Vertebral arteries - F
+#### Answer: A. Vagus nerve - ?
  
 ### Q64	
-Calot’s triangle:
-	A	Is bounded laterally by the common hepatic duct
-	B	Is bounded medially by the right hepatic duct
-	C	Is bounded laterally by the cystic duct
-	D	Contains the left hepatic duct
-	E	Contains the hepatic artery
-#### Answer: 
+_Calot’s triangle_:
+
+	A. Is bounded laterally by the common hepatic duct - F
+	B. Is bounded medially by the right hepatic duct - F
+	C. Is bounded laterally by the cystic duct 
+	D. Contains the left hepatic duct - F
+	E. Contains the hepatic artery - F
+#### Answer: C. Is bounded laterally by the cystic duct - ?
  
-### Q65	
-The epiploic foramen:
-	A	Is the opening of the lesser sac on the left side of the abdomen
-	B	Lies anterior to the SVC
-	C	Lies inferior to the quadrate lobe of the liver
-	D	Is superior to the third part of the duodenum
-	E	Contains the hepatic artery lying on the left of the common bile duct in the anterior border
-#### Answer: 
+### Q65	- LEARN
+The _epiploic foramen_ (of Winslow):
+
+	A. Is the opening of the lesser sac on the left side of the abdomen - F
+	B. Lies anterior to the SVC
+	C. Lies inferior to the quadrate lobe of the liver - F
+	D. Is superior to the third part of the duodenum - ?
+	E. Contains the hepatic artery lying on the left of the common bile duct in the anterior border - F
+#### Answer: B. Lies anterior to the SVC - ?
  
 ### Q66	
-A 60-year-old man presents with a history of claudication pain in his left leg after walking 20 yards, which is impacting significantly on his lifestyle. He is investigated by arteriography, which shows an 2-cm stenosis in the proximal superficial femoral artery. The most appropriate management is:
-	A	Below-knee amputation
-	B	Correction of risk factors only
-	C	Percutaneous balloon angioplasty
-	D	Femoro-popliteal bypass
-	E	Femoro-distal bypass
-#### Answer: 
+A 60-year-old man presents with a history of _claudication pain_ in his left leg after walking 20 yards, which is impacting significantly on his lifestyle. He is investigated by arteriography, which shows an _2-cm stenosis_ in the proximal superficial femoral artery. The most appropriate management is:
+
+	A. Below-knee amputation
+	B. Correction of risk factors only
+	C. Percutaneous balloon angioplasty
+	D. Femoro-popliteal bypass
+	E. Femoro-distal bypass
+#### Answer: C. Percutaneous balloon angioplasty - ?
  
 ### Q67	
 Types of tumour markers do NOT include:
-	A	Enzymes
-	B	Hormones
-	C	Ectopic hormones
-	D	Oncofetal antibodies
-	E	Oncofetal antigens
-#### Answer: 
+
+	A. Enzymes
+	B. Hormones - F
+	C. Ectopic hormones - F
+	D. Oncofetal antibodies - F
+	E. Oncofetal antigens - F
+#### Answer: A. Enzymes - ?
  
 ### Q68	
-The transpyloric plane of Addison:
-	A	Passes through the inferior border of L2
-	B	Encompasses the tail of the pancreas
-	C	Is at the same level as the 8th costal cartilages
-	D	Is the level at which the inferior mesenteric artery commences
-	E	Lies halfway between the jugular notch and the pubic symphysis
-#### Answer: 
+The _transpyloric plane of Addison_:
+
+	A. Passes through the inferior border of L2
+	B. Encompasses the tail of the pancreas
+	C. Is at the same level as the 8th costal cartilages - F
+	D. Is the level at which the inferior mesenteric artery commences - F
+	E. Lies halfway between the jugular notch and the pubic symphysis
+#### Answer: E. Lies halfway between the jugular notch and the pubic symphysis - ?
  
 ### Q69	
-A man presents with left buttock, thigh and calf claudication pain. Which of the following is the most likely site of arterial disease?
-	A	Left superficial femoral artery
-	B	Left common iliac artery
-	C	Left external iliac artery
-	D	Left internal iliac artery
-	E	Lower aorta
-#### Answer: 
+A man presents with _left buttock_, _thigh_ and _calf claudication pain_. Which of the following is the most likely site of arterial disease?
+
+	A. Left superficial femoral artery
+	B. Left common iliac artery
+	C. Left external iliac artery
+	D. Left internal iliac artery
+	E. Lower aorta
+#### Answer: B. Left common iliac artery
  
 ### Q70	
-The stomach bed does NOT include the:
-	A	Splenic artery
-	B	Coeliac trunk
-	C	Transverse mesocolon
-	D	Left adrenal gland
-	E	Neck of the pancreas
-#### Answer: 
+The _stomach bed_ does NOT include the:
+
+	A. Splenic artery
+	B. Coeliac trunk - F
+	C. Transverse mesocolon - F
+	D. Left adrenal gland - F
+	E. Neck of the pancreas - F
+#### Answer: A. Splenic artery - ?
 
 
 Questions 71-80
