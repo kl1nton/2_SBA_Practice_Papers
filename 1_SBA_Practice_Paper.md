@@ -675,95 +675,105 @@ Which of the following regarding the duodenum is INCORRECT?
 Questions 51-60
 ---------------
 
-### 51
-The sciatic nerve does NOT supply which of the following muscles:
-	A	Obturator externus
-	B	Semimembranosus
-	C	Superior gemellus
-	D	Quadratus femoris
-	E	Biceps femoris
-#### Answer: 
+### Q51
+The _sciatic nerve_ does NOT supply which of the following muscles:
+
+	A. Obturator externus
+	B. Semimembranosus
+	C. Superior gemellus
+	D. Quadratus femoris
+	E. Biceps femoris
+#### Answer: E. Biceps femoris - ?
  
-### Q52	
-The branches of the posterior cord of the brachial plexus do NOT include the
-	A	Upper subscapular nerve
-	B	Lower subscapular nerve
-	C	Axillary nerve
-	D	Musculocutaneous nerve
-	E	Thoracodorsal nerve
-#### Answer: 
+### Q52	- LEARN
+The branches of the _posterior cord_ of the _brachial plexus_ do NOT include the
+	
+	A. Upper subscapular nerve
+	B. Lower subscapular nerve
+	C. Axillary nerve
+	D. Musculocutaneous nerve
+	E. Thoracodorsal nerve
+#### Answer: D. Musculocutaneous nerve - ?
  
 ### Q53	
 Which of the following statements about arterial ulcers is NOT true?
-	A	They are often found at the tips of the toes
-	B	The foot can show venous guttering
-	C	They are associated with lipodermatosclerosis
-	D	They are painful
-	E	They have a ‘punched out’ appearance
-#### Answer: 
+
+	A. They are often found at the tips of the toes
+	B. The foot can show venous guttering
+	C. They are associated with lipodermatosclerosis
+	D. They are painful - T
+	E. They have a 'punched out' appearance - T
+#### Answer: B. The foot can show venous guttering - ?
  
-### Q54	
-Which of the following is NOT risk factors for bladder cancer?
-	A	β-Naphthylamine
-	B	Schistosoma
-	C	Catheterisation
-	D	Alcohol
-	E	Smoking
-#### Answer: 
+### Q54	- LEARN
+Which of the following is NOT _risk factors for bladder cancer_?
+
+	A. β-Naphthylamine - F
+	B. Schistosoma - F
+	C. Catheterisation - F
+	D. Alcohol
+	E. Smoking - F
+#### Answer: D. Alcohol - ?
  
 ### Q55	
-The criteria for brainstem death do NOT include:
-	A	Apnoeic coma requiring ventilation
-	B	Absence of sedative medications
-	C	Absence of gag reflex
-	D	Lack of response to painful stimulus
-	E	Normal body temperature
-#### Answer: 
+The _criteria for brainstem death_ do NOT include:
+
+	A. Apnoeic coma requiring ventilation - F
+	B. Absence of sedative medications - F
+	C. Absence of gag reflex - F
+	D. Lack of response to painful stimulus - F
+	E. Normal body temperature
+#### Answer: E. Normal body temperature -?
  
-### Q56	
-Risks associated with carotid endarterectomy include all of the following, EXCEPT:
-	A	Stroke
-	B	Myocardial infarction (MI)
-	C	Wound infection
-	D	Damage to the accessory nerve
-	E	Damage to the glossopharyngeal nerve
-#### Answer: 
+### Q56	- LEARN
+Risks associated with _carotid endarterectomy_ include all of the following, EXCEPT:
+
+	A. Stroke - T
+	B. Myocardial infarction (MI) - T
+	C. Wound infection - T
+	D. Damage to the (spinal) accessory nerve
+	E. Damage to the glossopharyngeal nerve - T
+#### Answer: D. Damage to the (spinal) accessory nerve - ?
  
-### Q57	
-Which statement is correct regarding the oxygen haemoglobin (Hb) transport curve?
-	A	Each gram of haemoglobin binds 1 ml of oxygen when fully saturated
-	B	At a PaO2 of 40 mmHg the saturation of Hb is 50%
-	C	Fetal haemoglobin moves the curve to the right
-	D	Alkaline pH moves the curve to the right
-	E	Increased temperature moves the curve to the right
-#### Answer: 
+### Q57	- LEARN
+Which statement is correct regarding the _oxygen haemoglobin_ (Hb) transport curve?
+
+	A. Each gram of haemoglobin binds 1 ml of oxygen when fully saturated
+	B. At a PaO2 of 40 mmHg the saturation of Hb is 50%
+	C. Fetal haemoglobin moves the curve to the right - F
+	D. Alkaline pH moves the curve to the right
+	E. Increased temperature moves the curve to the right
+#### Answer: E. Increased temperature moves the curve to the right - ?
  
 ### Q58	
-Which statement is correct regarding carbon dioxide transport?
-	A	10% is transported as carbaminohaemoglobin
-	B	The carbaminohaemoglobin dissociation curve readily saturates
-	C	20% is transported dissolved in the plasma
-	D	50% is transported as sodium bicarbonate
-	E	Carbonic anhydrase catalyses the reaction of CO2 and plasma
-#### Answer: 
+Which statement is correct regarding _carbon dioxide transport_?
+
+	A. 10% is transported as carbaminohaemoglobin - F
+	B. The carbaminohaemoglobin dissociation curve readily saturates - F
+	C. 20% is transported dissolved in the plasma
+	D. 50% is transported as sodium bicarbonate
+	E. Carbonic anhydrase catalyses the reaction of CO2 and plasma
+#### Answer: C. 20% is transported dissolved in the plasma - ?
  
-### Q59	
+### Q59	- LEARN
 The carpal tunnel does NOT contain:
-	A	Flexor digitorum superficialis
-	B	Flexor digitorum profundus
-	C	Median nerve
-	D	Flexor pollicis longus
-	E	Flexor carpi ulnaris
-#### Answer: 
+
+	A. Flexor digitorum superficialis (FDS) - ?
+	B. Flexor digitorum profundus (FDP)
+	C. Median nerve - F
+	D. Flexor pollicis longus (FPL)
+	E. Flexor carpi ulnaris (FCU) - ?
+#### Answer: E. Flexor carpi ulnaris (FCU) - ?
  
 ### Q60	
-Which statement is correct regarding cerebrospinal fluid (CSF)?
-	A	The normal total volume is 250 ml
-	B	It passes from the lateral to the third ventricles via the foramen of Monro
-	C	It is reabsorbed by the choroid plexuses
-	D	The rate of production is proportional to the systemic blood pressure (BP)
-	E	It passes from the third to the fourth ventricles via the foramen of Magendie
-#### Answer: 
+Which statement is correct regarding _cerebrospinal fluid_ (CSF)?
+
+	A. The normal total volume is 250 ml
+	B. It passes from the lateral to the third ventricles via the foramen of Monro
+	C. It is reabsorbed by the choroid plexuses - F
+	D. The rate of production is proportional to the systemic blood pressure (BP)
+	E. It passes from the third to the fourth ventricles via the foramen of Magendie
+#### Answer: B. It passes from the lateral to the third ventricles via the foramen of Monro - ?
 
 
 Questions 61-70
