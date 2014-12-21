@@ -1051,50 +1051,101 @@ Which of the following statements is NOT true regarding vitamin B12?
 Questions 91-100
 ----------------
 
-### 91
+### Q91
+Which of the following is an exocrine secretion of the pancreas?
+	A	Pancreatic polypeptide
+	B	Somatostatin
+	C	Trypsinogen
+	D	Glucagon
+	E	Insulin
 #### Answer: 
+ 
+### Q92	
+All of the following may be radiological features of osteoarthritis, EXCEPT:
+	A	Bone cysts
+	B	Subchondral sclerosis
+	C	Osteophytes
+	D	Increased joint space
+	E	Joint effusion
+#### Answer: 
+ 
+### Q93	
+Lung compliance is increased by:
+	A	Alveolar oedema
+	B	Pulmonary hypertension
+	C	Atelectasis
+	D	Pulmonary fibrosis
+	E	Emphysema
+#### Answer: 
+ 
+### Q94	
+The posterior pituitary releases:
+	A	Adrenocorticotropic hormone (ACTH)
+	B	Follicle-stimulating hormone (FSH)
+	C	Antidiuretic hormone (ADH)
+	D	Thyroid-stimulating hormone (TSH)
+	E	Growth hormone (GH)
+#### Answer: 
+ 
+### Q95	
+Which of the following statements about the popliteal fossa is TRUE?
+	A	The lateral edge is bounded by semimembranosus and gastrocnemius
+	B	The deep fascia forms the roof and is pierced by the long saphenous vein
+	C	The popliteal artery is the deepest structure within the fossa
+	D	The common peroneal nerve lies medially within the fossa
+	E	Soleus forms the medial lower edge
+#### Answer: 
+ 
+### Q96	
+Which of the following is NOT the correct daily requirement for an average 70-kg male?
+	A	150 mmol sodium
+	B	2500 ml water
+	C	70 mmol calcium
+	D	70 mmol potassium
+	E	70 mmol chloride
+#### Answer: 
+ 
+### Q97	
+Which of the following statements about the brachial plexus is FALSE?
+	A	The thoracodorsal nerve arises from the posterior cord
+	B	The medial and lateral cords join to form the median nerve
+	C	The trunks of the plexus are found in the posterior triangle of the neck
+	D	The long thoracic nerve originates from trunks C5, C6 and C7
+	E	The nerve that supplies subscapularis is a branch from the posterior cord
+#### Answer: 
+ 
+### Q98	
+Causes of metabolic acidosis with a normal anion gap include:
+	A	Diarrhoea
+	B	Diabetic ketoacidosis
+	C	Salicylate overdose
+	D	Renal tubular acidosis
+	E	Lactic acidosis
+#### Answer: 
+ 
+### Q99	
+Which statement is true of pleomorphic adenoma:
+	A	It is the second commonest salivary gland tumour
+	B	It usually affects the submandibular gland
+	C	It is more common in females
+	D	Approximately 10% are bilateral
+	E	It is commonest in the fourth and fifth decades
+#### Answer: 
+ 
+### Q100
+Which of the following are NOT normally found in bile?
+	A	Sodium chloride
+	B	Unconjugated bilirubin
+	C	Cholesterol
+	D	Water
+	E	Bile salts
+#### Answer: 
+
 
 Questions 101-110
 -----------------
 
 ### 101
-X
-#### Answer: 
-
-### 102
-X
-#### Answer: 
-
-### 103
-X
-#### Answer: 
-
-### 104
-X
-#### Answer: 
-
-### 105
-X
-#### Answer: 
-
-### 106
-X
-#### Answer: 
-
-### 107
-X
-#### Answer: 
-
-### 108
-X
-#### Answer: 
-
-### 109
-X
-#### Answer: 
-
-### 110
-X
 #### Answer: 
 
 Questions 111-120
