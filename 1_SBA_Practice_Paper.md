@@ -12,7 +12,7 @@ Group	| Score			| Errors 							|
 61-70	| 5/10 =  50%	| 61, 62, 65, 67, 70
 71-80	| 2/10 =  20% 	| 71, 72, 73, 74, 75, 76, 78, 80
 81-90	| 4/10 =  40%	| 82, 84, 85, 87, 88, 89
-91-100	| 
+91-100	| 2/10 =  20%	| 91, 93, 94, 95, 96, 97, 98, 99
 101-110	| 
 111-120	| 
 121-130	| 
@@ -1589,7 +1589,9 @@ Which of the following statements is NOT true regarding vitamin B12?
 Questions 91-100
 ----------------
 
-### Q91
+20% = F: 91, 93, 94, 95, 96, 97, 98, 99
+
+### Q91 - LEARN
 Which of the following is an _exocrine secretion_ of the pancreas?
 
 	A. Pancreatic polypeptide
@@ -1597,9 +1599,24 @@ Which of the following is an _exocrine secretion_ of the pancreas?
 	C. Trypsinogen
 	D. Glucagon - F
 	E. Insulin - F
-#### Answer: B. Somatostatin - ?
+#### Answer: B. Somatostatin - *FALSE* = C. Trypsinogen - TRUE
+
+##### Pancreatic Secretions
+1. Endocrine Secretions
+	- Pancreatic polypeptide
+	- Somatostatin
+	- Glucagons 
+	- Insulin
+2. Exocrine Secretions
+	- Trypsinogen
+	- Chymotrypsinogen
+	- Procarboxylase
+	- Procarboxypeptidases
+	- Phospholipase
+	- Amylase
+	- Lecithin
  
-### Q92	
+### Q92	- LEARN
 All of the following may be _radiological features_ of osteoarthritis, EXCEPT:
 
 	A. Bone cysts
@@ -1607,9 +1624,11 @@ All of the following may be _radiological features_ of osteoarthritis, EXCEPT:
 	C. Osteophytes
 	D. Increased joint space - F
 	E. Joint effusion
-#### Answer: D. Increased joint space - ?
+
+#### Answer: D. Increased joint space - TRUE
+- Characteristic radiological features of osteoarthritis are bone cysts, subchondral sclerosis, osteophytes, reduced joint space and joint effusion. In contrast, features of rheumatoid arthritis are periarticular soft-tissue swelling, loss of joint space, bony erosions, juxta-articular osteoporosis and pseudocysts.
  
-### Q93	
+### Q93	- LEARN
 _Lung compliance_ is increased by:
 
 	A. Alveolar oedema
@@ -1617,7 +1636,9 @@ _Lung compliance_ is increased by:
 	C. Atelectasis - F
 	D. Pulmonary fibrosis - F
 	E. Emphysema - F
-#### Answer: A. Alveolar oedema - ?
+#### Answer: A. Alveolar oedema - *FALSE* = E. Emphysema - TRUE
+- Compliance is reduced by alveolar oedema, pulmonary hypertension, atelectasis and pulmonary fibrosis
+- It is increased by emphysema, acute asthma and increasing age
  
 ### Q94	- LEARN
 The _posterior pituitary_ releases:
@@ -1627,9 +1648,11 @@ The _posterior pituitary_ releases:
 	C. Antidiuretic hormone (ADH)
 	D. Thyroid-stimulating hormone (TSH) - F
 	E. Growth hormone (GH) - F
-#### Answer: B. Follicle-stimulating hormone (FSH) - ?
+#### Answer: B. Follicle-stimulating hormone (FSH) - *FALSE* = C. Antidiuretic hormone (ADH) - TRUE
+- Anterior pituitary secretes ACTH, FSH, LH, thyroid-stimulating hormone (TSH), GH and prolactin
+- Posterior pituitary releases ADH
  
-### Q95	
+### Q95	- LEARN
 Which of the following statements about the _popliteal fossa_ is TRUE?
 
 	A. The lateral edge is bounded by semimembranosus and gastrocnemius - F
@@ -1637,7 +1660,9 @@ Which of the following statements about the _popliteal fossa_ is TRUE?
 	C. The popliteal artery is the deepest structure within the fossa - F
 	D. The common peroneal nerve lies medially within the fossa - F
 	E. Soleus forms the medial lower edge
-#### Answer: E. Soleus forms the medial lower edge - ?
+
+#### Answer: E. Soleus forms the medial lower edge - *FALSE* = C. The popliteal artery is the deepest structure within the fossa - TRUE
+- The popliteal fossa is a diamond-shaped area on the back of the knee. It is bounded superiorly by biceps femoris (laterally) and semimembranosus (medially) and the two heads of gastrocnemius (inferiorly). The roof is formed by deep fascia pierced by the short saphenous vein. It contains the branches of the sciatic nerve (tibial and common peroneal nerves), the popliteal vein and artery. The deepest structure is the artery. The common peroneal nerve lies laterally and winds around the head of the fibula, whereas the tibial nerve lies medially.
  
 ### Q96	
 Which of the following is NOT the _correct daily requirement_ for an average 70-kg male?
@@ -1647,8 +1672,14 @@ Which of the following is NOT the _correct daily requirement_ for an average 70-
 	C. 70 mmol calcium
 	D. 70 mmol potassium
 	E. 70 mmol chloride
-#### Answer: E. 70 mmol chloride - ?
- 
+
+#### Answer: E. 70 mmol chloride - *FALSE* = C. 70 mmol calcium - TRUE
+- Daily requirements
+	- 1 mmol/kg potassium and chloride
+	- 2 mmol/kg of sodium
+	- 0.1 mmol/kg of calcium
+	- approximately 35 ml/kg of water
+
 ### Q97	- LEARN
 Which of the following statements about the _brachial plexus_ is FALSE?
 
@@ -1657,7 +1688,9 @@ Which of the following statements about the _brachial plexus_ is FALSE?
 	C. The trunks of the plexus are found in the posterior triangle of the neck - T
 	D. The long thoracic nerve originates from trunks C5, C6 and C7 - T
 	E. The nerve that supplies subscapularis is a branch from the posterior cord
-#### Answer: A. The thoracodorsal nerve arises from the posterior cord - ?
+
+#### Answer: A. The thoracodorsal nerve arises from the posterior cord - *FALSE* = D. The long thoracic nerve originates from trunks C5, C6 and C7 - TRUE
+- The brachial plexus is made up of five nerve roots (C5–T1), which then form trunks in the posterior triangle of the neck. C6 and C7 join to form the superior trunk, C7 continues as the middle trunk and C8 and T1 form the inferior trunk. The trunks divide into anterior and posterior divisions and then combine to form lateral posterior and medial cords. The cords divide to form the main nerves: musculocutaneous nerve (lateral cord), median nerve (lateral and medial cords), axillary nerve (posterior cord), radial nerve (posterior cord) and ulnar nerve (medial cord). There are several branches arising from the roots, trunks and cords, for example the long thoracic nerve, which supplies serratus anterior, arises from nerve roots C5–C7; the thoracodorsal nerve, which supplies the latissimus dorsi and the nerve to subscapularis both arise from the posterior cord.
  
 ### Q98	- LEARN
 Causes of _metabolic acidosis_ with a _normal anion gap_ include:
@@ -1667,7 +1700,11 @@ Causes of _metabolic acidosis_ with a _normal anion gap_ include:
 	C. Salicylate overdose
 	D. Renal tubular acidosis
 	E. Lactic acidosis
-#### Answer: C. Salicylate overdose - ?
+
+#### Answer: C. Salicylate overdose - *FALSE* = A. Diarrhoea - TRUE
+- Excess acid intake and excess bicarbonate loss, eg in diarrhoea
+	- Are causes of metabolic acidosis with a normal anion gap
+- The other conditions **all** cause an increased anion gap
  
 ### Q99	
 Which statement is true of _pleomorphic adenoma_:
@@ -1677,7 +1714,9 @@ Which statement is true of _pleomorphic adenoma_:
 	C. It is more common in females
 	D. Approximately 10% are bilateral
 	E. It is commonest in the fourth and fifth decades
-#### Answer: C. It is more common in females - ?
+
+#### Answer: C. It is more common in females - *FALSE* = E. It is commonest in the fourth and fifth decades - TRUE
+- Pleomorphic adenoma is the commonest salivary gland tumour. It is benign, although a small number undergo malignant transformation. It is commonest in the parotid gland, but can occur in any salivary gland. It is commoner in males, most often presenting in the fourth and fifth decades. Ten per cent of Warthin’s tumours are bilateral.
  
 ### Q100
 Which of the following are NOT normally found in bile?
@@ -1687,7 +1726,9 @@ Which of the following are NOT normally found in bile?
 	C. Cholesterol - F
 	D. Water - F
 	E. Bile salts - F
-#### Answer: B. Unconjugated bilirubin - ?
+
+#### Answer: B. Unconjugated bilirubin - TRUE
+- Bile contains conjugated bilirubin with glucuronic acid, which make up the bile pigments. The other constituents are bile salts/acids, inorganic salts (eg sodium chloride and sodium bicarbonate), phospholipids (eg cholesterol and lecithins) and water, which makes up 97% of the bile.
 
 
 Questions 101-110
