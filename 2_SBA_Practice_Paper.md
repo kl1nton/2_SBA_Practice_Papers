@@ -554,206 +554,206 @@ Questions 51-60
 ### Q51
 Damage to peripheral nerves results in specific areas of sensory loss. Which of the following nerve–sensory area pairings is INCORRECT?
 
-	A	Radial nerve – dorsal web space between thumb and index finger
-	B	Musculocutaneous nerve – lateral area of forearm
-	C	Median nerve – palmar aspect of index finger
-	D	Obturator nerve – lateral aspect of thigh
-	E	Deep peroneal nerve – dorsal aspect of first web space
-#### Answer: 
+	A. Radial nerve – dorsal web space between thumb and index finger - T
+	B. Musculocutaneous nerve – lateral area of forearm - T
+	C. Median nerve – palmar aspect of index finger - T
+	D. Obturator nerve – lateral aspect of thigh - F
+	E. Deep peroneal nerve – dorsal aspect of first web space - T
+#### Answer: D. Obturator nerve – lateral aspect of thigh - ?
  
 ### Q52
-All of the following structures would drain through the thoracic duct, EXCEPT:
+All of the following structures would _drain through the thoracic duct_, EXCEPT:
 
-	A	Left arm and thorax
-	B	Left face and neck
-	C	Left side of abdomen
-	D	Right face and neck
-	E	Right side of abdomen
-#### Answer: 
+	A. Left arm and thorax - T
+	B. Left face and neck
+	C. Left side of abdomen - T
+	D. Right face and neck - T
+	E. Right side of abdomen - T
+#### Answer: B. Left face and neck - ?
  
 ### Q53	
-All of the following can be considered risk factors for compartment syndrome in trauma, EXCEPT:
+All of the following can be considered _risk factors for compartment syndrome_ in trauma, EXCEPT:
 
-	A	Severe crush injury to muscles
-	B	Ischaemic reperfusion to limb muscles
-	C	Flexion–distraction spinal injuries
-	D	Presence of limb burns
-	E	Immobilisation of injuries in tight casts and dressings
-#### Answer: 
+	A. Severe crush injury to muscles - T
+	B. Ischaemic reperfusion to limb muscles - T
+	C. Flexion–distraction spinal injuries
+	D. Presence of limb burns
+	E. Immobilisation of injuries in tight casts and dressings - T
+#### Answer: D. Presence of limb burns - ?
  
 ### Q54	
-Sick euthyroid syndrome consists of all of the following signs, EXCEPT:
+_Sick euthyroid syndrome_ consists of all of the following signs, EXCEPT:
 
-	A	Decreased number of binding proteins
-	B	Decreased affinity of binding proteins
-	C	Decreased TSH
-	D	Decreased peripheral conversion of T3 to T4
-	E	Normal thyroid functioning
-#### Answer: 
+	A. Decreased number of binding proteins
+	B. Decreased affinity of binding proteins
+	C. Decreased TSH
+	D. Decreased peripheral conversion of T3 to T4
+	E. Normal thyroid functioning
+#### Answer: D. Decreased peripheral conversion of T3 to T4 - ?
  
 ### Q55	
-All of the following principles are used in the management of chronic renal failure, EXCEPT:
+All of the following principles are used in the _management of chronic renal failure_, EXCEPT:
 
-	A	High-dose loop diuretics in the management of hypertension
-	B	Fluid restriction to prevent the development of oedema
-	C	Sodium restriction to help limit fluid overload
-	D	High-protein diet to prevent muscle atrophy in catabolism
-	E	Calcium chloride to help bind gut phosphate in hyperphosphataemia
+	A. High-dose loop diuretics in the management of hypertension - T
+	B. Fluid restriction to prevent the development of oedema - T
+	C. Sodium restriction to help limit fluid overload - T
+	D. High-protein diet to prevent muscle atrophy in catabolism - T
+	E. Calcium chloride to help bind gut phosphate in hyperphosphataemia
+#### Answer: E. Calcium chloride to help bind gut phosphate in hyperphosphataemia - ?
+ 
+### Q56	- LEARN
+All of the following signs _might_ be produced by a _Pancoast’s tumour_ at the apex of the right lung, EXCEPT:
+
+	A. Oedema and venous engorgement of the right upper limb - T
+	B. Hoarseness of the voice
+	C. Ipsilateral paradoxical diaphragmatic movement
+	D. Hyperhidrosis of the right side of the face - T
+	E. Enophthalmos and miosis in the right eye - T
 #### Answer: 
  
-### Q56	
-All of the following signs might be produced by a Pancoast’s tumour at the apex of the right lung, EXCEPT:
+### Q57	- LEARN
+All of the following statements regarding the _chemical control of respiration_ are correct, EXCEPT:
 
-	A	Oedema and venous engorgement of the right upper limb
-	B	Hoarseness of the voice
-	C	Ipsilateral paradoxical diaphragmatic movement
-	D	Hyperhidrosis of the right side of the face
-	E	Enophthalmos and miosis in the right eye
-#### Answer: 
- 
-### Q57	
-All of the following statements regarding the chemical control of respiration are correct, EXCEPT:
-
-	A	The carotid bodies are sensitive to hypoxaemia
-	B	The carotid bodies are sensitive to hypercapnia
-	C	The central medullary chemoreceptors are sensitive to hypoxaemia
-	D	The central medullary chemoreceptors are sensitive to hypercapnia
-	E	The central medullary chemoreceptors are sensitive to changes in H+
-#### Answer: 
+	A. The carotid bodies are sensitive to hypoxaemia
+	B. The carotid bodies are sensitive to hypercapnia
+	C. The central medullary chemoreceptors are sensitive to hypoxaemia
+	D. The central medullary chemoreceptors are sensitive to hypercapnia
+	E. The central medullary chemoreceptors are sensitive to changes in H+
+#### Answer: E. The central medullary chemoreceptors are sensitive to changes in H+ - ?
  
 ### Q58	
-Which of the following structures can be injured in supracondylar fracture of the femur?
+Which of the following structures can be injured in _supracondylar fracture of the femur_?
 
-	A	Sciatic nerve
-	B	Popliteal artery
-	C	Long saphenous vein
-	D	Short saphenous vein
-	E	Deep femoral artery
-#### Answer: 
+	A. Sciatic nerve
+	B. Popliteal artery
+	C. Long saphenous vein
+	D. Short saphenous vein
+	E. Deep femoral artery
+#### Answer: D. Short saphenous vein - ?
  
 ### Q59	
-Which of the following is NOT a complication of mechanical ventilation?
+Which of the following is NOT a _complication of mechanical ventilation_?
 
-	A	Pneumothorax
-	B	Gastric dilatation
-	C	Acute respiratory distress syndrome (ARDS)
-	D	Atrophy of respiratory muscles
-	E	Reduced venous return
-#### Answer: 
+	A. Pneumothorax - T
+	B. Gastric dilatation
+	C. Acute respiratory distress syndrome (ARDS)
+	D. Atrophy of respiratory muscles - T
+	E. Reduced venous return - T
+#### Answer: C. Acute respiratory distress syndrome (ARDS) - ?
  
 ### Q60	
-All of the following muscles are supplied by the posterior interosseous branch of the radial nerve, EXCEPT:
+All of the following muscles are supplied by the _posterior interosseous branch of the radial nerve_, EXCEPT:
 
-	A	Extensor carpi radialis longus
-	B	Extensor digitorum
-	C	Extensor digiti minimi
-	D	Abductor pollicis longus
-	E	Extensor pollicis brevis
-#### Answer: 
+	A. Extensor carpi radialis longus
+	B. Extensor digitorum
+	C. Extensor digiti minimi
+	D. Abductor pollicis longus
+	E. Extensor pollicis brevis
+#### Answer: C. Extensor digiti minimi - ?
 
 
 Questions 61-70
 ---------------
 
-### Q61
-Which of the following statements regarding the triquetral bone is correct?
+### Q61 - LEARN
+Which of the following statements regarding the _triquetral bone_ is correct?
 
-	A	The degree of contact with the radioulnar articular disc is maximal in full adduction of the wrist joint
-	B	It lies just laterally to the lunate bone
-	C	It forms part of the radiocarpal joint in the wrist
-	D	The hamate lies just anterolaterally to the triquetral
-	E	During forced hyperextension of the wrist joint, anterior dislocation of the triquetral can cause carpal tunnel syndrome
-#### Answer: 
+	A. The degree of contact with the radioulnar articular disc is maximal in full adduction of the wrist joint - F
+	B. It lies just laterally to the lunate bone - F
+	C. It forms part of the radiocarpal joint in the wrist - T
+	D. The hamate lies just anterolaterally to the triquetral - F
+	E. During forced hyperextension of the wrist joint, anterior dislocation of the triquetral can cause carpal tunnel syndrome - F
+#### Answer: C. It forms part of the radiocarpal joint in the wrist - ?
  
 ### Q62	
 A 23-year-old man undergoes open reduction and internal fixation of the right tibia after having sustained injuries from a road traffic accident. Shortly after his return to the ward, he begins to complain of paraesthesia in his toes as well as pain in his right leg, which is not relieved by analgesia. He has good distal pulses and sensation to his right foot. The first step in the management of this patient would be to:
 
-	A	Measure his compartment pressures in the right leg
-	B	Prescribe stronger analgesia as this is a common post-operative complaint
-	C	Call your seniors as he may have a trapped nerve from the surgery
-	D	Book theatres immediately for urgent fasciotomies as you are highly suspicious of compartment syndrome
-	E	Split the cast to relieve any pressure from post-operative swelling and reassess the situation in 10 minutes
-#### Answer: 
+	A. Measure his compartment pressures in the right leg
+	B. Prescribe stronger analgesia as this is a common post-operative complaint - F
+	C. Call your seniors as he may have a trapped nerve from the surgery
+	D. Book theatres immediately for urgent fasciotomies as you are highly suspicious of compartment syndrome
+	E. Split the cast to relieve any pressure from post-operative swelling and reassess the situation in 10 minutes
+#### Answer: E. Split the cast to relieve any pressure from post-operative swelling and reassess the situation in 10 minutes - ?
  
 ### Q63	
-Drainage of the right testicular vein normally occurs into the:
+Drainage of the _right testicular vein_ normally occurs into the:
 
-	A	Portal vein
-	B	Inferior vena cava
-	C	Right renal vein
-	D	Right internal iliac vein
-	E	Right suprarenal vein
-#### Answer: 
+	A. Portal vein
+	B. Inferior vena cava
+	C. Right renal vein
+	D. Right internal iliac vein
+	E. Right suprarenal vein
+#### Answer: B. Inferior vena cava - ?
  
 ### Q64	
-Which of these conditions does NOT predispose towards acute sinusitis?
+Which of these conditions does NOT predispose towards _acute sinusitis_?
 
-	A	Immunocompromise
-	B	Dental infection
-	C	Nasal polyposis
-	D	Kartagener syndrome
-	E	Waardenberg syndrome
-#### Answer: 
+	A. Immunocompromise
+	B. Dental infection - T
+	C. Nasal polyposis - T
+	D. Kartagener syndrome - T
+	E. Waardenberg syndrome
+#### Answer: E. Waardenberg syndrome - ?
  
-### Q65	
-Which of the following is NOT a feature of acute respiratory distress syndrome (ARDS)?
+### Q65	- LEARN
+Which of the following is NOT a feature of _acute respiratory distress syndrome_ (ARDS)?
 
-	A	Severe hypoxaemia (Pao2/Fio2 <27)
-	B	Pulmonary infiltrates on chest X-ray
-	C	A known cause (eg pancreatitis)
-	D	Cardiac pulmonary oedema
-	E	Pulmonary artery wedge pressure (PAWP) <18 mmHg
-#### Answer: 
+	A. Severe hypoxaemia (PaO2/FiO2 <27) - T
+	B. Pulmonary infiltrates on chest X-ray - T
+	C. A known cause (eg pancreatitis) - T
+	D. Cardiac pulmonary oedema - T
+	E. Pulmonary artery wedge pressure (PAWP) <18 mmHg
+#### Answer: E. Pulmonary artery wedge pressure (PAWP) <18 mmHg - ?
  
 ### Q66	
-A 43-year-old female patient has had a successful kidney transplant and is being discharged on the 5th post-operative day. One of the instructions she was given was not to eat grapefruit or drink grapefruit juice. This is because:
+A 43-year-old female patient has had a successful _kidney transplant_ and is being discharged on the 5th post-operative day. One of the instructions she was given was not to eat _grapefruit_ or drink grapefruit juice. This is because:
 
-	A	Grapefruit juice has large amounts of potassium
-	B	Grapefruit juice is sour and might interfere with the patient’s digestion
-	C	Grapefruit juice can interfere with the metabolism of tacrolimus, one of the immunosuppressive agents being used
-	D	Grapefruit juice can interact with the action of the statin that has been prescribed for her hypercholesterolaemia
-	E	Grapefruit juice can cause diarrhoea and interfere with the patient’s fluid balance
-#### Answer: 
+	A. Grapefruit juice has large amounts of potassium - F
+	B. Grapefruit juice is sour and might interfere with the patient’s digestion - F
+	C. Grapefruit juice can interfere with the metabolism of tacrolimus, one of the immunosuppressive agents being used
+	D. Grapefruit juice can interact with the action of the statin that has been prescribed for her hypercholesterolaemia - F
+	E. Grapefruit juice can cause diarrhoea and interfere with the patient’s fluid balance
+#### Answer: C. Grapefruit juice can interfere with the metabolism of tacrolimus, one of the immunosuppressive agents being used - ?
  
 ### Q67	
-Which of the following is NOT a complication of tracheostomy?
+Which of the following is NOT a _complication of tracheostomy_?
 
-	A	Tracheal necrosis
-	B	Recurrent laryngeal nerve injury
-	C	Pneumothorax
-	D	Hypothyroidism
-	E	Tracheocutaneous fistula
-#### Answer: 
+	A. Tracheal necrosis
+	B. Recurrent laryngeal nerve injury
+	C. Pneumothorax - T
+	D. Hypothyroidism
+	E. Tracheocutaneous fistula - T
+#### Answer: B. Recurrent laryngeal nerve injury - ?
  
 ### Q68	
-A man presents to the Emergency Department with a very low urine output. Analysis of urine and serum samples gives the following results: urinary sodium 15 mmol/l; urine osmolality 520 mOsmol/kg; urine to serum osmolality ratio 1.5. The most likely cause is:
+A man presents to the Emergency Department with a _very low urine output_. Analysis of urine and serum samples gives the following results: urinary sodium 15 mmol/l; urine osmolality 520 mOsmol/kg; urine to serum osmolality ratio 1.5. The most likely cause is:
 
-	A	Bilateral pelvi-ureteric junction (PUJ) obstruction
-	B	Retention secondary to enlarged prostate
-	C	Excessive diarrhoea and vomiting
-	D	Interstitial nephritis
-	E	Glomerulonephritis
-#### Answer: 
+	A. Bilateral pelvi-ureteric junction (PUJ) obstruction
+	B. Retention secondary to enlarged prostate
+	C. Excessive diarrhoea and vomiting
+	D. Interstitial nephritis
+	E. Glomerulonephritis
+#### Answer: C. Excessive diarrhoea and vomiting - ?
  
 ### Q69	
-The most common site affected in oral cavity carcinoma is:
+The most common site affected in _oral cavity carcinoma_ is:
 
-	A	Hard palate
-	B	Lateral border of the tongue
-	C	Tonsils
-	D	Buccal mucosa
-	E	Soft palate
-#### Answer: 
+	A. Hard palate - F
+	B. Lateral border of the tongue - F
+	C. Tonsils - F
+	D. Buccal mucosa
+	E. Soft palate
+#### Answer: D. Buccal mucosa - ?
  
 ### Q70	
-A 50-year-old woman is found to be febrile one day after her total gastrectomy for malignancy. The most likely cause of this is:
+A 50-year-old woman is found to be _febrile_ one day after her _total gastrectomy_ for malignancy. The most likely cause of this is:
 
-	A	Urinary tract infection
-	B	Pulmonary embolus
-	C	Wound infection
-	D	Anastomotic leak
-	E	Atelectasis
-#### Answer: 
+	A. Urinary tract infection
+	B. Pulmonary embolus
+	C. Wound infection
+	D. Anastomotic leak
+	E. Atelectasis
+#### Answer: E. Atelectasis - ?
 
 
 Questions 71-80
