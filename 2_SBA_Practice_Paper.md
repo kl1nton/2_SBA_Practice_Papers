@@ -1291,159 +1291,159 @@ Questions 121-130
 -----------------
 
 ### Q121
-In achondroplasia, clinical features include the following, EXCEPT:
+In _achondroplasia_, clinical features include the following, EXCEPT:
 
-	A	Excessive lordosis
-	B	Trident hands
-	C	Small nasal bridge
-	D	Hypotonia during the first year of life
-	E	Short trunk
-#### Answer: 
+	A. Excessive lordosis
+	B. Trident hands - T
+	C. Small nasal bridge - T
+	D. Hypotonia during the first year of life - T
+	E. Short trunk
+#### Answer: A. Excessive lordosis - ?
  
 ### Q122
-A man is found to have a hydrocele, which at operation is found to extend from the testis to the deep inguinal ring, but does not connect with the peritoneal cavity. Which of the following best describes this hydrocele?
+A man is found to have a hydrocele, which at operation is found to extend from the _testis to the deep inguinal ring_, but does not connect with the peritoneal cavity. Which of the following best describes this hydrocele?
 
-	A	Vaginal hydrocele
-	B	Congenital hydrocele
-	C	Infantile hydrocele
-	D	Hydrocele of cord
-	E	Malignant hydrocele
-#### Answer: 
+	A. Vaginal hydrocele
+	B. Congenital hydrocele - F
+	C. Infantile hydrocele - F
+	D. Hydrocele of cord - F
+	E. Malignant hydrocele - F
+#### Answer: A. Vaginal hydrocele - ?
  
 ### Q123
-A 23-year-old man is brought into the Emergency Department after having sustained three stab wounds to the abdomen with evisceration of small bowel. A laparotomy is performed where gross faecal contamination is found from large-bowel lacerations. The bowel injuries are resected and a defunctioning ileostomy is performed. On the 4th post-operative day, the patient develops a temperature of 39°C with peritonitis as well as buttock myonecrosis with foul-smelling discharge. In this clinical scenario, which of the following organisms is most likely to have caused this infection?
+A 23-year-old man is brought into the Emergency Department after having sustained three stab wounds to the abdomen with evisceration of small bowel. A laparotomy is performed where _gross faecal contamination_ is found from _large-bowel lacerations_. The bowel injuries are resected and a _defunctioning ileostomy_ is performed. On the 4th post-operative day, the patient develops a temperature of 39°C with peritonitis as well as buttock myonecrosis with _foul-smelling discharge_. In this clinical scenario, which of the following organisms is most likely to have caused this infection?
 
-
-	A	Helicobacter pylori
-	B	Bacteroides fragilis
-	C	Vibrio parahaemolyticus
-	D	Salmonella typhi
-	E	Shigella dysenteriae
-#### Answer: 
+	A. Helicobacter pylori - F
+	B. Bacteroides fragilis
+	C. Vibrio parahaemolyticus
+	D. Salmonella typhi - F
+	E. Shigella dysenteriae
+#### Answer: E. Shigella dysenteriae - ?
  
 ### Q124
-The most common problem following total knee replacement involves:
+The _most common problem_ following _total knee replacement_ (TKR) involves:
 
-
-	A	Infection
-	B	Incorrect prosthesis size
-	C	Chronic pain
-	D	Cosmesis
-	E	Patellar tracking
-#### Answer: 
+	A. Infection
+	B. Incorrect prosthesis size - F
+	C. Chronic pain - F
+	D. Cosmesis - F
+	E. Patellar tracking
+#### Answer: E. Patellar tracking - ?
  
-### Q125
-A 68-year-old man develops a massive acute myocardial infarction and dies in hospital while being resuscitated in the Emergency Department. An autopsy is performed and, while you are inspecting the heart, you note that it has undergone necrosis as expected. Which type of necrosis is found to be consistent with the pathology of this disease?
+### Q125 - LEARN
+A 68-year-old man develops a massive acute _myocardial infarction_ and dies in hospital while being resuscitated in the Emergency Department. An autopsy is performed and, while you are inspecting the heart, you note that it has undergone necrosis as expected. 
 
-	A	Coagulative necrosis
-	B	Liquefactive necrosis
-	C	Fat necrosis
-	D	Fibrinoid necrosis
-	E	Caseating necrosis
-#### Answer: 
+Which _type of necrosis_ is found to be consistent with the pathology of this disease?
+
+	A. Coagulative necrosis
+	B. Liquefactive necrosis
+	C. Fat necrosis - F
+	D. Fibrinoid necrosis - F
+	E. Caseating necrosis
+#### Answer: A. Coagulative necrosis - ?
  
 ### Q126
-Which one of the following laboratory stains is used to identify amyloid staining in pathological tissue sections?
+Which one of the following laboratory stains is used to identify _amyloid staining_ in pathological tissue sections?
 
-	A	Prussian blue
-	B	Congo red
-	C	Haematoxylin and eosin
-	D	Oil red-O
-	E	Periodic acid–Schiff (PAS)
-#### Answer: 
+	A. Prussian blue
+	B. Congo red
+	C. Haematoxylin and eosin
+	D. Oil red-O
+	E. Periodic acid–Schiff (PAS)
+#### Answer: E. Periodic acid–Schiff (PAS) - ?
  
 ### Q127
-Diagnostic specificity is defined as:
+Diagnostic _specificity_ is defined as:
 
-	A	Probability of a negative diagnostic test in the presence of disease
-	B	Probability of a positive diagnostic test in the presence of disease
-	C	Probability of a negative diagnostic test in the absence of disease
-	D	Probability of a positive diagnostic test in the absence of disease
-	E	Probability of being disease-free and test-negative within all people testing negative
-#### Answer: 
+	A. Probability of a negative diagnostic test in the presence of disease
+	B. Probability of a positive diagnostic test in the presence of disease
+	C. Probability of a negative diagnostic test in the absence of disease
+	D. Probability of a positive diagnostic test in the absence of disease
+	E. Probability of being disease-free and test-negative within all people testing negative
+#### Answer: C. Probability of a negative diagnostic test in the absence of disease - ?
  
 ### Q128
 Sertoli cells:
 
-	A	Are involved in the nurturing of sperm cells within the seminiferous tubules
-	B	Synthesise testosterone
-	C	Secrete testosterone in response to LH
-	D	Are known as interstitial cells of the testes
-	E	Are able to continue proliferating once fully differentiated
-#### Answer: 
+	A. Are involved in the nurturing of sperm cells within the seminiferous tubules
+	B. Synthesise testosterone
+	C. Secrete testosterone in response to LH
+	D. Are known as interstitial cells of the testes
+	E. Are able to continue proliferating once fully differentiated
+#### Answer: A. Are involved in the nurturing of sperm cells within the seminiferous tubules - ?
  
 ### Q129
 A 15-year-old boy presents with sudden-onset right testicular pain associated with nausea and vomiting. On examination, the right testis is found to be drawn up into the groin with a horizontal lie and is very tender. What is the most appropriate form of management?
 
-	A	Broad-spectrum antibiotics
-	B	Exploration of testis via inguinal incision
-	C	Bedrest and scrotal support
-	D	‘Watch and wait’ policy
-	E	Exploration of testis via transverse incision over testis
-#### Answer: 
+	A. Broad-spectrum antibiotics - F
+	B. Exploration of testis via inguinal incision
+	C. Bedrest and scrotal support - F
+	D. ‘Watch and wait’ policy - F
+	E. Exploration of testis via transverse incision over testis
+#### Answer: E. Exploration of testis via transverse incision over testis - ?
  
 ### Q130
-In the induction of anaesthesia:
+In the _induction of anaesthesia_:
 
-	A	Thiopentone injection results in a delayed recovery because of its high lipid solubility
-	B	Propofol commonly causes nausea on recovery
-	C	Ketamine is a stimulant that works by dissociation
-	D	Ketamine is routinely used in adult anaesthesia
-	E	Ketamine can cause a bradycardia on injection
-#### Answer: 
+	A. Thiopentone injection results in a delayed recovery because of its high lipid solubility
+	B. Propofol commonly causes nausea on recovery - F
+	C. Ketamine is a stimulant that works by dissociation - F
+	D. Ketamine is routinely used in adult anaesthesia - F
+	E. Ketamine can cause a bradycardia on injection
+#### Answer: E. Ketamine can cause a bradycardia on injection - ?
 
 
 Questions 131-135
 -----------------
 
 ### Q131
-The first step in the management of an episode of massive haematemesis is:
+The first step in the management of an episode of _massive haematemesis_ is:
 
-	A	Insertion of two large-bore intravenous cannulae
-	B	Urgent endoscopy
-	C	Urgent angiography
-	D	Clearing and securing the airway
-	E	Resuscitation with fluids and blood products
-#### Answer: 
+	A. Insertion of two large-bore intravenous cannulae
+	B. Urgent endoscopy - F
+	C. Urgent angiography - F
+	D. Clearing and securing the airway
+	E. Resuscitation with fluids and blood products
+#### Answer: D. Clearing and securing the airway - ?
  
 ### Q132
 All of the following statements regarding polytetrafluoroethylene (polytef or PTFE) are correct, EXCEPT:
 
-	A	Pre-clotting is not required before use
-	B	It allows tissue ingrowth and neo-intima formation
-	C	It is a hydrophobic-non-elastic polymer
-	D	Platelet deposition can occur on its surface
-	E	It is used in the creation of arteriovenous (AV) fistulae
-#### Answer: 
+	A. Pre-clotting is not required before use - T
+	B. It allows tissue ingrowth and neo-intima formation - T
+	C. It is a hydrophobic-non-elastic polymer - T
+	D. Platelet deposition can occur on its surface - T
+	E. It is used in the creation of arteriovenous (AV) fistulae - F
+#### Answer: E. It is used in the creation of arteriovenous (AV) fistulae - ?
  
 ### Q133
-Which of the following features is found with a large pulmonary embolus?
+Which of the following features is found with a _large pulmonary embolus_ (PE)?
 
-	A	Decreased pulmonary vascular resistance
-	B	Pulmonary hypertension
-	C	Increased left ventricular output
-	D	Decreased right ventricular afterload
-	E	Increased lung compliance
-#### Answer: 
+	A. Decreased pulmonary vascular resistance - F
+	B. Pulmonary hypertension
+	C. Increased left ventricular output
+	D. Decreased right ventricular afterload - F
+	E. Increased lung compliance - F
+#### Answer: B. Pulmonary hypertension - ?
  
 ### Q134
-All of the following drugs can cause acute pancreatitis, EXCEPT:
+All of the following drugs can cause _acute pancreatitis_, EXCEPT:
 
-	A	Furosemide
-	B	Azathioprine
-	C	Didanosine
-	D	Tetracycline
-	E	Omeprazole
-#### Answer: 
+	A. Furosemide
+	B. Azathioprine
+	C. Didanosine
+	D. Tetracycline
+	E. Omeprazole
+#### Answer: C. Didanosine - ?
  
 ### Q135
-All of the following statements regarding prostate cancer are true, EXCEPT:
+All of the following statements regarding _prostate cancer_ are true, EXCEPT:
 
-	A	It is the second leading cause of male cancer deaths
-	B	The lifetime risk of microscopic prostate cancer in all men is 30%
-	C	The incidence is decreasing as a result of screening measures
-	D	The lifetime risk of developing overt disease is 10%
-	E	Consumption of carrots and cereals may have some protective effect
-#### Answer: 
+	A. It is the second leading cause of male cancer deaths - T
+	B. The lifetime risk of microscopic prostate cancer in all men is 30%
+	C. The incidence is decreasing as a result of screening measures - F
+	D. The lifetime risk of developing overt disease is 10% - T
+	E. Consumption of carrots and cereals may have some protective effect - F
+#### Answer: E. Consumption of carrots and cereals may have some protective effect - ?
 
 ---
