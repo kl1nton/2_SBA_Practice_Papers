@@ -24,95 +24,105 @@ Questions 1-10 - HERE
 --------------
 
 ### Q1
-Structures derived from the first (mandibular) branchial arch include all of the following, EXCEPT:
+Structures derived from the _first (mandibular) branchial arch_ include all of the following, EXCEPT:
 
-	A	Muscles of mastication
-	B	Stylohyoid ligament
-	C	Incus and malleus
-	D	Mylohyoid
-	E	Tensor tympani
+	A. Muscles of mastication
+	B. Stylohyoid ligament
+	C. Incus and malleus
+	D. Mylohyoid
+	E. Tensor tympani
+#### Answer: C. Incus and malleus - ?
  
 ### Q2	
-Regarding branchial cysts, which of the following statements is FALSE?
+Regarding _branchial cysts_, which of the following statements is FALSE?
 
-	A	They are lined by stratified squamous epithelium
-	B	Diagnosis is by clinical examination and needle aspiration
-	C	They occur at the junction of the lower third and upper two-thirds of sternocleidomastoid
-	D	They are present in 60% of males
-	E	A quarter of cysts become infected
+	A. They are lined by stratified squamous epithelium
+	B. Diagnosis is by clinical examination and needle aspiration
+	C. They occur at the junction of the lower third and upper two-thirds of sternocleidomastoid
+	D. They are present in 60% of males
+	E. A quarter of cysts become infected
+#### Answer: D. They are present in 60% of males - ?
  
 ### Q3	
-Which one of the following statements regarding the development of the parathyroid glands is TRUE?
+Which one of the following statements regarding the development of the _parathyroid glands_ is TRUE?
 
-	A	The superior parathyroids develop from the third pharyngeal pouch
-	B	The inferior parathyroids develop from the fourth pharyngeal pouch
-	C	Development of the superior parathyroids occurs in company with the thymus gland
-	D	Development of the inferior parathyroids occurs in company with the parafollicular C cells
-	E	The inferior parathyroids can be found in the superior mediastinum in association with the thymus gland
+	A. The superior parathyroids develop from the third pharyngeal pouch - F
+	B. The inferior parathyroids develop from the fourth pharyngeal pouch - F
+	C. Development of the superior parathyroids occurs in company with the thymus gland - F
+	D. Development of the inferior parathyroids occurs in company with the parafollicular C cells - F
+	E. The inferior parathyroids can be found in the superior mediastinum in association with the thymus gland
+
+#### Answer: E. The inferior parathyroids can be found in the superior mediastinum in association with the thymus gland - ?
  
 ### Q4	
-A 55-year-old man presents to you with back pain and paraesthesia along the medial border of the leg and foot. A disc prolapse is suspected with compression of which of the following spinal nerve roots?
+A 55-year-old man presents to you with _back pain and paraesthesia_ along the _medial border of the leg and foot_. A disc prolapse is suspected with compression of which of the following spinal nerve roots?
 
-	A	L3
-	B	L4
-	C	L5
-	D	S1
-	E	S2
+	A. L3
+	B. L4
+	C. L5
+	D. S1
+	E. S2
+#### Answer: C. L5 - ?
  
 ### Q5	
-All of the following are complications of transurethral resection of prostate (TURP), EXCEPT:
+All of the following are complications of _transurethral resection of prostate_ (TURP), EXCEPT:
 
-	A	Urethral stricture
-	B	Retrograde ejaculation
-	C	Hypernatraemia
-	D	Incontinence
-	E	Increased risk of myocardial infarction
+	A. Urethral stricture - T
+	B. Retrograde ejaculation - T
+	C. HyPERnatraemia - T
+	D. Incontinence - T
+	E. Increased risk of myocardial infarction
+#### Answer: E. Increased risk of myocardial infarction - ?
  
 ### Q6	
-Which of the following muscles of mastication inserts into the neck of the mandible and anterior surface of the disc of the temporomandibular joint?
+Which of the following _muscles of mastication_ inserts into the _neck of the mandible_ and _anterior surface of the disc_ of the temporomandibular joint?
 
-	A	Lateral pterygoid
-	B	Medial pterygoid
-	C	Masseter
-	D	Buccinator
-	E	Temporalis
+	A. Lateral pterygoid
+	B. Medial pterygoid
+	C. Masseter - F
+	D. Buccinator -F
+	E. Temporalis -F
+#### Answer: A. Lateral pterygoid - ?
  
 ### Q7	
-Which one of these muscle and nerve pairings is correct?
+Which one of these _muscle and nerve pairings_ is correct?
 
-	A	Stylopharyngeus – glossopharyngeal nerve
-	B	Tensor veli palatini – pharyngeal plexus
-	C	Buccinator – cranial nerve Vc
-	D	Palatoglossus – hypoglossal nerve
-	E	Cricothyroid – recurrent laryngeal nerve
+	A. Stylopharyngeus – glossopharyngeal nerve
+	B. Tensor veli palatini – pharyngeal plexus
+	C. Buccinator – cranial nerve Vc
+	D. Palatoglossus – hypoglossal nerve
+	E. Cricothyroid – recurrent laryngeal nerve
+#### Answer: C. Buccinator – cranial nerve Vc - ?
  
 ### Q8	
-Concerning parasympathetic nerve supply, which one of the following pairings is correct?
+Concerning _parasympathetic nerve supply_, which one of the following pairings is correct?
 
-	A	Otic ganglion – submandibular gland
-	B	Pterygopalatine ganglion – lacrimal gland
-	C	Pterygopalatine ganglion – parotid gland
-	D	Auriculotemporal nerve – submandibular gland
-	E	Facial nerve – otic ganglion
+	A. Otic ganglion – submandibular gland
+	B. Pterygopalatine ganglion – lacrimal gland
+	C. Pterygopalatine ganglion – parotid gland - F
+	D. Auriculotemporal nerve – submandibular gland - F
+	E. Facial nerve – otic ganglion - F
+#### Answer: B. Pterygopalatine ganglion – lacrimal gland - ?
  
 ### Q9
 A patient arrives in the Emergency Department with the following arterial blood gas results: PaO2 8.0 kPa; PaCO2 2.0 kPa; pH 7.54; bicarbonate 18 mmol/l. The most likely cause is:
 
-	A	Excessive vomiting
-	B	Pulmonary embolus (PE)
-	C	Diabetic ketoacidosis
-	D	CVA
-	E	Chest wall trauma
+	A. Excessive vomiting
+	B. Pulmonary embolus (PE) - F
+	C. Diabetic ketoacidosis (DKA) - F
+	D. Cerebrovascular Accident (CVA) - ?
+	E. Chest wall trauma - F
+#### Answer: A. Excessive vomiting - ?
  
-### Q10	
-The operation of choice for treatment of a strangulated femoral hernia, which is likely to contain infarcted small bowel is:
+### Q10 - LEARN	
+The operation of choice for treatment of a _strangulated femoral hernia_, which is likely to contain _infarcted small bowel_ is:
 
-	A	McEvedy’s abdominal approach
-	B	Lothiessen’s high approach
-	C	Lockwood’s crural or low approach
-	D	Bassini’s low repair
-	E	Lower midline laparotomy
-#### Answer: 
+	A. McEvedy’s abdominal approach
+	B. Lothiessen’s high approach
+	C. Lockwood’s crural or low approach
+	D. Bassini’s low repair
+	E. Lower midline laparotomy
+#### Answer: A. McEvedy’s abdominal approach - ?
 
 
 Questions 11-20
@@ -126,6 +136,7 @@ A 21-year-old medical student presents to the Emergency Department with conjunct
 	C	Inferior meatus
 	D	Spheno-ethmoidal recess
 	E	Nasopharynx
+#### Answer: 
  
 ### Q12	
 An 18-year-old motorcycle accident victim is noted to have a fluctuating Glasgow Coma Scale (GCS) score and a dilated right pupil in the Emergency Department. You suspect an extradural haemorrhage and this is confirmed on computed tomography. Which one of the following branches of the maxillary artery is classically injured in an extradural haemorrhage?
@@ -135,6 +146,7 @@ An 18-year-old motorcycle accident victim is noted to have a fluctuating Glasgow
 	C	Middle meningeal
 	D	Deep temporal
 	E	Accessory meningeal
+#### Answer: 
  
 ### Q13	
 A patient of yours requires central venous access via the internal jugular vein. The internal jugular vein is formed by the union of the sigmoid sinus with which one of the following sinuses?
@@ -144,6 +156,7 @@ A patient of yours requires central venous access via the internal jugular vein.
 	C	Cavernous sinus
 	D	Straight sinus
 	E	Occipital sinus
+#### Answer: 
  
 ### Q14	
 All of the following statements about 5-fluorouracil (5-FU) are correct, EXCEPT:
@@ -153,6 +166,7 @@ All of the following statements about 5-fluorouracil (5-FU) are correct, EXCEPT:
 	C	It is used in the treatment of solid cancers
 	D	It is an alkylating agent
 	E	It inhibits pyrimidine rather than purine synthesis
+#### Answer: 
  
 ### Q15	
 Which statement is true regarding the bladder?
@@ -162,6 +176,7 @@ Which statement is true regarding the bladder?
 	C	It receives its blood supply from branches of the external iliac arteries
 	D	It is entirely covered by peritoneum
 	E	The trigone is situated at the apex of the bladder
+#### Answer: 
  
 ### Q16	
 Which one of the following structures passes through the foramen rotundum in the base of the skull?
@@ -171,6 +186,7 @@ Which one of the following structures passes through the foramen rotundum in the
 	C	Lesser petrosal nerve
 	D	Middle meningeal artery
 	E	Facial nerve
+#### Answer: 
  
 ### Q17	
 Structures entering through the jugular foramen in the base of the skull include all of the following, EXCEPT:
@@ -180,6 +196,7 @@ Structures entering through the jugular foramen in the base of the skull include
 	C	Accessory nerve (XI)
 	D	Sigmoid sinus
 	E	Superior petrosal sinus
+#### Answer: 
  
 ### Q18	
 Which of the following anti-cancer drugs would be classified as an alkylating agent?
@@ -189,6 +206,7 @@ Which of the following anti-cancer drugs would be classified as an alkylating ag
 	C	Cytarabine
 	D	Vincristine
 	E	Cisplatin
+#### Answer: 
  
 ### Q19	
 An obese 45-year-old waitress is referred to you by her GP with a diagnosis of meralgia paraesthetica. You would expect her symptoms to affect which one of the following areas?
@@ -198,6 +216,7 @@ An obese 45-year-old waitress is referred to you by her GP with a diagnosis of m
 	C	Lateral thigh
 	D	Medial thigh
 	E	Groin area
+#### Answer: 
  
 ### Q20	
 Cricoid pressure is often applied to assist anaesthetists during the intubation process. Anatomically, the cricoid cartilage can also be used to identify other vessels and landmarks in the neck. The surface marking of the cricoid cartilage in a normal male adult is represented by which of the following vertebral levels?
@@ -221,6 +240,7 @@ A patient has a tuning fork test with central vertex placement localising to the
 	C	Rinne’s test involves central tuning fork placement on the vertex of the skull
 	D	There is a conductive loss of greater than 20 dB in the left ear
 	E	Masking can be achieved with a Baroness sound box
+#### Answer: 
  
 ### Q22	
 A 3-year-old boy presents to the ENT Clinic with a 1-week history of unilateral purulent nasal discharge. His mother reports that he is otherwise well in himself and has no other symptoms. The initial management would be:
@@ -230,6 +250,7 @@ A 3-year-old boy presents to the ENT Clinic with a 1-week history of unilateral 
 	C	Examination and attempted removal of foreign body
 	D	Plain facial X-rays
 	E	Orthopantomogram
+#### Answer: 
  
 ### Q23	
 The classic visual field defect caused by a pituitary adenoma will be a:
@@ -239,6 +260,7 @@ The classic visual field defect caused by a pituitary adenoma will be a:
 	C	Bitemporal inferior quadrantanopia
 	D	Binasal hemianopia
 	E	Unilateral visual loss
+#### Answer: 
  
 ### Q24
 Which of the following veins accompanies the marginal branch of the right coronary artery?
@@ -248,6 +270,7 @@ Which of the following veins accompanies the marginal branch of the right corona
 	C	Small cardiac vein
 	D	Anterior cardiac vein
 	E	Oblique cardiac vein
+#### Answer: 
  
 ### Q25	
 A 17-year-old boy presents to the ENT Clinic for follow-up of his nasal fracture treatment. Incidentally, he mentions that he has had long-standing nasal stuffiness. A nasal speculum examination reveals bilateral polyps. Regarding nasal polyps, which one of the following statements is TRUE?
@@ -257,6 +280,7 @@ A 17-year-old boy presents to the ENT Clinic for follow-up of his nasal fracture
 	C	Epistaxis is unlikely to be associated with neoplasia
 	D	Polyps are commonly treated with long courses of high-dose steroids
 	E	Surgery is not indicated
+#### Answer: 
  
 ### Q26	
 A 5-year-old boy presents with a 2-hour history of sudden-onset distress while playing with Lego at nursery. He has very noisy inspiratory breathing from the neck, with raised respiratory and heart rates. The most likely site of obstruction would be at the level of the:
@@ -266,6 +290,7 @@ A 5-year-old boy presents with a 2-hour history of sudden-onset distress while p
 	C	Larynx
 	D	Trachea
 	E	Main bronchi
+#### Answer: 
  
 ### Q27	
 Which of the following features is NOT associated with a full-thickness burn?
@@ -275,6 +300,7 @@ Which of the following features is NOT associated with a full-thickness burn?
 	C	No sensation
 	D	Usually require treatment with skin graft
 	E	Minimal healing
+#### Answer: 
  
 ### Q28	
 A 52-year-old businessman is admitted to the Emergency Department with acute-onset chest pain, which radiates to the right arm and is associated with nausea and sweating. An ECG taken shows ischaemic changes within the heart and you suspect that he has angina. Transmission of activity within which of the following afferent nerves would explain the pain radiating down the arm from the chest?
@@ -284,6 +310,7 @@ A 52-year-old businessman is admitted to the Emergency Department with acute-ons
 	C	Somatic nerves to the arm
 	D	Intercostal nerves
 	E	Splanchnic nerves
+#### Answer: 
  
 ### Q29	
 A 42-year-old woman presents with a 6-month history of intermittent, sudden-onset, dizzy spells. She describes the world spinning suddenly, where she feels she is being thrown to the floor. She feels nauseous and lies as still as possible. It lasts for a few hours, and is associated with a ringing in her ears. She also notes that her hearing has slightly decreased between the attacks. Examination is unremarkable, but audiograms show low-frequency sensorineural hearing loss. Which one of the following is the most likely diagnosis?
@@ -293,6 +320,7 @@ A 42-year-old woman presents with a 6-month history of intermittent, sudden-onse
 	C	Acoustic neuroma
 	D	Cardiovascular pathology
 	E	Ménière’s disease
+#### Answer: 
  
 ### Q30	
 With regard to the synthesis and uptake of thyroid hormones, which one of the following statements is TRUE?
@@ -316,6 +344,7 @@ Regarding TSH:
 	C	Plasma levels of TSH rise in hot environments
 	D	Glucocorticoids and oestrogens reduce the TSH secretory response to TRH
 	E	Secretion is stimulated by somatostatin and dopamine
+#### Answer: 
  
 ### Q32	
 A Richter’s hernia refers to a hernia that:
@@ -325,6 +354,7 @@ A Richter’s hernia refers to a hernia that:
 	C	Contains part of the wall of the bowel
 	D	Protrudes through the linea semilunaris
 	E	Causes intestinal obstruction commonly
+#### Answer: 
  
 ### Q33	
 Innervation to the muscles of the back originate from:
@@ -334,6 +364,7 @@ Innervation to the muscles of the back originate from:
 	C	Grey rami communicantes
 	D	White rami communicantes
 	E	Lateral perforating branches of the ventral primary rami
+#### Answer: 
  
 ### Q34	
 Regarding multiple endocrine neoplasia (MEN) syndromes, which one of the following statements is correct?
@@ -343,6 +374,7 @@ Regarding multiple endocrine neoplasia (MEN) syndromes, which one of the followi
 	C	Phaeochromocytomas are best detected by urinary 5-HIAA measurement
 	D	MEN syndromes are always familial
 	E	Parathyroid adenomas tend to present with hypocalcaemia
+#### Answer: 
  
 ### Q35	
 The sensory nerve supply to the diaphragmatic pleura is derived from the:
@@ -352,6 +384,7 @@ The sensory nerve supply to the diaphragmatic pleura is derived from the:
 	C	Intercostal nerve
 	D	Sympathetic chain
 	E	Pectoral nerves
+#### Answer: 
  
 ### Q36	
 The intervertebral joint is an example of a:
@@ -361,6 +394,7 @@ The intervertebral joint is an example of a:
 	C	Fibrous joint
 	D	Synovial condyloid joint
 	E	Synovial plane
+#### Answer: 
  
 ### Q37	
 Which of the following blood results is most likely to indicate recent infection with hepatitis B?
@@ -373,6 +407,8 @@ C		| +		| -		| +				| -				|
 D		| +		| +		| -				| +				|
 E		| +		| +		| +				| +				|
  
+#### Answer: 
+
 ### Q38	Which of the following nerves provides the afferent limb of the sneezing reflex?
 
 	A	Ophthalmic division of the trigeminal nerve
@@ -380,6 +416,7 @@ E		| +		| +		| +				| +				|
 	C	Mandibular division of the trigeminal nerve
 	D	Glossopharyngeal nerve
 	E	Vagus nerve
+#### Answer: 
  
 ### Q39	
 All of the following muscles are involved in abduction of the hip joint, EXCEPT:
@@ -389,6 +426,7 @@ All of the following muscles are involved in abduction of the hip joint, EXCEPT:
 	C	Sartorius
 	D	Quadratus femoris
 	E	Tensor fascia lata
+#### Answer: 
  
 ### Q40	
 Which of the following hereditary immune disorders is NOT correctly paired with the affected component of the immune system?
@@ -412,6 +450,7 @@ A 44-year-old-man presents to you with signs of a facial infection around the ar
 	C	Nasal cavity
 	D	Maxillary sinus
 	E	Middle cranial fossa
+#### Answer: 
  
 ### Q42	
 All of the following nerves pass along the lateral wall of the cavernous sinus, EXCEPT:
@@ -421,6 +460,7 @@ All of the following nerves pass along the lateral wall of the cavernous sinus, 
 	C	Ophthalmic division of the trigeminal nerve
 	D	Maxillary division of the trigeminal nerve
 	E	Abducent nerve
+#### Answer: 
  
 ### Q43	
 A 28-year-old woman gives birth to a healthy baby girl in the delivery suite. During her second stage of labour an episiotomy was necessary to allow delivery of her baby under local anaesthesia. Immediately after this procedure, the woman now complains that she is unable to maintain continence of faeces as she has no voluntary control of her anal sphincters. Which nerve in this clinical scenario has been anaesthetised?
@@ -430,6 +470,7 @@ A 28-year-old woman gives birth to a healthy baby girl in the delivery suite. Du
 	C	Superior gluteal nerve
 	D	Ventral rami of S3 and S4
 	E	Inferior hypogastric nerve
+#### Answer: 
  
 ### Q44	
 A bleeding ulcer on the posterior aspect of the first part of the duodenum would classically erode through which of the following vessels?
@@ -439,6 +480,7 @@ A bleeding ulcer on the posterior aspect of the first part of the duodenum would
 	C	Right gastroepiploic artery
 	D	Gastroduodenal artery
 	E	Hepatic artery
+#### Answer: 
  
 ### Q45	
 The lateral umbilical folds in the abdominal wall are formed by
@@ -448,6 +490,7 @@ The lateral umbilical folds in the abdominal wall are formed by
 	C	Superior epigastric arteries
 	D	Inferior epigastric arteries
 	E	Falciform ligament
+#### Answer: 
  
 ### Q46	
 All of the following statements regarding Swan–Ganz pulmonary artery catheters are true, EXCEPT:
@@ -457,6 +500,7 @@ All of the following statements regarding Swan–Ganz pulmonary artery catheters
 	C	Left atrial pressure may be measured reasonably accurately
 	D	It can be used as part of the thermodilution mechanism to measure cardiac output accurately
 	E	It should always be inserted under strict aseptic technique
+#### Answer: 
  
 ### Q47	
 Cerebrospinal fluid is connected to the subarachnoid space from the ventricles via the:
@@ -466,6 +510,7 @@ Cerebrospinal fluid is connected to the subarachnoid space from the ventricles v
 	C	Choroid plexus
 	D	Foramen of Monro
 	E	Foramina of Magendie and Luschka
+#### Answer: 
  
 ### Q48	
 A 42-year old alcoholic man is referred to you with ascites and liver cirrhosis. The mechanism of formation of ascites in this patient with cirrhosis is a combination of which of the following conditions?
@@ -475,6 +520,7 @@ A 42-year old alcoholic man is referred to you with ascites and liver cirrhosis.
 	C	Decreased hepatic lymph flow with decreased aldosterone secretion
 	D	Leaky capillaries in the portal circulation
 	E	Subacute inflammatory changes causing hepatic oedema and extravasation of fluid
+#### Answer: 
  
 ### Q49	
 A woman is brought to the Emergency Department after being rescued from a house fire. She has burns affecting her left arm and anterior surfaces of both legs. Using Wallace’s rule of nines, the percentage of area burnt is:
@@ -484,6 +530,7 @@ A woman is brought to the Emergency Department after being rescued from a house 
 	C	36%
 	D	27%
 	E	54%
+#### Answer: 
  
 ### Q50	
 A 35-year old businessman presents to you for an endoscopy following symptoms of epigastric pain which is worse at nights and on eating food. You suspect a gastric ulcer and proceed to perform endoscopy with a biopsy for Helicobacter pylori. On endoscopic biopsy, which of the following is the commonest location for finding H. pylori within the stomach?
@@ -506,6 +553,7 @@ Damage to peripheral nerves results in specific areas of sensory loss. Which of 
 	C	Median nerve – palmar aspect of index finger
 	D	Obturator nerve – lateral aspect of thigh
 	E	Deep peroneal nerve – dorsal aspect of first web space
+#### Answer: 
  
 ### Q52
 All of the following structures would drain through the thoracic duct, EXCEPT:
@@ -515,6 +563,7 @@ All of the following structures would drain through the thoracic duct, EXCEPT:
 	C	Left side of abdomen
 	D	Right face and neck
 	E	Right side of abdomen
+#### Answer: 
  
 ### Q53	
 All of the following can be considered risk factors for compartment syndrome in trauma, EXCEPT:
@@ -524,6 +573,7 @@ All of the following can be considered risk factors for compartment syndrome in 
 	C	Flexion–distraction spinal injuries
 	D	Presence of limb burns
 	E	Immobilisation of injuries in tight casts and dressings
+#### Answer: 
  
 ### Q54	
 Sick euthyroid syndrome consists of all of the following signs, EXCEPT:
@@ -533,6 +583,7 @@ Sick euthyroid syndrome consists of all of the following signs, EXCEPT:
 	C	Decreased TSH
 	D	Decreased peripheral conversion of T3 to T4
 	E	Normal thyroid functioning
+#### Answer: 
  
 ### Q55	
 All of the following principles are used in the management of chronic renal failure, EXCEPT:
@@ -542,6 +593,7 @@ All of the following principles are used in the management of chronic renal fail
 	C	Sodium restriction to help limit fluid overload
 	D	High-protein diet to prevent muscle atrophy in catabolism
 	E	Calcium chloride to help bind gut phosphate in hyperphosphataemia
+#### Answer: 
  
 ### Q56	
 All of the following signs might be produced by a Pancoast’s tumour at the apex of the right lung, EXCEPT:
@@ -551,6 +603,7 @@ All of the following signs might be produced by a Pancoast’s tumour at the ape
 	C	Ipsilateral paradoxical diaphragmatic movement
 	D	Hyperhidrosis of the right side of the face
 	E	Enophthalmos and miosis in the right eye
+#### Answer: 
  
 ### Q57	
 All of the following statements regarding the chemical control of respiration are correct, EXCEPT:
@@ -560,6 +613,7 @@ All of the following statements regarding the chemical control of respiration ar
 	C	The central medullary chemoreceptors are sensitive to hypoxaemia
 	D	The central medullary chemoreceptors are sensitive to hypercapnia
 	E	The central medullary chemoreceptors are sensitive to changes in H+
+#### Answer: 
  
 ### Q58	
 Which of the following structures can be injured in supracondylar fracture of the femur?
@@ -569,6 +623,7 @@ Which of the following structures can be injured in supracondylar fracture of th
 	C	Long saphenous vein
 	D	Short saphenous vein
 	E	Deep femoral artery
+#### Answer: 
  
 ### Q59	
 Which of the following is NOT a complication of mechanical ventilation?
@@ -578,6 +633,7 @@ Which of the following is NOT a complication of mechanical ventilation?
 	C	Acute respiratory distress syndrome (ARDS)
 	D	Atrophy of respiratory muscles
 	E	Reduced venous return
+#### Answer: 
  
 ### Q60	
 All of the following muscles are supplied by the posterior interosseous branch of the radial nerve, EXCEPT:
@@ -601,6 +657,7 @@ Which of the following statements regarding the triquetral bone is correct?
 	C	It forms part of the radiocarpal joint in the wrist
 	D	The hamate lies just anterolaterally to the triquetral
 	E	During forced hyperextension of the wrist joint, anterior dislocation of the triquetral can cause carpal tunnel syndrome
+#### Answer: 
  
 ### Q62	
 A 23-year-old man undergoes open reduction and internal fixation of the right tibia after having sustained injuries from a road traffic accident. Shortly after his return to the ward, he begins to complain of paraesthesia in his toes as well as pain in his right leg, which is not relieved by analgesia. He has good distal pulses and sensation to his right foot. The first step in the management of this patient would be to:
@@ -610,6 +667,7 @@ A 23-year-old man undergoes open reduction and internal fixation of the right ti
 	C	Call your seniors as he may have a trapped nerve from the surgery
 	D	Book theatres immediately for urgent fasciotomies as you are highly suspicious of compartment syndrome
 	E	Split the cast to relieve any pressure from post-operative swelling and reassess the situation in 10 minutes
+#### Answer: 
  
 ### Q63	
 Drainage of the right testicular vein normally occurs into the:
@@ -619,6 +677,7 @@ Drainage of the right testicular vein normally occurs into the:
 	C	Right renal vein
 	D	Right internal iliac vein
 	E	Right suprarenal vein
+#### Answer: 
  
 ### Q64	
 Which of these conditions does NOT predispose towards acute sinusitis?
@@ -628,6 +687,7 @@ Which of these conditions does NOT predispose towards acute sinusitis?
 	C	Nasal polyposis
 	D	Kartagener syndrome
 	E	Waardenberg syndrome
+#### Answer: 
  
 ### Q65	
 Which of the following is NOT a feature of acute respiratory distress syndrome (ARDS)?
@@ -637,6 +697,7 @@ Which of the following is NOT a feature of acute respiratory distress syndrome (
 	C	A known cause (eg pancreatitis)
 	D	Cardiac pulmonary oedema
 	E	Pulmonary artery wedge pressure (PAWP) <18 mmHg
+#### Answer: 
  
 ### Q66	
 A 43-year-old female patient has had a successful kidney transplant and is being discharged on the 5th post-operative day. One of the instructions she was given was not to eat grapefruit or drink grapefruit juice. This is because:
@@ -646,6 +707,7 @@ A 43-year-old female patient has had a successful kidney transplant and is being
 	C	Grapefruit juice can interfere with the metabolism of tacrolimus, one of the immunosuppressive agents being used
 	D	Grapefruit juice can interact with the action of the statin that has been prescribed for her hypercholesterolaemia
 	E	Grapefruit juice can cause diarrhoea and interfere with the patient’s fluid balance
+#### Answer: 
  
 ### Q67	
 Which of the following is NOT a complication of tracheostomy?
@@ -655,6 +717,7 @@ Which of the following is NOT a complication of tracheostomy?
 	C	Pneumothorax
 	D	Hypothyroidism
 	E	Tracheocutaneous fistula
+#### Answer: 
  
 ### Q68	
 A man presents to the Emergency Department with a very low urine output. Analysis of urine and serum samples gives the following results: urinary sodium 15 mmol/l; urine osmolality 520 mOsmol/kg; urine to serum osmolality ratio 1.5. The most likely cause is:
@@ -664,6 +727,7 @@ A man presents to the Emergency Department with a very low urine output. Analysi
 	C	Excessive diarrhoea and vomiting
 	D	Interstitial nephritis
 	E	Glomerulonephritis
+#### Answer: 
  
 ### Q69	
 The most common site affected in oral cavity carcinoma is:
@@ -673,6 +737,7 @@ The most common site affected in oral cavity carcinoma is:
 	C	Tonsils
 	D	Buccal mucosa
 	E	Soft palate
+#### Answer: 
  
 ### Q70	
 A 50-year-old woman is found to be febrile one day after her total gastrectomy for malignancy. The most likely cause of this is:
@@ -696,6 +761,7 @@ Which of the following is NOT a test used to determine brainstem death?
 	C	Caloric test
 	D	Pain reflex
 	E	Flexor response
+#### Answer: 
  
 ### Q72	
 The following vessels all supply blood to the oesophagus, EXCEPT:
@@ -705,6 +771,7 @@ The following vessels all supply blood to the oesophagus, EXCEPT:
 	C	Left gastric artery branches
 	D	Superior phrenic artery
 	E	Aortic and bronchial branches
+#### Answer: 
  
 ### Q73	
 High anal fistulae:
@@ -714,6 +781,7 @@ High anal fistulae:
 	C	Can be managed with a loose seton
 	D	Are typically associated with ulcerative colitis
 	E	May be laid open without hazard
+#### Answer: 
  
 ### Q74	
 Which of the following is NOT used in the definition of systemic inflammatory response syndrome (SIRS)?
@@ -723,6 +791,7 @@ Which of the following is NOT used in the definition of systemic inflammatory re
 	C	Temperature <36 °C
 	D	Bradycardia <45 bpm
 	E	Paco2 <4.3 kPa
+#### Answer: 
  
 ### Q75	
 The developmental origin of the uterus and uterine tubes is the:
@@ -732,6 +801,7 @@ The developmental origin of the uterus and uterine tubes is the:
 	C	Metanephric ducts
 	D	Paramesonephric ducts
 	E	Wolffian ducts
+#### Answer: 
  
 ### Q76	
 High-output stomas are associated with all of the following, EXCEPT:
@@ -741,6 +811,7 @@ High-output stomas are associated with all of the following, EXCEPT:
 	C	Diarrhoea
 	D	Octreotide to reduce output
 	E	Loperamide to reduce output
+#### Answer: 
  
 ### Q77	
 A 57-year-old man was admitted to Neurointensive Care after a subarachnoid haemorrhage. He is not brainstem-dead, but the neurosurgeon is of the opinion that further treatment is futile. His long-standing partner of 15 years, a 55-year-old man, is in agreement that treatment should be withdrawn. Which of the following statements is TRUE?
@@ -750,6 +821,7 @@ A 57-year-old man was admitted to Neurointensive Care after a subarachnoid haemo
 	C	The patient cannot be a donor because he is too old
 	D	The patient is a potential non-heart-beating donor of his liver and kidneys
 	E	Organ retrieval from such a patient is illegal
+#### Answer: 
  
 ### Q78	
 Concerning laparoscopic surgery, which of the following is NOT true?
@@ -759,6 +831,7 @@ Concerning laparoscopic surgery, which of the following is NOT true?
 	C	Verres needles should be inserted under direct vision
 	D	Conduction coupling is a recognised risk
 	E	Pneumoperitoneum can lead to pneumomediastinum
+#### Answer: 
  
 ### Q79	
 Smoking causes all of the following physiological effects, EXCEPT:
@@ -768,6 +841,7 @@ Smoking causes all of the following physiological effects, EXCEPT:
 	C	Impaired mucociliary function
 	D	No change in cardiovascular function when stopped 1 day before surgery
 	E	An increase in pulse rate and mean arterial pressure
+#### Answer: 
  
 ### Q80	
 Which of the following phases is correctly matched with its physiological action within the cardiac ventricular muscle action potential graph?
@@ -791,6 +865,7 @@ During observation of the venous pulse, you note that the x descent is:
 	C	Reflects a rise in atrial pressure before the tricuspid valve opens
 	D	Is due to the tricuspid valve moving down during ventricular systole
 	E	Reflects opening of the tricuspid valve and a fall in right atrial pressure
+#### Answer: 
  
 ### Q82	
 During the lateral (Hardinge’s) approach to the hip, which one of the following nerves can be injured?
@@ -800,6 +875,7 @@ During the lateral (Hardinge’s) approach to the hip, which one of the followin
 	C	Inferior gluteal
 	D	Superior gluteal
 	E	Obturator
+#### Answer: 
  
 ### Q83	
 A tumour marker used in surveillance after orchidectomy for nonseminomatous germ-cell tumours (NSGCT) of the testes is:
@@ -809,6 +885,7 @@ A tumour marker used in surveillance after orchidectomy for nonseminomatous germ
 	C	CA-125
 	D	Carcinoembryonic antigen (CEA)
 	E	CA-19-9
+#### Answer: 
  
 ### Q84	
 In a healthy 70-kg male at rest, the normal coronary blood flow is:
@@ -818,6 +895,7 @@ In a healthy 70-kg male at rest, the normal coronary blood flow is:
 	C	500 ml/min
 	D	750 ml/min
 	E	1000 ml/min
+#### Answer: 
  
 ### Q85	
 The following are known to cause a metabolic acidosis, EXCEPT:
@@ -827,6 +905,7 @@ The following are known to cause a metabolic acidosis, EXCEPT:
 	C	Diabetic ketoacidosis
 	D	Sepsis
 	E	Persistent vomiting
+#### Answer: 
  
 ### Q86	
 Which of the following is true of ulcerative colitis?
@@ -836,6 +915,7 @@ Which of the following is true of ulcerative colitis?
 	C	It is worsened by smoking
 	D	It is associated with abdominal masses
 	E	It is associated with joint pain
+#### Answer: 
  
 ### Q87	
 Which of the following is NOT a feature of multiple endocrine neoplasia type II?
@@ -845,6 +925,7 @@ Which of the following is NOT a feature of multiple endocrine neoplasia type II?
 	C	Pituitary adenoma
 	D	Parathyroid tumours
 	E	Multiple mucosal neuromas
+#### Answer: 
  
 ### Q88	
 All of the following statements regarding malignant hyperpyrexia are true, EXCEPT:
@@ -854,6 +935,7 @@ All of the following statements regarding malignant hyperpyrexia are true, EXCEP
 	C	Incidence is 1 in 200 000
 	D	Treatment involves the use of dantrolene sodium and fluids
 	E	Conclusive diagnosis requires a muscle biopsy in addition to the clinical picture
+#### Answer: 
  
 ### Q89	
 The main host defences against bacterial exotoxins in a person with an intact immunological system are:
@@ -863,6 +945,7 @@ The main host defences against bacterial exotoxins in a person with an intact im
 	C	Activated macrophages that secrete proteases
 	D	IgM and IgG antibodies
 	E	Host-cell receptor modulation in response to toxins
+#### Answer: 
  
 ### Q90	
 The inguinal canal:
@@ -886,6 +969,7 @@ All of the following statements regarding interferons are correct, EXCEPT that t
 	C	Appear typically before antibodies in viral infections
 	D	Inhibit the growth of both DNA and RNA viruses
 	E	Enhance the metabolism of infected cells
+#### Answer: 
  
 ### Q92	
 Which of the following statements regarding the hepatitis B virus (HBV) is correct?
@@ -895,6 +979,7 @@ Which of the following statements regarding the hepatitis B virus (HBV) is corre
 	C	25% of patients infected with hepatitis B become chronic carriers
 	D	Risk of transmission from needlestick injuries is greater for HBV than for HIV
 	E	HBV vaccines are live attenuated vaccines
+#### Answer: 
  
 ### Q93	
 The CHARGE syndrome is NOT associated with which of the following conditions?
@@ -904,6 +989,7 @@ The CHARGE syndrome is NOT associated with which of the following conditions?
 	C	Facial nerve palsy
 	D	Retarded lung maturation
 	E	Coloboma
+#### Answer: 
  
 ### Q94	
 Indications for splenectomy include all of the following, EXCEPT:
@@ -913,6 +999,7 @@ Indications for splenectomy include all of the following, EXCEPT:
 	C	Thrombocytopenia associated with drug abuse
 	D	Sickle cell disease without hypersplenism
 	E	Splenomegaly related to haemodialysis
+#### Answer: 
  
 ### Q95	
 The clinical presentation of neurogenic shock includes which one of the following combinations of signs?
@@ -922,6 +1009,7 @@ The clinical presentation of neurogenic shock includes which one of the followin
 	C	Hypotension, bradycardia, cool skin
 	D	Hypotension, tachycardia, cool skin
 	E	Hypertension, bradycardia, cool skin
+#### Answer: 
  
 ### Q96	
 A woman with suspected breast cancer has fine-needle aspiration (FNA) of a breast lump. The report comes back as ‘C3’. What does this mean?
@@ -931,6 +1019,7 @@ A woman with suspected breast cancer has fine-needle aspiration (FNA) of a breas
 	C	Inadequate sample
 	D	Definitely malignant
 	E	Benign
+#### Answer: 
  
 ### Q97	
 Which of the following statements regarding suxamethonium is TRUE?
@@ -940,6 +1029,7 @@ Which of the following statements regarding suxamethonium is TRUE?
 	C	It is structurally similar to the acetylcholine molecule
 	D	Prolonged action can be due to the presence of too much plasma cholinesterase
 	E	It has a half-life of 10 minutes, making it short-acting
+#### Answer: 
  
 ### Q98	
 The following brachial plexus injuries would all give rise to the accompanying deficits, EXCEPT:
@@ -949,6 +1039,7 @@ The following brachial plexus injuries would all give rise to the accompanying d
 	C	Axillary nerve injury – insensate shoulder patch
 	D	Median nerve palsy – weakened thumb movements + loss of sensation to lateral palm
 	E	Thoracodorsal nerve injury – winged scapula
+#### Answer: 
  
 ### Q99	
 Which of the following statements about the coronary circulation is FALSE?
@@ -958,6 +1049,7 @@ Which of the following statements about the coronary circulation is FALSE?
 	C	Changes in blood flow in the coronary arteries occur by auto-regulation
 	D	The interventricular septum is supplied by the left coronary artery only
 	E	The right coronary artery arises from the right aortic sinus
+#### Answer: 
  
 ### Q100
 Which of the following is the strongest of all the other risk factors in the development of gastric carcinoma?
@@ -981,6 +1073,7 @@ A patient with a diagnosis of inflammatory bowel disease (IBD) may have the foll
 	C	Ankylosing spondylitis
 	D	Erythema nodosum
 	E	Sarcoidosis
+#### Answer: 
  
 ### Q102
 Colonic diverticular disease:
@@ -990,6 +1083,7 @@ Colonic diverticular disease:
 	C	Is an inherited condition
 	D	Is a premalignant condition
 	E	Is not a feature of ageing
+#### Answer: 
  
 ### Q103	
 Which of the following stoma complications makes closure technically easier?
@@ -999,6 +1093,7 @@ Which of the following stoma complications makes closure technically easier?
 	C	Stenosis
 	D	Retraction
 	E	Ischaemia
+#### Answer: 
  
 ### Q104
 Which of the following statements regarding immunosuppressive drugs used in renal transplantation is CORRECT?
@@ -1008,6 +1103,7 @@ Which of the following statements regarding immunosuppressive drugs used in rena
 	C	Mycophenolate works by inhibiting enzymes in the pathway for purine synthesis
 	D	Sirolimus has greater nephrotoxicity than ciclosporin
 	E	Basiliximab is not commonly used as an induction agent in renal transplants
+#### Answer: 
  
 ### Q105
 Bowel obstruction can be caused by all of the following, EXCEPT:
@@ -1017,6 +1113,7 @@ Bowel obstruction can be caused by all of the following, EXCEPT:
 	C	Adhesions from previous surgery
 	D	Intussusception
 	E	Polyp
+#### Answer: 
  
 ### Q106
 The commonest infection to affect the asplenic patient following splenectomy is:
@@ -1026,6 +1123,7 @@ The commonest infection to affect the asplenic patient following splenectomy is:
 	C	Escherichia coli
 	D	Haemophilus influenzae
 	E	Staphylococcus aureus
+#### Answer: 
  
 ### Q107
 All of the following statements regarding the management of trauma in pregnant women are true, EXCEPT:
@@ -1035,6 +1133,7 @@ All of the following statements regarding the management of trauma in pregnant w
 	C	Pregnant women show earlier signs of hypovolaemia during haemorrhage
 	D	Unless contraindicated, pregnant women should be placed in the left-lateral position during assessment and management as early as possible
 	E	All Rh-negative pregnant patients should be considered for Rh immunoglobulin therapy in penetrating abdominal injuries
+#### Answer: 
  
 ### Q108
 Which of the following is NOT part of the Glasgow Scale used to assess the severity of pancreatitis on initial assessment?
@@ -1044,6 +1143,7 @@ Which of the following is NOT part of the Glasgow Scale used to assess the sever
 	C	Age >55 years
 	D	Glucose <10 mmol/l
 	E	Lactate dehydrogenase (LDH) >600 units/l
+#### Answer: 
  
 ### Q109
 Complications of intraosseous needle puncture in children include all of the following, EXCEPT:
@@ -1053,6 +1153,7 @@ Complications of intraosseous needle puncture in children include all of the fol
 	C	Subperiosteal infiltration
 	D	Musculocutaneous fistula
 	E	Osteomyelitis
+#### Answer: 
  
 ### Q110
 Which of the following volumes of blood loss would accurately fall into a class II haemorrhage?
@@ -1076,6 +1177,7 @@ A man is found to have a PSA of 14 mg/ml on routine testing. He is entirely asym
 	C	T2a
 	D	T3b
 	E	T2b
+#### Answer: 
  
 ### Q112
 The following statements about hernias are all true, EXCEPT:
@@ -1085,6 +1187,7 @@ The following statements about hernias are all true, EXCEPT:
 	C	A femoral hernia usually presents as a lump above and lateral to the pubic tubercle
 	D	Richter’s hernia involves entrapment of the antimesenteric edge of the bowel
 	E	Spigelian hernias protrude from the lateral edge of the rectus abdominis muscle
+#### Answer: 
  
 ### Q113
 Causes of spontaneous secondary pneumothorax include all of the following, EXCEPT:
@@ -1094,6 +1197,7 @@ Causes of spontaneous secondary pneumothorax include all of the following, EXCEP
 	C	Asthma
 	D	COPD
 	E	Lung abscesses
+#### Answer: 
  
 ### Q114
 All of the following statements regarding dead-space ventilation are correct, EXCEPT:
@@ -1103,6 +1207,7 @@ All of the following statements regarding dead-space ventilation are correct, EX
 	C	Anatomical dead space can be measured using Fowler’s method
 	D	Physiological dead space may be increased in positive-pressure ventilation
 	E	Anatomical dead space is reduced in the standing-up position
+#### Answer: 
  
 ### Q115
 Which one of the following conditions would result in a positive base excess on a blood gas report?
@@ -1112,6 +1217,7 @@ Which one of the following conditions would result in a positive base excess on 
 	C	Septicaemia
 	D	Pulmonary embolus
 	E	Myasthenia gravis
+#### Answer: 
  
 ### Q116
 A 47-year-old male patient received a cadaver kidney transplant with immediate function 2 weeks ago. Within 3 days his serum creatinine had normalised to 110 µmol/l. He was discharged on the 5th post-operative day and has been followed up at the transplant follow-up clinic, attending thrice weekly. On attendance today his serum creatinine is 167 µmol/l and he is well in himself with no symptoms. You note on checking the blood results that the creatinine was 115 µmol/l 2 days ago. His tacrolimus (immunosuppression drug) level is normal. Ultrasound scan shows a normal transplant kidney. What is the most likely cause of his raised serum creatinine?
@@ -1121,16 +1227,17 @@ A 47-year-old male patient received a cadaver kidney transplant with immediate f
 	C	Volume depletion due to diarrhoea and vomiting
 	D	Ureteric obstruction
 	E	Transplanted renal artery stenosis
+#### Answer: 
  
 ### Q117
 Fever can be caused by all of the following, EXCEPT:
-
 
 	A	Heatstroke
 	B	Hyperthyroidism
 	C	Posterior hypothalamic lesions
 	D	Dehydration
 	E	Exercise
+#### Answer: 
  
 ### Q118
 Which of the following agents used in the treatment of urological conditions is NOT paired with its correct description?
@@ -1140,6 +1247,7 @@ Which of the following agents used in the treatment of urological conditions is 
 	C	Oxybutinin – anticholinergic agent
 	D	Tamsulosin – α-adrenergic blocker
 	E	Flutamide – anti-androgen agent
+#### Answer: 
  
 ### Q119
 All of the following features are found in ARDS, EXCEPT:
@@ -1149,6 +1257,7 @@ All of the following features are found in ARDS, EXCEPT:
 	C	Reduced lung compliance
 	D	Pao2/Fio2 ratio <26.6 kPa (200 mmHg)
 	E	Pulmonary capillary wedge pressure >16 mmHg
+#### Answer: 
  
 ### Q120
 The superficial radial nerve:
@@ -1172,6 +1281,7 @@ In achondroplasia, clinical features include the following, EXCEPT:
 	C	Small nasal bridge
 	D	Hypotonia during the first year of life
 	E	Short trunk
+#### Answer: 
  
 ### Q122
 A man is found to have a hydrocele, which at operation is found to extend from the testis to the deep inguinal ring, but does not connect with the peritoneal cavity. Which of the following best describes this hydrocele?
@@ -1181,6 +1291,7 @@ A man is found to have a hydrocele, which at operation is found to extend from t
 	C	Infantile hydrocele
 	D	Hydrocele of cord
 	E	Malignant hydrocele
+#### Answer: 
  
 ### Q123
 A 23-year-old man is brought into the Emergency Department after having sustained three stab wounds to the abdomen with evisceration of small bowel. A laparotomy is performed where gross faecal contamination is found from large-bowel lacerations. The bowel injuries are resected and a defunctioning ileostomy is performed. On the 4th post-operative day, the patient develops a temperature of 39°C with peritonitis as well as buttock myonecrosis with foul-smelling discharge. In this clinical scenario, which of the following organisms is most likely to have caused this infection?
@@ -1191,6 +1302,7 @@ A 23-year-old man is brought into the Emergency Department after having sustaine
 	C	Vibrio parahaemolyticus
 	D	Salmonella typhi
 	E	Shigella dysenteriae
+#### Answer: 
  
 ### Q124
 The most common problem following total knee replacement involves:
@@ -1201,6 +1313,7 @@ The most common problem following total knee replacement involves:
 	C	Chronic pain
 	D	Cosmesis
 	E	Patellar tracking
+#### Answer: 
  
 ### Q125
 A 68-year-old man develops a massive acute myocardial infarction and dies in hospital while being resuscitated in the Emergency Department. An autopsy is performed and, while you are inspecting the heart, you note that it has undergone necrosis as expected. Which type of necrosis is found to be consistent with the pathology of this disease?
@@ -1210,6 +1323,7 @@ A 68-year-old man develops a massive acute myocardial infarction and dies in hos
 	C	Fat necrosis
 	D	Fibrinoid necrosis
 	E	Caseating necrosis
+#### Answer: 
  
 ### Q126
 Which one of the following laboratory stains is used to identify amyloid staining in pathological tissue sections?
@@ -1219,6 +1333,7 @@ Which one of the following laboratory stains is used to identify amyloid stainin
 	C	Haematoxylin and eosin
 	D	Oil red-O
 	E	Periodic acid–Schiff (PAS)
+#### Answer: 
  
 ### Q127
 Diagnostic specificity is defined as:
@@ -1228,6 +1343,7 @@ Diagnostic specificity is defined as:
 	C	Probability of a negative diagnostic test in the absence of disease
 	D	Probability of a positive diagnostic test in the absence of disease
 	E	Probability of being disease-free and test-negative within all people testing negative
+#### Answer: 
  
 ### Q128
 Sertoli cells:
@@ -1237,6 +1353,7 @@ Sertoli cells:
 	C	Secrete testosterone in response to LH
 	D	Are known as interstitial cells of the testes
 	E	Are able to continue proliferating once fully differentiated
+#### Answer: 
  
 ### Q129
 A 15-year-old boy presents with sudden-onset right testicular pain associated with nausea and vomiting. On examination, the right testis is found to be drawn up into the groin with a horizontal lie and is very tender. What is the most appropriate form of management?
@@ -1246,6 +1363,7 @@ A 15-year-old boy presents with sudden-onset right testicular pain associated wi
 	C	Bedrest and scrotal support
 	D	‘Watch and wait’ policy
 	E	Exploration of testis via transverse incision over testis
+#### Answer: 
  
 ### Q130
 In the induction of anaesthesia:
@@ -1269,6 +1387,7 @@ The first step in the management of an episode of massive haematemesis is:
 	C	Urgent angiography
 	D	Clearing and securing the airway
 	E	Resuscitation with fluids and blood products
+#### Answer: 
  
 ### Q132
 All of the following statements regarding polytetrafluoroethylene (polytef or PTFE) are correct, EXCEPT:
@@ -1278,6 +1397,7 @@ All of the following statements regarding polytetrafluoroethylene (polytef or PT
 	C	It is a hydrophobic-non-elastic polymer
 	D	Platelet deposition can occur on its surface
 	E	It is used in the creation of arteriovenous (AV) fistulae
+#### Answer: 
  
 ### Q133
 Which of the following features is found with a large pulmonary embolus?
@@ -1287,6 +1407,7 @@ Which of the following features is found with a large pulmonary embolus?
 	C	Increased left ventricular output
 	D	Decreased right ventricular afterload
 	E	Increased lung compliance
+#### Answer: 
  
 ### Q134
 All of the following drugs can cause acute pancreatitis, EXCEPT:
@@ -1296,6 +1417,7 @@ All of the following drugs can cause acute pancreatitis, EXCEPT:
 	C	Didanosine
 	D	Tetracycline
 	E	Omeprazole
+#### Answer: 
  
 ### Q135
 All of the following statements regarding prostate cancer are true, EXCEPT:
