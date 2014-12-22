@@ -973,71 +973,90 @@ Which of the following is the strongest of all the other risk factors in the dev
 Questions 101-110
 -----------------
 
-### 101
+### Q101
 A patient with a diagnosis of inflammatory bowel disease (IBD) may have the following extraintestinal manifestations, EXCEPT:
+
 	A	Episcleritis
 	B	Sclerosing cholangitis
 	C	Ankylosing spondylitis
 	D	Erythema nodosum
 	E	Sarcoidosis
  
-102	Colonic diverticular disease:
+### Q102
+Colonic diverticular disease:
+
 	A	Can present with a colo-vesical fistula
 	B	Does not present with colonic obstruction
 	C	Is an inherited condition
 	D	Is a premalignant condition
 	E	Is not a feature of ageing
  
-103	Which of the following stoma complications makes closure technically easier?
+### Q103	
+Which of the following stoma complications makes closure technically easier?
+
 	A	Parastomal hernia
 	B	Prolapse
 	C	Stenosis
 	D	Retraction
 	E	Ischaemia
  
-104	Which of the following statements regarding immunosuppressive drugs used in renal transplantation is CORRECT?
+### Q104
+Which of the following statements regarding immunosuppressive drugs used in renal transplantation is CORRECT?
+
 	A	Azathioprine is more effective than mycophenolate in preventing acute rejection
 	B	Tacrolimus works by directly inhibiting nucleic acid synthesis
 	C	Mycophenolate works by inhibiting enzymes in the pathway for purine synthesis
 	D	Sirolimus has greater nephrotoxicity than ciclosporin
 	E	Basiliximab is not commonly used as an induction agent in renal transplants
  
-105	Bowel obstruction can be caused by all of the following, EXCEPT:
+### Q105
+Bowel obstruction can be caused by all of the following, EXCEPT:
+
 	A	Volvulus
 	B	Hiatus hernia
 	C	Adhesions from previous surgery
 	D	Intussusception
 	E	Polyp
  
-106	The commonest infection to affect the asplenic patient following splenectomy is:
+### Q106
+The commonest infection to affect the asplenic patient following splenectomy is:
+
 	A	Streptococcus pneumoniae
 	B	Neisseria meningitidis
 	C	Escherichia coli
 	D	Haemophilus influenzae
 	E	Staphylococcus aureus
  
-107	All of the following statements regarding the management of trauma in pregnant women are true, EXCEPT:
+### Q107
+All of the following statements regarding the management of trauma in pregnant women are true, EXCEPT:
+
 	A	A qualified surgeon and obstetrician should always be consulted early in the evaluation of the pregnant patient
 	B	Small-bowel injury in commoner in upper abdominal penetrating wounds than lower penetrating injuries in late pregnancy
 	C	Pregnant women show earlier signs of hypovolaemia during haemorrhage
 	D	Unless contraindicated, pregnant women should be placed in the left-lateral position during assessment and management as early as possible
 	E	All Rh-negative pregnant patients should be considered for Rh immunoglobulin therapy in penetrating abdominal injuries
  
-108	Which of the following is NOT part of the Glasgow Scale used to assess the severity of pancreatitis on initial assessment?
+### Q108
+Which of the following is NOT part of the Glasgow Scale used to assess the severity of pancreatitis on initial assessment?
+
 	A	White cell count >15×109/l
 	B	PaO2 <60 mmHg
 	C	Age >55 years
 	D	Glucose <10 mmol/l
 	E	Lactate dehydrogenase (LDH) >600 units/l
  
-109	Complications of intraosseous needle puncture in children include all of the following, EXCEPT:
+### Q109
+Complications of intraosseous needle puncture in children include all of the following, EXCEPT:
+
 	A	Physeal plate injury
 	B	Skin pressure necrosis
 	C	Subperiosteal infiltration
 	D	Musculocutaneous fistula
 	E	Osteomyelitis
  
-110	Which of the following volumes of blood loss would accurately fall into a class II haemorrhage?
+### Q110
+Which of the following volumes of blood loss would accurately fall into a class II haemorrhage?
+
 	A	500 ml
 	B	700 ml
 	C	1000 ml
@@ -1045,74 +1064,95 @@ A patient with a diagnosis of inflammatory bowel disease (IBD) may have the foll
 	E	2000 ml
 #### Answer: 
 
+
 Questions 111-120
 -----------------
 
-### 111
+### Q111
 A man is found to have a PSA of 14 mg/ml on routine testing. He is entirely asymptomatic. Investigation with transrectal biopsy confirms prostate cancer. MRI scan shows a nodule on the left lobe, which extends into the seminal vesicles. The stage of prostate cancer based on this information is:
+
 	A	T4
 	B	T3a
 	C	T2a
 	D	T3b
 	E	T2b
  
-112	The following statements about hernias are all true, EXCEPT:
+### Q112
+The following statements about hernias are all true, EXCEPT:
+
 	A	Direct hernias are due to a deficiency at Hesselbach’s triangle
 	B	A Littre’s hernia contains a Meckel’s diverticulum
 	C	A femoral hernia usually presents as a lump above and lateral to the pubic tubercle
 	D	Richter’s hernia involves entrapment of the antimesenteric edge of the bowel
 	E	Spigelian hernias protrude from the lateral edge of the rectus abdominis muscle
  
-113	Causes of spontaneous secondary pneumothorax include all of the following, EXCEPT:
+### Q113
+Causes of spontaneous secondary pneumothorax include all of the following, EXCEPT:
+
 	A	Marfan syndrome
 	B	Lung cancer
 	C	Asthma
 	D	COPD
 	E	Lung abscesses
  
-114	All of the following statements regarding dead-space ventilation are correct, EXCEPT:
+### Q114
+All of the following statements regarding dead-space ventilation are correct, EXCEPT:
+
 	A	Dead space refers to air that has to be ventilated, but does not take part in gas exchange
 	B	Anatomical dead space refers to air that does not reach the alveoli to take place in ventilation
 	C	Anatomical dead space can be measured using Fowler’s method
 	D	Physiological dead space may be increased in positive-pressure ventilation
 	E	Anatomical dead space is reduced in the standing-up position
  
-115	Which one of the following conditions would result in a positive base excess on a blood gas report?
+### Q115
+Which one of the following conditions would result in a positive base excess on a blood gas report?
+
 	A	Cushing syndrome
 	B	Starvation
 	C	Septicaemia
 	D	Pulmonary embolus
 	E	Myasthenia gravis
  
-116	A 47-year-old male patient received a cadaver kidney transplant with immediate function 2 weeks ago. Within 3 days his serum creatinine had normalised to 110 µmol/l. He was discharged on the 5th post-operative day and has been followed up at the transplant follow-up clinic, attending thrice weekly. On attendance today his serum creatinine is 167 µmol/l and he is well in himself with no symptoms. You note on checking the blood results that the creatinine was 115 µmol/l 2 days ago. His tacrolimus (immunosuppression drug) level is normal. Ultrasound scan shows a normal transplant kidney. What is the most likely cause of his raised serum creatinine?
+### Q116
+A 47-year-old male patient received a cadaver kidney transplant with immediate function 2 weeks ago. Within 3 days his serum creatinine had normalised to 110 µmol/l. He was discharged on the 5th post-operative day and has been followed up at the transplant follow-up clinic, attending thrice weekly. On attendance today his serum creatinine is 167 µmol/l and he is well in himself with no symptoms. You note on checking the blood results that the creatinine was 115 µmol/l 2 days ago. His tacrolimus (immunosuppression drug) level is normal. Ultrasound scan shows a normal transplant kidney. What is the most likely cause of his raised serum creatinine?
+
 	A	Acute rejection episode (and a transplant biopsy is urgently required to confirm the diagnosis)
 	B	Acute tubular necrosis
 	C	Volume depletion due to diarrhoea and vomiting
 	D	Ureteric obstruction
 	E	Transplanted renal artery stenosis
  
-117	Fever can be caused by all of the following, EXCEPT:
+### Q117
+Fever can be caused by all of the following, EXCEPT:
+
+
 	A	Heatstroke
 	B	Hyperthyroidism
 	C	Posterior hypothalamic lesions
 	D	Dehydration
 	E	Exercise
  
-118	Which of the following agents used in the treatment of urological conditions is NOT paired with its correct description?
+### Q118
+Which of the following agents used in the treatment of urological conditions is NOT paired with its correct description?
+
 	A	Mitomycin C – intravesical chemotherapy agent
 	B	Finasteride – luteinising hormone-releasing hormone (LH-RH) agonist
 	C	Oxybutinin – anticholinergic agent
 	D	Tamsulosin – α-adrenergic blocker
 	E	Flutamide – anti-androgen agent
  
-119	All of the following features are found in ARDS, EXCEPT:
+### Q119
+All of the following features are found in ARDS, EXCEPT:
+
 	A	Pulmonary oedema of non-cardiogenic origin
 	B	Hypoxaemia that is refractory to oxygen therapy
 	C	Reduced lung compliance
 	D	Pao2/Fio2 ratio <26.6 kPa (200 mmHg)
 	E	Pulmonary capillary wedge pressure >16 mmHg
  
-120	The superficial radial nerve:
+### Q120
+The superficial radial nerve:
+
 	A	Runs between brachioradialis and extensor carpi radialis longus
 	B	Runs between the brachialis and brachioradialis
 	C	Is at a high risk of injury during the posterior approach to the forearm
@@ -1120,74 +1160,96 @@ A man is found to have a PSA of 14 mg/ml on routine testing. He is entirely asym
 	E	Is difficult to see during surgery
 #### Answer: 
 
+
 Questions 121-130
 -----------------
 
-### 121
+### Q121
 In achondroplasia, clinical features include the following, EXCEPT:
+
 	A	Excessive lordosis
 	B	Trident hands
 	C	Small nasal bridge
 	D	Hypotonia during the first year of life
 	E	Short trunk
  
-122	A man is found to have a hydrocele, which at operation is found to extend from the testis to the deep inguinal ring, but does not connect with the peritoneal cavity. Which of the following best describes this hydrocele?
+### Q122
+A man is found to have a hydrocele, which at operation is found to extend from the testis to the deep inguinal ring, but does not connect with the peritoneal cavity. Which of the following best describes this hydrocele?
+
 	A	Vaginal hydrocele
 	B	Congenital hydrocele
 	C	Infantile hydrocele
 	D	Hydrocele of cord
 	E	Malignant hydrocele
  
-123	A 23-year-old man is brought into the Emergency Department after having sustained three stab wounds to the abdomen with evisceration of small bowel. A laparotomy is performed where gross faecal contamination is found from large-bowel lacerations. The bowel injuries are resected and a defunctioning ileostomy is performed. On the 4th post-operative day, the patient develops a temperature of 39°C with peritonitis as well as buttock myonecrosis with foul-smelling discharge. In this clinical scenario, which of the following organisms is most likely to have caused this infection?
+### Q123
+A 23-year-old man is brought into the Emergency Department after having sustained three stab wounds to the abdomen with evisceration of small bowel. A laparotomy is performed where gross faecal contamination is found from large-bowel lacerations. The bowel injuries are resected and a defunctioning ileostomy is performed. On the 4th post-operative day, the patient develops a temperature of 39°C with peritonitis as well as buttock myonecrosis with foul-smelling discharge. In this clinical scenario, which of the following organisms is most likely to have caused this infection?
+
+
 	A	Helicobacter pylori
 	B	Bacteroides fragilis
 	C	Vibrio parahaemolyticus
 	D	Salmonella typhi
 	E	Shigella dysenteriae
  
-124	The most common problem following total knee replacement involves:
+### Q124
+The most common problem following total knee replacement involves:
+
+
 	A	Infection
 	B	Incorrect prosthesis size
 	C	Chronic pain
 	D	Cosmesis
 	E	Patellar tracking
  
-125	A 68-year-old man develops a massive acute myocardial infarction and dies in hospital while being resuscitated in the Emergency Department. An autopsy is performed and, while you are inspecting the heart, you note that it has undergone necrosis as expected. Which type of necrosis is found to be consistent with the pathology of this disease?
+### Q125
+A 68-year-old man develops a massive acute myocardial infarction and dies in hospital while being resuscitated in the Emergency Department. An autopsy is performed and, while you are inspecting the heart, you note that it has undergone necrosis as expected. Which type of necrosis is found to be consistent with the pathology of this disease?
+
 	A	Coagulative necrosis
 	B	Liquefactive necrosis
 	C	Fat necrosis
 	D	Fibrinoid necrosis
 	E	Caseating necrosis
  
-126	Which one of the following laboratory stains is used to identify amyloid staining in pathological tissue sections?
+### Q126
+Which one of the following laboratory stains is used to identify amyloid staining in pathological tissue sections?
+
 	A	Prussian blue
 	B	Congo red
 	C	Haematoxylin and eosin
 	D	Oil red-O
 	E	Periodic acid–Schiff (PAS)
  
-127	Diagnostic specificity is defined as:
+### Q127
+Diagnostic specificity is defined as:
+
 	A	Probability of a negative diagnostic test in the presence of disease
 	B	Probability of a positive diagnostic test in the presence of disease
 	C	Probability of a negative diagnostic test in the absence of disease
 	D	Probability of a positive diagnostic test in the absence of disease
 	E	Probability of being disease-free and test-negative within all people testing negative
  
-128	Sertoli cells:
+### Q128
+Sertoli cells:
+
 	A	Are involved in the nurturing of sperm cells within the seminiferous tubules
 	B	Synthesise testosterone
 	C	Secrete testosterone in response to LH
 	D	Are known as interstitial cells of the testes
 	E	Are able to continue proliferating once fully differentiated
  
-129	A 15-year-old boy presents with sudden-onset right testicular pain associated with nausea and vomiting. On examination, the right testis is found to be drawn up into the groin with a horizontal lie and is very tender. What is the most appropriate form of management?
+### Q129
+A 15-year-old boy presents with sudden-onset right testicular pain associated with nausea and vomiting. On examination, the right testis is found to be drawn up into the groin with a horizontal lie and is very tender. What is the most appropriate form of management?
+
 	A	Broad-spectrum antibiotics
 	B	Exploration of testis via inguinal incision
 	C	Bedrest and scrotal support
 	D	‘Watch and wait’ policy
 	E	Exploration of testis via transverse incision over testis
  
-130	In the induction of anaesthesia:
+### Q130
+In the induction of anaesthesia:
+
 	A	Thiopentone injection results in a delayed recovery because of its high lipid solubility
 	B	Propofol commonly causes nausea on recovery
 	C	Ketamine is a stimulant that works by dissociation
@@ -1195,39 +1257,49 @@ In achondroplasia, clinical features include the following, EXCEPT:
 	E	Ketamine can cause a bradycardia on injection
 #### Answer: 
 
+
 Questions 131-135
 -----------------
 
-### 131
+### Q131
 The first step in the management of an episode of massive haematemesis is:
+
 	A	Insertion of two large-bore intravenous cannulae
 	B	Urgent endoscopy
 	C	Urgent angiography
 	D	Clearing and securing the airway
 	E	Resuscitation with fluids and blood products
  
-132	All of the following statements regarding polytetrafluoroethylene (polytef or PTFE) are correct, EXCEPT:
+### Q132
+All of the following statements regarding polytetrafluoroethylene (polytef or PTFE) are correct, EXCEPT:
+
 	A	Pre-clotting is not required before use
 	B	It allows tissue ingrowth and neo-intima formation
 	C	It is a hydrophobic-non-elastic polymer
 	D	Platelet deposition can occur on its surface
 	E	It is used in the creation of arteriovenous (AV) fistulae
  
-133	Which of the following features is found with a large pulmonary embolus?
+### Q133
+Which of the following features is found with a large pulmonary embolus?
+
 	A	Decreased pulmonary vascular resistance
 	B	Pulmonary hypertension
 	C	Increased left ventricular output
 	D	Decreased right ventricular afterload
 	E	Increased lung compliance
  
-134	All of the following drugs can cause acute pancreatitis, EXCEPT:
+### Q134
+All of the following drugs can cause acute pancreatitis, EXCEPT:
+
 	A	Furosemide
 	B	Azathioprine
 	C	Didanosine
 	D	Tetracycline
 	E	Omeprazole
  
-135	All of the following statements regarding prostate cancer are true, EXCEPT:
+### Q135
+All of the following statements regarding prostate cancer are true, EXCEPT:
+
 	A	It is the second leading cause of male cancer deaths
 	B	The lifetime risk of microscopic prostate cancer in all men is 30%
 	C	The incidence is decreasing as a result of screening measures
