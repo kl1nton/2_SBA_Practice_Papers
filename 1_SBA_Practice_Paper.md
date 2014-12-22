@@ -7,8 +7,8 @@ Group	| Score			| Errors 							|
 11-20	| 3/10 =  30%	| 13, 14, 15, 16, 17, 18, 20
 21-30	| 1/10 =  10%	| 21, 22, 23, 24, 25, 26, 28, 29, 30
 31-40	| 5/10 =  50%	| 31, 32, 33, 34, 35
-41-50	| 
-51-60	| 
+41-50	| 2/10 =  20%	| 41, 42, 43, 44, 45, 46, 47, 48
+51-60	| 6/10 =  60%	| 51, 53, 55, 58
 61-70	| 
 71-80	| 
 81-90	| 
@@ -785,9 +785,9 @@ Which of the following statements about hernias is TRUE?
 Questions 41-50
 ---------------
 
+20% = F: 41, 42, 43, 44, 45, 46, 47, 48
 
-
-### Q41
+### Q41 - LEARN
 Which of these nerves does NOT lie in the lateral wall of the _cavernous sinus_?
 
 	A. Trochlear nerve (CN IV)
@@ -795,7 +795,15 @@ Which of these nerves does NOT lie in the lateral wall of the _cavernous sinus_?
 	C. Mandibular branch of the trigeminal nerve (CN Vc)
 	D. Maxillary branch of the trigeminal nerve (CN Vb)
 	E. Ophthalmic branch of the trigeminal nerve (CN Va)
-#### Answer: B. Oculomotor nerve (CN III) - ?
+
+#### Answer: B. Oculomotor nerve (CN III) - *FALSE* = C. Mandibular branch of the trigeminal nerve (CN Vc) - TRUE
+
+##### Nerves Lying in Lateral Wall of Cavernous Sinus
+1. CN III: Oculomotor
+2. CN IV : Trochlear
+3. Trigeminal  Nerve (CN V)
+	- Ophthalmic Branch (CN Va)
+	- Maxillary Branch (CN Vb)
  
 ### Q42	
 Which of the following muscles does NOT attach to the _common flexor origin_ of the forearm?
@@ -805,7 +813,20 @@ Which of the following muscles does NOT attach to the _common flexor origin_ of 
 	C. Flexor carpi ulnaris (FCU)
 	D. Flexor carpi radialis (FCR)
 	E. Flexor pollicis longus (FPL)
-#### Answer: A. Pronator teres - ?
+
+#### Answer: A. Pronator teres - *FALSE* = E. Flexor pollicis longus (FPL) - TRUE
+
+##### Common Flexor Origin (CFO)
+1. Muscles Attached to CFO
+	- Pronator teres
+	- Flexor Carpi Radialis (FCR)
+	- Palmaris longus
+	- Flexor Digitorum Superficialis (FDS)
+	- Flexor Carpi Ulnaris (FCU)
+2. Deep Muscles of Forearm do **not** attach
+	- Pronator quadratus
+	- Flexor Digitorum Profundus (FDP)
+	- Flexor Pollicis Longus (FPL)
  
 ### Q43	- LEARN
 Which of these statements is TRUE regarding the _femoral triangle_?
@@ -815,7 +836,15 @@ Which of these statements is TRUE regarding the _femoral triangle_?
 	C. Adductor brevis forms part of the floor
 	D. Adductor magnus forms part of the floor
 	E. Pectineus forms part of the floor
-#### Answer: B. The lateral border of adductor magnus forms the medial border - ?
+
+#### Answer: B. The lateral border of adductor magnus forms the medial border - *FALSE* = E. Pectineus forms part of the floor - TRUE
+
+##### Boundaries of Femoral Triangle
+- Superiorly (*base*): inguinal ligament
+- Medially: medial border of adductor longus
+- Laterally: medial border of sartorius
+- **Floor**: adductor longus, **pectineus**, iliac and psoas
+- Roof: fascia and skin
  
 ### Q44	
 All of the following statements about radiotherapy are true, EXCEPT:
@@ -825,17 +854,26 @@ All of the following statements about radiotherapy are true, EXCEPT:
 	C. Multiple fractions are required for palliation of bone pain - T
 	D. Seminomas are very sensitive to radiotherapy
 	E. Ulceration is a recognised complication - T
-#### Answer: D. Seminomas are very sensitive to radiotherapy - ?
+
+#### Answer: D. Seminomas are very sensitive to radiotherapy - *FALSE* = C. Multiple fractions are required for palliation of bone pain - TRUE
+- Radiotherapy uses ionising radiation to kill cells. Doses are given at intervals, allowing the normal tissues to recover, but preventing the malignant cells, which take longer to regenerate, from growing. It works by damaging DNA through release of kinetic energy and can be administered through a variety of methods, including electrons, protons, neutrons, X-rays and gamma rays. The success of radiotherapy treatment is dependent on the radiosensitivity of the tumour (for example seminoma is very radiosensitive) and the tolerance of the surrounding tissue, as this can limit the amount of radiotherapy administered. It can be given as a primary treatment, adjuvant and neoadjuvant therapy and as palliative treatment. Palliation of bone pain can be a single treatment. Complications include ulceration, bleeding, delayed wound healing and lymphoedema.
  
-### Q45	
-The rectus sheath does NOT contain the:
+### Q45	- LEARN
+The _rectus sheath_ does NOT contain the:
 
 	A. Rectus abdominis
 	B. Inferior epigastric vein
 	C. Superior epigastric artery
 	D. Lower eight thoracic nerves
 	E. Pyramidalis
-#### Answer: B. Inferior epigastric vein - ?
+
+#### Answer: B. Inferior epigastric vein - *FALSE* = D. Lower eight thoracic nerves - TRUE
+
+##### Contents of Rectus Sheath - TODO
+- superior and inferior epigastric arteries and veins
+- rectus abdominis
+- pyramidalis 
+- lower six thoracic nerves
  
 ### Q46	- LEARN
 Which statement is correct regarding respiratory volumes?
@@ -845,7 +883,15 @@ Which statement is correct regarding respiratory volumes?
 	C. The vital capacity is 2000 ml
 	D. The residual volume is 1900 ml
 	E. The total lung capacity is 4000 ml
-#### Answer: E. The total lung capacity is 4000 ml - ?
+
+#### Answer: E. The total lung capacity is 4000 ml - *FALSE* = D. The residual volume is 1900 ml - TRUE
+
+##### Respiratory Volumes: Normal Values - TODO
+- tidal volume 500 ml
+- inspiratory reserve volume 3000 ml
+- expiratory reserve volume 2000 ml
+- vital capacity 5600 ml
+- total lung capacity 6000 ml
  
 ### Q47
 The following statements regarding lung function tests are true, EXCEPT:
@@ -855,17 +901,19 @@ The following statements regarding lung function tests are true, EXCEPT:
 	C. The residual volume is the amount of air remaining in the lungs after maximum expiration
 	D. Total lung capacity is the sum of residual volume and tidal volume
 	E. Vital capacity can be measured by spirometry - T
-#### Answer: B. In an average 20-year-old male, tidal volume is approximately 0.5 litres - ?
+#### Answer: B. In an average 20-year-old male, tidal volume is approximately 0.5 litres - *FALSE* = D. Total lung capacity is the sum of residual volume and tidal volume - TRUE
+- Lung function tests are useful pre-operatively as they provide the anaesthetist with information about lung function and capacity. Lung volumes vary with sex/height but not weight. The tidal volume is the amount of air moved into/out of the lung during quiet respiration. The amount of air that can be inspired on top of this is the inspiratory reserve volume, and the amount of air that can be forcibly expired on top of the tidal volume is the expiratory reserve volume. Air left in the lung at the end of a maximal expiration is the residual volume. The residual volume together with the expiratory reserve volume is the functional residual capacity. This is important as it is the volume in which gas exchange takes place. Total lung capacity is the sum of the residual volume and the vital capacity, which is the volume expired after a maximum inspiration.
  
 ### Q48	- LEARN
-Which of these is NOT part of the medial longitudinal arch of the foot?
+Which of these is NOT part of the _medial longitudinal arch_ of the foot?
 
 	A. Talus
 	B. Navicular
 	C. Cuboid
 	D. Calcaneus
 	E. Medial cuneiform
-#### Answer: A. Talus - ?
+
+#### Answer: A. Talus - *FALSE* = C. Cuboid - TRUE
  
 ### Q49	
 The plane of Louis is NOT the:
@@ -875,7 +923,9 @@ The plane of Louis is NOT the:
 	C. Level of the lower border of T4
 	D. Level of the bifurcation of the trachea
 	E. Level at which the azygos vein enters the SVC
-#### Answer: B. Level of the third costal cartilage - ?
+
+#### Answer: B. Level of the third costal cartilage - TRUE
+- The plane of Louis lies at the lower border of T4, at the level of the second costal cartilage. It divides the mediastinum into superior and inferior parts. The trachea bifurcates at this level, the aorta arches and the azygos vein enters the SVC.
  
 ### Q50	
 Which of the following regarding the _duodenum_ is INCORRECT?
@@ -885,13 +935,17 @@ Which of the following regarding the _duodenum_ is INCORRECT?
 	C. The second part lies at the level of L2
 	D. The third part lies at the level of L3
 	E. The fourth part lies at the level of L4
-#### Answer: E. The fourth part lies at the level of L4 - ?
+
+#### Answer: E. The fourth part lies at the level of L4 - TRUE (4th part lies at L2)
+- The fourth part of the duodenum lies at the level of L2
 
 
 Questions 51-60
 ---------------
 
-### Q51
+60% = F: 51, 53, 55, 58
+
+### Q51 - LEARN
 The _sciatic nerve_ does NOT supply which of the following muscles:
 
 	A. Obturator externus
@@ -899,7 +953,17 @@ The _sciatic nerve_ does NOT supply which of the following muscles:
 	C. Superior gemellus
 	D. Quadratus femoris
 	E. Biceps femoris
-#### Answer: E. Biceps femoris - ?
+#### Answer: E. Biceps femoris - *FALSE* = A. Obturator externus - TRUE
+
+##### Sciatic Nerve: Supplies
+1. Both gemellae
+2. Quadratus femoris
+3. Semitendinosus
+4. Semimembranosus
+5. Both heads of Biceps Femoris
+6. Hamstring half of Adductor Magnus and Obturator Internus
+
+**NOTE** Obturator Externus is supplied by Obturator Nerve
  
 ### Q52	- LEARN
 The branches of the _posterior cord_ of the _brachial plexus_ do NOT include the
@@ -909,17 +973,42 @@ The branches of the _posterior cord_ of the _brachial plexus_ do NOT include the
 	C. Axillary nerve
 	D. Musculocutaneous nerve
 	E. Thoracodorsal nerve
-#### Answer: D. Musculocutaneous nerve - ?
+
+#### Answer: D. Musculocutaneous nerve - TRUE
+
+##### Branches of Posterior Cord = "STARS"
+1. Upper Subscapular Nerve
+2. Thoracodorsal Nerve
+3. Axillary Nerve
+4. Radial Nerve
+5. Lower Subscapular Nerve
+
+**NOTE** Musculocutaneous Nerve is a branch of Lateral Cord
  
 ### Q53	
-Which of the following statements about arterial ulcers is NOT true?
+Which of the following statements about _arterial ulcers_ is NOT true?
 
 	A. They are often found at the tips of the toes
 	B. The foot can show venous guttering
 	C. They are associated with lipodermatosclerosis
 	D. They are painful - T
 	E. They have a 'punched out' appearance - T
-#### Answer: B. The foot can show venous guttering - ?
+
+#### Answer: B. The foot can show venous guttering - **FALSE** = C. They are associated with lipodermatosclerosis - TRUE
+
+##### Arterial Ulcers = 4Ps
+- Found at ‘**Pressure points**’ of foot, i.e. tips of toes, heel and over malleoli
+- **Painful** 
+- ‘**Punched** out’ appearance
+- **Poor** blood flow to feet is associated with venous guttering
+	- Can be seen in association with *arterial ulcers*
+
+##### Venous Ulcers
+- Found around gaiter area
+- Have sloping edges 
+- Associated with skin changes
+	- Haemosiderin deposition 
+	- Lipodermatosclerosis (skin induration due to fibrosis of subcutaneous fat)
  
 ### Q54	- LEARN
 Which of the following is NOT _risk factors for bladder cancer_?
@@ -929,7 +1018,9 @@ Which of the following is NOT _risk factors for bladder cancer_?
 	C. Catheterisation - F
 	D. Alcohol
 	E. Smoking - F
-#### Answer: D. Alcohol - ?
+
+#### Answer: D. Alcohol - TRUE
+- There is no proved link between alcohol and bladder cancer; links have been shown to β-naphthylamine (in dyes and in cigarette smoke), schistosomiasis, benzidine, aromatic amines and trauma (eg from catheterisation or calculi).
  
 ### Q55	
 The _criteria for brainstem death_ do NOT include:
@@ -939,7 +1030,9 @@ The _criteria for brainstem death_ do NOT include:
 	C. Absence of gag reflex - F
 	D. Lack of response to painful stimulus - F
 	E. Normal body temperature
-#### Answer: E. Normal body temperature -?
+
+#### Answer: E. Normal body temperature - **FALSE** = D. Lack of response to painful stimulus - TRUE
+- Apnoeic coma and a known cause of irreversible brain damage are prerequisites for brainstem death testing. The patient must not be hypothermic, have uncorrected metabolic derangements (except Na+ in diabetes insipidus), or be under the influence of sedative medications. Tests to be performed are: pupil responses, corneal reflexes, a caloric test, gag reflex, apnoea test and pain reflex. However, the pain reflex must be in the facial nerve distribution, as reflexes below the neck may be spinal.
  
 ### Q56	- LEARN
 Risks associated with _carotid endarterectomy_ include all of the following, EXCEPT:
@@ -949,7 +1042,9 @@ Risks associated with _carotid endarterectomy_ include all of the following, EXC
 	C. Wound infection - T
 	D. Damage to the (spinal) accessory nerve
 	E. Damage to the glossopharyngeal nerve - T
-#### Answer: D. Damage to the (spinal) accessory nerve - ?
+
+#### Answer: D. Damage to the (spinal) accessory nerve - TRUE
+- Carotid endarterectomy is a procedure carried out to remove an atherosclerotic plaque from the carotid artery in patients who have suffered transient ischaemic attacks (TIAs) or (CVAs). The procedure is usually restricted to those who have 70% stenosis of the artery or above because it is at this point that the benefits outweigh the risks of the operation. It involves making an incision in the neck and locating the carotid artery, clamping it above and below the stenosis, creating a bypass for the blood to flow to the head during the operation and incising the artery to remove the plaque. The major risks involved include CVA (1–3%), MI (the most common cause of mortality), glossopharyngeal nerve injury and re-accumulation of the atheroma.
  
 ### Q57	- LEARN
 Which statement is correct regarding the _oxygen haemoglobin_ (Hb) transport curve?
@@ -959,7 +1054,9 @@ Which statement is correct regarding the _oxygen haemoglobin_ (Hb) transport cur
 	C. Fetal haemoglobin moves the curve to the right - F
 	D. Alkaline pH moves the curve to the right
 	E. Increased temperature moves the curve to the right
-#### Answer: E. Increased temperature moves the curve to the right - ?
+
+#### Answer: E. Increased temperature moves the curve to the right - TRUE
+- Each gram of haemoglobin binds 1.34 ml of oxygen when fully saturated. The curve is moved to the left by alkaline pH, decreased temperature, decreased PaCO2, decreased 2,3 DPG, fetal haemoglobin and carboxyhaemoglobin. At a PaO2 of 40 mmHg the saturation of Hb is 75%; at 26 mmHg the saturation is 50%.
  
 ### Q58	
 Which statement is correct regarding _carbon dioxide transport_?
@@ -969,7 +1066,8 @@ Which statement is correct regarding _carbon dioxide transport_?
 	C. 20% is transported dissolved in the plasma
 	D. 50% is transported as sodium bicarbonate
 	E. Carbonic anhydrase catalyses the reaction of CO2 and plasma
-#### Answer: C. 20% is transported dissolved in the plasma - ?
+#### Answer: C. 20% is transported dissolved in the plasma - *FALSE* = E. Carbonic anhydrase catalyses the reaction of CO2 and plasma - TRUE
+- Around 30% is transported as carbaminohaemoglobin, 10% dissolved in the plasma and 60% transported as sodium bicarbonate. The carbaminohaemoglobin curve never saturates. Carbonic anhydrase catalyses the reaction of CO2 and plasma.
  
 ### Q59	- LEARN
 The carpal tunnel does NOT contain:
@@ -979,7 +1077,15 @@ The carpal tunnel does NOT contain:
 	C. Median nerve - F
 	D. Flexor pollicis longus (FPL)
 	E. Flexor carpi ulnaris (FCU) - ?
-#### Answer: E. Flexor carpi ulnaris (FCU) - ?
+
+#### Answer: E. Flexor carpi ulnaris (FCU) - TRUE
+
+##### Contents of Carpal Tunnel
+1. Median nerve
+2. Flexor digitorum superficialis (FDS)
+3. Flexor digitorum profundus (FDP)
+4. Flexor pollicis longus (FPL)
+5. Flexor carpi radialis (FCR)
  
 ### Q60	
 Which statement is correct regarding _cerebrospinal fluid_ (CSF)?
@@ -989,7 +1095,9 @@ Which statement is correct regarding _cerebrospinal fluid_ (CSF)?
 	C. It is reabsorbed by the choroid plexuses - F
 	D. The rate of production is proportional to the systemic blood pressure (BP)
 	E. It passes from the third to the fourth ventricles via the foramen of Magendie
-#### Answer: B. It passes from the lateral to the third ventricles via the foramen of Monro - ?
+
+#### Answer: B. It passes from the lateral to the third ventricles via the foramen of Monro - TRUE
+- CSF is produced by the choroid plexus and reabsorbed by the arachnoid villi. The rate of production is unrelated to the pressure in the ventricles, subarachnoid space, and systemic BP. It passes from the lateral to the third ventricles via the foramen of Monro, and from the third to the fourth ventricles via the aqueduct of Sylvius. It passes into the subarachnoid space via the foramina of Luschka and foramen of Magendie.
 
 
 Questions 61-70
