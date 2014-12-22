@@ -10,8 +10,8 @@ Group	| Score			| Errors 						|
 41-50	| 6/10 =  60%	| 41, 44, 45, 46
 51-60	| 3/10 =  30%	| 52, 53, 55, 56, 57, 58, 60
 61-70	| 6/10 =  60%	| 61, 65, 67, 69 
-71-80	| ?/10 =  ??%	|  
-81-90	| ?/10 =  ??%	|  
+71-80	| 5/10 =  50%	| 72, 73, 75, 79, 80 
+81-90	| 6/10 =  60%	| 81, 86, 88, 89  
 91-100	| ?/10 =  ??%	|  
 101-110	| ?/10 =  ??%	|  
 111-120	| ?/10 =  ??%	|  
@@ -1120,6 +1120,8 @@ A 50-year-old woman is found to be _febrile_ one day after her _total gastrectom
 Questions 71-80
 ---------------
 
+50% = F: 72, 73, 75, 79, 80
+
 ### Q71 - LEARN
 Which of the following is NOT a test used to determine _brainstem death_?
 
@@ -1128,17 +1130,21 @@ Which of the following is NOT a test used to determine _brainstem death_?
 	C. Caloric test
 	D. Pain reflex
 	E. Flexor response
-#### Answer: E. Flexor response - ?
+
+#### Answer: E. Flexor response - TRUE
+- Brainstem death is defined as irreversible cessation of brainstem function and is diagnosed by carrying out specific tests. These tests cannot be carried out if the patient is hypothermic (<35 °C) has had depressant drugs or has metabolic derangements. The patient must be in an apnoeic coma requiring ventilation and have a known cause of brain damage. The tests are designed to test the cranial nerves and are: pupillary response, corneal reflex, pain reflex (facial nerve distribution), caloric test (instillation of ice-cold water into the ear, looking for nystagmus towards that side), gag reflex and apnoea test.
  
 ### Q72	
 The following vessels all _supply blood to the oesophagus_, EXCEPT:
 
-	A. Inferior thyroid artery
-	B. Inferior phrenic artery
+	A. Inferior thyroid artery - T
+	B. Inferior phrenic artery - T
 	C. Left gastric artery branches - T
 	D. Superior phrenic artery
-	E. Aortic and bronchial branches
-#### Answer: A. Inferior thyroid artery - ?
+	E. Aortic and bronchial branches - T
+
+#### Answer: A. Inferior thyroid artery - *FALSE* = D. Superior phrenic artery - TRUE
+- The blood supply to the oesophagus is classically divided into thirds. The upper third is supplied by branches of the inferior thyroid artery, the middle third from aortic oesophageal branches, and the lower third mainly from the left gastric artery, although contributions from the inferior phrenic are also received. The pericardiophrenic arterial branch of the internal thoracic acts as the superior diaphragmatic supply, but does not contribute branches to the oesophagus.
  
 ### Q73	
 _High anal fistulae_:
@@ -1146,9 +1152,14 @@ _High anal fistulae_:
 	A. Are more common than low anal fistulae - F
 	B. Open into the rectum above the puborectalis muscle
 	C. Can be managed with a loose seton - F
-	D. Are typically associated with ulcerative colitis
+	D. Are typically associated with ulcerative colitis - F
 	E. May be laid open without hazard - F
-#### Answer: B. Open into the rectum above the puborectalis muscle
+
+#### Answer: B. Open into the rectum above the puborectalis muscle - *FALSE* = C. Can be managed with a loose seton - TRUE
+- High anal fistulae can be difficult to manage as their treatment can involve dividing the anal sphincters
+- A loose seton helps establish drainage of sepsis
+	- great importance as the first step in managing any anal fistula
+- **NOTE** High fistulae are seen in Crohn’s disease rather than ulcerative colitis
  
 ### Q74 - LEARN	
 Which of the following is NOT used in the definition of systemic inflammatory response syndrome (SIRS)?
@@ -1158,7 +1169,14 @@ Which of the following is NOT used in the definition of systemic inflammatory re
 	C. Temperature <36 °C - T
 	D. Bradycardia <45 bpm
 	E. PaCO2 <4.3 kPa
-#### Answer: D. Bradycardia <45 bpm - ?
+
+#### Answer: D. Bradycardia <45 bpm - TRUE
+- SIRS involves the systemic activation of the acute-phase response following an insult
+- SIRS is defined by the presence of two or more of the following
+	1. Tachycardia: >90 bpm
+	2. Respiratory rate: >20 bpm **or** PaCO2 of <4.3 kPa
+	3. Temperature: < 36°C or > 38°C 
+	4. white blood count: >12 or <4 × 10^9/L
  
 ### Q75	
 The _developmental origin_ of the _uterus and uterine tubes_ is the:
@@ -1168,8 +1186,13 @@ The _developmental origin_ of the _uterus and uterine tubes_ is the:
 	C. Metanephric ducts
 	D. Paramesonephric ducts
 	E. Wolffian ducts
-#### Answer: E. Wolffian ducts - ?
- 
+
+#### Answer: E. Wolffian ducts - *FALSE* = D. Paramesonephric ducts - TRUE
+- Pronephros – develops in the third week but never develops fully
+- Mesonephric ducts – develop in males to form vas deferens and epididymis; also known as the Wolffian ducts
+- Metanephric ducts – develop into the ureter, pelvis, calyces and collecting tubule
+- **Paramesonephric ducts** – rise parallel to mesonephric ducts to form the uterus and uterine tubes
+
 ### Q76	
 _High-output stomas_ are associated with all of the following, EXCEPT:
 
@@ -1178,7 +1201,12 @@ _High-output stomas_ are associated with all of the following, EXCEPT:
 	C. Diarrhoea - T
 	D. Octreotide to reduce output
 	E. Loperamide to reduce output
-#### Answer: A. Distal position - ?
+
+#### Answer: A. Distal position - TRUE
+- Proximal stomas, such as jejunostomies for example, are associated with very high outputs because of the increased secretions from the gastroinstestinal tract and pancreaticobiliary enzymes
+- The more distal position allows these fluids, along with most of the oral intake, to be digested and absorbed to a greater degree, so there is less stoma output
+
+**NOTE** Proximal stomas can be associated with dehydration, electrolyte abnormalities and renal failure
  
 ### Q77	
 A 57-year-old man was admitted to Neurointensive Care after a subarachnoid haemorrhage. He is not brainstem-dead, but the neurosurgeon is of the opinion that further treatment is futile. His long-standing partner of 15 years, a 55-year-old man, is in agreement that treatment should be withdrawn. Which of the following statements is TRUE?
@@ -1188,7 +1216,9 @@ A 57-year-old man was admitted to Neurointensive Care after a subarachnoid haemo
 	C. The patient cannot be a donor because he is too old - F
 	D. The patient is a potential non-heart-beating donor of his liver and kidneys
 	E. Organ retrieval from such a patient is illegal - F
-#### Answer: D. The patient is a potential non-heart-beating donor of his liver and kidneys - ?
+
+#### Answer: D. The patient is a potential non-heart-beating donor of his liver and kidneys - TRUE
+- A gay patient who has been in a long and stable relationship can be an organ donor; he is probably a lower risk group than, say, a young promiscuous heterosexual. Organ donation after cardiac death from withdrawal of treatment is permissible. The patient is not necessarily too old to be a donor. It depends on what other co-morbidities are present. If he is a diabetic and/ or has long-standing hypertension and, at retrieval, the renal arteries show signs of heavy deposition of atheroma, then one is minded to turn down the kidneys for transplantation.
  
 ### Q78	
 Concerning _laparoscopic surgery_, which of the following is NOT true?
@@ -1198,7 +1228,13 @@ Concerning _laparoscopic surgery_, which of the following is NOT true?
 	C. Verres needles should be inserted under direct vision - F
 	D. Conduction coupling is a recognised risk - T
 	E. Pneumoperitoneum can lead to pneumomediastinum - T
-#### Answer: C. Verres needles should be inserted under direct vision - ?
+
+#### Answer: C. Verres needles should be inserted under direct vision - TRUE
+- Verres needles are designed to be inserted blind to establish a pneumoperitoneum
+- Most surgeons do not recommend their use as it is a blind procedure 
+	- Damage to viscera can occur, with a modest risk
+- When employing the open (Hasson’s) approach, the dissection into the peritoneum 
+	- Is much safer as it is done under direct vision
  
 ### Q79	
 _Smoking_ causes all of the following _physiological effects_, EXCEPT:
@@ -1206,9 +1242,11 @@ _Smoking_ causes all of the following _physiological effects_, EXCEPT:
 	A. A shift of the oxygen dissociation curve to the left - F
 	B. Impaired wound healing and increased risk of wound breakdown - T
 	C. Impaired mucociliary function - T
-	D. No change in cardiovascular function when stopped 1 day before surgery - T
+	D. No change in cardiovascular function when stopped 1 day before surgery
 	E. An increase in pulse rate and mean arterial pressure - T
-#### Answer: A. A shift of the oxygen dissociation curve to the left - ?
+
+#### Answer: A. A shift of the oxygen dissociation curve to the left - *FALSE* = D. No change in cardiovascular function when stopped 1 day before surgery - TRUE
+- Sudden cessation in smoking causes a rebound tachycardia and hypertension, which is temporary and mostly resultant from the irritability and depression of cravings. Cardiovascular and respiratory function will improve long term and aid in recovery from surgery, anaesthesia and wound healing on stopping smoking. Effects are related to the volume and frequency of smoking for individual patients.
  
 ### Q80	- LEARN
 Which of the following phases is correctly matched with its physiological action within the _cardiac ventricular muscle action_ potential graph?
@@ -1218,11 +1256,21 @@ Which of the following phases is correctly matched with its physiological action
 	C. Phase 2 – slow depolarisation plateau
 	D. Phase 3 – rapid repolarisation
 	E. Phase 4 – slow repolarisation
-#### Answer: A. Phase 0 – resting membrane potential - ?
+
+#### Answer: A. Phase 0 – resting membrane potential - *FALSE* = D. Phase 3 – rapid repolarisation - TRUE
+
+##### Phases of Cardiac Action Potential
+- Phase 0 – initial rapid depolarisation
+- Phase 1: rapid repolarisation
+- Phase 2: slow repolarisation plateau
+- **Phase 3**: **rapid repolarisation**
+- Phase 4: resting membrane potential
 
 
 Questions 81-90
 ---------------
+
+60% = F: 81, 86, 88, 89
 
 ### Q81 - LEARN
 During observation of the _venous pulse_, you note that the x descent is:
@@ -1232,7 +1280,15 @@ During observation of the _venous pulse_, you note that the x descent is:
 	C. Reflects a rise in atrial pressure before the tricuspid valve opens - F
 	D. Is due to the tricuspid valve moving down during ventricular systole - F
 	E. Reflects opening of the tricuspid valve and a fall in right atrial pressure
-#### Answer: E. Reflects opening of the tricuspid valve and a fall in right atrial pressure - ?
+
+#### Answer: E. Reflects opening of the tricuspid valve and a fall in right atrial pressure - *FALSE* = D. Is due to the tricuspid valve moving down during ventricular systole - TRUE
+
+##### Jugular Venous Pressure (JVP)
+- a wave: prominent in atrial systole
+- c wave: synchronous with the carotid pulse wave
+- v wave: reflects a rise in atrial pressure before the tricuspid valve opens
+- **x descent**: due to the tricuspid valve moving down during ventricular systole
+- y descent: reflects opening of tricuspid valve and a fall in right atrial pressure
  
 ### Q82	
 During the lateral (Hardinge’s) approach to the hip, which one of the following nerves can be injured?
@@ -1242,7 +1298,9 @@ During the lateral (Hardinge’s) approach to the hip, which one of the followin
 	C. Inferior gluteal
 	D. Superior gluteal
 	E. Obturator
-#### Answer: D. Superior gluteal - ?
+
+#### Answer: D. Superior gluteal - TRUE
+- In the lateral approach, the skin and the fascia lata are incised to expose the gluteus medius and the vastus lateralis muscles. The gluteus medius is incised from the greater trochanter, leaving a cuff of tissue. This incision is extended to split the gluteus medius proximally, and distally the vastus is split along its anterior part down to the femoral shaft. The gluteus minimus is detached from its insertion and the hip is exposed after incising the joint capsule. The superior gluteal nerve can be damaged (and the gluteus medius denervated) if the gluteus medius is split >5 cm proximal to the greater trochanter.
  
 ### Q83	
 A tumour marker used in surveillance after orchidectomy for nonseminomatous germ-cell tumours (NSGCT) of the testes is:
@@ -1252,7 +1310,9 @@ A tumour marker used in surveillance after orchidectomy for nonseminomatous germ
 	C. CA-125
 	D. Carcinoembryonic antigen (CEA)
 	E. CA-19-9
-#### Answer: B. Alpha-fetoprotein (AFP) - ?
+
+#### Answer: B. Alpha-fetoprotein (AFP) - TRUE
+- Tumour markers are substances found in the blood that are associated with certain cancers. They are used in diagnosis, surveillance and staging. Nonseminomatous germ cell tumours of the testis are associated with a raised AFP and raised βhCG). PSA is a tumour marker for prostate cancer but is also elevated in benign prostatic hypertrophy (BPH) and prostatitis. CA-125 is mainly elevated in mucinous ovarian carcinoma but is also seen in breast and pancreatic cancer. CEA is a marker for colorectal cancer, as well as ovarian and breast cancer. CA-19-9 is sometimes elevated in pancreatic cancer and advanced colorectal cancer.
  
 ### Q84	
 In a healthy 70-kg male at rest, the normal _coronary blood flow_ is:
@@ -1263,20 +1323,27 @@ In a healthy 70-kg male at rest, the normal _coronary blood flow_ is:
 	D. 750 ml/min
 	E. 1000 ml/min
 
-#### Answer: B. 250 ml/min - ?
+#### Answer: B. 250 ml/min - TRUE
 - Coronary Blood Flow = 5% Cardiac Output (CO) = 5% x 70 mL x 70 bpm = 245 mL/min
+- Normal coronary blood flow to heart is 250 ml/min in the average 70-kg healthy young male adult at rest
+	- This can rise to 1000 ml/min on exercise
  
 ### Q85	
 The following are known to cause a _metabolic acidosis_, EXCEPT:
 
 	A. Myocardial infarction
 	B. Ischaemic bowel
-	C. Diabetic ketoacidosis - T
+	C. Diabetic ketoacidosis
 	D. Sepsis
-	E. Persistent vomiting - F
-#### Answer: E. Persistent vomiting - ?
- 
-### Q86	
+	E. Persistent vomiting - F (*metabolic alkalosis*)
+
+#### Answer: E. Persistent vomiting - TRUE
+- Any cause of shock can result in **metabolic acidosis** as 
+	- inadequate perfusion results in an anaerobic metabolic response 
+	- addition to the production of lactate
+- Persistent vomiting typically results in a large loss of gastric acid → *metabolic alkalosis*
+
+### Q86	- LEARN
 Which of the following is true of _ulcerative colitis_?
 
 	A. It is commonly associated with anal fistulae - F
@@ -1284,7 +1351,18 @@ Which of the following is true of _ulcerative colitis_?
 	C. It is worsened by smoking - F
 	D. It is associated with abdominal masses
 	E. It is associated with joint pain - F
-#### Answer: D. It is associated with abdominal masses - ?
+
+#### Answer: D. It is associated with abdominal masses - *FALSE* 
+
+##### Ulcerative Colitis: Extraintestinal Manifestations
+- Ankylosing spondylitis
+- Arthritis
+- Uveitis
+- Pyoderma gangrenosum
+- Erythema nodosum
+- Sclerosing cholangitis
+
+**NOTE** Smoking, unusually, appears to be protective against development of ulcerative colitis
  
 ### Q87	- LEARN
 Which of the following is NOT a feature of _multiple endocrine neoplasia_ type II?
@@ -1294,7 +1372,9 @@ Which of the following is NOT a feature of _multiple endocrine neoplasia_ type I
 	C. Pituitary adenoma
 	D. Parathyroid tumours
 	E. Multiple mucosal neuromas - T
-#### Answer: C. Pituitary adenoma - ?
+
+#### Answer: C. Pituitary adenoma - TRUE
+- MEN is a familial autosomal dominant disorder. There are two types, MEN I (pituitary adenomas, pancreatic islet tumours, hyperplasia of the parathyroids and tumours of the adrenal cortex) and MEN II, which is further subdivided into MEN IIa (medullary thyroid carcinoma, phaeochromocytoma, parathyroid adenoma/hyperplasia) and MEN IIb (parathyroid tumours, medullary thyroid carcinoma, phaeochromocytoma, multiple mucosal neuromas and marfanoid habitus). MEN syndromes can be picked up by genetic screening techniques.
  
 ### Q88	
 All of the following statements regarding _malignant hyperpyrexia_ are true, EXCEPT:
@@ -1304,7 +1384,9 @@ All of the following statements regarding _malignant hyperpyrexia_ are true, EXC
 	C. Incidence is 1 in 200,000 - T
 	D. Treatment involves the use of dantrolene sodium and fluids - T
 	E. Conclusive diagnosis requires a muscle biopsy in addition to the clinical picture - T
-#### Answer: A. Relatives of affected individuals should always be tested - ?
+
+#### Answer: A. Relatives of affected individuals should always be tested - *FALSE* = B. Inheritance is in an autosomal recessive pattern - TRUE
+- Malignant hyperpyrexia is an **autosomal dominant** condition with an incidence of 1 in 200 000. It produces a hypermetabolic state of skeletal muscle on exposure to general anaesthetics or muscle relaxants, which produces hyperthermia as a side effect. Muscle rigidity and rhabdomyolysis can occur, with resulting hyperkalaemia and multi-organ failure. Treatment is supportive, with intravenous fluids, dantrolene sodium, cooling, forced diuresis and intensive care as necessary.
  
 ### Q89	
 The main _host defences against bacterial exotoxins_ in a person with an intact immunological system are:
@@ -1314,7 +1396,12 @@ The main _host defences against bacterial exotoxins_ in a person with an intact 
 	C. Activated macrophages that secrete proteases
 	D. IgM and IgG antibodies
 	E. Host-cell receptor modulation in response to toxins
-#### Answer: C. Activated macrophages that secrete proteases - ?
+
+#### Answer: C. Activated macrophages that secrete proteases - *FALSE* = D. IgM and IgG antibodies - TRUE
+- Exotoxins are secreted by both Gram-positive and Gram-negative bacteria
+	- whereas endotoxins are found within cell walls of Gram-negative bacteria only
+- The main defence against these secreted toxins are antibodies such as IgG and IgM
+- *Clinical Example*: tetanus toxin and tetanus immunoglobulin injected to help counter its effects
  
 ### Q90	
 The _inguinal canal_:
@@ -1324,21 +1411,27 @@ The _inguinal canal_:
 	C. Has an internal ring lying 5 cm above the middle of the inguinal ligament - F
 	D. Has the lacunar ligament in the medial part of its floor - F
 	E. Has the inferior epigastric artery lying medial to its deep ring - T
-#### Answer: E. Has the inferior epigastric artery lying medial to its deep ring - ?
+
+#### Answer: E. Has the inferior epigastric artery lying medial to its deep ring - TRUE
+- The deep ring of the inguinal canal is a defect in the transversalis fascia and is situated 2 cm above the midpoint of the inguinal ligament. It has the inferior epigastric artery on its medial aspect and it is this structure that is used to define Hasselbach’s triangle. Indirect inguinal hernias pass through the deep ring and are lateral to this vessel. Direct hernias, in contrast, pass through the posterior wall, medial to the inferior epigastric artery.
 
 
 Questions 91-100
 ----------------
 
+??% = F: 
+
 ### Q91
 All of the following statements regarding _interferons_ are correct, EXCEPT that they:
 
-	A. Are induced by dsRNA
+	A. Are induced by dsRNA - T
 	B. Are typically specific to their host species cell of origin - T
-	C. Appear typically before antibodies in viral infections
+	C. Appear typically before antibodies in viral infections - T
 	D. Inhibit the growth of both DNA and RNA viruses - T
 	E. Enhance the metabolism of infected cells
-#### Answer: C. Appear typically before antibodies in viral infections - ?
+
+#### Answer: C. Appear typically before antibodies in viral infections - *FALSE* = E. Enhance the metabolism of infected cells - TRUE
+- Interferons are a heterogeneous group of endogenous glycoproteins which inhibit the growth of viruses, bacteria, protozoa and cancer cells by blocking the translation of proteins. They are the most important part of the non-specific defence response to viral infections. Interferons classically appear within hours of initiation of viral replication, in contrast to antibodies, which take some days to appear. They are species-specific, so therapy with animal interferons is ineffective in humans.
  
 ### Q92 - LEARN	
 Which of the following statements regarding the hepatitis B virus (HBV) is correct?
