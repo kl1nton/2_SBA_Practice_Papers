@@ -759,105 +759,105 @@ A 50-year-old woman is found to be _febrile_ one day after her _total gastrectom
 Questions 71-80
 ---------------
 
-### Q71
-Which of the following is NOT a test used to determine brainstem death?
+### Q71 - LEARN
+Which of the following is NOT a test used to determine _brainstem death_?
 
-	A	Corneal reflex
-	B	Gag reflex
-	C	Caloric test
-	D	Pain reflex
-	E	Flexor response
-#### Answer: 
+	A. Corneal reflex - T
+	B. Gag reflex - T
+	C. Caloric test
+	D. Pain reflex
+	E. Flexor response
+#### Answer: E. Flexor response - ?
  
 ### Q72	
-The following vessels all supply blood to the oesophagus, EXCEPT:
+The following vessels all _supply blood to the oesophagus_, EXCEPT:
 
-	A	Inferior thyroid artery
-	B	Inferior phrenic artery
-	C	Left gastric artery branches
-	D	Superior phrenic artery
-	E	Aortic and bronchial branches
-#### Answer: 
+	A. Inferior thyroid artery
+	B. Inferior phrenic artery
+	C. Left gastric artery branches - T
+	D. Superior phrenic artery
+	E. Aortic and bronchial branches
+#### Answer: A. Inferior thyroid artery - ?
  
 ### Q73	
-High anal fistulae:
+_High anal fistulae_:
 
-	A	Are more common than low anal fistulae
-	B	Open into the rectum above the puborectalis muscle
-	C	Can be managed with a loose seton
-	D	Are typically associated with ulcerative colitis
-	E	May be laid open without hazard
-#### Answer: 
+	A. Are more common than low anal fistulae - F
+	B. Open into the rectum above the puborectalis muscle
+	C. Can be managed with a loose seton - F
+	D. Are typically associated with ulcerative colitis
+	E. May be laid open without hazard - F
+#### Answer: B. Open into the rectum above the puborectalis muscle
  
-### Q74	
+### Q74 - LEARN	
 Which of the following is NOT used in the definition of systemic inflammatory response syndrome (SIRS)?
 
-	A	Temperature >39 °C
-	B	Tachycardia >90 bpm
-	C	Temperature <36 °C
-	D	Bradycardia <45 bpm
-	E	Paco2 <4.3 kPa
-#### Answer: 
+	A. Temperature >39 °C - T
+	B. Tachycardia >90 bpm - T
+	C. Temperature <36 °C - T
+	D. Bradycardia <45 bpm
+	E. PaCO2 <4.3 kPa
+#### Answer: D. Bradycardia <45 bpm - ?
  
 ### Q75	
-The developmental origin of the uterus and uterine tubes is the:
+The _developmental origin_ of the _uterus and uterine tubes_ is the:
 
-	A	Pronephric ducts
-	B	Mesonephric ducts
-	C	Metanephric ducts
-	D	Paramesonephric ducts
-	E	Wolffian ducts
-#### Answer: 
+	A. Pronephric ducts
+	B. Mesonephric ducts
+	C. Metanephric ducts
+	D. Paramesonephric ducts
+	E. Wolffian ducts
+#### Answer: E. Wolffian ducts - ?
  
 ### Q76	
-High-output stomas are associated with all of the following, EXCEPT:
+_High-output stomas_ are associated with all of the following, EXCEPT:
 
-	A	Distal position
-	B	Electrolyte disturbances
-	C	Diarrhoea
-	D	Octreotide to reduce output
-	E	Loperamide to reduce output
-#### Answer: 
+	A. Distal position
+	B. Electrolyte disturbances - T
+	C. Diarrhoea - T
+	D. Octreotide to reduce output
+	E. Loperamide to reduce output
+#### Answer: A. Distal position - ?
  
 ### Q77	
 A 57-year-old man was admitted to Neurointensive Care after a subarachnoid haemorrhage. He is not brainstem-dead, but the neurosurgeon is of the opinion that further treatment is futile. His long-standing partner of 15 years, a 55-year-old man, is in agreement that treatment should be withdrawn. Which of the following statements is TRUE?
 
-	A	The patient cannot be a kidney donor because he is gay
-	B	The patient cannot be a kidney donor because he is not brainstem-dead
-	C	The patient cannot be a donor because he is too old
-	D	The patient is a potential non-heart-beating donor of his liver and kidneys
-	E	Organ retrieval from such a patient is illegal
-#### Answer: 
+	A. The patient cannot be a kidney donor because he is gay - F
+	B. The patient cannot be a kidney donor because he is not brainstem-dead - F
+	C. The patient cannot be a donor because he is too old - F
+	D. The patient is a potential non-heart-beating donor of his liver and kidneys
+	E. Organ retrieval from such a patient is illegal - F
+#### Answer: D. The patient is a potential non-heart-beating donor of his liver and kidneys - ?
  
 ### Q78	
-Concerning laparoscopic surgery, which of the following is NOT true?
+Concerning _laparoscopic surgery_, which of the following is NOT true?
 
-	A	Shoulder-tip pain is a common post-operative complaint
-	B	Bowel perforation should have consent
-	C	Verres needles should be inserted under direct vision
-	D	Conduction coupling is a recognised risk
-	E	Pneumoperitoneum can lead to pneumomediastinum
-#### Answer: 
+	A. Shoulder-tip pain is a common post-operative complaint - T
+	B. Bowel perforation should have consent - T
+	C. Verres needles should be inserted under direct vision - F
+	D. Conduction coupling is a recognised risk - T
+	E. Pneumoperitoneum can lead to pneumomediastinum - T
+#### Answer: C. Verres needles should be inserted under direct vision - ?
  
 ### Q79	
-Smoking causes all of the following physiological effects, EXCEPT:
+_Smoking_ causes all of the following _physiological effects_, EXCEPT:
 
-	A	A shift of the oxygen dissociation curve to the left
-	B	Impaired wound healing and increased risk of wound breakdown
-	C	Impaired mucociliary function
-	D	No change in cardiovascular function when stopped 1 day before surgery
-	E	An increase in pulse rate and mean arterial pressure
-#### Answer: 
+	A. A shift of the oxygen dissociation curve to the left - F
+	B. Impaired wound healing and increased risk of wound breakdown - T
+	C. Impaired mucociliary function - T
+	D. No change in cardiovascular function when stopped 1 day before surgery - T
+	E. An increase in pulse rate and mean arterial pressure - T
+#### Answer: A. A shift of the oxygen dissociation curve to the left - ?
  
-### Q80	
-Which of the following phases is correctly matched with its physiological action within the cardiac ventricular muscle action potential graph?
+### Q80	- LEARN
+Which of the following phases is correctly matched with its physiological action within the _cardiac ventricular muscle action_ potential graph?
 
-	A	Phase 0 – resting membrane potential
-	B	Phase 1 – rapid depolarisation
-	C	Phase 2 – slow depolarisation plateau
-	D	Phase 3 – rapid repolarisation
-	E	Phase 4 – slow repolarisation
-#### Answer: 
+	A. Phase 0 – resting membrane potential
+	B. Phase 1 – rapid depolarisation
+	C. Phase 2 – slow depolarisation plateau
+	D. Phase 3 – rapid repolarisation
+	E. Phase 4 – slow repolarisation
+#### Answer: A. Phase 0 – resting membrane potential - ?
 
 
 Questions 81-90
