@@ -11,7 +11,7 @@ Group	| Score			| Errors 							|
 51-60	| 6/10 =  60%	| 51, 53, 55, 58
 61-70	| 5/10 =  50%	| 61, 62, 65, 67, 70
 71-80	| 2/10 =  20% 	| 71, 72, 73, 74, 75, 76, 78, 80
-81-90	| 
+81-90	| 4/10 =  40%	| 82, 84, 85, 87, 88, 89
 91-100	| 
 101-110	| 
 111-120	| 
@@ -1443,8 +1443,11 @@ _Epstein–Barr virus_ (EBV) is known to be a carcinogen for:
 #### Answer: E. Hepatocellular carcinoma = *FALSE* = D. B-cell lymphoma - TRUE
 - EBV is known to be carcinogenic for B-cell lymphoma, nasopharyngeal carcinoma and Hodgkin’s lymphoma.
 
+
 Questions 81-90
 ---------------
+
+40% = F: 82, 84, 85, 87, 88, 89
 
 ### Q81
 One litre of _Hartmann’s solution_ contains
@@ -1454,7 +1457,8 @@ One litre of _Hartmann’s solution_ contains
 	C. 130 mmol/l of chloride - F
 	D. 10 mmol/l of calcium - F
 	E. 5 mmol/l of potassium
-#### Answer: E. 5 mmol/l of potassium - ?
+
+#### Answer: E. 5 mmol/l of potassium - TRUE
 - Hartmann's Solution (CSL), in mmol/L = Na: 131, Cl: 111, HCO3: 29, K: 5, Ca: 2 
 
 ### Q82	
@@ -1465,7 +1469,9 @@ A _4-year-old girl_ falls from her bike, landing on her left leg, which becomes 
 	C. Bone cyst
 	D. Bone metastasis
 	E. Ewing’s sarcoma
-#### Answer: B. Chondrosarcoma - ?
+
+#### Answer: B. Chondrosarcoma - *FALSE* = C. Bone cyst - TRUE
+- Bone cysts are common benign fluid-containing lesions that usually occur in the metaphysis of long bones. Half of all bone cysts present as pathological fractures and most occur in children aged 4–10 years. Bone metastases usually present with pain, although occurrence of a pathological fracture may be the first presentation. Osteosarcoma has a bimodal distribution, with 75% of those affected being aged between 10 and 25 years. The remainder are elderly with a history of Paget’s disease. It typically presents with a painful mass, most commonly affecting the lower femur and arising from the medullary cavity. Chondrosarcomas can present de novo or from malignant transformation of a benign cartilage tumour such an osteochondroma. They usually affect middle-aged or elderly people. Ewing’s sarcoma usually affects young people aged between 5 and 15 years. It presents as a lytic lesion, which causes a periosteal reaction, giving it a characteristic ‘onion skin’ appearance.
  
 ### Q83	
 Which of the following statements is true regarding the _adrenal glands_?
@@ -1475,9 +1481,13 @@ Which of the following statements is true regarding the _adrenal glands_?
 	C. The left adrenal lies posterior to the splenic artery
 	D. The right adrenal vein drains into the right renal vein
 	E. Cortisol is secreted by the zona glomerulosa
-#### Answer: C. The left adrenal lies posterior to the splenic artery - ?
+
+#### Answer: C. The left adrenal lies posterior to the splenic artery - TRUE
+- The left adrenal lies more medially than the right. The left adrenal lies posterior to the splenic artery and body of the pancreas, anterior to the left crus of the diaphragm, lateral to the coeliac ganglion and left gastric vessels, and medial to the left kidney. The right adrenal lies posterior to the right lobe of the liver and IVC, anterior to the right crus of the diaphragm, and lateral to the right inferior phrenic vessels.
+- The zona glomerulosa secretes aldosterone, the zona fasciculata cortisol and testosterone, and the zona reticularis oestradiol and progesterone.
+
  
-### Q84	
+### Q84	- LEARN
 Volumes of _gastrointestinal secretions_ per day are:
 
 	A. 3000 ml of saliva
@@ -1485,7 +1495,16 @@ Volumes of _gastrointestinal secretions_ per day are:
 	C. 2000 ml of bile
 	D. 3500 ml of small-bowel secretions
 	E. 1500 ml of large-bowel secretions
-#### Answer: B. 2000 ml of pancreatic juices - ?
+
+#### Answer: B. 2000 ml of pancreatic juices - *FALSE* = D. 3500 ml of small-bowel secretions - TRUE
+
+##### Daily Gastrointestinal Secretions
+- 1500 ml of saliva
+- 2000 ml of gastric secretions
+- 1000 ml of pancreatic juices
+- 1500 ml of bile
+- 3500 ml of **small-bowel secretions**
+-  500 ml of large-bowel secretions
  
 ### Q85	
 A 40-year-old _diabetic_ man presents with _pain in the upper lumbar spine_. X-ray at the time showed soft-tissue swelling only and he was discharged home with anti-inflammatories. He returns 10 days later as his symptoms are no better and he has been suffering from a _constant fever_. X-ray at this time shows _sclerotic changes_ and _periosteal reaction_. His symptoms are most likely to be due to infection with:
@@ -1495,7 +1514,9 @@ A 40-year-old _diabetic_ man presents with _pain in the upper lumbar spine_. X-r
 	C. Gonococcus - F
 	D. Tuberculosis - F
 	E. Staphylococcus aureus
-#### Answer: B. Haemophilus influenzae - ?
+
+#### Answer: B. Haemophilus influenzae - *FALSE* = E. Staphylococcus aureus - TRUE
+- Osteomyelitis is characterised by pain and swelling over the affected part and a fever. Bacteria can enter the bone via direct inoculation or haematogenous spread. People most susceptible are those with diabetes and immunosuppression. Radiological changes do not usually appear until 10 days after onset and consist of soft-tissue swelling and sclerotic bone changes with periosteal elevation. The most likely causative organism in this case is S. aureus. In young children, Haemophilus influenzae can also be a cause. Salmonella can cause osteomyelitis in sickle cell patients.
  
 ### Q86	
 Which of the following is NOT true regarding gastric secretions?
@@ -1505,7 +1526,9 @@ Which of the following is NOT true regarding gastric secretions?
 	C. Mucus is produced by the surface epithelial cells - T
 	D. Intrinsic factor is produced by the parietal cells - T
 	E. Hydrochloric acid is produced by the chief cells
-#### Answer: E. Hydrochloric acid is produced by the chief cells - ?
+
+#### Answer: E. Hydrochloric acid is produced by the chief cells - TRUE
+- Hydrochloric acid is produced by the parietal cells.
  
 ### Q87	- LEARN
 Which of the following factors is part of the _extrinsic pathway_ in the coagulation cascade?
@@ -1515,7 +1538,12 @@ Which of the following factors is part of the _extrinsic pathway_ in the coagula
 	C. Factor IX
 	D. Factor VII
 	E. Factor XIII - F
-#### Answer: C. Factor IX - ?
+
+#### Answer: C. Factor IX - *FALSE* = D. Factor VII - TRUE
+- Factors XII, XI and IX are all part of the intrinsic pathway
+- Factor VII is common to both pathways
+- Factor III is part of the extrinsic pathway
+- Factor XIII is part of the final common pathway
  
 ### Q88	
 The following are all features of carpal tunnel syndrome, EXCEPT:
@@ -1525,17 +1553,22 @@ The following are all features of carpal tunnel syndrome, EXCEPT:
 	C. Positive Phalen’s test
 	D. Wasting of the hypothenar muscles - T
 	E. Paraesthesia over thumb and lateral two fingers - T
-#### Answer: C. Positive Phalen’s test - ?
+
+#### Answer: C. Positive Phalen’s test - *FALSE* = D. Wasting of the hypothenar muscles - TRUE
+- Carpal tunnel syndrome is due to compression of the median nerve within the carpal tunnel, which is itself made up of the carpal bones and the transverse carpal ligament. It can be idiopathic or associated with pregnancy, rheumatoid arthritis, diabetes or hypothyroidism. It typically presents with pain and paraesthesia over the thumb and lateral two fingers, which is worse at night. There may be associated wasting of the thenar muscles. Tinel’s test involves reproduction of symptoms on tapping over the carpal tunnel whereas Phalen’s test involves reproduction of symptoms on flexing the wrist.
  
 ### Q89	
-Functions of the terminal ileum do NOT include:
+Functions of the _terminal ileum_ do NOT include:
 
 	A. Folate reuptake
 	B. Bile salt reuptake
 	C. Vitamin B12 uptake
 	D. Water reabsorption
 	E. Gamma-globulin uptake
-#### Answer: D. Water reabsorption - ?
+
+#### Answer: D. Water reabsorption - *FALSE* = A. Folate reuptake - TRUE
+- Answers B–E are the main functions of Terminal Ileum
+	- Folate reuptake is a function of Jejunum
  
 ### Q90	
 Which of the following statements is NOT true regarding vitamin B12?
@@ -1545,7 +1578,12 @@ Which of the following statements is NOT true regarding vitamin B12?
 	C. Intrinsic factor is required for its absorption - T
 	D. Stores can last for up to a year - F
 	E. There is a small amount in bile - ?
-#### Answer: D. Stores can last for up to a year - ?
+
+#### Answer: D. Stores can last for up to a year - TRUE
+- Vitamin B12 is necessary for maturation of red cells
+	- It is stored in the liver and also present in bile
+- Stores are large and can last 3–6 years
+- Intrinsic factor secreted by **Gastric Parietal Cells** is necessary for its uptake
 
 
 Questions 91-100
