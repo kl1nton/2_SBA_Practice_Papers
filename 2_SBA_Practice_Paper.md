@@ -5,9 +5,9 @@ Group	| Score			| Errors 					|
 --------|---------------|---------------------------|
 1-10	| 4/10 =  40%	| 1, 2, 4, 5, 7, 9
 11-20	| 4/10 =  40%	| 11, 13, 14, 17, 18, 20 
-21-30	| ?/10 =  ??%	| 
-31-40	| ?/10 =  ??%	| 
-41-50	| ?/10 =  ??%	|  
+21-30	| 4/10 =  40%	| 21, 24, 25, 26, 28, 30
+31-40	| 4/10 =  40%	| 31, 33, 35, 37, 39, 40
+41-50	| 6/10 =  60%	| 41, 44, 45, 46
 51-60	| ?/10 =  ??%	| 
 61-70	| ?/10 =  ??%	|  
 71-80	| ?/10 =  ??%	|  
@@ -373,6 +373,8 @@ Cricoid pressure is often applied to assist anaesthetists during the intubation 
 Questions 21-30
 ---------------
 
+40% = F: 21, 24, 25, 26, 28, 30
+
 ### Q21 - LEARN
 A patient has a tuning fork test with central vertex placement localising to the left ear; left ear bone conduction is better than air conduction on left mastoid tuning fork placement. The right ear demonstrates better air than bone conduction. Which one of the following statements is TRUE?
 
@@ -381,7 +383,9 @@ A patient has a tuning fork test with central vertex placement localising to the
 	C. Rinne’s test involves central tuning fork placement on the vertex of the skull - F
 	D. There is a conductive loss of greater than 20 dB in the left ear - F
 	E. Masking can be achieved with a Baroness sound box - ?
-#### Answer: B. There is sensorineural hearing loss in the left ear - ?
+
+#### Answer: B. There is sensorineural hearing loss in the left ear - *FALSE* = D. There is a conductive loss of greater than 20 dB in the left ear - TRUE
+- Weber’s test involves localising sound to one or other ear (signifies a 10-dB difference between the ears) or to the midline and involves central tuning fork placement, commonly on the vertex of the skull. Rinne’s test is conducted by comparing air conduction with bone conduction on the mastoid bone, signifying a conduction loss of greater than 20 dB. A positive Rinne’s test is one in which air conduction is better than bony conduction, signifying either a normal ear or sensorineural loss on that side. This patient has a Weber localising to the left, with a left negative and a right positive Rinne’s test. This is consistent with a conductive loss on the left. Masking can be achieved with a Barany sound box (not Baroness).
  
 ### Q22	
 A 3-year-old boy presents to the ENT Clinic with a 1-week history of _unilateral purulent nasal discharge_. His mother reports that he is otherwise well in himself and has no other symptoms. The initial management would be:
@@ -391,7 +395,11 @@ A 3-year-old boy presents to the ENT Clinic with a 1-week history of _unilateral
 	C. Examination and attempted removal of foreign body
 	D. Plain facial X-rays
 	E. Orthopantomogram
-#### Answer: C. Examination and attempted removal of foreign body - ?
+
+#### Answer: C. Examination and attempted removal of foreign body - TRUE
+- Children with a unilateral nasal discharge are most likely to have a nasal foreign body
+- These must be removed with some urgency because of the aspiration risk
+- Foreign bodies are often visible and amenable to removal by experienced instrumentation.
  
 ### Q23	
 The classic visual field defect caused by a _pituitary adenoma_ will be a:
@@ -401,7 +409,11 @@ The classic visual field defect caused by a _pituitary adenoma_ will be a:
 	C. Bitemporal inferior quadrantanopia
 	D. Binasal hemianopia
 	E. Unilateral visual loss
-#### Answer: B. Bitemporal hemianopia - ?
+
+#### Answer: B. Bitemporal hemianopia - TRUE
+- The central location of the pituitary gland within the sella turcica 
+	- causes compression of the medial aspects of the optic chiasm
+- The resultant visual field defect is bitemporal hemianopia
  
 ### Q24 - LEARN
 Which of the following veins accompanies the _marginal branch of the right coronary artery_?
@@ -411,17 +423,28 @@ Which of the following veins accompanies the _marginal branch of the right coron
 	C. Small cardiac vein
 	D. Anterior cardiac vein
 	E. Oblique cardiac vein
-#### Answer: D. Anterior cardiac vein - ?
+
+#### Answer: D. Anterior cardiac vein - *FALSE* = C. Small cardiac vein - TRUE
+- The small cardiac vein accompanies the marginal artery along the inferior aspect of the heart and drains into the coronary sinus near its termination
+- The great cardiac vein accompanies the left anterior descending artery and the middle cardiac vein with the posterior interventricular artery
  
 ### Q25	
 A 17-year-old boy presents to the ENT Clinic for follow-up of his nasal fracture treatment. Incidentally, he mentions that he has had long-standing nasal stuffiness. A nasal speculum examination reveals bilateral polyps. Regarding _nasal polyps_, which one of the following statements is TRUE?
 
 	A. Co-existent asthma is rare - F
-	B. Polyps in childhood can indicate cystic fibrosis - F
-	C. Epistaxis is unlikely to be associated with neoplasia
+	B. Polyps in childhood can indicate cystic fibrosis - T
+	C. Epistaxis is unlikely to be associated with neoplasia - F
 	D. Polyps are commonly treated with long courses of high-dose steroids - F
 	E. Surgery is not indicated - F
-#### Answer: C. Epistaxis is unlikely to be associated with neoplasia - ?
+
+#### Answer: C. Epistaxis is unlikely to be associated with neoplasia - *FALSE* = B. Polyps in childhood can indicate cystic fibrosis - TRUE
+- Inflammatory nasal conditions can lead to swelling of the nasal mucosa and formation of nasal polyps
+- Co-existent asthma is common
+- Epistaxis and contact bleeding suggest the possibility of neoplasia
+- Polyps are initially treated medically with intranasal steroids, antihistamines or even short courses of high-dose steroids
+- Surgery can provide symptomatic improvement in cases of stubborn disease
+
+**NOTE** Childhood nasal polyps are rare and are associated with cystic fibrosis
  
 ### Q26	
 A 5-year-old boy presents with a 2-hour history of _sudden-onset distress_ while playing with Lego at nursery. He has very _noisy inspiratory breathing_ from the neck, with raised respiratory and heart rates. The most likely site of obstruction would be at the level of the:
@@ -431,7 +454,13 @@ A 5-year-old boy presents with a 2-hour history of _sudden-onset distress_ while
 	C. Larynx
 	D. Trachea
 	E. Main bronchi
-#### Answer: E. Main bronchi - ?
+
+#### Answer: E. Main bronchi - *FALSE* = C. Larynx - TRUE
+- This child has inspiratory stridor, most likely from a foreign object stuck at the level of the larynx 
+	- **NOTE** Inspiratory stridor characterises a laryngeal lesion
+- Tracheal lesions cause **expiratory stridor**, although high lesions can cause biphasic stridor
+- Wheezing is caused by chest pathology
+- Stertor is noisy breathing originating from the mouth and back of the nose
  
 ### Q27	
 Which of the following features is NOT associated with a full-thickness burn?
@@ -441,7 +470,13 @@ Which of the following features is NOT associated with a full-thickness burn?
 	C. No sensation - T
 	D. Usually require treatment with skin graft - T
 	E. Minimal healing - T
-#### Answer: B. Reduced blanching - ?
+
+#### Answer: B. Reduced blanching - TRUE
+- Full-thickness burns are typically black/white in colour and insensate
+- They exhibit minimal healing and usually require skin grafting
+- **NOTE** They do not blanch when touched
+- In contrast, superficial burns are pink and painful and often associated with blistering
+	- 100% repair after 2 weeks but healing may be associated with pigment changes
  
 ### Q28	
 A 52-year-old businessman is admitted to the Emergency Department with acute-onset chest pain, which radiates to the right arm and is associated with nausea and sweating. An ECG taken shows ischaemic changes within the heart and you suspect that he has angina. Transmission of activity within which of the following _afferent nerves_ would explain the _pain radiating down the arm_ from the chest?
@@ -451,7 +486,12 @@ A 52-year-old businessman is admitted to the Emergency Department with acute-ons
 	C. Somatic nerves to the arm - F
 	D. Intercostal nerves - F
 	E. Splanchnic nerves
-#### Answer: B. Vagus nerve - ?
+
+#### Answer: B. Vagus nerve - *FALSE* = E. Splanchnic nerves - TRUE
+- Pain arising from the heart travels within visceral afferent nerve fibres
+	- which can run within the upper thoracic splanchnic nerves to reach the sympathetic chain, or
+	- within the middle and inferior cardiac cervical nerves to reach the sympathetic chain 
+		- and then further onto T1–T2 levels
  
 ### Q29	
 A 42-year-old woman presents with a 6-month history of intermittent, sudden-onset, dizzy spells. She describes the _world spinning suddenly_, where she feels she is being thrown to the floor. She _feels nauseous_ and lies as still as possible. It lasts for a few hours, and is associated with a _ringing in her ears_. She also notes that her hearing has slightly decreased between the attacks. Examination is unremarkable, but audiograms show low-frequency sensorineural hearing loss. Which one of the following is the most likely diagnosis?
@@ -461,7 +501,15 @@ A 42-year-old woman presents with a 6-month history of intermittent, sudden-onse
 	C. Acoustic neuroma
 	D. Cardiovascular pathology
 	E. Ménière’s disease
-#### Answer: E. Ménière’s disease - ?
+
+#### Answer: E. Ménière’s disease - TRUE
+- This is a classic history of Ménière’s disease
+	- comprising paroxysmal vertigo with fluctuating hearing loss and tinnitus
+	- attacks lasting minutes to hours
+- Benign positional vertigo is typified by vertigo associated with head movements lasting a few seconds to minutes
+- Acute vestibular failure (acute labyrinthitis) gives rise to vertigo that lasts for days
+	- often preceded by an upper respiratory tract infection. Acoustic neuroma very rarely causes vertigo
+- Cardiovascular pathology can lead to pre-syncope, with light-headedness but not usually vertigo
  
 ### Q30	
 With regard to the synthesis and uptake of _thyroid hormones_, which one of the following statements is TRUE?
@@ -471,11 +519,13 @@ With regard to the synthesis and uptake of _thyroid hormones_, which one of the 
 	C. The follicular cells take up iodide by simple diffusion
 	D. Thyroid-stimulating hormone (TSH) stimulates iodide trapping at all iodide-trapping sites within the body - F
 	E. Thiouracils inhibit T4 production - F
-#### Answer: B. Iodine is reduced to iodide and absorbed in the thyroid gland - ?
+#### Answer: B. Iodine is reduced to iodide and absorbed in the thyroid gland - *FALSE* = E. Thiouracils inhibit T4 production - TRUE
 
 
 Questions 31-40
 ---------------
+
+40% = F: 31, 33, 35, 37, 39, 40
 
 ### Q31
 Regarding TSH:
@@ -485,17 +535,32 @@ Regarding TSH:
 	C. Plasma levels of TSH rise in hot environments - F
 	D. Glucocorticoids and oestrogens reduce the TSH secretory response to TRH
 	E. Secretion is stimulated by somatostatin and dopamine - F
-#### Answer: B. TSH secretion is diurnal, peaking around midday - ?
+
+#### Answer: B. TSH secretion is diurnal, peaking around midday - *FALSE* = A. Low levels of circulating T4 increase the TSH response to thyrotropin-releasing hormone (TRH) - TRUE
+- The synthesis depends on an adequate supply of dietary iodine (at least 75 μg daily is required to prevent goitre formation). Thyroid hormones, like catecholamines, are synthesised from the amino acid tyrosine. The synthesis of iodine requires the iodination of two tyrosine molecules and combination of two iodinated tyrosine residues. The iodine is reduced to iodide before absorption in the gastrointestinal tract. Follicular cells have an active iodide pump that acquires and concentrates iodide from the blood against an electrochemical gradient of more than 50 mV (inside negative). Iodide is rapidly oxidised by a peroxidase enzyme to iodine and incorporated into tyrosyl residues in thyroglobulin, which is located in the colloid. The multiple tyrosyl units on the thyroglobulin are iodinated at either one or two positions, forming mono-iodotyrosine (MIT) and di-iodotyrosine (DIT). When MIT couples with DIT it forms T3, and two DIT molecules form T4 of thyroxine. Thiouracils block the enzyme peroxidase and are very useful in treating states of thyroid hyperfunction. TSH has no effect on iodide traps in salivary glands, breast, placenta, cilary body or gastric mucosa.
+
+- The thyroid gland is controlled by hormone secretions from the hypothalamus–pituitary axis. The synthesis and secretion of TSH from the thyrotrophs is stimulated by TRH. TSH secretion is inhibited by other hormones including somatostatin and dopamine and also cytokines, particularly IL-1β, IL-6 and tumour necrosis factor (TNF). TSH is a complex glycoprotein hormone, and there are structural similarities between TSH, LH and FSH and a half-life of about 1 hour.
  
-### Q32	- LEARN
+- When circulating levels of T4 are low, there is an increase in the number of TRH receptors and in TSH synthesis, resulting in an increased TSH response to TRH. The reverse is true in the presence of high circulating levels of thyroid hormones.
+ 
+- TSH is secreted in a pulsatile fashion with a diurnal variation, peaking around midnight. Cold weather will lead to an increase in the plasma concentrations of thyroid hormones, with a subsequent rise in basal metabolic rate. Glucocorticoids inhibit thyroid hormone secretions by reducing the TSH secretory response to TRH; oestrogens have the opposite effect.
+
+### Q32	- LEARN: CHECK
 A _Richter’s hernia_ refers to a hernia that:
 
-	A. Contains two loops of small bowel within it - F
-	B. Contains a perforated appendix - F
-	C. Contains part of the wall of the bowel
-	D. Protrudes through the linea semilunaris - F
+	A. Contains two loops of small bowel within it - (Maydl's hernia)
+	B. Contains a perforated appendix - (Amyand's hernia)
+	C. Contains part of the wall of the bowel - (Richter's hernia: *antimesenteric border*)
+	D. Protrudes through the linea semilunaris - (Spigelian hernia)
 	E. Causes intestinal obstruction commonly - F
-#### Answer: C. Contains part of the wall of the bowel (*anti-mesenteric border*) - ?
+
+#### Answer: C. Contains part of the wall of the bowel - TRUE
+- Richter’s hernia contains only part of the bowel wall within it 
+	- So does not classically cause an obstruction
+- Amyand’s hernia contains a perforated appendix within an inguinal hernia
+- A hernia through the linea semilunaris is called a Spigelian hernia
+- Maydl’s hernia contains loops of small bowel, often forming a W-shaped configuration.
+
  
 ### Q33	
 Innervation to the _muscles of the back_ originate from:
@@ -505,27 +570,35 @@ Innervation to the _muscles of the back_ originate from:
 	C. Grey rami communicantes
 	D. White rami communicantes
 	E. Lateral perforating branches of the ventral primary rami
-#### Answer: E. Lateral perforating branches of the ventral primary rami - ?
+
+#### Answer: E. Lateral perforating branches of the ventral primary rami - *FALSE* = A. Dorsal primary rami - TRUE
+- The dorsal primary rami supply the deep muscles of the back such as erector spinae
+- Rami communicantes are involved in autonomic communications and are classed as grey (unmyelinated) or white (*myelinated*)
+- Ventral rami supply all other muscles anteriorly and make up the remaining nerve root plexuses
  
 ### Q34	- LEARN
 Regarding multiple endocrine neoplasia (MEN) syndromes, which one of the following statements is correct?
 
 	A. Pituitary adenomas are mainly a feature of MEN II - F
 	B. Medullary carcinoma of the thyroid is a feature of MEN II
-	C. Phaeochromocytomas are best detected by urinary 5-HIAA measurement - ?
+	C. Phaeochromocytomas are best detected by urinary 5-HIAA measurement - F
 	D. MEN syndromes are always familial - F
 	E. Parathyroid adenomas tend to present with hypocalcaemia - F
-#### Answer: B. Medullary carcinoma of the thyroid is a feature of MEN II - ?
+
+#### Answer: B. Medullary carcinoma of the thyroid is a feature of MEN II - TRUE
+- Multiple endocrine neoplasia syndromes are subdivided into types I and II. MEN I is characterised by pituitary adenomas, parathyroid adenomas and pancreatic endocrine tumours (eg insulinomas, gastrinomas, VIPomas). MEN II is characterised by medullary carcinoma of the thyroid, parathyroid adenomas and phaeochromocytomas. MEN IIB is a variant of this and is also associated with an appearance suggestive of Marfan syndrome. Phaeochomocytomas are usually tested for by measuring urinary VMA (vanillyl-mandelic acid). Raised urinary 5-HIAA is usually associated with carcinoid syndrome. Although MEN syndromes can show a genetic predisposition, most are due to sporadic mutations. Parathyroid adenomas can (but do not always) present with hypercalcaemia.
  
 ### Q35	
-The sensory nerve supply to the _diaphragmatic pleura_ is derived from the:
+The _sensory nerve_ supply to the _diaphragmatic pleura_ is derived from the:
 
 	A. Phrenic nerve
 	B. Vagus nerve - F
 	C. Intercostal nerve
 	D. Sympathetic chain - F
 	E. Pectoral nerves - F
-#### Answer: C. Intercostal nerve - ?
+
+#### Answer: C. Intercostal nerve - *FALSE* = A. Phrenic nerve - TRUE
+- The phrenic nerve is derived from the roots of C3, C4, and C5 and is the only motor supply to the diaphragm. It is also involved in the sensory supply of the diaphragmatic parietal pleura, the mediastinal parietal pleura, as well as the diaphragmatic peritoneum. The vagus (CN X, parasympathetic) supplies the visceral pleura and is only sensitive to stretch, in contrast to the parietal pleura, which is sensitive to pain. The intercostal nerves supply sensation to the costal pleura. There is no sympathetic nerve supply to the pleura, although within the lungs it is involved in bronchodilation. The pectoral nerves are derived from the brachial plexus and supply the pectoralis muscles.
  
 ### Q36 - LEARN	
 The _intervertebral joint_ is an example of a:
@@ -535,7 +608,13 @@ The _intervertebral joint_ is an example of a:
 	C. Fibrous joint - F
 	D. Synovial condyloid joint - F
 	E. Synovial plane
-#### Answer: B. Secondary cartilaginous joint - ?
+
+#### Answer: B. Secondary cartilaginous joint - TRUE
+- The intervertebral joints are an example of a secondary cartilaginous joint. This variety of joint occurs conveniently along the midline of the axial skeleton. Other examples include the manubriosternal and xiphisternal joints and the symphysis pubis. Structurally, they are similar to primary cartilaginous joints, except they also have a disc of fibrocartilage between the hyaline layers.
+
+**Notes** 
+- Fibrous joints are formed when two bones meet with fibrous tissue in-between. Examples include the teeth, skull sutures and interosseous membranes between the limb bones.
+- Synovial joints are joint cavities that are lined by a synovial membrane and contain synovial fluid for movement. They are seen in all joints which perform movements.
  
 ### Q37	
 Which of the following blood results is most likely to indicate _recent infection with hepatitis B_?
@@ -548,26 +627,39 @@ C		| +		| -		| +				| -				|
 D		| +		| +		| -				| +				|
 E		| +		| +		| +				| +				|
  
-#### Answer: C: HBsAg +; HBeAg -; Anti-HBsAg +; Anti-HBcAg -; - ?
+#### Answer: C: HBsAg +; HBeAg -; Anti-HBsAg +; Anti-HBcAg -; - *FALSE* D: HBsAg +; **HBeAg +**; **Anti-HBsAg -**; Anti-HBcAg -;
+- Hepatitis B is a hepadnavirus, which is a DNA virus. In the acute phase of infection, the virus releases its surface antigen (HBsAg) into the blood. This is also found to be present in persistent/chronic infections. The core antigen (HBcAg) causes production of HBc antibodies, which are the first antibodies to occur in the course of the infection. It is present in the blood in the brief period when HBsAg disappears and before Hbs antibodies appear, and thus it is an important diagnostic indicator of early infection. HBsAb confers immunity to the HBV virus. The ‘e’ antigen (HBeAg) is also found in the core of the virus and its presence in the blood indicates active viral production and infection. The antibody against HBeAG (HBeAb) is found at a much later stage of infection.
 
-### Q38	Which of the following nerves provides the _afferent limb of the sneezing reflex_?
+### Q38	- LEARN
+Which of the following nerves provides the _afferent limb of the sneezing reflex_?
 
 	A. Ophthalmic division of the trigeminal nerve
 	B. Maxillary division of the trigeminal nerve
 	C. Mandibular division of the trigeminal nerve
 	D. Glossopharyngeal nerve
 	E. Vagus nerve
-#### Answer: B. Maxillary division of the trigeminal nerve - ?
+
+#### Answer: B. Maxillary division of the trigeminal nerve - TRUE
+
+##### Afferent Limbs for Reflexes
+- Ophthalmic division of the trigeminal (CN Va) – blink reflex
+- Maxillary division of the trigeminal (CN Vb) – sneeze reflex
+- Mandibular division of the trigeminal (CN Vc) – jaw jerk
+- Glossopharyngeal nerve (CN IX) – gag reflex
+- Vagus nerve (CN X) – cough reflex
  
 ### Q39	- LEARN
 All of the following muscles are involved in _abduction of the hip joint_, EXCEPT:
 
 	A. Gluteus medius - T
 	B. Gluteus minimus - T
-	C. Sartorius 
-	D. Quadratus femoris - T
+	C. Sartorius - T
+	D. Quadratus femoris
 	E. Tensor fascia lata - T
-#### Answer: C. Sartorius - ?
+
+#### Answer: C. Sartorius - *FALSE* = D. Quadratus femoris - TRUE
+- Quadratus femoris is a lateral rotator of the hip joint as it connects the lateral border of the ischial tuberosity to the quadrate tubercle of the femur
+- All the others listed abduct the hip joint acting together
  
 ### Q40	
 Which of the following _hereditary immune disorders_ is NOT correctly paired with the affected component of the immune system?
@@ -577,11 +669,15 @@ Which of the following _hereditary immune disorders_ is NOT correctly paired wit
 	C. Leucocyte adhesion deficiency (LAD) – neutrophils
 	D. Hereditary angioedema – complement pathway
 	E. X-linked hypogammaglobulinaemia – B cells
-#### Answer: 
+
+#### Answer: C. Leucocyte adhesion deficiency (LAD) – *neutrophils* - *FALSE* = A. Chronic granulomatous disease (CGD) – *macrophages* - TRUE
+- CGD is an inherited deficiency in one subunit of NADPH oxidase used by phagocytes, thus causing patients to develop severe infections from bacteria such as Staphylococcus aureus and Klebsiella. DiGeorge syndrome is due to failure of development of the third and fourth pharyngeal pouches and therefore results in development of a hypoplastic thymus causing T-cell deficiency. LAD is a result of defects in the β chain of β2 integrins, which are important for leucocyte movement. This results in recurrent infections from extracellular bacteria owing to defective opsonisation, adhesion mobility and chemotaxis. Hereditary angioedema is due to a defect in the C1 inhibitor, and X-linked hypogammaglobulinaemia is due to a block in the maturation of the B cell, which results in recurrent pyogenic infections.
 
 
 Questions 41-50
 ---------------
+
+??% = F: 41, 44, 45, 46
 
 ### Q41
 A 44-year-old-man presents to you with signs of a _facial infection_ around the area of the _pterygopalatine fossa_ following maxillary surgery. You initially suspect that the infection has tracked from the _pterygoid venous plexus_. All of the following structures are at risk of subsequent _infection tracking down_, EXCEPT:
@@ -591,7 +687,10 @@ A 44-year-old-man presents to you with signs of a _facial infection_ around the 
 	C. Nasal cavity - T
 	D. Maxillary sinus - T
 	E. Middle cranial fossa - T
-#### Answer: A. Orbit - ?
+
+#### Answer: A. Orbit - *FALSE* = D. Maxillary sinus - TRUE
+- The pterygopalatine fossa communicates with the mouth, nose, eyes and middle cranial fossa through many foramina directly
+- The maxillary sinus communicates via the nose through the middle meatus so any connection to the pterygopalatine fossa is indirect
  
 ### Q42	- LEARN
 All of the following nerves pass along the _lateral wall of the cavernous sinus_, EXCEPT:
@@ -601,7 +700,9 @@ All of the following nerves pass along the _lateral wall of the cavernous sinus_
 	C. Ophthalmic division of the trigeminal nerve (CN Va)
 	D. Maxillary division of the trigeminal nerve (CN Vb)
 	E. Abducent nerve (CN VI)
-#### Answer: E. Abducent nerve (CN VI) - ?
+
+#### Answer: E. Abducent nerve (CN VI) - TRUE
+- The abducent nerve runs into the medial wall of the cavernous sinus, running immediately lateral to the internal carotid artery before passing into the orbit through the superior orbital fissure. All the other nerves run in the lateral wall of the cavernous sinus.
  
 ### Q43	
 A 28-year-old woman gives birth to a healthy baby girl in the delivery suite. During her second stage of labour an _episiotomy_ was necessary to allow delivery of her baby under local anaesthesia. Immediately after this procedure, the woman now complains that she is unable to maintain continence of faeces as she has no _voluntary control of her anal sphincters_. Which nerve in this clinical scenario has been anaesthetised?
@@ -611,7 +712,9 @@ A 28-year-old woman gives birth to a healthy baby girl in the delivery suite. Du
 	C. Superior gluteal nerve
 	D. Ventral rami of S3 and S4
 	E. Inferior hypogastric nerve
-#### Answer: A. Pudendal nerve - ?
+
+#### Answer: A. Pudendal nerve - TRUE
+- The pudendal nerve block can be useful in performing episiotomies. The pudendal nerve also supplies the external anal sphincters, thus rendering loss of faecal continence if it is anaesthetised. The inferior gluteal nerve supplies the gluteus maximus muscle and the superior gluteal nerve is motor supply to the gluteus medius and minimus as well as tensor fascia lata. The ventral rami of S3 and S4 are involved in supplying the levator ani muscle, which also contributes to the mechanism of continence, but in a more physiological mechanism via the puborectalis sling.
  
 ### Q44	
 A bleeding ulcer on the _posterior aspect of the first part of the duodenum_ would classically erode through which of the following vessels?
@@ -619,9 +722,11 @@ A bleeding ulcer on the _posterior aspect of the first part of the duodenum_ wou
 	A. Right gastric artery - F
 	B. Superior pancreaticoduodenal artery - F
 	C. Right gastroepiploic artery - F
-	D. Gastroduodenal artery - F
-	E. Hepatic artery
-#### Answer: E. Hepatic artery - ?
+	D. Gastroduodenal artery
+	E. Hepatic artery - F
+
+#### Answer: E. Hepatic artery - *FALSE* = D. Gastroduodenal artery - TRUE
+- The gastroduodenal artery classically passes behind the first part of the duodenum (D1). Posterior ulcers that perforate through the wall of the duodenum may erode into this artery, resulting in life-threatening haemorrhage.
  
 ### Q45	
 The _lateral umbilical folds_ in the abdominal wall are formed by
@@ -629,11 +734,15 @@ The _lateral umbilical folds_ in the abdominal wall are formed by
 	A. Urachus
 	B. Obliterated umbilical arteries
 	C. Superior epigastric arteries - F
-	D. Inferior epigastric arteries - F
+	D. Inferior epigastric arteries
 	E. Falciform ligament - F
-#### Answer: B. Obliterated umbilical arteries - ?
+
+#### Answer: B. Obliterated umbilical arteries - *FALSE* = D. Inferior epigastric arteries - TRUE
+- **Lateral umbilical folds** – inferior epigastric arteries
+- Medial umbilical folds – obliterated umbilical arteries
+- Median umbilical fold – caudal remnant of ventral mesentery containing urachus
  
-### Q46	
+### Q46 - BROKEN
 All of the following statements regarding Swan–Ganz pulmonary artery catheters are true, EXCEPT:
 
 	A. The insertion procedure may be complicated by arrhythmias - T
@@ -641,7 +750,10 @@ All of the following statements regarding Swan–Ganz pulmonary artery catheters
 	C. Left atrial pressure may be measured reasonably accurately
 	D. It can be used as part of the thermodilution mechanism to measure cardiac output accurately
 	E. It should always be inserted under strict aseptic technique - T
-#### Answer: B. Pulmonary arterial pressures readings of 6–12 mmHg are normal - ?
+
+#### Answer: B. Pulmonary arterial pressures readings of 6–12 mmHg are normal - *FALSE* = E. It should always be inserted under strict aseptic technique - TRUE
+- All CVP lines and Swan–Ganz catheters should be inserted under the strictest of aseptic technique
+	- as infection is the commonest complication of these procedures
  
 ### Q47	
 _Cerebrospinal fluid_ is connected to the _subarachnoid space_ from the ventricles via the:
@@ -651,7 +763,13 @@ _Cerebrospinal fluid_ is connected to the _subarachnoid space_ from the ventricl
 	C. Choroid plexus
 	D. Foramen of Monro
 	E. Foramina of Magendie and Luschka
-#### Answer: E. Foramina of Magendie and Luschka - ?
+
+#### Answer: E. Foramina of Magendie and Luschka - TRUE
+- Foramina of Magendie (midline) and Luschka (lateral) in the roof of the fourth ventricle communicate directly into the subarachnoid space
+- Interventricular Foramen of Munro connects the two lateral ventricles together
+- CSF is 
+	- produced by Choroid Plexus 
+	- absorbed by Arachnoid Granulations (villi) to return to venous system
  
 ### Q48	
 A 42-year old alcoholic man is referred to you with ascites and liver cirrhosis. The mechanism of formation of ascites in this patient with cirrhosis is a combination of which of the following conditions?
@@ -661,7 +779,9 @@ A 42-year old alcoholic man is referred to you with ascites and liver cirrhosis.
 	C. Decreased hepatic lymph flow with decreased aldosterone secretion
 	D. Leaky capillaries in the portal circulation
 	E. Subacute inflammatory changes causing hepatic oedema and extravasation of fluid
-#### Answer: A. Hypoalbuminaemia and portal hypertension - ?
+
+#### Answer: A. Hypoalbuminaemia and portal hypertension - TRUE
+- Ascites formation in cirrhosis is due to disruption of Starling’s forces within the abdominal circulation. The low protein (albumin) allows for a low oncotic pressure of fluid drawback into the portal circulation from the interstitial spaces and the venous hypertension also forces the outward hydrostatic pressure, equally contributing to ascitic formation. Spironolactone is useful in the treatment of ascites due to liver cirrhosis. This drug antagonises the effects of aldosterone, which is found in very high levels within the plasma due to its lack of metabolism in the cirrhotic liver.
  
 ### Q49	- LEARN
 A woman is brought to the Emergency Department after being rescued from a house fire. She has burns affecting her left arm and anterior surfaces of both legs. Using Wallace’s rule of nines, the percentage of area burnt is:
@@ -672,8 +792,12 @@ A woman is brought to the Emergency Department after being rescued from a house 
 	D. 27%
 	E. 54%
 
-#### Answer: D. 27% - ?
-- arm: 9%; leg: 1/2 x 18% x 2 = 18%; total: 27%
+#### Answer: D. 27% - TRUE (arm: 9%; leg: 1/2 x 18% x 2 = 18%; total: 27%)
+- Wallace’s rule of nines is used to calculate the percentage body area involved
+- It works by attributing a percentage to a body part: 
+	Head = 9%; arm (each) = 9%; legs (each) 18% (9% each surface); trunk 36%; perineum 1%; palm 1.25%
+- Calculating the percentage burn helps to guide fluid resuscitation
+	- intravenous fluids are essential when this exceeds 15%
  
 ### Q50	
 A 35-year old businessman presents to you for an endoscopy following symptoms of epigastric pain which is worse at nights and on eating food. You suspect a gastric ulcer and proceed to perform endoscopy with a biopsy for *Helicobacter pylori*. On endoscopic biopsy, which of the following is the commonest location for finding H. pylori within the stomach?
@@ -683,7 +807,9 @@ A 35-year old businessman presents to you for an endoscopy following symptoms of
 	C. Body
 	D. Pyloric antrum
 	E. Cardia
-#### Answer: D. Pyloric antrum - ?
+
+#### Answer: D. Pyloric antrum - TRUE
+Acid is secreted from the parietal cells within the stomach under neurohormonal influence. The highest concentration of these cells within the stomach is found in the gastric antrum. Evidence-based research also reveals that the pyloric antrum is the commonest location for Helicobacter pylori within the stomach and it is this location that is always biopsied in searching for H. pylori.
 
 
 Questions 51-60
