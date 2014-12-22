@@ -863,105 +863,107 @@ Which of the following phases is correctly matched with its physiological action
 Questions 81-90
 ---------------
 
-### Q81
-During observation of the venous pulse, you note that the x descent is:
+### Q81 - LEARN
+During observation of the _venous pulse_, you note that the x descent is:
 
-	A	Is prominent in atrial systole
-	B	Is synchronous with the carotid pulse wave
-	C	Reflects a rise in atrial pressure before the tricuspid valve opens
-	D	Is due to the tricuspid valve moving down during ventricular systole
-	E	Reflects opening of the tricuspid valve and a fall in right atrial pressure
-#### Answer: 
+	A. Is prominent in atrial systole - F
+	B. Is synchronous with the carotid pulse wave - F
+	C. Reflects a rise in atrial pressure before the tricuspid valve opens - F
+	D. Is due to the tricuspid valve moving down during ventricular systole - F
+	E. Reflects opening of the tricuspid valve and a fall in right atrial pressure
+#### Answer: E. Reflects opening of the tricuspid valve and a fall in right atrial pressure - ?
  
 ### Q82	
 During the lateral (Hardinge’s) approach to the hip, which one of the following nerves can be injured?
 
-	A	Tibial
-	B	Sciatic
-	C	Inferior gluteal
-	D	Superior gluteal
-	E	Obturator
-#### Answer: 
+	A. Tibial
+	B. Sciatic
+	C. Inferior gluteal
+	D. Superior gluteal
+	E. Obturator
+#### Answer: D. Superior gluteal - ?
  
 ### Q83	
 A tumour marker used in surveillance after orchidectomy for nonseminomatous germ-cell tumours (NSGCT) of the testes is:
 
-	A	Prostate-specific antigen (PSA)
-	B	Alpha-fetoprotein (AFP)
-	C	CA-125
-	D	Carcinoembryonic antigen (CEA)
-	E	CA-19-9
-#### Answer: 
+	A. Prostate-specific antigen (PSA)
+	B. Alpha-fetoprotein (AFP)
+	C. CA-125
+	D. Carcinoembryonic antigen (CEA)
+	E. CA-19-9
+#### Answer: B. Alpha-fetoprotein (AFP) - ?
  
 ### Q84	
-In a healthy 70-kg male at rest, the normal coronary blood flow is:
+In a healthy 70-kg male at rest, the normal _coronary blood flow_ is:
 
-	A	100 ml/min
-	B	250 ml/min
-	C	500 ml/min
-	D	750 ml/min
-	E	1000 ml/min
-#### Answer: 
+	A. 100 ml/min
+	B. 250 ml/min
+	C. 500 ml/min
+	D. 750 ml/min
+	E. 1000 ml/min
+
+#### Answer: B. 250 ml/min - ?
+- Coronary Blood Flow = 5% Cardiac Output (CO) = 5% x 70 mL x 70 bpm = 245 mL/min
  
 ### Q85	
-The following are known to cause a metabolic acidosis, EXCEPT:
+The following are known to cause a _metabolic acidosis_, EXCEPT:
 
-	A	Myocardial infarction
-	B	Ischaemic bowel
-	C	Diabetic ketoacidosis
-	D	Sepsis
-	E	Persistent vomiting
-#### Answer: 
+	A. Myocardial infarction
+	B. Ischaemic bowel
+	C. Diabetic ketoacidosis - T
+	D. Sepsis
+	E. Persistent vomiting - F
+#### Answer: E. Persistent vomiting - ?
  
 ### Q86	
-Which of the following is true of ulcerative colitis?
+Which of the following is true of _ulcerative colitis_?
 
-	A	It is commonly associated with anal fistulae
-	B	It is commonly associated with oral ulceration
-	C	It is worsened by smoking
-	D	It is associated with abdominal masses
-	E	It is associated with joint pain
-#### Answer: 
+	A. It is commonly associated with anal fistulae - F
+	B. It is commonly associated with oral ulceration - F
+	C. It is worsened by smoking - F
+	D. It is associated with abdominal masses
+	E. It is associated with joint pain - F
+#### Answer: D. It is associated with abdominal masses - ?
  
-### Q87	
-Which of the following is NOT a feature of multiple endocrine neoplasia type II?
+### Q87	- LEARN
+Which of the following is NOT a feature of _multiple endocrine neoplasia_ type II?
 
-	A	Medullary thyroid cancer
-	B	Phaeochromocytoma
-	C	Pituitary adenoma
-	D	Parathyroid tumours
-	E	Multiple mucosal neuromas
-#### Answer: 
+	A. Medullary thyroid cancer - T
+	B. Phaeochromocytoma - T
+	C. Pituitary adenoma
+	D. Parathyroid tumours
+	E. Multiple mucosal neuromas - T
+#### Answer: C. Pituitary adenoma - ?
  
 ### Q88	
-All of the following statements regarding malignant hyperpyrexia are true, EXCEPT:
+All of the following statements regarding _malignant hyperpyrexia_ are true, EXCEPT:
 
-	A	Relatives of affected individuals should always be tested
-	B	Inheritance is in an autosomal recessive pattern
-	C	Incidence is 1 in 200 000
-	D	Treatment involves the use of dantrolene sodium and fluids
-	E	Conclusive diagnosis requires a muscle biopsy in addition to the clinical picture
-#### Answer: 
+	A. Relatives of affected individuals should always be tested - F
+	B. Inheritance is in an autosomal recessive pattern - T
+	C. Incidence is 1 in 200,000 - T
+	D. Treatment involves the use of dantrolene sodium and fluids - T
+	E. Conclusive diagnosis requires a muscle biopsy in addition to the clinical picture - T
+#### Answer: A. Relatives of affected individuals should always be tested - ?
  
 ### Q89	
-The main host defences against bacterial exotoxins in a person with an intact immunological system are:
+The main _host defences against bacterial exotoxins_ in a person with an intact immunological system are:
 
-	A	T-helper cells
-	B	T-cytotoxic cells
-	C	Activated macrophages that secrete proteases
-	D	IgM and IgG antibodies
-	E	Host-cell receptor modulation in response to toxins
-#### Answer: 
+	A. T-helper cells
+	B. T-cytotoxic cells
+	C. Activated macrophages that secrete proteases
+	D. IgM and IgG antibodies
+	E. Host-cell receptor modulation in response to toxins
+#### Answer: C. Activated macrophages that secrete proteases - ?
  
 ### Q90	
-The inguinal canal:
+The _inguinal canal_:
 
-	A	Is approximately 2.5-cm long
-	B	Has the fascia transversalis covering its whole posterior wall
-	C	Has an internal ring lying 5 cm above the middle of the inguinal ligament
-	D	Has the lacunar ligament in the medial part of its floor
-	E	Has the inferior epigastric artery lying medial to its deep ring
-#### Answer: 
+	A. Is approximately 2.5-cm long - F
+	B. Has the fascia transversalis covering its whole posterior wall - F
+	C. Has an internal ring lying 5 cm above the middle of the inguinal ligament - F
+	D. Has the lacunar ligament in the medial part of its floor - F
+	E. Has the inferior epigastric artery lying medial to its deep ring - T
+#### Answer: E. Has the inferior epigastric artery lying medial to its deep ring - ?
 
 
 Questions 91-100
