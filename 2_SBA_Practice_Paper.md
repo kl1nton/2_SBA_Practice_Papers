@@ -9,7 +9,7 @@ Group	| Score			| Errors 						|
 31-40	| 4/10 =  40%	| 31, 33, 35, 37, 39, 40
 41-50	| 6/10 =  60%	| 41, 44, 45, 46
 51-60	| 3/10 =  30%	| 52, 53, 55, 56, 57, 58, 60
-61-70	| ?/10 =  ??%	|  
+61-70	| 6/10 =  60%	| 61, 65, 67, 69 
 71-80	| ?/10 =  ??%	|  
 81-90	| ?/10 =  ??%	|  
 91-100	| ?/10 =  ??%	|  
@@ -964,15 +964,22 @@ All of the following muscles are supplied by the _posterior interosseous branch 
 Questions 61-70
 ---------------
 
+60% = F: 61, 65, 67, 69 
+
 ### Q61 - LEARN
 Which of the following statements regarding the _triquetral bone_ is correct?
 
-	A. The degree of contact with the radioulnar articular disc is maximal in full adduction of the wrist joint - F
+	A. The degree of contact with the radioulnar articular disc is maximal in full adduction of the wrist joint
 	B. It lies just laterally to the lunate bone - F
 	C. It forms part of the radiocarpal joint in the wrist - T
 	D. The hamate lies just anterolaterally to the triquetral - F
 	E. During forced hyperextension of the wrist joint, anterior dislocation of the triquetral can cause carpal tunnel syndrome - F
-#### Answer: C. It forms part of the radiocarpal joint in the wrist - ?
+
+#### Answer: C. It forms part of the radiocarpal joint in the wrist - *FALSE* = A. The degree of contact with the radioulnar articular disc is maximal in full adduction of the wrist joint - TRUE
+- Triquetral participates in ulnocarpal joint and articulates with triangular articular disc proximally
+- Pisiform is related anteromedially and Hamate distally
+- During forced hyperextension of Wrist Joint
+	- Anterior dislocation of Lunate can cause a Carpal Tunnel Syndrome
  
 ### Q62	
 A 23-year-old man undergoes open reduction and internal fixation of the right tibia after having sustained injuries from a road traffic accident. Shortly after his return to the ward, he begins to complain of paraesthesia in his toes as well as pain in his right leg, which is not relieved by analgesia. He has good distal pulses and sensation to his right foot. The first step in the management of this patient would be to:
@@ -982,7 +989,9 @@ A 23-year-old man undergoes open reduction and internal fixation of the right ti
 	C. Call your seniors as he may have a trapped nerve from the surgery
 	D. Book theatres immediately for urgent fasciotomies as you are highly suspicious of compartment syndrome
 	E. Split the cast to relieve any pressure from post-operative swelling and reassess the situation in 10 minutes
-#### Answer: E. Split the cast to relieve any pressure from post-operative swelling and reassess the situation in 10 minutes - ?
+
+#### Answer: E. Split the cast to relieve any pressure from post-operative swelling and reassess the situation in 10 minutes - TRUE
+- This patient has undergone an internal fixation of the tibia following a fracture. He is at very high risk of a compartment syndrome in that leg. He could well have a compartment syndrome, but this might also be caused by a tight cast among the causes already listed, such as fractures and surgery. The first step in this case is to split the plaster cast and dressing and relieve any pressure as well as elevate the leg and prescribe analgesia. This should resolve most of his symptoms. However, if shortly afterwards he continues to have signs and symptoms then compartment syndrome should be suspected. Urgent senior review with fasciotomies in theatre is the next step. Compartment pressure monitoring is an adjunct to the clinical scenario here.
  
 ### Q63	
 Drainage of the _right testicular vein_ normally occurs into the:
@@ -992,17 +1001,23 @@ Drainage of the _right testicular vein_ normally occurs into the:
 	C. Right renal vein
 	D. Right internal iliac vein
 	E. Right suprarenal vein
-#### Answer: B. Inferior vena cava - ?
+
+#### Answer: B. Inferior vena cava - TRUE
+- Drainage of right testicular vein normally occurs into IVC and left testicular vein into left renal vein
+- Both testicular arteries arise from the abdominal aorta and so lymphatic drainage is to para-aortic nodes
  
 ### Q64	
 Which of these conditions does NOT predispose towards _acute sinusitis_?
 
-	A. Immunocompromise
+	A. Immunocompromise - T
 	B. Dental infection - T
 	C. Nasal polyposis - T
 	D. Kartagener syndrome - T
 	E. Waardenberg syndrome
-#### Answer: E. Waardenberg syndrome - ?
+
+#### Answer: E. Waardenberg syndrome - TRUE
+- Predisposing factors can be divided into local or general, the commonest causes being nasal. Any condition leading to blockage of the sinus ostia can lead to secretion retention and predisposition towards infection. Local causes can be due to upper respiratory tract infections, rhinitis, nasal polyps, tumours and foreign bodies, nasal anatomical variations, dental problems, swimming and diving and sinus fractures. 
+- General causes are debilitation, immuno-compromise, mucociliary disorders (Kartagener syndrome, cystic fibrosis) and atmospheric pollutants (dust, fumes).
  
 ### Q65	- LEARN
 Which of the following is NOT a feature of _acute respiratory distress syndrome_ (ARDS)?
@@ -1010,9 +1025,11 @@ Which of the following is NOT a feature of _acute respiratory distress syndrome_
 	A. Severe hypoxaemia (PaO2/FiO2 <27) - T
 	B. Pulmonary infiltrates on chest X-ray - T
 	C. A known cause (eg pancreatitis) - T
-	D. Cardiac pulmonary oedema - T
+	D. Cardiac pulmonary oedema
 	E. Pulmonary artery wedge pressure (PAWP) <18 mmHg
-#### Answer: E. Pulmonary artery wedge pressure (PAWP) <18 mmHg - ?
+
+#### Answer: E. Pulmonary artery wedge pressure (PAWP) <18 mmHg - *FALSE* = D. Cardiac pulmonary oedema - TRUE
+- ARDS is a specific disease of the lungs characterised by hypoxaemia, alveolar inflammation and oedema and pulmonary fibrosis. Clinically the patient has a raised respiratory rate; cyanosis and arterial blood gases show hypercapnia. Lung compliance is greatly reduced, therefore increasing the work required. There are certain criteria that need to be met in order to make a diagnosis of ARDS. These are: severe hypoxaemia (PaO2/FiO2 of <27), pulmonary infiltrates on chest X-ray, pulmonary artery wedge pressure of <18 mmHg (therefore non-cardiogenic pulmonary oedema) and a recognised cause. There are a variety of causes, including pancreatitis, sepsis, disseminated intravascular coagulation (DIC), burns and aspiration.
  
 ### Q66	
 A 43-year-old female patient has had a successful _kidney transplant_ and is being discharged on the 5th post-operative day. One of the instructions she was given was not to eat _grapefruit_ or drink grapefruit juice. This is because:
@@ -1022,9 +1039,11 @@ A 43-year-old female patient has had a successful _kidney transplant_ and is bei
 	C. Grapefruit juice can interfere with the metabolism of tacrolimus, one of the immunosuppressive agents being used
 	D. Grapefruit juice can interact with the action of the statin that has been prescribed for her hypercholesterolaemia - F
 	E. Grapefruit juice can cause diarrhoea and interfere with the patient’s fluid balance
-#### Answer: C. Grapefruit juice can interfere with the metabolism of tacrolimus, one of the immunosuppressive agents being used - ?
+
+#### Answer: C. Grapefruit juice can interfere with the metabolism of tacrolimus, one of the immunosuppressive agents being used - TRUE
+- Drugs that interact with grapefruit and/or grapefruit juice undergo cytochrome p450 oxidative metabolism in the intestinal wall or liver. Grapefruit juice contains various furanocoumarins, which have been demonstrated to affect the cytochrome p450 system, especially at the isoenzyme CYP3A4. From the immunosuppressive agents, both ciclosporine and tacrolimus can show reduced metabolism with consumption of grapefruit juice, leading to toxic effects.
  
-### Q67	
+### Q67	- LEARN
 Which of the following is NOT a _complication of tracheostomy_?
 
 	A. Tracheal necrosis
@@ -1032,8 +1051,29 @@ Which of the following is NOT a _complication of tracheostomy_?
 	C. Pneumothorax - T
 	D. Hypothyroidism
 	E. Tracheocutaneous fistula - T
-#### Answer: B. Recurrent laryngeal nerve injury - ?
+
+#### Answer: B. Recurrent laryngeal nerve injury - *TRUE* = D. Hypothyroidism - TRUE
  
+##### Complications of Tracheostomy
+1. Immediate
+	- anaesthetic
+	- damage to local structures (cricoid cartilage, recurrent laryngeal nerve, oesophagus, brachiocephalic vein
+	- thyroid – not enough to cause hypothyroidism, mostly bleeding)
+	- cardiac arrest 
+	- primary haemorrhage
+2. Intermediate
+	- displacement of tube
+	- surgical emphysema
+	- pneumothorax
+	- obstruction of tube
+	- infection
+	- tracheal necrosis
+3. Late
+	- subglottic/tracheal stenosis
+	- decannulation difficulty
+	- tracheocutaneous fistula
+	- scar (hypertrophic, keloid)
+
 ### Q68	
 A man presents to the Emergency Department with a _very low urine output_. Analysis of urine and serum samples gives the following results: urinary sodium 15 mmol/l; urine osmolality 520 mOsmol/kg; urine to serum osmolality ratio 1.5. The most likely cause is:
 
@@ -1042,17 +1082,23 @@ A man presents to the Emergency Department with a _very low urine output_. Analy
 	C. Excessive diarrhoea and vomiting
 	D. Interstitial nephritis
 	E. Glomerulonephritis
-#### Answer: C. Excessive diarrhoea and vomiting - ?
+
+#### Answer: C. Excessive diarrhoea and vomiting - TRUE
+- The cause of oliguria can be determined by looking at urine and serum samples. This helps to differentiate between renal and pre-renal causes. Pre-renal renal failure will have low urinary sodium (<20 mmol/l) and a serum osmolality ratio of >1.2, serum creatinine ratio of >40 and a high urine osmolality of >500 mOsmol/kg. Conversely; renal causes have high urinary sodium of >40 mmol/l, serum osmolality ratio of <1.2, serum creatinine ratio <20 and an osmolality of <350 mOsmol/kg.
  
 ### Q69	
 The most common site affected in _oral cavity carcinoma_ is:
 
 	A. Hard palate - F
-	B. Lateral border of the tongue - F
+	B. Lateral border of the tongue
 	C. Tonsils - F
 	D. Buccal mucosa
-	E. Soft palate
-#### Answer: D. Buccal mucosa - ?
+	E. Soft palate - F
+
+#### Answer: D. Buccal mucosa - *FALSE* = B. Lateral border of the tongue - TRUE
+- Some 90% of malignant oral cavity tumours are squamous cell carcinomas, accounting for <2% of malignancies in the UK. The commonest site is the lateral border of the tongue, presenting as an ulcer or an exophytic lesion. 
+- Aetiological factors include smoking and chewing tobacco, and high alcohol consumption
+- Tonsils and soft palate are actually within the oropharynx, not the oral cavity
  
 ### Q70	
 A 50-year-old woman is found to be _febrile_ one day after her _total gastrectomy_ for malignancy. The most likely cause of this is:
@@ -1062,7 +1108,13 @@ A 50-year-old woman is found to be _febrile_ one day after her _total gastrectom
 	C. Wound infection
 	D. Anastomotic leak
 	E. Atelectasis
-#### Answer: E. Atelectasis - ?
+
+#### Answer: E. Atelectasis - TRUE
+- The commonest cause of fever 1 day after upper gastrointestinal surgery is atelectasis from retained secretions in the small bronchi
+- Urinary tract infections are usually catheter-related and take a few days to develop 
+	- rather than occurring in the immediate postoperative period
+- Pulmonary emboli develop from deep vein thromboses, which also take a few days to develop
+- Anastomotic leaks are classically seen from day 5 onwards, as are wound infections
 
 
 Questions 71-80
