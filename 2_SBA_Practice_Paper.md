@@ -23,71 +23,90 @@ Overall: ??/120 = ??.0%
 Questions 1-10 - HERE
 --------------
 
-### 1
+### Q1
 Structures derived from the first (mandibular) branchial arch include all of the following, EXCEPT:
+
 	A	Muscles of mastication
 	B	Stylohyoid ligament
 	C	Incus and malleus
 	D	Mylohyoid
 	E	Tensor tympani
  
-2	Regarding branchial cysts, which of the following statements is FALSE?
+### Q2	
+Regarding branchial cysts, which of the following statements is FALSE?
+
 	A	They are lined by stratified squamous epithelium
 	B	Diagnosis is by clinical examination and needle aspiration
 	C	They occur at the junction of the lower third and upper two-thirds of sternocleidomastoid
 	D	They are present in 60% of males
 	E	A quarter of cysts become infected
  
-3	Which one of the following statements regarding the development of the parathyroid glands is TRUE?
+### Q3	
+Which one of the following statements regarding the development of the parathyroid glands is TRUE?
+
 	A	The superior parathyroids develop from the third pharyngeal pouch
 	B	The inferior parathyroids develop from the fourth pharyngeal pouch
 	C	Development of the superior parathyroids occurs in company with the thymus gland
 	D	Development of the inferior parathyroids occurs in company with the parafollicular C cells
 	E	The inferior parathyroids can be found in the superior mediastinum in association with the thymus gland
  
-4	A 55-year-old man presents to you with back pain and paraesthesia along the medial border of the leg and foot. A disc prolapse is suspected with compression of which of the following spinal nerve roots?
+### Q4	
+A 55-year-old man presents to you with back pain and paraesthesia along the medial border of the leg and foot. A disc prolapse is suspected with compression of which of the following spinal nerve roots?
+
 	A	L3
 	B	L4
 	C	L5
 	D	S1
 	E	S2
  
-5	All of the following are complications of transurethral resection of prostate (TURP), EXCEPT:
+### Q5	
+All of the following are complications of transurethral resection of prostate (TURP), EXCEPT:
+
 	A	Urethral stricture
 	B	Retrograde ejaculation
 	C	Hypernatraemia
 	D	Incontinence
 	E	Increased risk of myocardial infarction
  
-6	Which of the following muscles of mastication inserts into the neck of the mandible and anterior surface of the disc of the temporomandibular joint?
+### Q6	
+Which of the following muscles of mastication inserts into the neck of the mandible and anterior surface of the disc of the temporomandibular joint?
+
 	A	Lateral pterygoid
 	B	Medial pterygoid
 	C	Masseter
 	D	Buccinator
 	E	Temporalis
  
-7	Which one of these muscle and nerve pairings is correct?
+### Q7	
+Which one of these muscle and nerve pairings is correct?
+
 	A	Stylopharyngeus – glossopharyngeal nerve
 	B	Tensor veli palatini – pharyngeal plexus
 	C	Buccinator – cranial nerve Vc
 	D	Palatoglossus – hypoglossal nerve
 	E	Cricothyroid – recurrent laryngeal nerve
  
-8	Concerning parasympathetic nerve supply, which one of the following pairings is correct?
+### Q8	
+Concerning parasympathetic nerve supply, which one of the following pairings is correct?
+
 	A	Otic ganglion – submandibular gland
 	B	Pterygopalatine ganglion – lacrimal gland
 	C	Pterygopalatine ganglion – parotid gland
 	D	Auriculotemporal nerve – submandibular gland
 	E	Facial nerve – otic ganglion
  
-9	A patient arrives in the Emergency Department with the following arterial blood gas results: PaO2 8.0 kPa; PaCO2 2.0 kPa; pH 7.54; bicarbonate 18 mmol/l. The most likely cause is:
+### Q9
+A patient arrives in the Emergency Department with the following arterial blood gas results: PaO2 8.0 kPa; PaCO2 2.0 kPa; pH 7.54; bicarbonate 18 mmol/l. The most likely cause is:
+
 	A	Excessive vomiting
 	B	Pulmonary embolus (PE)
 	C	Diabetic ketoacidosis
 	D	CVA
 	E	Chest wall trauma
  
-10	The operation of choice for treatment of a strangulated femoral hernia, which is likely to contain infarcted small bowel is:
+### Q10	
+The operation of choice for treatment of a strangulated femoral hernia, which is likely to contain infarcted small bowel is:
+
 	A	McEvedy’s abdominal approach
 	B	Lothiessen’s high approach
 	C	Lockwood’s crural or low approach
@@ -99,71 +118,90 @@ Structures derived from the first (mandibular) branchial arch include all of the
 Questions 11-20
 ---------------
 
-### 11
+### Q11
 A 21-year-old medical student presents to the Emergency Department with conjunctivitis. You prescribe him eye drops, but he mentions that he dislikes taking them as he gets a bitter taste at the back of his throat. You explain that the lacrimal drainage is connected to the nasopharynx, hence the bitter taste. He wishes to know exactly where the drainage occurs. Within the lateral wall of the nasal cavity the nasolacrimal duct opens at the:
+
 	A	Superior meatus
 	B	Middle meatus
 	C	Inferior meatus
 	D	Spheno-ethmoidal recess
 	E	Nasopharynx
  
-12	An 18-year-old motorcycle accident victim is noted to have a fluctuating Glasgow Coma Scale (GCS) score and a dilated right pupil in the Emergency Department. You suspect an extradural haemorrhage and this is confirmed on computed tomography. Which one of the following branches of the maxillary artery is classically injured in an extradural haemorrhage?
+### Q12	
+An 18-year-old motorcycle accident victim is noted to have a fluctuating Glasgow Coma Scale (GCS) score and a dilated right pupil in the Emergency Department. You suspect an extradural haemorrhage and this is confirmed on computed tomography. Which one of the following branches of the maxillary artery is classically injured in an extradural haemorrhage?
+
 	A	Deep auricular
 	B	Anterior tympanic
 	C	Middle meningeal
 	D	Deep temporal
 	E	Accessory meningeal
  
-13	A patient of yours requires central venous access via the internal jugular vein. The internal jugular vein is formed by the union of the sigmoid sinus with which one of the following sinuses?
+### Q13	
+A patient of yours requires central venous access via the internal jugular vein. The internal jugular vein is formed by the union of the sigmoid sinus with which one of the following sinuses?
+
 	A	Superior petrosal sinus
 	B	Inferior petrosal sinus
 	C	Cavernous sinus
 	D	Straight sinus
 	E	Occipital sinus
  
-14	All of the following statements about 5-fluorouracil (5-FU) are correct, EXCEPT:
+### Q14	
+All of the following statements about 5-fluorouracil (5-FU) are correct, EXCEPT:
+
 	A	It is indicated in the adjuvant treatment of rectal cancers
 	B	It interferes with DNA synthesis by reducing the availability of thymidylic acid
 	C	It is used in the treatment of solid cancers
 	D	It is an alkylating agent
 	E	It inhibits pyrimidine rather than purine synthesis
  
-15	Which statement is true regarding the bladder?
+### Q15	
+Which statement is true regarding the bladder?
+
 	A	Sympathetic fibres cause relaxation of the detrusor muscle and contraction of the internal sphincter
 	B	In the male, the external sphincter lies above the prostate
 	C	It receives its blood supply from branches of the external iliac arteries
 	D	It is entirely covered by peritoneum
 	E	The trigone is situated at the apex of the bladder
  
-16	Which one of the following structures passes through the foramen rotundum in the base of the skull?
+### Q16	
+Which one of the following structures passes through the foramen rotundum in the base of the skull?
+
 	A	Mandibular division of the trigeminal
 	B	Maxillary division of the trigeminal
 	C	Lesser petrosal nerve
 	D	Middle meningeal artery
 	E	Facial nerve
  
-17	Structures entering through the jugular foramen in the base of the skull include all of the following, EXCEPT:
+### Q17	
+Structures entering through the jugular foramen in the base of the skull include all of the following, EXCEPT:
+
 	A	Glossopharyngeal nerve (IX)
 	B	Vagus nerve (X)
 	C	Accessory nerve (XI)
 	D	Sigmoid sinus
 	E	Superior petrosal sinus
  
-18	Which of the following anti-cancer drugs would be classified as an alkylating agent?
+### Q18	
+Which of the following anti-cancer drugs would be classified as an alkylating agent?
+
 	A	Doxorubicin
 	B	Methotrexate
 	C	Cytarabine
 	D	Vincristine
 	E	Cisplatin
  
-19	An obese 45-year-old waitress is referred to you by her GP with a diagnosis of meralgia paraesthetica. You would expect her symptoms to affect which one of the following areas?
+### Q19	
+An obese 45-year-old waitress is referred to you by her GP with a diagnosis of meralgia paraesthetica. You would expect her symptoms to affect which one of the following areas?
+
 	A	Lateral thigh region
 	B	Posterior thigh
 	C	Lateral thigh
 	D	Medial thigh
 	E	Groin area
  
-20	Cricoid pressure is often applied to assist anaesthetists during the intubation process. Anatomically, the cricoid cartilage can also be used to identify other vessels and landmarks in the neck. The surface marking of the cricoid cartilage in a normal male adult is represented by which of the following vertebral levels?
+### Q20	
+Cricoid pressure is often applied to assist anaesthetists during the intubation process. Anatomically, the cricoid cartilage can also be used to identify other vessels and landmarks in the neck. The surface marking of the cricoid cartilage in a normal male adult is represented by which of the following vertebral levels?
+
 	A	C3
 	B	C4
 	C	C5
