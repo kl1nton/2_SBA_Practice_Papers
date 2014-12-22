@@ -1083,76 +1083,76 @@ Questions 101-110
 -----------------
 
 ### Q101
-A patient with a diagnosis of inflammatory bowel disease (IBD) may have the following extraintestinal manifestations, EXCEPT:
+A patient with a diagnosis of inflammatory bowel disease (IBD) may have the following _extraintestinal manifestations_, EXCEPT:
 
-	A	Episcleritis
-	B	Sclerosing cholangitis
-	C	Ankylosing spondylitis
-	D	Erythema nodosum
-	E	Sarcoidosis
-#### Answer: 
+	A. Episcleritis
+	B. Sclerosing cholangitis
+	C. Ankylosing spondylitis
+	D. Erythema nodosum
+	E. Sarcoidosis
+#### Answer: E. Sarcoidosis - ?
  
 ### Q102
 Colonic diverticular disease:
 
-	A	Can present with a colo-vesical fistula
-	B	Does not present with colonic obstruction
-	C	Is an inherited condition
-	D	Is a premalignant condition
-	E	Is not a feature of ageing
-#### Answer: 
+	A. Can present with a colo-vesical fistula
+	B. Does not present with colonic obstruction - F
+	C. Is an inherited condition - F
+	D. Is a premalignant condition - T
+	E. Is not a feature of ageing - F
+#### Answer: D. Is a premalignant condition - ?
  
 ### Q103	
-Which of the following stoma complications makes closure technically easier?
+Which of the following _stoma complications_ makes closure technically easier?
 
-	A	Parastomal hernia
-	B	Prolapse
-	C	Stenosis
-	D	Retraction
-	E	Ischaemia
-#### Answer: 
+	A. Parastomal hernia - F
+	B. Prolapse - F
+	C. Stenosis
+	D. Retraction - F
+	E. Ischaemia - F
+#### Answer: C. Stenosis - ?
  
 ### Q104
-Which of the following statements regarding immunosuppressive drugs used in renal transplantation is CORRECT?
+Which of the following statements regarding _immunosuppressive drugs_ used in _renal transplantation_ is CORRECT?
 
-	A	Azathioprine is more effective than mycophenolate in preventing acute rejection
-	B	Tacrolimus works by directly inhibiting nucleic acid synthesis
-	C	Mycophenolate works by inhibiting enzymes in the pathway for purine synthesis
-	D	Sirolimus has greater nephrotoxicity than ciclosporin
-	E	Basiliximab is not commonly used as an induction agent in renal transplants
-#### Answer: 
+	A. Azathioprine is more effective than mycophenolate in preventing acute rejection
+	B. Tacrolimus works by directly inhibiting nucleic acid synthesis
+	C. Mycophenolate works by inhibiting enzymes in the pathway for purine synthesis
+	D. Sirolimus has greater nephrotoxicity than ciclosporin
+	E. Basiliximab is not commonly used as an induction agent in renal transplants
+#### Answer: D. Sirolimus has greater nephrotoxicity than ciclosporin - ?
  
 ### Q105
-Bowel obstruction can be caused by all of the following, EXCEPT:
+_Bowel obstruction_ can be caused by all of the following, EXCEPT:
 
-	A	Volvulus
-	B	Hiatus hernia
-	C	Adhesions from previous surgery
-	D	Intussusception
-	E	Polyp
-#### Answer: 
+	A. Volvulus - T
+	B. Hiatus hernia - F (GORD)
+	C. Adhesions from previous surgery - T
+	D. Intussusception - T
+	E. Polyp - T
+#### Answer: B. Hiatus hernia - ?
  
 ### Q106
-The commonest infection to affect the asplenic patient following splenectomy is:
+The commonest infection to affect the _asplenic patient_ following splenectomy is:
 
-	A	Streptococcus pneumoniae
-	B	Neisseria meningitidis
-	C	Escherichia coli
-	D	Haemophilus influenzae
-	E	Staphylococcus aureus
-#### Answer: 
+	A. Streptococcus pneumoniae - F
+	B. Neisseria meningitidis - F
+	C. Escherichia coli - F
+	D. Haemophilus influenzae
+	E. Staphylococcus aureus
+#### Answer: D. Haemophilus influenzae - ?
  
 ### Q107
-All of the following statements regarding the management of trauma in pregnant women are true, EXCEPT:
+All of the following statements regarding the _management of trauma in pregnant women_ are true, EXCEPT:
 
-	A	A qualified surgeon and obstetrician should always be consulted early in the evaluation of the pregnant patient
-	B	Small-bowel injury in commoner in upper abdominal penetrating wounds than lower penetrating injuries in late pregnancy
-	C	Pregnant women show earlier signs of hypovolaemia during haemorrhage
-	D	Unless contraindicated, pregnant women should be placed in the left-lateral position during assessment and management as early as possible
-	E	All Rh-negative pregnant patients should be considered for Rh immunoglobulin therapy in penetrating abdominal injuries
-#### Answer: 
+	A. A qualified surgeon and obstetrician should always be consulted early in the evaluation of the pregnant patient - T
+	B. Small-bowel injury is commoner in upper abdominal penetrating wounds than lower penetrating injuries in late pregnancy - T
+	C. Pregnant women show earlier signs of hypovolaemia during haemorrhage - T
+	D. Unless contraindicated, pregnant women should be placed in the left-lateral position during assessment and management as early as possible - T
+	E. All Rh-negative pregnant patients should be considered for Rh immunoglobulin therapy in penetrating abdominal injuries
+#### Answer: E. All Rh-negative pregnant patients should be considered for Rh immunoglobulin therapy in penetrating abdominal injuries - ?
  
-### Q108
+### Q108 - LEARN
 Which of the following is NOT part of the Glasgow Scale used to assess the severity of pancreatitis on initial assessment?
 
 	A	White cell count >15×109/l
@@ -1163,24 +1163,24 @@ Which of the following is NOT part of the Glasgow Scale used to assess the sever
 #### Answer: 
  
 ### Q109
-Complications of intraosseous needle puncture in children include all of the following, EXCEPT:
+Complications of _intraosseous needle puncture_ in children include all of the following, EXCEPT:
 
-	A	Physeal plate injury
-	B	Skin pressure necrosis
-	C	Subperiosteal infiltration
-	D	Musculocutaneous fistula
-	E	Osteomyelitis
-#### Answer: 
+	A. Physeal plate injury
+	B. Skin pressure necrosis - T
+	C. Subperiosteal infiltration - T
+	D. Musculocutaneous fistula - T
+	E. Osteomyelitis - T
+#### Answer: A. Physeal plate injury - ?
  
-### Q110
+### Q110 - LEARN
 Which of the following volumes of blood loss would accurately fall into a class II haemorrhage?
 
-	A	500 ml
-	B	700 ml
-	C	1000 ml
-	D	1500 ml
-	E	2000 ml
-#### Answer: 
+	A. 500 ml
+	B. 700 ml
+	C. 1000 ml
+	D. 1500 ml
+	E. 2000 ml
+#### Answer: C. 1000 ml - ?
 
 
 Questions 111-120
