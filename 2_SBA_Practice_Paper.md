@@ -1,14 +1,14 @@
 SBA Practice Paper: 2
 =====================
 
-Group	| Score			| Errors 					|
---------|---------------|---------------------------|
+Group	| Score			| Errors 						|
+--------|---------------|-------------------------------|
 1-10	| 4/10 =  40%	| 1, 2, 4, 5, 7, 9
 11-20	| 4/10 =  40%	| 11, 13, 14, 17, 18, 20 
 21-30	| 4/10 =  40%	| 21, 24, 25, 26, 28, 30
 31-40	| 4/10 =  40%	| 31, 33, 35, 37, 39, 40
 41-50	| 6/10 =  60%	| 41, 44, 45, 46
-51-60	| ?/10 =  ??%	| 
+51-60	| 3/10 =  30%	| 52, 53, 55, 56, 57, 58, 60
 61-70	| ?/10 =  ??%	|  
 71-80	| ?/10 =  ??%	|  
 81-90	| ?/10 =  ??%	|  
@@ -815,6 +815,8 @@ Acid is secreted from the parietal cells within the stomach under neurohormonal 
 Questions 51-60
 ---------------
 
+30% = F: 52, 53, 55, 56, 57, 58, 60
+
 ### Q51
 Damage to peripheral nerves results in specific areas of sensory loss. Which of the following nerve–sensory area pairings is INCORRECT?
 
@@ -823,7 +825,9 @@ Damage to peripheral nerves results in specific areas of sensory loss. Which of 
 	C. Median nerve – palmar aspect of index finger - T
 	D. Obturator nerve – lateral aspect of thigh - F
 	E. Deep peroneal nerve – dorsal aspect of first web space - T
-#### Answer: D. Obturator nerve – lateral aspect of thigh - ?
+
+#### Answer: D. Obturator nerve – lateral aspect of thigh - TRUE
+- The obturator nerve supplies the muscles in the medial compartment of the thigh and arises from the lumbar plexus (L1–4 ventral rami). It also supplies sensation to a patch of skin on the medial aspect of the thigh. Irritation of this nerve by pelvic pathology can result in pain in this distribution because the lateral pelvic peritoneum is supplied by the obturator nerve as it passes through the pelvis.
  
 ### Q52
 All of the following structures would _drain through the thoracic duct_, EXCEPT:
@@ -831,9 +835,13 @@ All of the following structures would _drain through the thoracic duct_, EXCEPT:
 	A. Left arm and thorax - T
 	B. Left face and neck
 	C. Left side of abdomen - T
-	D. Right face and neck - T
+	D. Right face and neck
 	E. Right side of abdomen - T
-#### Answer: B. Left face and neck - ?
+
+#### Answer: B. Left face and neck - *FALSE* = D. Right face and neck - TRUE
+- The thoracic duct drains everything below the level of the diaphragm
+	- as well as **all** structures on the left-hand side of the body above Diaphragm
+- **NOTE** It does not drain RIGHT thorax, arm, head (face) and neck 
  
 ### Q53	
 All of the following can be considered _risk factors for compartment syndrome_ in trauma, EXCEPT:
@@ -843,17 +851,27 @@ All of the following can be considered _risk factors for compartment syndrome_ i
 	C. Flexion–distraction spinal injuries
 	D. Presence of limb burns
 	E. Immobilisation of injuries in tight casts and dressings - T
-#### Answer: D. Presence of limb burns - ?
+
+#### Answer: D. Presence of limb burns - *FALSE* = C. Flexion–distraction spinal injuries - TRUE
+- Flexion–distraction spinal injuries do not involve the limbs unless part of a multi-trauma case
+- Any injury or treatment to a limb in which muscles can become oedematous within a tight fascial compartment will lead to compartment syndrome
+- **NOTE** Isolated spinal injuries would not result in such a syndrome
  
 ### Q54	
 _Sick euthyroid syndrome_ consists of all of the following signs, EXCEPT:
 
-	A. Decreased number of binding proteins
-	B. Decreased affinity of binding proteins
-	C. Decreased TSH
+	A. Decreased number of binding proteins - T
+	B. Decreased affinity of binding proteins - T
+	C. Decreased TSH - T
 	D. Decreased peripheral conversion of T3 to T4
-	E. Normal thyroid functioning
-#### Answer: D. Decreased peripheral conversion of T3 to T4 - ?
+	E. Normal thyroid functioning - T
+
+#### Answer: D. Decreased peripheral conversion of T3 to T4 - TRUE
+- Sick euthyroid syndrome consists of abnormalities in markers of thyroid function resulting from any acute illness without actually affecting thyroid function
+- The following changes can occur in a clinical euthyroid patient
+	- Decreased binding proteins and affinity of binding proteins
+	- Decreased TSH
+	- Decreased peripheral conversion of T4 to T3
  
 ### Q55	
 All of the following principles are used in the _management of chronic renal failure_, EXCEPT:
@@ -861,19 +879,29 @@ All of the following principles are used in the _management of chronic renal fai
 	A. High-dose loop diuretics in the management of hypertension - T
 	B. Fluid restriction to prevent the development of oedema - T
 	C. Sodium restriction to help limit fluid overload - T
-	D. High-protein diet to prevent muscle atrophy in catabolism - T
-	E. Calcium chloride to help bind gut phosphate in hyperphosphataemia
-#### Answer: E. Calcium chloride to help bind gut phosphate in hyperphosphataemia - ?
+	D. High-protein diet to prevent muscle atrophy in catabolism
+	E. Calcium chloride to help bind gut phosphate in hyperphosphataemia 
+
+#### Answer: E. Calcium chloride to help bind gut phosphate in hyperphosphataemia - *FALSE* = D. High-protein diet to prevent muscle atrophy in catabolism - TRUE
+- High-protein diets should be avoided in chronic renal failure as this increases the urea load on the kidney
+- Severe protein restriction is also not advised in haemodialysis, as more protein is lost through filtration
+- A balanced protein intake is required at about 0.5 g/kg/day in chronic renal failure
  
 ### Q56	- LEARN
 All of the following signs _might_ be produced by a _Pancoast’s tumour_ at the apex of the right lung, EXCEPT:
 
-	A. Oedema and venous engorgement of the right upper limb - T
+	A. Oedema and venous engorgement of the right upper limb
 	B. Hoarseness of the voice
 	C. Ipsilateral paradoxical diaphragmatic movement
-	D. Hyperhidrosis of the right side of the face - T
-	E. Enophthalmos and miosis in the right eye - T
-#### Answer: 
+	D. Hyperhidrosis of the right side of the face - ANHYDROSIS
+	E. Enophthalmos and miosis in the right eye
+
+#### Answer: B. Hoarseness of the voice - *FALSE* = D. Hyperhidrosis of the right side of the face - TRUE
+- Pancoast’s tumour of the apex of the lung can produce an ipsilateral Horner syndrome, 
+	1. Miosis
+	2. Enophthalmos
+	3. Ptosis 
+	4. **Anhidrosis** of the side of the face
  
 ### Q57	- LEARN
 All of the following statements regarding the _chemical control of respiration_ are correct, EXCEPT:
@@ -883,7 +911,15 @@ All of the following statements regarding the _chemical control of respiration_ 
 	C. The central medullary chemoreceptors are sensitive to hypoxaemia
 	D. The central medullary chemoreceptors are sensitive to hypercapnia
 	E. The central medullary chemoreceptors are sensitive to changes in H+
-#### Answer: E. The central medullary chemoreceptors are sensitive to changes in H+ - ?
+
+#### Answer: E. The central medullary chemoreceptors are sensitive to changes in H+ - *FALSE* = C. The central medullary chemoreceptors are sensitive to hypoxaemia - TRUE
+- Central Medullary Chemoreceptors are sensitive to changes in PCO2 via changes in H+ (pH)
+- Peripheral Chemoreceptors located in carotid and aortic bodies are sensitive to 
+	1. Hypercapnia
+	2. Hypoxaemia
+	3. Acidaemia
+	4. Hyperkalaemia
+- Glomus cell (type I) senses these changes and feedback via Glossopharyngeal (IX) and Vagus (X)
  
 ### Q58	
 Which of the following structures can be injured in _supracondylar fracture of the femur_?
@@ -893,8 +929,10 @@ Which of the following structures can be injured in _supracondylar fracture of t
 	C. Long saphenous vein
 	D. Short saphenous vein
 	E. Deep femoral artery
-#### Answer: D. Short saphenous vein - ?
- 
+
+#### Answer: D. Short saphenous vein - *FALSE* = B. Popliteal artery - TRUE
+- Supracondylar fractures of the femur jeopardise the popliteal neurovascular bundle, in particular the popliteal artery. The sciatic nerve divides into its two terminal branches above the popliteal fossa, and the deep femoral artery has only a few geniculate branches participating around the knee. The long and short saphenous veins are subcutaneous veins lying medial to the knee or inferior to the popliteal fossa respectively.
+
 ### Q59	
 Which of the following is NOT a _complication of mechanical ventilation_?
 
@@ -903,7 +941,9 @@ Which of the following is NOT a _complication of mechanical ventilation_?
 	C. Acute respiratory distress syndrome (ARDS)
 	D. Atrophy of respiratory muscles - T
 	E. Reduced venous return - T
-#### Answer: C. Acute respiratory distress syndrome (ARDS) - ?
+
+#### Answer: C. Acute respiratory distress syndrome (ARDS) - TRUE
+- Mechanical ventilation is used for unconscious patients and also to provide oxygen therapy where other methods have failed. It is unfortunately associated with several complications. As a result of the positive pressure required there is a risk of barotrauma (pneumothorax, pneumomediastinum, pneumoperitoneum and surgical emphysema) and venous return is reduced, which decreases cardiac filling. Ventilation can also cause gastric dilatation and ileus, and long-term use can lead to atrophy of the respiratory muscles. Infection and airway damage are other risks.
  
 ### Q60	
 All of the following muscles are supplied by the _posterior interosseous branch of the radial nerve_, EXCEPT:
@@ -913,7 +953,12 @@ All of the following muscles are supplied by the _posterior interosseous branch 
 	C. Extensor digiti minimi
 	D. Abductor pollicis longus
 	E. Extensor pollicis brevis
-#### Answer: C. Extensor digiti minimi - ?
+
+#### Answer: C. Extensor digiti minimi - *FALSE* = A. Extensor carpi radialis longus - TRUE
+- Posterior Interosseous Nerve is the terminal motor branch of the radial nerve 
+	- Supplies extensor muscles from Common Extensor Origin distally
+- Brachioradialis and Extensor Carpi Radialis Longus muscles are directly supplied by Radial Nerve 
+	- Arise from upper two-thirds and lower third of lateral supracondylar ridge of humerus respectively
 
 
 Questions 61-70
