@@ -9,8 +9,8 @@ Group	| Score			| Errors 							|
 31-40	| 5/10 =  50%	| 31, 32, 33, 34, 35
 41-50	| 2/10 =  20%	| 41, 42, 43, 44, 45, 46, 47, 48
 51-60	| 6/10 =  60%	| 51, 53, 55, 58
-61-70	| 
-71-80	| 
+61-70	| 5/10 =  50%	| 61, 62, 65, 67, 70
+71-80	| 2/10 =  20% 	| 71, 72, 73, 74, 75, 76, 78, 80
 81-90	| 
 91-100	| 
 101-110	| 
@@ -1103,6 +1103,8 @@ Which statement is correct regarding _cerebrospinal fluid_ (CSF)?
 Questions 61-70
 ---------------
 
+50% = F: 61, 62, 65, 67, 70
+
 ### Q61
 The _maximum safe dose_ of 1% _lidocaine without adrenaline_ for a 70-kg male is:
 
@@ -1111,7 +1113,11 @@ The _maximum safe dose_ of 1% _lidocaine without adrenaline_ for a 70-kg male is
 	C. 28 ml
 	D. 35 ml
 	E. 40 ml
-#### Answer: C. 28 ml - ?
+
+#### Answer: C. 28 ml - *FALSE* = B. 21 ml - TRUE
+- 1% lidocaine contains 10 mg/ml
+- Maximum safe dose without adrenaline is 3 mg/kg
+	- Maximum dose is 210 mL, which is contained in 21 mL
  
 ### Q62	
 _Parathyroid hormone_ (PTH) secretion is decreased by:
@@ -1121,9 +1127,11 @@ _Parathyroid hormone_ (PTH) secretion is decreased by:
 	C. A large decrease in serum magnesium - F
 	D. An increase in serum potassium - F
 	E. A decrease in 1,25(OH)2 vitamin D
-#### Answer: E. A decrease in 1,25(OH)2 vitamin D - ?
+
+#### Answer: E. A decrease in 1,25(OH)2 vitamin D - *FALSE* = C. A large decrease in serum magnesium - TRUE
+- PTH secretion is decreased by decreased serum phosphate, increased free calcium ions, large decreased magnesium and increased 1,25(OH)2 vitamin D. Its secretion is unrelated to serum potassium level. Mild decreases in serum magnesium may increase PTH secretion as will low calcium and high phosphate levels.
  
-### Q63	
+### Q63	- LEARN
 Structures passing through the _foramen magnum_ do NOT include the:
 
 	A. Vagus nerve
@@ -1131,9 +1139,18 @@ Structures passing through the _foramen magnum_ do NOT include the:
 	C. Medulla - F
 	D. Meninges - F
 	E. Vertebral arteries - F
-#### Answer: A. Vagus nerve - ?
+
+#### Answer: A. Vagus nerve - TRUE
+
+##### Foramen Magnum: Structures
+1. Medulla
+2. Meninges
+3. Tectorial membrane
+4. Anterior spinal artery
+5. Vertebral artery
+6. Spinal branches of (spinal) accessory nerve
  
-### Q64	
+### Q64	- LEARN
 _Calot’s triangle_:
 
 	A. Is bounded laterally by the common hepatic duct - F
@@ -1141,8 +1158,20 @@ _Calot’s triangle_:
 	C. Is bounded laterally by the cystic duct 
 	D. Contains the left hepatic duct - F
 	E. Contains the hepatic artery - F
-#### Answer: C. Is bounded laterally by the cystic duct - ?
+
+#### Answer: C. Is bounded laterally by the cystic duct - TRUE
  
+##### Calot's Triangle
+- Boundaries
+	1. Medially: Common Hepatic Duct (CBD)
+	2. Laterally: Cystic Duct 
+	3. Superiorly: Visceral Surface of Liver
+- Contents
+	1. Cystic Artery
+	2. Cystic Lymph Nodes
+	3. Right Hepatic Duct
+	4. Cystic Vein - occasionally
+
 ### Q65	- LEARN
 The _epiploic foramen_ (of Winslow):
 
@@ -1151,8 +1180,22 @@ The _epiploic foramen_ (of Winslow):
 	C. Lies inferior to the quadrate lobe of the liver - F
 	D. Is superior to the third part of the duodenum - ?
 	E. Contains the hepatic artery lying on the left of the common bile duct in the anterior border - F
-#### Answer: B. Lies anterior to the SVC - ?
+
+#### Answer: B. Lies anterior to the SVC - *FALSE* = E. Contains the hepatic artery lying on the left of the common bile duct in the anterior border - TRUE
  
+##### Epiploic Foramen of Winslow
+- Definition: opening of Lesser Sac on the right side of Abdomen
+- Boundaries
+	1. Anteriorly: free edge of Lesser Omentum
+		- Right: Common Bile Duct
+		- Left: Hepatic Artery
+		- Posteriorly: Portal Vein
+	2. Posteriorly
+		- Inferior Vena Cava
+		- Right Crus of Diaphragm
+	3. Inferiorly: First Part of Duodenum
+	4. Superiorly: Caudate Lobe of Liver
+
 ### Q66	
 A 60-year-old man presents with a history of _claudication pain_ in his left leg after walking 20 yards, which is impacting significantly on his lifestyle. He is investigated by arteriography, which shows an _2-cm stenosis_ in the proximal superficial femoral artery. The most appropriate management is:
 
@@ -1161,7 +1204,9 @@ A 60-year-old man presents with a history of _claudication pain_ in his left leg
 	C. Percutaneous balloon angioplasty
 	D. Femoro-popliteal bypass
 	E. Femoro-distal bypass
-#### Answer: C. Percutaneous balloon angioplasty - ?
+
+#### Answer: C. Percutaneous balloon angioplasty - TRUE
+- Arterial stenoses that are short and localised in nature are amenable to treatment with percutaneous balloon angioplasty. Much better long-term results are achieved if the lesion is present in a proximal vessel such as the superficial femoral artery (SFA). The procedure is carried out by the Seldinger technique, where a flexible guide wire is passed across the stenosis and then a catheter with a plastic inflatable balloon is passed across it. The balloon is dilated when it reaches the stenosis, widening the vessel.
  
 ### Q67	
 Types of tumour markers do NOT include:
@@ -1169,11 +1214,13 @@ Types of tumour markers do NOT include:
 	A. Enzymes
 	B. Hormones - F
 	C. Ectopic hormones - F
-	D. Oncofetal antibodies - F
+	D. Oncofetal antibodies - F!
 	E. Oncofetal antigens - F
-#### Answer: A. Enzymes - ?
+
+#### Answer: A. Enzymes - *FALSE* = D. Oncofetal antibodies - TRUE
+- Tumour markers: enzymes, hormones, oncofetal antigens and ectopic hormones
  
-### Q68	
+### Q68	- LEARN
 The _transpyloric plane of Addison_:
 
 	A. Passes through the inferior border of L2
@@ -1181,7 +1228,18 @@ The _transpyloric plane of Addison_:
 	C. Is at the same level as the 8th costal cartilages - F
 	D. Is the level at which the inferior mesenteric artery commences - F
 	E. Lies halfway between the jugular notch and the pubic symphysis
-#### Answer: E. Lies halfway between the jugular notch and the pubic symphysis - ?
+
+#### Answer: E. Lies halfway between the jugular notch and the pubic symphysis - TRUE (lower border of L1)
+
+##### Structures at Transplyoric Plane
+1. Pyloris of the stomach
+2. Fundus of the gallbladder
+3. Duodenojejunal junction
+4. Neck of the pancreas
+5. Hila of the kidneys
+6. Ninth costal cartilages
+7. Superior mesenteric artery commencement
+8. Portal vein formation
  
 ### Q69	
 A man presents with _left buttock_, _thigh_ and _calf claudication pain_. Which of the following is the most likely site of arterial disease?
@@ -1191,9 +1249,11 @@ A man presents with _left buttock_, _thigh_ and _calf claudication pain_. Which 
 	C. Left external iliac artery
 	D. Left internal iliac artery
 	E. Lower aorta
-#### Answer: B. Left common iliac artery
+
+#### Answer: B. Left common iliac artery - TRUE
+- Intermittent claudication is a pain in muscle caused by ischaemia, brought on by exercise and relieved by rest. The site of the pain often indicates the area of stenosis, for example calf pain suggests superficial femoral artery, thigh pain suggests external iliac artery and buttock pain suggests common iliac artery. Occlusion of the aorto-iliac region associated with buttock claudication and impotence is known as Leriche syndrome.
  
-### Q70	
+### Q70	- LEARN
 The _stomach bed_ does NOT include the:
 
 	A. Splenic artery
@@ -1201,13 +1261,30 @@ The _stomach bed_ does NOT include the:
 	C. Transverse mesocolon - F
 	D. Left adrenal gland - F
 	E. Neck of the pancreas - F
-#### Answer: A. Splenic artery - ?
+
+#### Answer: A. Splenic artery - *FALSE* = E. Neck of the pancreas - TRUE
+
+##### Structure of Stomach Bed 
+1. Lesser sac of the peritoneum
+2. Left crus of the diaphragm
+3. Upper left kidney
+4. Left adrenal gland
+5. Body and tail of the pancreas
+6. Spleen
+7. Splenic artery
+8. Transverse mesocolon
+9. Aorta
+10. Coeliac trunk
+11. Coeliac ganglion
+12. Lymph nodes
 
 
 Questions 71-80
 ---------------
 
-### Q71
+??% = F: 71, 72, 73, 74, 75, 76, 78, 80
+
+### Q71 - LEARN
 Which of the following statements is true regarding the _planes of the abdomen_?
 
 	A. The subcostal plane runs through the inferior border of L3 - F
@@ -1215,9 +1292,16 @@ Which of the following statements is true regarding the _planes of the abdomen_?
 	C. The sagittal planes run through the midpoints of the inguinal ligaments
 	D. The transpyloric plane runs through the superior border of L2
 	E. The transumbilical plane runs through the L2/3 intervertebral disc
-#### Answer: A. The subcostal plane runs through the inferior border of L3 - ?
+#### Answer: A. The subcostal plane runs through the inferior border of L3 - *FALSE* = B. The transtubercular plane runs through the body of L5 - TRUE
  
-### Q72 - LEARN	
+##### Planes of The Abdomen
+- Sagittal planes are continuations of midclavicular lines, running through midinguinal points
+- Transpyloric plane runs through the inferior border of L1
+- Subcostal plane runs through the superior border of L3
+- Transumbilical plane runs through the umbilicus at the level of the L3/4 intervertebral disc
+- Transtubercular plane runs through the iliac tubercles, passing through the body of L5
+
+### Q72 - LEARN: TODO
 The _facial nerve_ passes through:
 
 	A. The superior orbital fissure - F
@@ -1225,8 +1309,9 @@ The _facial nerve_ passes through:
 	C. The foramen rotundum
 	D. The stylomastoid foramen - F
 	E. The petrosquamous fissure - F
-#### Answer: C. The foramen rotundum - ?
-- Mnemonics!
+
+#### Answer: C. The foramen rotundum - *FALSE* = D. The stylomastoid foramen - TRUE
+- The facial nerve traverses the facial canal, the internal auditory meatus and the stylomastoid foramen. The superior orbital foramen contains the oculomotor, trochlear, trigeminal and abducent nerves. The trigeminal nerve passes through the foramen ovale and the foramen rotundum. The petrosquamous fissure has no contents.
  
 ### Q73	
 Which of the following statements about _abdominal aortic aneurysms_ (AAA) is TRUE?
@@ -1236,7 +1321,9 @@ Which of the following statements about _abdominal aortic aneurysms_ (AAA) is TR
 	C. They can cause emboli
 	D. They are not identified on ultrasound scan
 	E. They are more common in females - F
-#### Answer: D. They are not identified on ultrasound scan - ?
+
+#### Answer: D. They are not identified on ultrasound scan - *FALSE* = C. They can cause emboli - TRUE
+- Elective surgery is normally carried out for abdominal aortic aneurysm (AAA) only if the patient is relatively fit and has an aneurysm >5.5 cm in diameter, as the mortality for the operation is 5%. Endoluminal stenting is a relatively new alternative that can be used to treat infrarenal aneurysms. Overall mortality in ruptured aneurysms is 75% and unstable patients should proceed to urgent surgery. Ultrasound scan or CT scan can aid diagnosis, and regular ultrasound scans are a means of carrying out regular surveillance of aneurysms not large enough to require surgery. Thrombus formation within aneurysms can lead to distal emboli. AAAs are much more common in men.
  
 ### Q74	- LEARN
 Extensor compartment II of the wrist contains:
@@ -1246,8 +1333,16 @@ Extensor compartment II of the wrist contains:
 	C. Extensor carpi radialis (ECR)
 	D. Extensor pollicis longus (EPL)
 	E. Extensor digitorum
-#### Answer: D. Extensor pollicis longus (EPL) - ?
- 
+#### Answer: D. Extensor pollicis longus (EPL) - *FALSE* = C. Extensor carpi radialis (ECR) - TRUE
+
+##### Contents of Extensor Compartment
+1. Abductor Pollicis Longus (APL) and Extensor Pollicis Brevis (EPB)
+2. Extensor carpi radialis (ECR)
+3. Extensor pollicis longus (EPL)
+4. Extensor digitorum and Extensor indicis
+5. Extensor digiti minimi (EDM)
+6. Extensor carpi ulnaris (ECU)
+
 ### Q75	
 Which of the following is NOT a _Gram-negative rod_?
 
@@ -1256,7 +1351,24 @@ Which of the following is NOT a _Gram-negative rod_?
 	C. Proteus species
 	D. Legionella
 	E. Pseudomonas 
-#### Answer: E. Pseudomonas - ?
+
+#### Answer: E. Pseudomonas - *FALSE* = B. Clostridium tetani - TRUE
+
+##### Gram-Positive Rods
+- Clostridia 
+- Listeria
+- Diphtheroids
+
+##### Gram-Negative Rods
+- Escherichia coli
+- Klebsiella
+- Yersinia
+- Haemophilus
+- Pseudomonas
+- Shigella
+- Legionella
+- Proteus 
+- Salmonella
  
 ### Q76	- LEARN
 The _quadrilateral space_:
@@ -1266,7 +1378,18 @@ The _quadrilateral space_:
 	C. Is bounded laterally by the long head of triceps - F
 	D. Is bounded inferiorly by teres major 
 	E. Contains the radial nerve - F
-#### Answer: A. Is bounded inferiorly by teres minor - ?
+
+#### Answer: A. Is bounded inferiorly by teres minor - *FALSE* = D. Is bounded inferiorly by teres major - TRUE
+
+##### Quadrilateral Space
+- Boundaries
+	- Superiorly: Subscapularis
+	- **Inferiorly: Teres Major**
+	- Medially  : Long Head of Triceps 
+	- Laterally : Medial Shaft of Humerus
+- Contents
+	1. Axillary Nerve
+	2. Posterior Circumflex Humeral Artery and Vein
  
 ### Q77	
 All of these statements about _lymphoedema_ are correct, EXCEPT:
@@ -1276,7 +1399,9 @@ All of these statements about _lymphoedema_ are correct, EXCEPT:
 	C. It can occur secondary to radiotherapy - T
 	D. Ulceration in primary lymphoedema is common
 	E. Operative treatment is rarely used - F
-#### Answer: D. Ulceration in primary lymphoedema is common -?
+
+#### Answer: D. Ulceration in primary lymphoedema is common - TRUE
+- Lymphoedema is an abnormal collection of tissue fluid from defective lymphatics, and may be either primary or secondary in nature. Secondary causes include infection, malignancy and radiotherapy. Surgery is rarely used to treat it and management is usually conservative, with compression stockings, intermittent mechanical compression and treatment of cellulitis when it occurs. Ulceration is not commonly seen with primary lymphoedema.
  
 ### Q78	- LEARN
 Which statement is correct regarding _secretions_ from the _adrenal glands_?
@@ -1286,7 +1411,13 @@ Which statement is correct regarding _secretions_ from the _adrenal glands_?
 	C. Testosterone is produced by the zona reticularis - F
 	D. Adrenaline is produced by the zona reticularis
 	E. Cortisol is produced by the zona glomerulosa
-#### Answer: E. Cortisol is produced by the zona glomerulosa - ?
+#### Answer: E. Cortisol is produced by the zona glomerulosa - *FALSE* = A. Aldosterone is produced by the zona glomerulosa - TRUE
+
+##### Adrenal Glands: Secretions
+- Zona Glomerulos**a**: **a**ldosterone
+- Zona Fas**c**icula**t**a: cortisol & testosterone
+- Zona Reticularis: oestradiol & progesterone
+- Adrenal Medulla: adrenaline, noradrenaline & dopamine
  
 ### Q79	
 Which of the following statements is true regarding the _pharyngeal arches and pouches_?
@@ -1296,17 +1427,21 @@ Which of the following statements is true regarding the _pharyngeal arches and p
 	C. The third pharyngeal arch is supplied by the vagus nerve - F
 	D. The pharyngeal arches consist of endoderm and ectoderm only - F
 	E. The inferior parathyroid glands are derived from the fifth pharyngeal pouch - F
-#### Answer: A. The superior parathyroid glands are derived from the fourth pharyngeal pouch - ?
+
+#### Answer: A. The superior parathyroid glands are derived from the fourth pharyngeal pouch - TRUE
+- The pharyngeal arches are composed of mesoderm, endoderm and ectoderm. The superior parathyroids are derived from the fourth pharyngeal pouch and the inferior parathyroids are derived from the third pharyngeal pouch. The mandible, maxilla and zygoma are derived from the first pharyngeal arch. The third pharyngeal arch is supplied by the glossopharyngeal nerve.
  
 ### Q80	
-Epstein–Barr virus (EBV) is known to be a carcinogen for:
-	A	T-cell lymphoma
-	B	Non-Hodgkin’s lymphoma
-	C	Leukaemia
-	D	B-cell lymphoma
-	E	Hepatocellular carcinoma
-#### Answer: 
+_Epstein–Barr virus_ (EBV) is known to be a carcinogen for:
 
+	A. T-cell lymphoma
+	B. Non-Hodgkin’s lymphoma (NHL)
+	C. Leukaemia
+	D. B-cell lymphoma
+	E. Hepatocellular carcinoma
+
+#### Answer: E. Hepatocellular carcinoma = *FALSE* = D. B-cell lymphoma - TRUE
+- EBV is known to be carcinogenic for B-cell lymphoma, nasopharyngeal carcinoma and Hodgkin’s lymphoma.
 
 Questions 81-90
 ---------------
