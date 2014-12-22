@@ -1,8 +1,8 @@
 SBA Practice Paper: 1
 =====================
 
-Group	| Score			| Errors 							|
---------|---------------|-----------------------------------|
+Group	| Score			| Errors 								|
+--------|---------------|---------------------------------------|
 1-10	| 8/10 =  80%	| 2, 3
 11-20	| 3/10 =  30%	| 13, 14, 15, 16, 17, 18, 20
 21-30	| 1/10 =  10%	| 21, 22, 23, 24, 25, 26, 28, 29, 30
@@ -14,8 +14,8 @@ Group	| Score			| Errors 							|
 81-90	| 4/10 =  40%	| 82, 84, 85, 87, 88, 89
 91-100	| 2/10 =  20%	| 91, 93, 94, 95, 96, 97, 98, 99
 101-110	| 4/10 =  40%	| 101, 102, 103, 104, 105, 106
-111-120	| 
-121-130	| 
+111-120	| 2/10 =  20%	| 111, 112, 113, 114, 115, 116, 117, 118
+121-130	| 5/10 =  50%	| 121, 123, 125, 128, 129
 131-135	| 
 
 Overall: ??/120 = ??.0%
@@ -1881,25 +1881,37 @@ A 67-year-old man presents _extremely unwell_ with left-sided abdominal pain, fe
 Questions 111-120
 -----------------
 
+20% = F: 111, 112, 113, 114, 115, 116, 117, 118
+
 ### Q111 - LEARN
 _Multiple endocrine neoplasia_ type I (MEN I)
 
 	A. Has an autosomal recessive inheritance
-	B. Has its gene located on chromosome 10 - F
-	C. Is known as Sipple syndrome - F
-	D. Commonly includes phaeochromocytoma
+	B. Has its gene located on chromosome 10 - F (chromosome 11)
+	C. Is known as Sipple syndrome - F (MEN 11A)
+	D. Commonly includes phaeochromocytoma - F
 	E. Commonly includes hyperparathyroidism
-#### Answer: D. Commonly includes phaeochromocytoma - ?
+
+#### Answer: D. Commonly includes phaeochromocytoma - *FALSE* = E. Commonly includes hyperparathyroidism - TRUE
+- MEN I is inherited in an autosomal dominant fashion
+- The gene is located on chromosome 11; the gene for MEN II is on chromosome 10
+- MEN IIA is known as Sipple syndrome
+- Phaeochromocytoma is a common feature of MEN IIB, not MEN I
  
 ### Q112
 Which of the following is NOT true regarding _malignant hyperpyrexia_?
 
-	A. It can be caused by suxamethonium
-	B. It can be caused by isoflurane
-	C. It can be caused by nitrous oxide
-	D. Dantrolene is the treatment
-	E. It occurs in 1 in 150 000
-#### Answer: A. It can be caused by suxamethonium - ?
+	A. It can be caused by suxamethonium - T
+	B. It can be caused by isoflurane - T
+	C. It can be caused by nitrous oxide - F
+	D. Dantrolene is the treatment - T
+	E. It occurs in 1 in 150,000 - T
+
+#### Answer: A. It can be caused by suxamethonium - *FALSE* = C. It can be caused by nitrous oxide - TRUE
+- All inhalational anaesthetic agents except nitrous oxide can cause malignant hyperpyrexia
+	- suxamethonium can also cause it
+- Treatment involves dantrolene
+- Malignant hyperpyrexia occurs in 1 in 150,000
  
 ### Q113
 The liver does NOT synthesise:
@@ -1909,27 +1921,54 @@ The liver does NOT synthesise:
 	C. Plasminogen
 	D. Antithrombin
 	E. Fibrinogen
-#### Answer: D. Antithrombin - ?
+
+#### Answer: D. Antithrombin - *FALSE* = B. Pro-accelerin - TRUE
+- Pro-accelerin is a plasma protein
+- All of the other factors (prothrombin, plasminogen, antithrombin and fibrinogen) are synthesised by the liver, as is factor VIII.
  
-### Q114
-Local factors that affect wound healing do NOT include:
+##### Factors Synthesised by Liver - PPAFF
+- Prothrombin
+- Plasminogen
+- Antithrombin
+- Fibrinogen
+- Factor VIII
+
+### Q114 - LEARN
+**Local factors** that affect wound healing do NOT include:
 
 	A. Foreign bodies - F
 	B. Haematoma
 	C. Malnutrition - F
 	D. Infection - F
 	E. Decreased blood supply - F
-#### Answer: B. Haematoma - ?
+
+#### Answer: B. Haematoma - *FALSE* = C. Malnutrition - TRUE
+
+##### Local Factors Delaying Wound Healing 
+1. Infection
+2. Haematoma
+3. Foreign bodies
+4. Decreased blood supply
+5. Poor surgical technique
+
+**NOTE** Malnutrition is a *systemic factor* which affects wound healing
  
 ### Q115
-Which statement is correct regarding the renin–angiotensin system (RAAS)?
+Which statement is _correct_ regarding the _renin–angiotensin system_ (RAAS)?
 
 	A. Antidiuretic hormone (ADH) is released from the anterior pituitary
 	B. Renin is secreted by the granular cells of the juxtaglomerular apparatus - F
 	C. Angiotensinogen is released into the plasma only when required - F
 	D. Antidiuretic hormone is produced by the anterior pituitary
 	E. Angiotensin I is converted to angiotensin II by angiotensin-converting enzyme (ACE) in the liver - F
-#### Answer: D. Antidiuretic hormone is produced by the anterior pituitary - ?
+
+#### Answer: D. Antidiuretic hormone is produced by the anterior pituitary - *FALSE* = B. Renin is secreted by the granular cells of the juxtaglomerular apparatus - TRUE
+- Renin is secreted by granular cells of Juxtaglomerular Apparatus
+	- In the blood it converts angiotensin to angiotensin I
+- Angiotensin I is converted to angiotensin II by ACE in Lungs
+	Angiotensin II stimulates aldosterone and antidiuretic hormone
+- Antidiuretic hormone (ADH) is produced by hypothalamus 
+	- Stored in posterior pituitary, from which it is released
  
 ### Q116
 Which statement is correct regarding transport in the _proximal tubule of the kidney_?
@@ -1939,7 +1978,12 @@ Which statement is correct regarding transport in the _proximal tubule of the ki
 	C. Amino acids are actively reabsorbed - F
 	D. Urea is actively reabsorbed - F
 	E. Potassium is secreted
-#### Answer: E. Potassium is secreted - ?
+
+#### Answer: E. Potassium is secreted - *FALSE* = C. Amino acids are actively reabsorbed - TRUE
+- Sodium, glucose, bicarbonate and amino acids are **actively reabsorbed** in the proximal tubule
+- Phosphate and calcium are reabsorbed subject to control
+- Urea and water are passively reabsorbed
+- Hydrogen ions are secreted, dependent on pH
  
 ### Q117
 The chemoreceptors involved in maintenance of blood pressure are:
@@ -1949,7 +1993,12 @@ The chemoreceptors involved in maintenance of blood pressure are:
 	C. Stimulated by alkaline pH - F
 	D. Stimulated by high carbon dioxide levels - F
 	E. Stimulated by stretching of the vessel walls
-#### Answer: E. Stimulated by stretching of the vessel walls - ?
+
+#### Answer: E. Stimulated by stretching of the vessel walls - *FALSE* = D. Stimulated by high carbon dioxide levels - TRUE
+- Chemoreceptors concerned with BP maintenance are located at carotid bifurcation and aortic bodies
+	- Stimulated by low oxygen levels, **high carbon dioxide levels** and acidic pH
+- Stretch receptors are located in walls of the atria and pulmonary arteries
+	- Respond to stretching of the vessel walls
  
 ### Q118
 Which of the following is NOT part of the _'flight or fight'_ response?
@@ -1959,7 +2008,10 @@ Which of the following is NOT part of the _'flight or fight'_ response?
 	C. Sweating
 	D. Increased heart rate
 	E. Decreased GI activity
-#### Answer: A. Constriction of blood vessels - ?
+
+#### Answer: A. Constriction of blood vessels - *FALSE* = B. Constriction of the pupils - TRUE
+- The fight or flight response is controlled by the hypothalamus, which controls release of catecholamines from the adrenal medulla
+- It includes constriction of blood vessels, increased heart rate and increased contraction strength, sweating, decreased GI activity and dilatation of the pupils.
  
 ### Q119
 Which of the following is an _anion_?
@@ -1969,7 +2021,10 @@ Which of the following is an _anion_?
 	C. Phosphate
 	D. Calcium
 	E. Potassium
-#### Answer: C. Phosphate - ?
+
+#### Answer: C. Phosphate - TRUE
+- Cations (POS): sodium, magnesium, calcium and potassium
+- Anions (NEG): chloride, phosphate, bicarbonate, lactate, sulphate & albumin
  
 ### Q120 - LEARN
 Which is NOT a common feature of _MEN IIB_?
@@ -1979,11 +2034,15 @@ Which is NOT a common feature of _MEN IIB_?
 	C. Phaeochromocytoma - F
 	D. Marfanoid appearance - F
 	E. Gastrinoma
-#### Answer: E. Gastrinoma - ?
+
+#### Answer: E. Gastrinoma - TRUE
+- Gastrinoma is a common feature of MEN I
 
 
 Questions 121-130 - HERE
 -----------------
+
+40% = F: 121, 123, 125, 128, 129
 
 ### Q121
 Which of the following is an _accessory muscle of expiration_?
@@ -1993,9 +2052,10 @@ Which of the following is an _accessory muscle of expiration_?
 	C. Scalenus anterior
 	D. Latissimus dorsi
 	E. Rectus abdominis
-#### Answer: D. Latissimus dorsi - ?
+#### Answer: D. Latissimus dorsi - *FALSE* = E. Rectus abdominis - TRUE
+- The accessory muscles of expiration are the abdominal muscles, which can force the diaphragm upwards by contracting, including rectus abdominis, transversus abdominis, internal and external obliques. Sternocleidomastoid and the scalene muscles are the major accessory muscles of inspiration.
  
-### Q122
+### Q122 - LEARN
 _Characteristic signs of acute inflammation_ include all of the following, EXCEPT:
 
 	A. Dolor
@@ -2003,7 +2063,13 @@ _Characteristic signs of acute inflammation_ include all of the following, EXCEP
 	C. Rubor
 	D. Tumor
 	E. Calor
-#### Answer: B. Palor - ?
+
+#### Answer: B. Palor - TRUE
+- The characteristic features of acute inflammation 
+	- dolor (pain)
+	- rubor (erythema)
+	- tumour (swelling)
+	- calor (heat)
  
 ### Q123
 Apoptosis:
@@ -2013,7 +2079,13 @@ Apoptosis:
 	C. Is initiated by an injury
 	D. Causes swelling of the cell
 	E. Results in orderly vesicle formation
-#### Answer: D. Causes swelling of the cell - ?
+
+#### Answer: D. Causes swelling of the cell - *FALSE* = E. Results in orderly vesicle formation - TRUE
+- Answers A–D are characteristics of necrosis. 
+- Apoptosis is a physiological process of programmed cell death
+	- irreversible once initiated
+	- energy-driven
+- Cells shrink and are packed into vesicles
  
 ### Q124
 Tumours that commonly metastasise to bone do NOT include:
@@ -2023,10 +2095,11 @@ Tumours that commonly metastasise to bone do NOT include:
 	C. Prostate - P
 	D. Adrenal
 	E. Thyroid - T
-#### Answer: D. Adrenal - ?
-- BLT-KP
+#### Answer: D. Adrenal - TRUE (BLT-KP)
+- Tumours that commonly metastasise to bone (BLT-KP)
+	-breast, bronchus (lung), thyroid, kidney and prostate
  
-### Q125
+### Q125 - LEARN (2s)
 Meckel’s diverticulum:
 
 	A. Is more common in females - F
@@ -2034,8 +2107,13 @@ Meckel’s diverticulum:
 	C. Can contain hepatic mucosa
 	D. Contains only the mucosa and submucosa of the intestinal wall
 	E. Is a remnant of the omphalomesenteric duct
-#### Answer:  B. Is usually 2-cm long - ?
-- Rule of 2s 
+
+#### Answer:  B. Is usually 2-cm long - *FALSE* = E. Is a remnant of the omphalomesenteric duct - TRUE
+- Meckel’s diverticulum is commonest congenital developmental anomaly, more common in males 
+	- 2% of population, 2-inches-long and 2 feet from ileocaecal junction
+- It contains all layers of the intestinal wall
+- It can contain gastric or pancreatic mucosa
+- It is a remnant of the omphalomesenteric duct
 
 ### Q126
 _Granulomas_ are NOT found in:
@@ -2045,7 +2123,10 @@ _Granulomas_ are NOT found in:
 	C. Ulcerative colitis
 	D. Crohn’s disease - F
 	E. Leprosy - F
-#### Answer: C. Ulcerative colitis - ?
+
+#### Answer: C. Ulcerative colitis - TRUE
+- Granulomas are found in TB, leprosy, schistosomiasis, syphilis, sarcoidosis and Crohn’s disease
+- The lack of granulomas in ulcerative colitis is one of differences between two types of IBD
  
 ### Q127
 _Dysplasia_ does NOT cause:
@@ -2055,27 +2136,40 @@ _Dysplasia_ does NOT cause:
 	C. Abnormal differentiation - F
 	D. A low nuclear-to-cytoplasmic ratio
 	E. Pleomorphism - F
-#### Answer: D. A low nuclear-to-cytoplasmic ratio - ?
+
+#### Answer: D. A low nuclear-to-cytoplasmic ratio - TRUE
+- Dysplasia is a premalignant change
+	- It causes increased cell growth and mitosis
+- It causes abnormal differentiation with 
+	- Pleomorphism
+	- Hyperchromism
+	- High nuclear-to-cytoplasmic ratio
  
 ### Q128
 _Psammoma bodies_ are characteristic of:
 
 	A. Follicular thyroid carcinoma
 	B. Anaplastic thyroid carcinoma
-	C. Papillary thyroid carcinoma - F
+	C. Papillary thyroid carcinoma
 	D. Medullary thyroid carcinoma
 	E. Thyroid lymphoma - F
-#### Answer: A. Follicular thyroid carcinoma - ?
+
+#### Answer: A. Follicular thyroid carcinoma - *FALSE* = C. Papillary thyroid carcinoma - TRUE
+- Psammoma bodies are a characteristic histological finding in papillary thyroid carcinoma
  
 ### Q129
-Risk factors for _malignant melanoma_ include:
+Risk factors for _malignant melanoma_ do NOT include:
 
 	A. Fair skin
 	B. Family history
 	C. Continuous sun exposure
 	D. Xeroderma pigmentosa
 	E. Albinism
-#### Answer: A. Fair skin - ?
+
+#### Answer: A. Fair skin - *FALSE* = C. Continuous sun exposure - TRUE
+- Fair skin, albinism, xeroderma pigmentosum and family history are all risk factors for malignant melanoma 
+- Intermittent sun exposure is a risk factor
+	- With stronger links between continuous exposure and BCC and SCC
  
 ### Q130
 Which of the following is NOT a _benign skin lesion_?
@@ -2085,7 +2179,12 @@ Which of the following is NOT a _benign skin lesion_?
 	C. Hamartoma - F
 	D. Merkel cell tumour - F
 	E. Turban tumour - F
-#### Answer: A. Pott’s peculiar tumour - ?
+
+#### Answer: A. Pott’s peculiar tumour - *FALSE* = D. Merkel cell tumour - TRUE
+- **NOTE** Pott’s peculiar tumour is a trichilemmal cyst
+- Hamartoma is an overgrowth of one or more cell types that are normally present
+- A turban tumour is a type of cylindroma
+- Seborrhoeic keratoses are benign overgrowths of basal layer of epidermis
 
 
 Questions 131-135
