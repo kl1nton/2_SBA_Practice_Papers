@@ -3,22 +3,22 @@ SBA Practice Paper: 2
 
 Group	| Score			| Errors 							|
 --------|---------------|-----------------------------------|
-1-10	| 4/10 =  40%	| 1, 2, 4, 5, 7, 9
-11-20	| 4/10 =  40%	| 11, 13, 14, 17, 18, 20 
-21-30	| 4/10 =  40%	| 21, 24, 25, 26, 28, 30
-31-40	| 4/10 =  40%	| 31, 33, 35, 37, 39, 40
-41-50	| 6/10 =  60%	| 41, 44, 45, 46
-51-60	| 3/10 =  30%	| 52, 53, 55, 56, 57, 58, 60
-61-70	| 6/10 =  60%	| 61, 65, 67, 69 
-71-80	| 5/10 =  50%	| 72, 73, 75, 79, 80 
-81-90	| 6/10 =  60%	| 81, 86, 88, 89  
-91-100	| 5/50 =  50%	| 91, 94, 95, 96, 100 
+1-10	| 4/10 =  40%	|   1,   2,   4,  5,    7,   9
+11-20	| 4/10 =  40%	|  11,  13,  14,  17,  18,  20 
+21-30	| 4/10 =  40%	|  21,  24,  25,  26,  28,  30
+31-40	| 4/10 =  40%	|  31,  33,  35,  37,  39,  40
+41-50	| 6/10 =  60%	|  41,  44,  45,  46
+51-60	| 3/10 =  30%	|  52,  53,  55,  56,  57,  58,  60
+61-70	| 6/10 =  60%	|  61,  65,  67,  69 
+71-80	| 5/10 =  50%	|  72,  73,  75,  79,  80 
+81-90	| 6/10 =  60%	|  81,  86,  88,  89  
+91-100	| 5/50 =  50%	|  91,  94,  95,  96, 100 
 101-110	| 3/10 =  30%	| 102, 103, 104, 106, 107, 108, 109 
-111-120	| ?/10 =  ??%	|  
-121-130	| ?/10 =  ??%	| 
-131-135	| ?/5  =  ??%	|   
+111-120	| 3/10 =  30%	| 111, 113, 114, 115, 116, 118, 120 
+121-130	| 5/10 =  50%	| 121, 122, 123, 126, 130 
+131-135	| 2/5  =  40%	| 132, 134, 135  
 
-Overall: ??/120 = ??.0%
+Overall: 60/135 = 44.4% (75 wrong)
 
 Questions 1-10
 --------------
@@ -1728,7 +1728,9 @@ IV		| > 2000 mL		| > 40%
 Questions 111-120
 -----------------
 
-### Q111
+30% = F: 111, 113, 114, 115, 116, 118, 120
+
+### Q111 - LEARN
 A man is found to have a PSA of 14 mg/ml on routine testing. He is entirely asymptomatic. Investigation with transrectal biopsy confirms _prostate cancer_. MRI scan shows a _nodule on the left lobe_, which extends into the _seminal vesicles_. The stage of prostate cancer based on this information is:
 
 	A. T4
@@ -1736,7 +1738,21 @@ A man is found to have a PSA of 14 mg/ml on routine testing. He is entirely asym
 	C. T2a
 	D. T3b
 	E. T2b
-#### Answer: E. T2b - ?
+
+#### Answer: E. T2b - *FALSE* = D. T3b - TRUE
+- Prostate cancer is staged using tumour-node-metastasis (TNM) 
+	- Staging often determines management plan
+- T3b disease would be treated with hormone therapy and radiotherapy
+
+##### Prostate Cancer: Staging
+- T1: tumour is not palpable or visible - picked up on examination of chips obtained at TURP
+- T2: tumour is confined to the prostate - can be further subdivided into 
+	- T2a (one lobe)
+	- T2b (two lobes)
+- T3: extension through capsule
+	- T3a: extracapsular disease
+	- T3b: **invasion into seminal vesicles**
+- T4: tumour is fixed or is invading into adjacent structures
  
 ### Q112 - LEARN
 The following statements about _hernias_ are all true, EXCEPT:
@@ -1746,29 +1762,41 @@ The following statements about _hernias_ are all true, EXCEPT:
 	C. A femoral hernia usually presents as a lump above and lateral to the pubic tubercle - F
 	D. Richter’s hernia involves entrapment of the antimesenteric edge of the bowel - T
 	E. Spigelian hernias protrude from the lateral edge of the rectus abdominis muscle - T
-#### Answer: C. A femoral hernia usually presents as a lump above and lateral to the pubic tubercle - ?
+
+#### Answer: C. A femoral hernia usually presents as a lump above and lateral to the pubic tubercle - TRUE
+- Femoral hernias occur through femoral canal, which is under inguinal ligament, just medial to femoral vein
+- Present as a lump in the groin situated below and lateral to pubic tubercle
+	- often as an emergency
+	- more commonly in elderly women
+- Inguinal hernias present as a lump in the groin just above and medial to pubic tubercle
  
 ### Q113 - LEARN
 Causes of _spontaneous secondary pneumothorax_ include all of the following, EXCEPT:
 
-	A. Marfan syndrome - T
+	A. Marfan syndrome 
 	B. Lung cancer - T
-	C. Asthma 
+	C. Asthma - T
 	D. COPD - T
 	E. Lung abscesses - T
-#### Answer: C. Asthma - ?
+
+#### Answer: C. Asthma - *FALSE* = A. Marfan syndrome - TRUE
+- Spontaneous secondary pneumothoraces occur secondary to lung pathology such as 
+	- cancer, infection or airways disease
+- Marfan syndrome results in a primary (i.e. *cause unknown*) pneumothorax
  
 ### Q114
 All of the following statements regarding _dead-space ventilation_ are correct, EXCEPT:
 
 	A. Dead space refers to air that has to be ventilated, but does not take part in gas exchange - T
 	B. Anatomical dead space refers to air that does not reach the alveoli to take place in ventilation - T
-	C. Anatomical dead space can be measured using Fowler’s method - ?
+	C. Anatomical dead space can be measured using Fowler’s method - T
 	D. Physiological dead space may be increased in positive-pressure ventilation - T
-	E. Anatomical dead space is reduced in the standing-up position - T
-#### Answer: C. Anatomical dead space can be measured using Fowler’s method - ?
+	E. Anatomical dead space is reduced in the standing-up position
+
+#### Answer: C. Anatomical dead space can be measured using Fowler’s method - *FALSE* = E. Anatomical dead space is reduced in the standing-up position - TRUE
+- Dead space is the volume of air that has to be ventilated, but does not actually take part in gas exchange. Anatomical dead space is the volume that does not mix with air in the alveoli, and physiological dead space is the volume of air that may reach the alveoli, but does not take part in gas exchange, eg due to lack of perfusion. Anatomical dead space will be increased in the standing position, with larger lung volumes and bronchodilatation. Physiological dead space is increased in hypotension, hypoventilation, pulmonary embolus, emphysema and positive-pressure ventilation.
  
-### Q115
+### Q115 - LEARN
 Which one of the following conditions would result in a _positive base excess_ on a blood gas report?
 
 	A. Cushing syndrome
@@ -1776,17 +1804,25 @@ Which one of the following conditions would result in a _positive base excess_ o
 	C. Septicaemia
 	D. Pulmonary embolus - F
 	E. Myasthenia gravis - F
-#### Answer: C. Septicaemia - ?
+
+#### Answer: C. Septicaemia - *FALSE* = A. Cushing syndrome - TRUE
+- Cushing syndrome classically causes a **hyPOkalaemia** and **metabolic alkalosis** 
+	- resulting in a high bicarbonate serum level and positive base excess
+- Starvation and septicaemia will both result in metabolic acidosis
+- Respiratory acidosis in myasthenia gravis due to hypoventilation
+- **NOTE** Respiratory alkalosis occurs in pulmonary embolus due to hyperventilation and tachypnoea
  
 ### Q116
 A 47-year-old male patient received a cadaver kidney transplant with immediate function 2 weeks ago. Within 3 days his serum creatinine had normalised to 110 µmol/l. He was discharged on the 5th post-operative day and has been followed up at the transplant follow-up clinic, attending thrice weekly. On attendance today his serum creatinine is 167 µmol/l and he is well in himself with no symptoms. You note on checking the blood results that the creatinine was 115 µmol/l 2 days ago. His tacrolimus (immunosuppression drug) level is normal. Ultrasound scan shows a normal transplant kidney. What is the most likely cause of his raised serum creatinine?
 
-	A. Acute rejection episode (and a transplant biopsy is urgently required to confirm the diagnosis) - F
+	A. Acute rejection episode (and a transplant biopsy is urgently required to confirm the diagnosis)
 	B. Acute tubular necrosis - F
 	C. Volume depletion due to diarrhoea and vomiting - F
 	D. Ureteric obstruction - F
 	E. Transplanted renal artery stenosis
-#### Answer: E. Transplanted renal artery stenosis - ?
+
+#### Answer: E. Transplanted renal artery stenosis - *FALSE* = A. Acute rejection episode (and a transplant biopsy is urgently required to confirm the diagnosis) - TRUE
+- Volume depletion is not likely as the patient did not complain of diarrhoea or vomiting. The ultrasound scan would have excluded ureteric stenosis (hydronephrosis) and transplanted renal artery stenosis. Residual acute tubular necrosis does not usually lead to a jump in the serum creatinine level. The serum creatinine levels tend to plateau at a level above the normal range in such a case. Acute rejection should be suspected in this case and can be proved on an urgent biopsy.
  
 ### Q117
 _Fever_ can be caused by all of the following, EXCEPT:
@@ -1796,17 +1832,29 @@ _Fever_ can be caused by all of the following, EXCEPT:
 	C. Posterior hypothalamic lesions
 	D. Dehydration - T
 	E. Exercise - T
-#### Answer: C. Posterior hypothalamic lesions - ?
+
+#### Answer: C. Posterior hypothalamic lesions - TRUE
+
+##### Causes of Fever 
+- Illness
+- Exercise
+- Heatstroke
+- Hyperthyroidism
+- Malignant hyperpyrexia
+- Failure of heat-loss mechanism (dehydration)
+- **Anterior** hypothalamic lesions (neoplasia, ischaemia, surgery)
  
 ### Q118
 Which of the following agents used in the treatment of urological conditions is NOT paired with its correct description?
 
 	A. Mitomycin C – intravesical chemotherapy agent - T
-	B. Finasteride – luteinising hormone-releasing hormone (LH-RH) agonist - T
+	B. Finasteride – luteinising hormone-releasing hormone (LH-RH) agonist
 	C. Oxybutinin – anticholinergic agent
 	D. Tamsulosin – α-adrenergic blocker
 	E. Flutamide – anti-androgen agent
-#### Answer: D. Tamsulosin – α-adrenergic blocker - ?
+
+#### Answer: D. Tamsulosin – α-adrenergic blocker - *FALSE* = B. Finasteride – luteinising hormone-releasing hormone (LH-RH) agonist - TRUE
+- Mitomycin C is an agent instilled intravesically for the treatment of superficial transitional cell carcinoma of the bladder, to prevent a recurrence. Finasteride is a 5α-reductase inhibitor. By blocking the action of 5α-reductase, it reduces the formation of dihydrotestosterone, therefore reducing the stimulatory effect this has on prostate gland growth. Oxybutynin is an anticholinergic agent used in the management of detrusor instability. Tamsulosin is an α-adrenergic blocker used in the management of BPH. It causes smooth-muscle relaxation of prostate and bladder neck, therefore improving urine flow rates. Flutamine is used in the management of prostate cancer. It is an anti-androgen and works by preventing testosterone from causing growth of the tumour.
  
 ### Q119
 All of the following features are found in _Adult Respiratory Distress Syndrome_ (ARDS), EXCEPT:
@@ -1816,7 +1864,17 @@ All of the following features are found in _Adult Respiratory Distress Syndrome_
 	C. Reduced lung compliance - T
 	D. PaO2/FiO2 ratio <26.6 kPa (200 mmHg) - T
 	E. Pulmonary capillary wedge pressure >16 mmHg
-#### Answer: E. Pulmonary capillary wedge pressure >16 mmHg - ?
+
+#### Answer: E. Pulmonary capillary wedge pressure >16 mmHg - TRUE
+
+##### Adult Respiratory Distress Syndrome (ARDS)
+- ARDS is an acute syndrome characterised by respiratory failure with
+	- formation of **non-cardiogenic pulmonary oedema** leading to 
+		- Reduced lung compliance
+		- Hypoxaemia refractory to oxygen therapy
+	- Pulmonary wedge pressure is <16 mmHg 
+	- Diffuse pulmonary infiltrates are seen 
+	- PaO2/FiO2 ratio is <26.6 kPa (200 mmHg)
  
 ### Q120
 The _superficial radial nerve_:
@@ -1826,11 +1884,15 @@ The _superficial radial nerve_:
 	C. Is at a high risk of injury during the posterior approach to the forearm
 	D. Supplies most of the muscles in the posterior compartment of the forearm
 	E. Is difficult to see during surgery
-#### Answer: D. Supplies most of the muscles in the posterior compartment of the forearm - ?
+
+#### Answer: D. Supplies most of the muscles in the posterior compartment of the forearm - *FALSE* = A. Runs between brachioradialis and extensor carpi radialis longus - TRUE
+- The radial nerve enters the forearm anterior to the lateral epicondyle, runs between brachialis and brachioradialis and divides into the superficial radial and posterior interosseous nerve (PIN). The PIN splits the supinator (site of damage during retraction of the muscle) and supplies all of the extensor muscles except brachioradialis, extensor carpi radialis brevis and extensor carpi radialis longus. The superficial radial nerve passes to the dorsal radial surface of the hand in the distal third of the forearm by passing between brachioradialis and extensor carpi radialis longus. It can be visualised during the anterior approach to the forearm.
 
 
 Questions 121-130
 -----------------
+
+50% = F: 121, 122, 123, 126, 130
 
 ### Q121
 In _achondroplasia_, clinical features include the following, EXCEPT:
@@ -1839,18 +1901,22 @@ In _achondroplasia_, clinical features include the following, EXCEPT:
 	B. Trident hands - T
 	C. Small nasal bridge - T
 	D. Hypotonia during the first year of life - T
-	E. Short trunk
-#### Answer: A. Excessive lordosis - ?
+	E. Short trunk - F
+
+#### Answer: A. Excessive lordosis - *FALSE* = E. Short trunk - TRUE
+- Clinical features of achondroplasia include small nasal bridge, button nose, trident hands (inability to approximate extended middle and ring fingers), lumbar stenosis, excessive lordosis, hypotonia during the first year of life, radial head subluxation, frontal bossing and a normal trunk but short limbs (**rhizomelic**).
  
 ### Q122
 A man is found to have a hydrocele, which at operation is found to extend from the _testis to the deep inguinal ring_, but does not connect with the peritoneal cavity. Which of the following best describes this hydrocele?
 
 	A. Vaginal hydrocele
 	B. Congenital hydrocele - F
-	C. Infantile hydrocele - F
+	C. Infantile hydrocele
 	D. Hydrocele of cord - F
 	E. Malignant hydrocele - F
-#### Answer: A. Vaginal hydrocele - ?
+
+#### Answer: A. Vaginal hydrocele - *FALSE* = C. Infantile hydrocele - TRUE
+- A hydrocele is an abnormal collection of fluid in the tunica vaginalis surrounding the testis or spermatic cord. They occur in males of any age but are most common at extreme ends of the age spectrum. They can present from birth because during descent of the testis from the abdomen to the scrotum, a sac of peritoneum is pulled along, which envelops the testis and epididymis, creating a tubular communication between the abdomen and the tunica vaginalis of the scrotum. Usually the part surrounding the spermatic cord obliterates, therefore closing off this communication. If it does not, a congenital hydrocele is formed, where fluid accumulates within the patent processus vaginalis and around the testis. If the processus vaginalis obliterates at the level of the deep inguinal ring, the resulting hydrocele is an infantile hydrocele. If fluid is present in the tunica vaginalis surrounding the testis but not the spermatic cord, this is a vaginal hydrocele. A hydrocele of the cord is formed when the distal portion of the processus vaginalis closes, the midportion remains patent and fluid-filled and the proximal portion may be open or closed. In older men, an increase in the production of serous fluid by the tunica vaginalis (eg due to infection, trauma or tumour) can result in a hydrocele. In 10% of cases a testicular tumour is associated with a hydrocele.
  
 ### Q123
 A 23-year-old man is brought into the Emergency Department after having sustained three stab wounds to the abdomen with evisceration of small bowel. A laparotomy is performed where _gross faecal contamination_ is found from _large-bowel lacerations_. The bowel injuries are resected and a _defunctioning ileostomy_ is performed. On the 4th post-operative day, the patient develops a temperature of 39°C with peritonitis as well as buttock myonecrosis with _foul-smelling discharge_. In this clinical scenario, which of the following organisms is most likely to have caused this infection?
@@ -1860,7 +1926,13 @@ A 23-year-old man is brought into the Emergency Department after having sustaine
 	C. Vibrio parahaemolyticus
 	D. Salmonella typhi - F
 	E. Shigella dysenteriae
-#### Answer: E. Shigella dysenteriae - ?
+
+#### Answer: E. Shigella dysenteriae - *FALSE* = B. Bacteroides fragilis - TRUE
+- Bacteroides organisms are anaerobic, non-spore-forming, Gram-negative rods normally found within the human colon
+	- They can cause endogenous infections and lead to peritonitis, sepsis and abscess formation
+	- The polysaccharide capsule of the Bacteroides organisms is responsible for the high virulence factor
+- Shigella, Salmonella, and Vibrio are all enteric pathogens that cause gastroenteritis
+- Helicobacter pylori is a well-known cause of gastritis and is limited to the upper GIT
  
 ### Q124
 The _most common problem_ following _total knee replacement_ (TKR) involves:
@@ -1870,7 +1942,19 @@ The _most common problem_ following _total knee replacement_ (TKR) involves:
 	C. Chronic pain - F
 	D. Cosmesis - F
 	E. Patellar tracking
-#### Answer: E. Patellar tracking - ?
+
+#### Answer: E. Patellar tracking - TRUE
+- Technical goals of a knee replacement
+	1. Restoration of mechanical alignment
+	2. Preservation of joint line
+	3. Balanced ligaments
+	4. Maintenance of Q angle 
+		- angle formed by intersection of extensor mechanism axis above patella with axis of patella tendon
+- To avoid lateral subluxation of the patella 
+	- femoral component is positioned laterally and rotated externally
+	- internal rotation of the tibial component is avoided
+	- the patellar component is medialised
+	- and the joint position is maintained
  
 ### Q125 - LEARN
 A 68-year-old man develops a massive acute _myocardial infarction_ and dies in hospital while being resuscitated in the Emergency Department. An autopsy is performed and, while you are inspecting the heart, you note that it has undergone necrosis as expected. 
@@ -1882,7 +1966,9 @@ Which _type of necrosis_ is found to be consistent with the pathology of this di
 	C. Fat necrosis - F
 	D. Fibrinoid necrosis - F
 	E. Caseating necrosis
-#### Answer: A. Coagulative necrosis - ?
+
+#### Answer: A. Coagulative necrosis - TRUE
+- Coagulative necrosis commonly occurs in fibrous or muscular tissue where the outline of the cell is retained, but not the cell nucleus. The brain classically undergoes liquefactive necrosis, which results from complete hydrolysis of the cell. Caseating necrosis is seen in cases of TB and may represent a combination of coagulative and liquefactive necrosis. Fat necrosis usually occurs in abdominal wall, pancreatic or breast tissue that has sustained trauma and has been damaged by lipases. Fibrinoid necrosis may be seen in damaged vessel walls where plasma proteins accumulate.
  
 ### Q126
 Which one of the following laboratory stains is used to identify _amyloid staining_ in pathological tissue sections?
@@ -1892,7 +1978,10 @@ Which one of the following laboratory stains is used to identify _amyloid staini
 	C. Haematoxylin and eosin
 	D. Oil red-O
 	E. Periodic acid–Schiff (PAS)
-#### Answer: E. Periodic acid–Schiff (PAS) - ?
+
+#### Answer: E. Periodic acid–Schiff (PAS) - *FALSE* = B. Congo red - TRUE
+- **Congo red** stains are used to identify and stain tissues containing amyloid
+- Under polarised light, amyloid is identified by its *apple-green birefringence*
  
 ### Q127
 Diagnostic _specificity_ is defined as:
@@ -1902,7 +1991,12 @@ Diagnostic _specificity_ is defined as:
 	C. Probability of a negative diagnostic test in the absence of disease
 	D. Probability of a positive diagnostic test in the absence of disease
 	E. Probability of being disease-free and test-negative within all people testing negative
-#### Answer: C. Probability of a negative diagnostic test in the absence of disease - ?
+
+#### Answer: C. Probability of a negative diagnostic test in the absence of disease - TRUE
+- Specificity refers to how well a test picks up disease-free individuals
+- It is expressed as a proportion of 
+	- disease-free individuals testing negative (true negatives) 
+	- out of all disease-free individuals (true negatives plus false positives)
  
 ### Q128
 Sertoli cells:
@@ -1912,7 +2006,13 @@ Sertoli cells:
 	C. Secrete testosterone in response to LH
 	D. Are known as interstitial cells of the testes
 	E. Are able to continue proliferating once fully differentiated
-#### Answer: A. Are involved in the nurturing of sperm cells within the seminiferous tubules - ?
+
+#### Answer: A. Are involved in the nurturing of sperm cells within the seminiferous tubules - TRUE
+- Sertoli cells are regarded as 'mother cells'
+	- providing nutrition and wellbeing to the sperm cells within seminiferous tubules
+- Once differentiated, they stop proliferating
+- Leydig cells or interstitial cells synthesise and secrete testosterone 
+	- in response to hormonal stimulation by LH and FSH
  
 ### Q129
 A 15-year-old boy presents with sudden-onset right testicular pain associated with nausea and vomiting. On examination, the right testis is found to be drawn up into the groin with a horizontal lie and is very tender. What is the most appropriate form of management?
@@ -1922,21 +2022,30 @@ A 15-year-old boy presents with sudden-onset right testicular pain associated wi
 	C. Bedrest and scrotal support - F
 	D. ‘Watch and wait’ policy - F
 	E. Exploration of testis via transverse incision over testis
-#### Answer: E. Exploration of testis via transverse incision over testis - ?
+
+#### Answer: E. Exploration of testis via transverse incision over testis - TRUE
+- These symptoms are most likely to be due to a testicular torsion. This has to be considered a surgical emergency as the longer this is left, the higher the chance of testicular infarction. The purpose of surgery is to correct the torsion in the affected testis and to anchor the other testis to prevent future torsion. This can be achieved via a transverse incision over the testis or via a small midline incision in the scrotal raphe. If the testis is found to be clearly necrotic, it should be removed.
  
 ### Q130
 In the _induction of anaesthesia_:
 
 	A. Thiopentone injection results in a delayed recovery because of its high lipid solubility
 	B. Propofol commonly causes nausea on recovery - F
-	C. Ketamine is a stimulant that works by dissociation - F
+	C. Ketamine is a stimulant that works by dissociation
 	D. Ketamine is routinely used in adult anaesthesia - F
 	E. Ketamine can cause a bradycardia on injection
-#### Answer: E. Ketamine can cause a bradycardia on injection - ?
+
+#### Answer: E. Ketamine can cause a bradycardia on injection - *FALSE* = C. Ketamine is a stimulant that works by dissociation - TRUE
+- Ketamine is a stimulant that works by dissociation
+- Commonly causes a tachycardia and rise in blood pressure on injection
+- Use is commonly within paediatric anaesthesia
+- Commonest side effects are nightmares and hallucinations
 
 
 Questions 131-135
 -----------------
+
+40% = F: 132, 134, 135
 
 ### Q131
 The first step in the management of an episode of _massive haematemesis_ is:
@@ -1946,7 +2055,10 @@ The first step in the management of an episode of _massive haematemesis_ is:
 	C. Urgent angiography - F
 	D. Clearing and securing the airway
 	E. Resuscitation with fluids and blood products
-#### Answer: D. Clearing and securing the airway - ?
+
+#### Answer: D. Clearing and securing the airway - TRUE
+- Airway, breathing and circulation (ABC) in that order are always mainstay of resuscitation measures
+- Massive haematemesis requires resuscitation first; then proceed or transfer to definitive treatment
  
 ### Q132
 All of the following statements regarding polytetrafluoroethylene (polytef or PTFE) are correct, EXCEPT:
@@ -1954,9 +2066,12 @@ All of the following statements regarding polytetrafluoroethylene (polytef or PT
 	A. Pre-clotting is not required before use - T
 	B. It allows tissue ingrowth and neo-intima formation - T
 	C. It is a hydrophobic-non-elastic polymer - T
-	D. Platelet deposition can occur on its surface - T
-	E. It is used in the creation of arteriovenous (AV) fistulae - F
-#### Answer: E. It is used in the creation of arteriovenous (AV) fistulae - ?
+	D. Platelet deposition can occur on its surface
+	E. It is used in the creation of arteriovenous (AV) fistulae - T
+
+#### Answer: E. It is used in the creation of arteriovenous (AV) fistulae - *FALSE* = D. Platelet deposition can occur on its surface - TRUE
+- Smooth inert surface of PTFE as well as negatively charged surface inhibits platelet deposition
+	- Bleeding can sometimes be a problem through pores made by suture needles
  
 ### Q133
 Which of the following features is found with a _large pulmonary embolus_ (PE)?
@@ -1966,7 +2081,16 @@ Which of the following features is found with a _large pulmonary embolus_ (PE)?
 	C. Increased left ventricular output
 	D. Decreased right ventricular afterload - F
 	E. Increased lung compliance - F
-#### Answer: B. Pulmonary hypertension - ?
+
+#### Answer: B. Pulmonary hypertension - TRUE
+
+##### Large Pulmonary Embolus: Physiological Changes
+- Increased pulmonary vascular resistance
+- **Pulmonary hypertension**
+- Decreased left ventricular output
+- Increased right ventricular afterload
+- Decreased lung compliance
+- Impaired gas exchange
  
 ### Q134
 All of the following drugs can cause _acute pancreatitis_, EXCEPT:
@@ -1976,7 +2100,8 @@ All of the following drugs can cause _acute pancreatitis_, EXCEPT:
 	C. Didanosine
 	D. Tetracycline
 	E. Omeprazole
-#### Answer: C. Didanosine - ?
+#### Answer: C. Didanosine - *FALSE* = E. Omeprazole - TRUE
+- H2 antagonists (cimetidine and ranitidine) can lead to pancreatitis but not proton-pump inhibitors
  
 ### Q135
 All of the following statements regarding _prostate cancer_ are true, EXCEPT:
@@ -1986,6 +2111,8 @@ All of the following statements regarding _prostate cancer_ are true, EXCEPT:
 	C. The incidence is decreasing as a result of screening measures - F
 	D. The lifetime risk of developing overt disease is 10% - T
 	E. Consumption of carrots and cereals may have some protective effect - F
-#### Answer: E. Consumption of carrots and cereals may have some protective effect - ?
+#### Answer: E. Consumption of carrots and cereals may have some protective effect - *FALSE* = C. The incidence is decreasing as a result of screening measures - TRUE
+- Incidence of prostate cancer is rising as the general elderly population increases
+- Average age of death in men is rising and so prostate cancer will be more prevalent
 
 ---
