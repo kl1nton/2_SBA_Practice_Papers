@@ -970,104 +970,113 @@ Questions 91-100
 ----------------
 
 ### Q91
-All of the following statements regarding interferons are correct, EXCEPT that they:
+All of the following statements regarding _interferons_ are correct, EXCEPT that they:
 
-	A	Are induced by dsRNA
-	B	Are typically specific to their host species cell of origin
-	C	Appear typically before antibodies in viral infections
-	D	Inhibit the growth of both DNA and RNA viruses
-	E	Enhance the metabolism of infected cells
-#### Answer: 
+	A. Are induced by dsRNA
+	B. Are typically specific to their host species cell of origin - T
+	C. Appear typically before antibodies in viral infections
+	D. Inhibit the growth of both DNA and RNA viruses - T
+	E. Enhance the metabolism of infected cells
+#### Answer: C. Appear typically before antibodies in viral infections - ?
  
-### Q92	
+### Q92 - LEARN	
 Which of the following statements regarding the hepatitis B virus (HBV) is correct?
 
-	A	HBV belongs to the Picornaviridae group of viruses
-	B	Hepatitis B cannot be transmitted via breast milk
-	C	25% of patients infected with hepatitis B become chronic carriers
-	D	Risk of transmission from needlestick injuries is greater for HBV than for HIV
-	E	HBV vaccines are live attenuated vaccines
-#### Answer: 
+	A. HBV belongs to the Picornaviridae group of viruses - F
+	B. Hepatitis B cannot be transmitted via breast milk - F
+	C. 25% of patients infected with hepatitis B become chronic carriers - F
+	D. Risk of transmission from needlestick injuries is greater for HBV than for HIV
+	E. HBV vaccines are live attenuated vaccines
+#### Answer: D. Risk of transmission from needlestick injuries is greater for HBV than for HIV - ?
  
 ### Q93	
 The CHARGE syndrome is NOT associated with which of the following conditions?
 
-	A	Choanal atresia
-	B	Genital abnormalities
-	C	Facial nerve palsy
-	D	Retarded lung maturation
-	E	Coloboma
-#### Answer: 
+	A. Choanal atresia - T
+	B. Genital abnormalities - T
+	C. Facial nerve palsy - T
+	D. Retarded lung maturation - F
+	E. Coloboma - T
+
+#### Answer: D. Retarded lung maturation - ?
+
+##### Charge Syndrome
+- C: **C**oloboma of Eye + Cranial Nerve Abnormalities (I, VII, IX/X)
+- H: **H**eart Defects
+- A: **A**tresia of Choanae
+- R: **R**etardation of Growth +/- Development
+- G: **G**enital +/- Urinary Abnormalities
+- E: **E**ar Abnormalities +/- Deafness
  
 ### Q94	
-Indications for splenectomy include all of the following, EXCEPT:
+_Indications for splenectomy_ include all of the following, EXCEPT:
 
-	A	Thrombotic thrombocytopenic purpura
-	B	Felty syndrome
-	C	Thrombocytopenia associated with drug abuse
-	D	Sickle cell disease without hypersplenism
-	E	Splenomegaly related to haemodialysis
-#### Answer: 
+	A. Thrombotic thrombocytopenic purpura (TTP) - T
+	B. Felty syndrome
+	C. Thrombocytopenia associated with drug abuse - T
+	D. Sickle cell disease without hypersplenism
+	E. Splenomegaly related to haemodialysis
+#### Answer: E. Splenomegaly related to haemodialysis - ?
  
 ### Q95	
-The clinical presentation of neurogenic shock includes which one of the following combinations of signs?
+The clinical presentation of _neurogenic shock_ includes which one of the following combinations of signs?
 
-	A	Hypotension, bradycardia, warm skin
-	B	Hypotension, tachycardia, warm skin
-	C	Hypotension, bradycardia, cool skin
-	D	Hypotension, tachycardia, cool skin
-	E	Hypertension, bradycardia, cool skin
-#### Answer: 
+	A. Hypotension, bradycardia, warm skin
+	B. Hypotension, tachycardia, warm skin
+	C. Hypotension, bradycardia, cool skin
+	D. Hypotension, tachycardia, cool skin
+	E. Hypertension, bradycardia, cool skin
+#### Answer: C. Hypotension, bradycardia, cool skin - ?
  
 ### Q96	
-A woman with suspected breast cancer has fine-needle aspiration (FNA) of a breast lump. The report comes back as ‘C3’. What does this mean?
+A woman with _suspected breast cancer_ has fine-needle aspiration (FNA) of a breast lump. The report comes back as 'C3'. What does this mean?
 
-	A	Equivocal
-	B	Suspicious for cancer
-	C	Inadequate sample
-	D	Definitely malignant
-	E	Benign
-#### Answer: 
+	A. Equivocal - F
+	B. Suspicious for cancer
+	C. Inadequate sample 
+	D. Definitely malignant - F
+	E. Benign - F
+#### Answer: B. Suspicious for cancer - ?
  
 ### Q97	
-Which of the following statements regarding suxamethonium is TRUE?
+Which of the following statements regarding _suxamethonium_ is TRUE?
 
-	A	It is a non-depolarising muscle relaxant
-	B	It is not very useful in crash inductions
-	C	It is structurally similar to the acetylcholine molecule
-	D	Prolonged action can be due to the presence of too much plasma cholinesterase
-	E	It has a half-life of 10 minutes, making it short-acting
-#### Answer: 
+	A. It is a non-depolarising muscle relaxant
+	B. It is not very useful in crash inductions
+	C. It is structurally similar to the acetylcholine molecule
+	D. Prolonged action can be due to the presence of too much plasma cholinesterase - F
+	E. It has a half-life of 10 minutes, making it short-acting - F
+#### Answer: C. It is structurally similar to the acetylcholine molecule - ?
  
 ### Q98	
-The following brachial plexus injuries would all give rise to the accompanying deficits, EXCEPT:
+The following _brachial plexus injuries_ would all give rise to the accompanying deficits, EXCEPT:
 
-	A	Radial nerve lesion – wrist drop
-	B	Ulnar nerve lesion – claw deformity
-	C	Axillary nerve injury – insensate shoulder patch
-	D	Median nerve palsy – weakened thumb movements + loss of sensation to lateral palm
-	E	Thoracodorsal nerve injury – winged scapula
-#### Answer: 
+	A. Radial nerve lesion – wrist drop - T
+	B. Ulnar nerve lesion – claw deformity - T
+	C. Axillary nerve injury – insensate shoulder patch - T
+	D. Median nerve palsy – weakened thumb movements + loss of sensation to lateral palm - T
+	E. Thoracodorsal nerve injury – winged scapula - F
+#### Answer: E. Thoracodorsal nerve injury – winged scapula - ?
  
 ### Q99	
-Which of the following statements about the coronary circulation is FALSE?
+Which of the following statements about the _coronary circulation_ is FALSE?
 
-	A	Most of the perfusion of the left ventricle occurs during diastole
-	B	Direction of blood flow to the myocardium is from the outer surface of the heart inwards
-	C	Changes in blood flow in the coronary arteries occur by auto-regulation
-	D	The interventricular septum is supplied by the left coronary artery only
-	E	The right coronary artery arises from the right aortic sinus
-#### Answer: 
+	A. Most of the perfusion of the left ventricle occurs during diastole - T
+	B. Direction of blood flow to the myocardium is from the outer surface of the heart inwards - T
+	C. Changes in blood flow in the coronary arteries occur by auto-regulation
+	D. The interventricular septum is supplied by the left coronary artery only - F
+	E. The right coronary artery arises from the right aortic sinus
+#### Answer: D. The interventricular septum is supplied by the left coronary artery only - ?
  
 ### Q100
-Which of the following is the strongest of all the other risk factors in the development of gastric carcinoma?
+Which of the following is the strongest of all the other risk factors in the development of _gastric carcinoma_?
 
-	A	Helicobacter pylori
-	B	Atrophic gastritis
-	C	Blood group A
-	D	Pernicious anaemia
-	E	Low socioeconomic class
-#### Answer: 
+	A. Helicobacter pylori
+	B. Atrophic gastritis
+	C. Blood group A
+	D. Pernicious anaemia
+	E. Low socioeconomic class
+#### Answer: A. Helicobacter pylori - ?
 
 
 Questions 101-110
