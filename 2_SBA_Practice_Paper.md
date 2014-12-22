@@ -213,71 +213,90 @@ Cricoid pressure is often applied to assist anaesthetists during the intubation 
 Questions 21-30
 ---------------
 
-### 21
+### Q21
 A patient has a tuning fork test with central vertex placement localising to the left ear; left ear bone conduction is better than air conduction on left mastoid tuning fork placement. The right ear demonstrates better air than bone conduction. Which one of the following statements is TRUE?
+
 	A	Weber’s test is positive in the left ear
 	B	There is sensorineural hearing loss in the left ear
 	C	Rinne’s test involves central tuning fork placement on the vertex of the skull
 	D	There is a conductive loss of greater than 20 dB in the left ear
 	E	Masking can be achieved with a Baroness sound box
  
-22	A 3-year-old boy presents to the ENT Clinic with a 1-week history of unilateral purulent nasal discharge. His mother reports that he is otherwise well in himself and has no other symptoms. The initial management would be:
+### Q22	
+A 3-year-old boy presents to the ENT Clinic with a 1-week history of unilateral purulent nasal discharge. His mother reports that he is otherwise well in himself and has no other symptoms. The initial management would be:
+
 	A	Swab discharge for microscopy, culture and sensitivity
 	B	Intravenous broad-spectrum antibiotics, eg Augmentin
 	C	Examination and attempted removal of foreign body
 	D	Plain facial X-rays
 	E	Orthopantomogram
  
-23	The classic visual field defect caused by a pituitary adenoma will be a:
+### Q23	
+The classic visual field defect caused by a pituitary adenoma will be a:
+
 	A	Homonymous hemianopia
 	B	Bitemporal hemianopia
 	C	Bitemporal inferior quadrantanopia
 	D	Binasal hemianopia
 	E	Unilateral visual loss
  
-24	Which of the following veins accompanies the marginal branch of the right coronary artery?
+### Q24
+Which of the following veins accompanies the marginal branch of the right coronary artery?
+
 	A	Great cardiac vein
 	B	Middle cardiac vein
 	C	Small cardiac vein
 	D	Anterior cardiac vein
 	E	Oblique cardiac vein
  
-25	A 17-year-old boy presents to the ENT Clinic for follow-up of his nasal fracture treatment. Incidentally, he mentions that he has had long-standing nasal stuffiness. A nasal speculum examination reveals bilateral polyps. Regarding nasal polyps, which one of the following statements is TRUE?
+### Q25	
+A 17-year-old boy presents to the ENT Clinic for follow-up of his nasal fracture treatment. Incidentally, he mentions that he has had long-standing nasal stuffiness. A nasal speculum examination reveals bilateral polyps. Regarding nasal polyps, which one of the following statements is TRUE?
+
 	A	Co-existent asthma is rare
 	B	Polyps in childhood can indicate cystic fibrosis
 	C	Epistaxis is unlikely to be associated with neoplasia
 	D	Polyps are commonly treated with long courses of high-dose steroids
 	E	Surgery is not indicated
  
-26	A 5-year-old boy presents with a 2-hour history of sudden-onset distress while playing with Lego at nursery. He has very noisy inspiratory breathing from the neck, with raised respiratory and heart rates. The most likely site of obstruction would be at the level of the:
+### Q26	
+A 5-year-old boy presents with a 2-hour history of sudden-onset distress while playing with Lego at nursery. He has very noisy inspiratory breathing from the neck, with raised respiratory and heart rates. The most likely site of obstruction would be at the level of the:
+
 	A	Oropharynx
 	B	Nasopharynx
 	C	Larynx
 	D	Trachea
 	E	Main bronchi
  
-27	Which of the following features is NOT associated with a full-thickness burn?
+### Q27	
+Which of the following features is NOT associated with a full-thickness burn?
+
 	A	Black/white colour
 	B	Reduced blanching
 	C	No sensation
 	D	Usually require treatment with skin graft
 	E	Minimal healing
  
-28	A 52-year-old businessman is admitted to the Emergency Department with acute-onset chest pain, which radiates to the right arm and is associated with nausea and sweating. An ECG taken shows ischaemic changes within the heart and you suspect that he has angina. Transmission of activity within which of the following afferent nerves would explain the pain radiating down the arm from the chest?
+### Q28	
+A 52-year-old businessman is admitted to the Emergency Department with acute-onset chest pain, which radiates to the right arm and is associated with nausea and sweating. An ECG taken shows ischaemic changes within the heart and you suspect that he has angina. Transmission of activity within which of the following afferent nerves would explain the pain radiating down the arm from the chest?
+
 	A	Phrenic nerve
 	B	Vagus nerve
 	C	Somatic nerves to the arm
 	D	Intercostal nerves
 	E	Splanchnic nerves
  
-29	A 42-year-old woman presents with a 6-month history of intermittent, sudden-onset, dizzy spells. She describes the world spinning suddenly, where she feels she is being thrown to the floor. She feels nauseous and lies as still as possible. It lasts for a few hours, and is associated with a ringing in her ears. She also notes that her hearing has slightly decreased between the attacks. Examination is unremarkable, but audiograms show low-frequency sensorineural hearing loss. Which one of the following is the most likely diagnosis?
+### Q29	
+A 42-year-old woman presents with a 6-month history of intermittent, sudden-onset, dizzy spells. She describes the world spinning suddenly, where she feels she is being thrown to the floor. She feels nauseous and lies as still as possible. It lasts for a few hours, and is associated with a ringing in her ears. She also notes that her hearing has slightly decreased between the attacks. Examination is unremarkable, but audiograms show low-frequency sensorineural hearing loss. Which one of the following is the most likely diagnosis?
+
 	A	Benign positional vertigo
 	B	Acute labyrinthitis
 	C	Acoustic neuroma
 	D	Cardiovascular pathology
 	E	Ménière’s disease
  
-30	With regard to the synthesis and uptake of thyroid hormones, which one of the following statements is TRUE?
+### Q30	
+With regard to the synthesis and uptake of thyroid hormones, which one of the following statements is TRUE?
+
 	A	Like the catecholamines, the thyroid hormones are synthesised from the amino acid tyramine
 	B	Iodine is reduced to iodide and absorbed in the thyroid gland
 	C	The follicular cells take up iodide by simple diffusion
@@ -289,68 +308,91 @@ A patient has a tuning fork test with central vertex placement localising to the
 Questions 31-40
 ---------------
 
-### 31
+### Q31
 Regarding TSH:
+
 	A	Low levels of circulating T4 increase the TSH response to thyrotropin-releasing hormone (TRH)
 	B	TSH secretion is diurnal, peaking around midday
 	C	Plasma levels of TSH rise in hot environments
 	D	Glucocorticoids and oestrogens reduce the TSH secretory response to TRH
 	E	Secretion is stimulated by somatostatin and dopamine
  
-32	A Richter’s hernia refers to a hernia that:
+### Q32	
+A Richter’s hernia refers to a hernia that:
+
 	A	Contains two loops of small bowel within it
 	B	Contains a perforated appendix
 	C	Contains part of the wall of the bowel
 	D	Protrudes through the linea semilunaris
 	E	Causes intestinal obstruction commonly
  
-33	Innervation to the muscles of the back originate from:
+### Q33	
+Innervation to the muscles of the back originate from:
+
 	A	Dorsal primary rami
 	B	Ventral primary rami
 	C	Grey rami communicantes
 	D	White rami communicantes
 	E	Lateral perforating branches of the ventral primary rami
  
-34	Regarding multiple endocrine neoplasia (MEN) syndromes, which one of the following statements is correct?
+### Q34	
+Regarding multiple endocrine neoplasia (MEN) syndromes, which one of the following statements is correct?
+
 	A	Pituitary adenomas are mainly a feature of MEN II
 	B	Medullary carcinoma of the thyroid is a feature of MEN II
 	C	Phaeochromocytomas are best detected by urinary 5-HIAA measurement
 	D	MEN syndromes are always familial
 	E	Parathyroid adenomas tend to present with hypocalcaemia
  
-35	The sensory nerve supply to the diaphragmatic pleura is derived from the:
+### Q35	
+The sensory nerve supply to the diaphragmatic pleura is derived from the:
+
 	A	Phrenic nerve
 	B	Vagus nerve
 	C	Intercostal nerve
 	D	Sympathetic chain
 	E	Pectoral nerves
  
-36	The intervertebral joint is an example of a:
+### Q36	
+The intervertebral joint is an example of a:
+
 	A	Primary cartilaginous joint
 	B	Seconday cartilaginous joint
 	C	Fibrous joint
 	D	Synovial condyloid joint
 	E	Synovial plane
  
-37	Which of the following blood results is most likely to indicate recent infection with hepatitis B?
+### Q37	
+Which of the following blood results is most likely to indicate recent infection with hepatitis B?
 
+Option	| HBsAg	| HBeAg	| Anti-HBsAg	| Anti-HBcAg	|
+--------|:-----:|:-----:|:-------------:|:-------------:|
+A		| -		| -		| +				| +				|
+B		| -		| +		| -				| +				|
+C		| +		| -		| +				| -				|
+D		| +		| +		| -				| +				|
+E		| +		| +		| +				| +				|
  
- 
-38	Which of the following nerves provides the afferent limb of the sneezing reflex?
+### Q38	Which of the following nerves provides the afferent limb of the sneezing reflex?
+
 	A	Ophthalmic division of the trigeminal nerve
 	B	Maxillary division of the trigeminal nerve
 	C	Mandibular division of the trigeminal nerve
 	D	Glossopharyngeal nerve
 	E	Vagus nerve
  
-39	All of the following muscles are involved in abduction of the hip joint, EXCEPT:
+### Q39	
+All of the following muscles are involved in abduction of the hip joint, EXCEPT:
+
 	A	Gluteus medius
 	B	Gluteus minimus
 	C	Sartorius
 	D	Quadratus femoris
 	E	Tensor fascia lata
  
-40	Which of the following hereditary immune disorders is NOT correctly paired with the affected component of the immune system?
+### Q40	
+Which of the following hereditary immune disorders is NOT correctly paired with the affected component of the immune system?
+
 	A	Chronic granulomatous disease (CGD) – macrophages
 	B	DiGeorge syndrome – T cells
 	C	Leucocyte adhesion deficiency (LAD) – neutrophils
