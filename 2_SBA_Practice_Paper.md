@@ -1187,104 +1187,104 @@ Questions 111-120
 -----------------
 
 ### Q111
-A man is found to have a PSA of 14 mg/ml on routine testing. He is entirely asymptomatic. Investigation with transrectal biopsy confirms prostate cancer. MRI scan shows a nodule on the left lobe, which extends into the seminal vesicles. The stage of prostate cancer based on this information is:
+A man is found to have a PSA of 14 mg/ml on routine testing. He is entirely asymptomatic. Investigation with transrectal biopsy confirms _prostate cancer_. MRI scan shows a _nodule on the left lobe_, which extends into the _seminal vesicles_. The stage of prostate cancer based on this information is:
 
-	A	T4
-	B	T3a
-	C	T2a
-	D	T3b
-	E	T2b
-#### Answer: 
+	A. T4
+	B. T3a
+	C. T2a
+	D. T3b
+	E. T2b
+#### Answer: E. T2b - ?
  
-### Q112
-The following statements about hernias are all true, EXCEPT:
+### Q112 - LEARN
+The following statements about _hernias_ are all true, EXCEPT:
 
-	A	Direct hernias are due to a deficiency at Hesselbach’s triangle
-	B	A Littre’s hernia contains a Meckel’s diverticulum
-	C	A femoral hernia usually presents as a lump above and lateral to the pubic tubercle
-	D	Richter’s hernia involves entrapment of the antimesenteric edge of the bowel
-	E	Spigelian hernias protrude from the lateral edge of the rectus abdominis muscle
-#### Answer: 
+	A. Direct hernias are due to a deficiency at Hesselbach’s triangle - T
+	B. A Littre’s hernia contains a Meckel’s diverticulum - T
+	C. A femoral hernia usually presents as a lump above and lateral to the pubic tubercle - F
+	D. Richter’s hernia involves entrapment of the antimesenteric edge of the bowel - T
+	E. Spigelian hernias protrude from the lateral edge of the rectus abdominis muscle - T
+#### Answer: C. A femoral hernia usually presents as a lump above and lateral to the pubic tubercle - ?
  
-### Q113
-Causes of spontaneous secondary pneumothorax include all of the following, EXCEPT:
+### Q113 - LEARN
+Causes of _spontaneous secondary pneumothorax_ include all of the following, EXCEPT:
 
-	A	Marfan syndrome
-	B	Lung cancer
-	C	Asthma
-	D	COPD
-	E	Lung abscesses
-#### Answer: 
+	A. Marfan syndrome - T
+	B. Lung cancer - T
+	C. Asthma 
+	D. COPD - T
+	E. Lung abscesses - T
+#### Answer: C. Asthma - ?
  
 ### Q114
-All of the following statements regarding dead-space ventilation are correct, EXCEPT:
+All of the following statements regarding _dead-space ventilation_ are correct, EXCEPT:
 
-	A	Dead space refers to air that has to be ventilated, but does not take part in gas exchange
-	B	Anatomical dead space refers to air that does not reach the alveoli to take place in ventilation
-	C	Anatomical dead space can be measured using Fowler’s method
-	D	Physiological dead space may be increased in positive-pressure ventilation
-	E	Anatomical dead space is reduced in the standing-up position
-#### Answer: 
+	A. Dead space refers to air that has to be ventilated, but does not take part in gas exchange - T
+	B. Anatomical dead space refers to air that does not reach the alveoli to take place in ventilation - T
+	C. Anatomical dead space can be measured using Fowler’s method - ?
+	D. Physiological dead space may be increased in positive-pressure ventilation - T
+	E. Anatomical dead space is reduced in the standing-up position - T
+#### Answer: C. Anatomical dead space can be measured using Fowler’s method - ?
  
 ### Q115
-Which one of the following conditions would result in a positive base excess on a blood gas report?
+Which one of the following conditions would result in a _positive base excess_ on a blood gas report?
 
-	A	Cushing syndrome
-	B	Starvation
-	C	Septicaemia
-	D	Pulmonary embolus
-	E	Myasthenia gravis
-#### Answer: 
+	A. Cushing syndrome
+	B. Starvation
+	C. Septicaemia
+	D. Pulmonary embolus - F
+	E. Myasthenia gravis - F
+#### Answer: C. Septicaemia - ?
  
 ### Q116
 A 47-year-old male patient received a cadaver kidney transplant with immediate function 2 weeks ago. Within 3 days his serum creatinine had normalised to 110 µmol/l. He was discharged on the 5th post-operative day and has been followed up at the transplant follow-up clinic, attending thrice weekly. On attendance today his serum creatinine is 167 µmol/l and he is well in himself with no symptoms. You note on checking the blood results that the creatinine was 115 µmol/l 2 days ago. His tacrolimus (immunosuppression drug) level is normal. Ultrasound scan shows a normal transplant kidney. What is the most likely cause of his raised serum creatinine?
 
-	A	Acute rejection episode (and a transplant biopsy is urgently required to confirm the diagnosis)
-	B	Acute tubular necrosis
-	C	Volume depletion due to diarrhoea and vomiting
-	D	Ureteric obstruction
-	E	Transplanted renal artery stenosis
-#### Answer: 
+	A. Acute rejection episode (and a transplant biopsy is urgently required to confirm the diagnosis) - F
+	B. Acute tubular necrosis - F
+	C. Volume depletion due to diarrhoea and vomiting - F
+	D. Ureteric obstruction - F
+	E. Transplanted renal artery stenosis
+#### Answer: E. Transplanted renal artery stenosis - ?
  
 ### Q117
-Fever can be caused by all of the following, EXCEPT:
+_Fever_ can be caused by all of the following, EXCEPT:
 
-	A	Heatstroke
-	B	Hyperthyroidism
-	C	Posterior hypothalamic lesions
-	D	Dehydration
-	E	Exercise
-#### Answer: 
+	A. Heatstroke - T
+	B. Hyperthyroidism - T
+	C. Posterior hypothalamic lesions
+	D. Dehydration - T
+	E. Exercise - T
+#### Answer: C. Posterior hypothalamic lesions - ?
  
 ### Q118
 Which of the following agents used in the treatment of urological conditions is NOT paired with its correct description?
 
-	A	Mitomycin C – intravesical chemotherapy agent
-	B	Finasteride – luteinising hormone-releasing hormone (LH-RH) agonist
-	C	Oxybutinin – anticholinergic agent
-	D	Tamsulosin – α-adrenergic blocker
-	E	Flutamide – anti-androgen agent
-#### Answer: 
+	A. Mitomycin C – intravesical chemotherapy agent - T
+	B. Finasteride – luteinising hormone-releasing hormone (LH-RH) agonist - T
+	C. Oxybutinin – anticholinergic agent
+	D. Tamsulosin – α-adrenergic blocker
+	E. Flutamide – anti-androgen agent
+#### Answer: D. Tamsulosin – α-adrenergic blocker - ?
  
 ### Q119
-All of the following features are found in ARDS, EXCEPT:
+All of the following features are found in _Adult Respiratory Distress Syndrome_ (ARDS), EXCEPT:
 
-	A	Pulmonary oedema of non-cardiogenic origin
-	B	Hypoxaemia that is refractory to oxygen therapy
-	C	Reduced lung compliance
-	D	Pao2/Fio2 ratio <26.6 kPa (200 mmHg)
-	E	Pulmonary capillary wedge pressure >16 mmHg
-#### Answer: 
+	A. Pulmonary oedema of non-cardiogenic origin - T
+	B. Hypoxaemia that is refractory to oxygen therapy - T
+	C. Reduced lung compliance - T
+	D. PaO2/FiO2 ratio <26.6 kPa (200 mmHg) - T
+	E. Pulmonary capillary wedge pressure >16 mmHg
+#### Answer: E. Pulmonary capillary wedge pressure >16 mmHg - ?
  
 ### Q120
-The superficial radial nerve:
+The _superficial radial nerve_:
 
-	A	Runs between brachioradialis and extensor carpi radialis longus
-	B	Runs between the brachialis and brachioradialis
-	C	Is at a high risk of injury during the posterior approach to the forearm
-	D	Supplies most of the muscles in the posterior compartment of the forearm
-	E	Is difficult to see during surgery
-#### Answer: 
+	A. Runs between brachioradialis and extensor carpi radialis longus
+	B. Runs between the brachialis and brachioradialis
+	C. Is at a high risk of injury during the posterior approach to the forearm
+	D. Supplies most of the muscles in the posterior compartment of the forearm
+	E. Is difficult to see during surgery
+#### Answer: D. Supplies most of the muscles in the posterior compartment of the forearm - ?
 
 
 Questions 121-130
