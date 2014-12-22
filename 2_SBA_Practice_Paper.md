@@ -4,7 +4,7 @@ SBA Practice Paper: 2
 Group	| Score			| Errors 					|
 --------|---------------|---------------------------|
 1-10	| 4/10 =  40%	| 1, 2, 4, 5, 7, 9
-11-20	| ?/10 =  ??%	|  
+11-20	| 4/10 =  40%	| 11, 13, 14, 17, 18, 20 
 21-30	| ?/10 =  ??%	| 
 31-40	| ?/10 =  ??%	| 
 41-50	| ?/10 =  ??%	|  
@@ -215,17 +215,21 @@ The operation of choice for treatment of a _strangulated femoral hernia_, which 
 Questions 11-20
 ---------------
 
-### Q11
+??% = F: 11, 13, 14, 17, 18, 20
+
+### Q11 - LEARN
 A 21-year-old medical student presents to the Emergency Department with conjunctivitis. You prescribe him eye drops, but he mentions that he dislikes taking them as he gets a bitter taste at the back of his throat. You explain that the lacrimal drainage is connected to the nasopharynx, hence the bitter taste. He wishes to know exactly where the drainage occurs. 
 
 Within the lateral wall of the nasal cavity the _nasolacrimal duct_ opens at the:
 
 	A. Superior meatus - F
 	B. Middle meatus - F
-	C. Inferior meatus - F
+	C. Inferior meatus
 	D. Spheno-ethmoidal recess 
 	E. Nasopharynx - F
-#### Answer: D. Spheno-ethmoidal recess - ?
+
+#### Answer: D. Spheno-ethmoidal recess - *FALSE* = C. Inferior meatus - TRUE
+- The nasolacrimal duct enters the nasal cavity under the anterior lip of the inferior concha in the inferior meatus and connects the conjunctival sac to the nasal cavity for drainage of tears. The frontal sinus, anterior and middle ethmoidal sinuses and the maxillary sinus open into the middle meatus under the middle concha at the hiatus semilunaris. The posterior ethmoidal sinus opens into the superior meatus and the sphenoidal sinus onto the sphenoethmoidal recess. The opening of the pharyngotympanic tube, which is bounded by salpingopharyngeus, opens into the nasopharynx posterior to all the nasal turbinates.
  
 ### Q12	- LEARN
 An 18-year-old _motorcycle accident victim_ is noted to have a fluctuating Glasgow Coma Scale (GCS) score and a dilated right pupil in the Emergency Department. You suspect an extradural haemorrhage and this is confirmed on computed tomography. Which one of the following _branches of the maxillary artery_ is classically injured in an _extradural haemorrhage_?
@@ -235,7 +239,13 @@ An 18-year-old _motorcycle accident victim_ is noted to have a fluctuating Glasg
 	C. Middle meningeal
 	D. Deep temporal
 	E. Accessory meningeal
-#### Answer: C. Middle meningeal - ?
+
+#### Answer: C. Middle meningeal - TRUE
+- The middle meningeal artery is classically injured in extradural haemorrhage. Such injuries usually result from a fracture of the squamous part of the temporal bone and require burr holes to drain the blood. Other types of haemorrhage include subdural and subarachnoid haemorrhages.
+ 
+- Subdural haematomas usually result from torn bridging veins or venous sinuses and are most commonly found in the elderly as a result of age-related cerebral atrophy and subsequent vulnerability of the bridging veins. Treatment involves drainage of the blood through burr holes, similar to the treatment of extradural haemorrhage.
+ 
+- Subarachnoid haemorrhage can result from trauma or can occur spontaneously from a ruptured berry aneurysm, resulting in blood within the ventricular system. Treatment includes coiling or clipping of aneurysms in addition to rest, supportive fluids, nimodipine therapy and analgesia. Occasionally, an external ventricular drain might be required to drain blood from within the ventricular system and prevent hydrocephalus.
  
 ### Q13	
 A patient of yours requires _central venous access_ via the _internal jugular vein_ (IJV). The internal jugular vein is formed by the union of the _sigmoid sinus_ with which one of the following sinuses?
@@ -245,17 +255,27 @@ A patient of yours requires _central venous access_ via the _internal jugular ve
 	C. Cavernous sinus
 	D. Straight sinus
 	E. Occipital sinus
-#### Answer: C. Cavernous sinus - ?
+
+#### Answer: C. Cavernous sinus - *FALSE* = B. Inferior petrosal sinus - TRUE
+- The straight sinus usually runs into the left transverse sinus, which can also drain into the occipital and superior petrosal sinuses. The cavernous sinus receives drainage from the ophthalmic veins, sphenoparietal sinus, superficial middle cerebral vein and the basilar plexus. Subsequent drainage of the cavernous sinus is into the inferior petrosal sinus, although a large connection still exists to the superior petrosal sinus, running along the superior edge of the petrous temporal bone.
+- The superior sagittal sinus runs in the upper border of the falx cerebri and runs posteriorly to the internal occipital protuberance, where it usually deviates to the right to become continuous with the corresponding transverse sinus. The inferior sagittal sinus lies in the free lower margin of the falx cerebri. It joins the great cerebral vein to become the straight sinus, which usually becomes continuous with the left transverse sinus. The sigmoid sinus is continuous with the transverse sinus.
+ 
+- The petrosal sinuses drain the cavernous sinus. The superior petrosal sinus drains to the transverse sinus and the inferior petrosal sinus to the internal jugular vein.
+- The internal jugular vein is formed by the union of the inferior petrosal sinus and the sigmoid sinus on each side of the skull base, to emerge from the jugular foramen and run down caudally within the carotid sheath.
  
 ### Q14	
 All of the following statements about _5-fluorouracil_ (5-FU) are correct, EXCEPT:
 
-	A. It is indicated in the adjuvant treatment of rectal cancers
-	B. It interferes with DNA synthesis by reducing the availability of thymidylic acid
-	C. It is used in the treatment of solid cancers
-	D. It is an alkylating agent
-	E. It inhibits pyrimidine rather than purine synthesis
-#### Answer: B. It interferes with DNA synthesis by reducing the availability of thymidylic acid - ?
+	A. It is indicated in the adjuvant treatment of rectal cancers - T
+	B. It interferes with DNA synthesis by reducing the availability of thymidylic acid - T
+	C. It is used in the treatment of solid cancers - T
+	D. It is an alkylating agent - FALSE
+	E. It inhibits pyrimidine rather than purine synthesis - T
+
+#### Answer: B. It interferes with DNA synthesis by reducing the availability of thymidylic acid - *FALSE* = D. It is an alkylating agent - TRUE
+- 5-FU is commonly used in the treatment of colorectal cancers
+- It belongs to the group of antimetabolites and 
+	- inhibits DNA synthesis accordingly by interfering with pyrimidine synthesis
  
 ### Q15	
 Which statement is true regarding the _bladder_?
@@ -265,7 +285,9 @@ Which statement is true regarding the _bladder_?
 	C. It receives its blood supply from branches of the external iliac arteries - F
 	D. It is entirely covered by peritoneum - F
 	E. The trigone is situated at the apex of the bladder
-#### Answer: A. Sympathetic fibres cause relaxation of the detrusor muscle and contraction of the internal sphincter - ?
+
+#### Answer: A. Sympathetic fibres cause relaxation of the detrusor muscle and contraction of the internal sphincter - TRUE
+- The bladder is covered only on its upper aspect by peritoneum. Its muscular wall is formed by the detrusor muscle and it is lined by transitional epithelium. The triangular-shaped area at the bladder base, which lies between the two ureteric orifices, is the trigone. The detrusor muscle is supplied by parasympathetic fibres, which cause contraction, and sympathetic fibres, which cause relaxation. It has an internal sphincter formed by smooth muscle and an external sphincter, which lies below the prostate in the male. The blood supply comes from the superior and inferior vesical arteries, which are branches of the internal iliac artery.
  
 ### Q16	- LEARN
 Which one of the following structures passes through the _foramen rotundum_ in the base of the skull?
@@ -275,9 +297,10 @@ Which one of the following structures passes through the _foramen rotundum_ in t
 	C. Lesser petrosal nerve - F
 	D. Middle meningeal artery - F
 	E. Facial nerve
-#### Answer: B. Maxillary division of the trigeminal (CN Vb) - ?
+
+#### Answer: B. Maxillary division of the trigeminal (CN Vb) - TRUE
  
-### Q17	
+### Q17	- LEARN
 Structures entering through the _jugular foramen_ in the base of the skull include all of the following, EXCEPT:
 
 	A. Glossopharyngeal nerve (CN IX)
@@ -285,7 +308,24 @@ Structures entering through the _jugular foramen_ in the base of the skull inclu
 	C. (Spinal) Accessory nerve (CN XI)
 	D. Sigmoid sinus
 	E. Superior petrosal sinus
-#### Answer: B. Vagus nerve (CN X) - ?
+
+#### Answer: B. Vagus nerve (CN X) - *FALSE* = E. Superior petrosal sinus - TRUE
+
+Foramen			| Structures														|
+----------------|-------------------------------------------------------------------|
+Ovale			| Mandibular division of trigeminal nerve (Vc)
+				| Lesser petrosal nerve
+				| Accessory meningeal arteries
+Spinosum		| Middle meningeal vessels
+				| Meningeal branch of Mandibular nerve
+Rotundum		| Maxillary division of trigeminal nerve (Vb)
+Stylomastoid	| Facial nerve (VII)
+Jugular			| Internal jugular vein from sigmoid and inferior petrosal sinuses
+				| Cranial nerves IX, X and XI
+
+**Notes**
+- The sigmoid and inferior petrosal sinuses enter the jugular foramen to combine and form the internal jugular vein, which exits the foramen and runs caudally within the carotid sheath
+- Cranial nerves IX, X and XI enter the foramen along with the sinuses and then course in their respective ways with only the vagus nerve continuing posterolaterally to the internal jugular vein within the carotid sheath
  
 ### Q18	
 Which of the following anti-cancer drugs would be classified as an _alkylating agent_?
@@ -295,7 +335,13 @@ Which of the following anti-cancer drugs would be classified as an _alkylating a
 	C. Cytarabine
 	D. Vincristine
 	E. Cisplatin
-#### Answer: D. Vincristine - ?
+
+#### Answer: D. Vincristine - *FALSE* = E. Cisplatin - TRUE
+- Cisplatin, along with busulfan, chlorambucil, chlormethine and cyclophosphamide are some of the drugs classed as alkylating agents
+- Doxorubicin is an antibiotic
+- Vincristine is a vinca alkaloid
+- Methotrexate is an antimetabolite
+- Cytarabine inhibits DNA polymerase
  
 ### Q19	
 An obese 45-year-old waitress is referred to you by her GP with a diagnosis of _meralgia paraesthetica_. You would expect her symptoms to affect which one of the following areas?
@@ -305,8 +351,9 @@ An obese 45-year-old waitress is referred to you by her GP with a diagnosis of _
 	C. Lateral thigh
 	D. Medial thigh
 	E. Groin area
-#### Answer: A. Lateral thigh region - ?
-- Greek: 'meros' = thigh; 'algos' = pain
+#### Answer: A. Lateral thigh region - TRUE (Greek: 'meros' = thigh; 'algos' = pain)
+- Meralgia paraesthetica refers to compression of the lateral femoral cutaneous nerve as it passes through or just under the inguinal ligament, just medial to the anterior superior iliac spine
+- Compression of the nerve results in symptoms in the anteromedial thigh region
  
 ### Q20	
 Cricoid pressure is often applied to assist anaesthetists during the intubation process. Anatomically, the cricoid cartilage can also be used to identify other vessels and landmarks in the neck. The _surface marking of the cricoid cartilage_ in a normal male adult is represented by which of the following vertebral levels?
@@ -316,7 +363,11 @@ Cricoid pressure is often applied to assist anaesthetists during the intubation 
 	C. C5
 	D. C6
 	E. C7
-#### Answer: B. C4 - ?
+
+#### Answer: B. C4 - *FALSE* = D. C6 - TRUE
+- The cricoid cartilage is the most inferior of the laryngeal cartilages and lies at the level of the sixth cervical vertebral body
+- It is also here that the recurrent laryngeal nerve enters the larynx
+- The carotid artery pulse can also be felt here as it is compressed by the transverse processes of C6 vertebrae
 
 
 Questions 21-30
