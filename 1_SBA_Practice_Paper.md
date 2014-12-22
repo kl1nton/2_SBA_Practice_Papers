@@ -13,7 +13,7 @@ Group	| Score			| Errors 							|
 71-80	| 2/10 =  20% 	| 71, 72, 73, 74, 75, 76, 78, 80
 81-90	| 4/10 =  40%	| 82, 84, 85, 87, 88, 89
 91-100	| 2/10 =  20%	| 91, 93, 94, 95, 96, 97, 98, 99
-101-110	| 
+101-110	| 4/10 =  40%	| 101, 102, 103, 104, 105, 106
 111-120	| 
 121-130	| 
 131-135	| 
@@ -1734,15 +1734,24 @@ Which of the following are NOT normally found in bile?
 Questions 101-110
 -----------------
 
+40% = F: 101, 102, 103, 104, 105, 106
+
 ### Q101
-A 26-year-old woman is involved in a road traffic accident. On arrival in the Emegency Department she has a painful, deformed-looking left leg, which is shortened and internally rotated. She is unable to dorsiflex or plantar-flex her foot and there is sensory loss below the knee apart from the medial leg and foot and upper back of the calf. The nerve most likely to have been affected is:
+A 26-year-old woman is involved in a road traffic accident. On arrival in the Emegency Department she has a painful, deformed-looking left leg, which is _shortened and internally rotated_. She is unable to dorsiflex or plantar-flex her foot and there is sensory loss below the knee apart from the medial leg and foot and upper back of the calf. The nerve most likely to have been affected is:
 
 	A. Obturator nerve
 	B. Sciatic nerve
 	C. Femoral nerve
 	D. Tibial nerve
 	E. Common peroneal nerve
-#### Answer: E. Common peroneal nerve - ?
+
+#### Answer: E. Common peroneal nerve - *FALSE* = B. Sciatic nerve - TRUE
+- A posterior dislocation of hip causes the leg to appear shortened and internally rotated
+- In 20% of fracture dislocations of the hip, the sciatic nerve is damaged
+	- This results in paralysis of hamstrings and all flexors and extensors below knee
+- Also, all of the skin below the knee loses its sensation apart from areas supplied by
+	- saphenous nerve (medial posterior calf) 
+	- posterior cutaneous nerve of thigh (upper posterior calf)
  
 ### Q102
 Reed–Sternberg cells are characteristic of:
@@ -1752,9 +1761,11 @@ Reed–Sternberg cells are characteristic of:
 	C. Burkitt’s lymphoma
 	D. B-cell lymphoma
 	E. T-cell lymphoma
-#### Answer: B. Non-Hodgkin’s lymphoma (NHL) - ?
+
+#### Answer: B. Non-Hodgkin’s lymphoma (NHL) - *FALSE* = A. Hodgkin’s lymphoma - TRUE
+- **NOTE** Reed–Sternberg cells are characteristic of Hodgkin’s lymphoma
  
-### Q103
+### Q103 - LEARN
 _Risk factors for hepatocellular carcinoma_ do NOT include:
 
 	A. Hepatitis B
@@ -1762,7 +1773,15 @@ _Risk factors for hepatocellular carcinoma_ do NOT include:
 	C. Hepatitis E
 	D. Aflatoxin
 	E. Anabolic steroids
-#### Answer: E. Anabolic steroids - ?
+
+#### Answer: E. Anabolic steroids - *FALSE* = C. Hepatitis E - TRUE
+
+##### Hepatocellular Carcinoma: Risk Factors
+- Hepatitis B and C
+- Aflatoxin
+- Anabolic steroids
+- Alcohol cirrhosis
+- Primary liver disease
  
 ### Q104
 A 35-year-old tennis player finds herself unable to play because of a _painful left shoulder_. Pain is worse on lifting the arm, particularly when _elevated between 60–120 degrees_. On examination there is tenderness just _lateral to the acromium_ process. The diagnosis is:
@@ -1772,7 +1791,9 @@ A 35-year-old tennis player finds herself unable to play because of a _painful l
 	C. Acromioclavicular joint dislocation
 	D. Supraspinatus tendonitis
 	E. Biceps tendon rupture - F
-#### Answer: B. Frozen shoulder - ?
+
+#### Answer: B. Frozen shoulder - *FALSE* = D. Supraspinatus tendonitis - TRUE
+- Supraspinatus tendonitis is usually caused by vigorous exercise in people aged over 40 years. They present with a ‘painful arc’ of shoulder movement when the arm passes through 60–120 degrees of abduction. In contrast, supraspinatus rupture makes active abduction impossible, although there is a full range of passive movement. Frozen shoulder occurs as a result of degenerative changes of the rotator cuff. Pain due to this causes the patient to hold the shoulder still and adhesions form, which limit movement even more until only scapular movement remains. Rupture of the long head of biceps usually occurs in a previously diseased tendon and causes pain, tenderness and bunching-up of the muscle in the lower arm.
  
 ### Q105
 Infantile _hypertrophic pyloric stenosis_:
@@ -1782,7 +1803,9 @@ Infantile _hypertrophic pyloric stenosis_:
 	C. Usually presents at approximately 3 months old - F
 	D. Causes a metabolic acidosis - F
 	E. Occurs in 1 in 31,000 live births
-#### Answer: B. Is more common in second-born and subsequent children - ?
+#### Answer: B. Is more common in second-born and subsequent children - *FALSE* = E. Occurs in 1 in 31,000 live births - TRUE
+- Infantile hypertrophic pyloric stenosis is present in 1 in 31,000 live births
+- It is more common in first-born males: usually presents between 3 and 6 weeks
  
 ### Q106
 Tumour markers for _testicular cancer_ do NOT include:
@@ -1792,7 +1815,11 @@ Tumour markers for _testicular cancer_ do NOT include:
 	C. Lactate dehydrogenase (LDH) for NSGCT - F
 	D. Carcinoembryonic antigen (CEA) for NSGCT - F
 	E. Alpha-fetoprotein (AFP) for NSGCT - F
-#### Answer: A. Gamma-glutamyltransferase (GGT) for seminoma and non-seminomatous germ-cell tumour (NSGCT) - ?
+
+#### Answer: A. Gamma-glutamyltransferase (GGT) for seminoma and non-seminomatous germ-cell tumour (NSGCT) - *FALSE* = D. Carcinoembryonic antigen (CEA) for NSGCT - TRUE
+- CEA is a *non-specific marker* for a variety of tumours and pathologies
+	- **But not for testicular tumours**
+- Alpha-fetoprotein is a marker for NGSCT, but not for pure seminoma
  
 ### Q107
 All of the following statements about a _fractured neck of femur_ are true, EXCEPT:
@@ -1802,17 +1829,24 @@ All of the following statements about a _fractured neck of femur_ are true, EXCE
 	C. Intertrochanteric fractures are usually fixed using a dynamic hip screw - T
 	D. Intracapsular fractures can result in avascular necrosis of the femoral head - T
 	E. Femoral nerve injury is common
-#### Answer: E. Femoral nerve injury is common - ?
+
+#### Answer: E. Femoral nerve injury is common - TRUE
+- Fractured neck of femur is unfortunately a common injury in the elderly and mortality is in the region of 30% at 6 months. Patients usually present with a history of a fall and then inability to weight-bear on the affected side. On inspection the affected leg is shortened and externally rotated. The way in which fractured neck of femur is managed is dictated by the blood supply to the femoral head. A significant amount of the blood supply comes from the retinacular vessels, which pass proximally within the joint capsule. These vessels are therefore disrupted in intracapsular (subcapital) fractures. Undisplaced subcapital fractures have a good chance of maintaining the blood supply as there is minimal disruption of the capsule. They can generally be treated with insertion of cannulated screws. If they are displaced (ie Garden III and IV), there is a high risk of developing avascular necrosis of the femoral head and so hemiarthroplasty is the preferred management.
  
 ### Q108
-The following viruses are NOT known to be carcinogenic:
+The following viruses are NOT known to be _carcinogenic_:
 
 	A. Epstein–Barr virus - F
 	B. Hepatitis B - F
 	C. Human immunodeficiency virus (HIV) - F
 	D. Hepatitis A
 	E. Human papilloma virus (HPV) - F
-#### Answer: D. Hepatitis A - ?
+
+#### Answer: D. Hepatitis A - TRUE
+- Epstein–Barr virus is linked to B-cell lymphoma, Hodgkin’s lymphoma and nasopharyngeal carcinoma
+- Hepatitis B and C are linked to hepatocellular carcinoma (HCC), but no link has been shown to Hepatitis A
+- HIV is linked to leukaemia, lymphoma and Kaposi's sarcoma
+- HPV is linked to cervical cancer
  
 ### Q109
 Swan–Ganz catheters CANNOT be used to _directly_ measure:
@@ -1822,7 +1856,14 @@ Swan–Ganz catheters CANNOT be used to _directly_ measure:
 	C. Cardiac output
 	D. Systemic vascular resistance (SVR)
 	E. Central venous pressure (CVP)
-#### Answer: D. Systemic vascular resistance (SVR) - ?
+
+#### Answer: D. Systemic vascular resistance (SVR) - TRUE
+- A Swan–Ganz catheter can be used to directly measure 
+	- mean arterial pressure
+	- central venous pressure
+	- pulmonary artery wedge pressure
+	- cardiac output (using Fick’s principle)
+- Peripheral and systemic vascular resistance and ventricular stroke work are calculated, not directly measured
  
 ### Q110
 A 67-year-old man presents _extremely unwell_ with left-sided abdominal pain, fever and shock. At emergency laparotomy he is found to have a _large tumour of the sigmoid colon_, which has _perforated_, causing _faecal contamination_. What is the most appropriate operation?
@@ -1832,7 +1873,9 @@ A 67-year-old man presents _extremely unwell_ with left-sided abdominal pain, fe
 	C. Hartmann’s procedure
 	D. Anterior resection - F
 	E. Abdominoperineal resection - F
-#### Answer: C. Hartmann’s procedure - ?
+
+#### Answer: C. Hartmann’s procedure - TRUE
+- The safest operation to carry out in these circumstances, where a patient is unstable and the operating field is highly contaminated, is a Hartmann’s operation, where the affected segment of colon is excised and the proximal end is brought out as an end-colostomy. The rectal stump is closed and left inside or alternatively may be brought out as a mucous fistula. It is possible then to rejoin the two ends of bowel once the patient is in a more stable state and infection has settled to allow optimum conditions for forming an anastomosis.
 
 
 Questions 111-120
