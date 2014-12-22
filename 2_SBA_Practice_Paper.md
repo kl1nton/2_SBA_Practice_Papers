@@ -404,71 +404,90 @@ Which of the following hereditary immune disorders is NOT correctly paired with 
 Questions 41-50
 ---------------
 
-### 41
+### Q41
 A 44-year-old-man presents to you with signs of a facial infection around the area of the pterygopalatine fossa following maxillary surgery. You initially suspect that the infection has tracked from the pterygoid venous plexus. All of the following structures are at risk of subsequent infection tracking down, EXCEPT:
+
 	A	Orbit
 	B	Oral cavity
 	C	Nasal cavity
 	D	Maxillary sinus
 	E	Middle cranial fossa
  
-42	All of the following nerves pass along the lateral wall of the cavernous sinus, EXCEPT:
+### Q42	
+All of the following nerves pass along the lateral wall of the cavernous sinus, EXCEPT:
+
 	A	Oculomotor nerve
 	B	Trochlear nerve
 	C	Ophthalmic division of the trigeminal nerve
 	D	Maxillary division of the trigeminal nerve
 	E	Abducent nerve
  
-43	A 28-year-old woman gives birth to a healthy baby girl in the delivery suite. During her second stage of labour an episiotomy was necessary to allow delivery of her baby under local anaesthesia. Immediately after this procedure, the woman now complains that she is unable to maintain continence of faeces as she has no voluntary control of her anal sphincters. Which nerve in this clinical scenario has been anaesthetised?
+### Q43	
+A 28-year-old woman gives birth to a healthy baby girl in the delivery suite. During her second stage of labour an episiotomy was necessary to allow delivery of her baby under local anaesthesia. Immediately after this procedure, the woman now complains that she is unable to maintain continence of faeces as she has no voluntary control of her anal sphincters. Which nerve in this clinical scenario has been anaesthetised?
+
 	A	Pudendal nerve
 	B	Inferior gluteal nerve
 	C	Superior gluteal nerve
 	D	Ventral rami of S3 and S4
 	E	Inferior hypogastric nerve
  
-44	A bleeding ulcer on the posterior aspect of the first part of the duodenum would classically erode through which of the following vessels?
+### Q44	
+A bleeding ulcer on the posterior aspect of the first part of the duodenum would classically erode through which of the following vessels?
+
 	A	Right gastric artery
 	B	Superior pancreaticoduodenal artery
 	C	Right gastroepiploic artery
 	D	Gastroduodenal artery
 	E	Hepatic artery
  
-45	The lateral umbilical folds in the abdominal wall are formed by
+### Q45	
+The lateral umbilical folds in the abdominal wall are formed by
+
 	A	Urachus
 	B	Obliterated umbilical arteries
 	C	Superior epigastric arteries
 	D	Inferior epigastric arteries
 	E	Falciform ligament
  
-46	All of the following statements regarding Swan–Ganz pulmonary artery catheters are true, EXCEPT:
+### Q46	
+All of the following statements regarding Swan–Ganz pulmonary artery catheters are true, EXCEPT:
+
 	A	The insertion procedure may be complicated by arrhythmias
 	B	Pulmonary arterial pressures readings of 6–12 mmHg are normal
 	C	Left atrial pressure may be measured reasonably accurately
 	D	It can be used as part of the thermodilution mechanism to measure cardiac output accurately
 	E	It should always be inserted under strict aseptic technique
  
-47	Cerebrospinal fluid is connected to the subarachnoid space from the ventricles via the:
+### Q47	
+Cerebrospinal fluid is connected to the subarachnoid space from the ventricles via the:
+
 	A	Cisterna magna
 	B	Arachnoid villi
 	C	Choroid plexus
 	D	Foramen of Monro
 	E	Foramina of Magendie and Luschka
  
-48	A 42-year old alcoholic man is referred to you with ascites and liver cirrhosis. The mechanism of formation of ascites in this patient with cirrhosis is a combination of which of the following conditions?
+### Q48	
+A 42-year old alcoholic man is referred to you with ascites and liver cirrhosis. The mechanism of formation of ascites in this patient with cirrhosis is a combination of which of the following conditions?
+
 	A	Hypoalbuminaemia and portal hypertension
 	B	Decreased hepatic lymph flow
 	C	Decreased hepatic lymph flow with decreased aldosterone secretion
 	D	Leaky capillaries in the portal circulation
 	E	Subacute inflammatory changes causing hepatic oedema and extravasation of fluid
  
-49	A woman is brought to the Emergency Department after being rescued from a house fire. She has burns affecting her left arm and anterior surfaces of both legs. Using Wallace’s rule of nines, the percentage of area burnt is:
+### Q49	
+A woman is brought to the Emergency Department after being rescued from a house fire. She has burns affecting her left arm and anterior surfaces of both legs. Using Wallace’s rule of nines, the percentage of area burnt is:
+
 	A	45%
 	B	18%
 	C	36%
 	D	27%
 	E	54%
  
-50	A 35-year old businessman presents to you for an endoscopy following symptoms of epigastric pain which is worse at nights and on eating food. You suspect a gastric ulcer and proceed to perform endoscopy with a biopsy for Helicobacter pylori. On endoscopic biopsy, which of the following is the commonest location for finding H. pylori within the stomach?
+### Q50	
+A 35-year old businessman presents to you for an endoscopy following symptoms of epigastric pain which is worse at nights and on eating food. You suspect a gastric ulcer and proceed to perform endoscopy with a biopsy for Helicobacter pylori. On endoscopic biopsy, which of the following is the commonest location for finding H. pylori within the stomach?
+
 	A	Fundus
 	B	Lesser curve
 	C	Body
@@ -479,71 +498,90 @@ A 44-year-old-man presents to you with signs of a facial infection around the ar
 Questions 51-60
 ---------------
 
-### 51
+### Q51
 Damage to peripheral nerves results in specific areas of sensory loss. Which of the following nerve–sensory area pairings is INCORRECT?
+
 	A	Radial nerve – dorsal web space between thumb and index finger
 	B	Musculocutaneous nerve – lateral area of forearm
 	C	Median nerve – palmar aspect of index finger
 	D	Obturator nerve – lateral aspect of thigh
 	E	Deep peroneal nerve – dorsal aspect of first web space
  
-52	All of the following structures would drain through the thoracic duct, EXCEPT:
+### Q52
+All of the following structures would drain through the thoracic duct, EXCEPT:
+
 	A	Left arm and thorax
 	B	Left face and neck
 	C	Left side of abdomen
 	D	Right face and neck
 	E	Right side of abdomen
  
-53	All of the following can be considered risk factors for compartment syndrome in trauma, EXCEPT:
+### Q53	
+All of the following can be considered risk factors for compartment syndrome in trauma, EXCEPT:
+
 	A	Severe crush injury to muscles
 	B	Ischaemic reperfusion to limb muscles
 	C	Flexion–distraction spinal injuries
 	D	Presence of limb burns
 	E	Immobilisation of injuries in tight casts and dressings
  
-54	Sick euthyroid syndrome consists of all of the following signs, EXCEPT:
+### Q54	
+Sick euthyroid syndrome consists of all of the following signs, EXCEPT:
+
 	A	Decreased number of binding proteins
 	B	Decreased affinity of binding proteins
 	C	Decreased TSH
 	D	Decreased peripheral conversion of T3 to T4
 	E	Normal thyroid functioning
  
-55	All of the following principles are used in the management of chronic renal failure, EXCEPT:
+### Q55	
+All of the following principles are used in the management of chronic renal failure, EXCEPT:
+
 	A	High-dose loop diuretics in the management of hypertension
 	B	Fluid restriction to prevent the development of oedema
 	C	Sodium restriction to help limit fluid overload
 	D	High-protein diet to prevent muscle atrophy in catabolism
 	E	Calcium chloride to help bind gut phosphate in hyperphosphataemia
  
-56	All of the following signs might be produced by a Pancoast’s tumour at the apex of the right lung, EXCEPT:
+### Q56	
+All of the following signs might be produced by a Pancoast’s tumour at the apex of the right lung, EXCEPT:
+
 	A	Oedema and venous engorgement of the right upper limb
 	B	Hoarseness of the voice
 	C	Ipsilateral paradoxical diaphragmatic movement
 	D	Hyperhidrosis of the right side of the face
 	E	Enophthalmos and miosis in the right eye
  
-57	All of the following statements regarding the chemical control of respiration are correct, EXCEPT:
+### Q57	
+All of the following statements regarding the chemical control of respiration are correct, EXCEPT:
+
 	A	The carotid bodies are sensitive to hypoxaemia
 	B	The carotid bodies are sensitive to hypercapnia
 	C	The central medullary chemoreceptors are sensitive to hypoxaemia
 	D	The central medullary chemoreceptors are sensitive to hypercapnia
 	E	The central medullary chemoreceptors are sensitive to changes in H+
  
-58	Which of the following structures can be injured in supracondylar fracture of the femur?
+### Q58	
+Which of the following structures can be injured in supracondylar fracture of the femur?
+
 	A	Sciatic nerve
 	B	Popliteal artery
 	C	Long saphenous vein
 	D	Short saphenous vein
 	E	Deep femoral artery
  
-59	Which of the following is NOT a complication of mechanical ventilation?
+### Q59	
+Which of the following is NOT a complication of mechanical ventilation?
+
 	A	Pneumothorax
 	B	Gastric dilatation
 	C	Acute respiratory distress syndrome (ARDS)
 	D	Atrophy of respiratory muscles
 	E	Reduced venous return
  
-60	All of the following muscles are supplied by the posterior interosseous branch of the radial nerve, EXCEPT:
+### Q60	
+All of the following muscles are supplied by the posterior interosseous branch of the radial nerve, EXCEPT:
+
 	A	Extensor carpi radialis longus
 	B	Extensor digitorum
 	C	Extensor digiti minimi
