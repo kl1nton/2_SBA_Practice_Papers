@@ -16,7 +16,7 @@ Group	| Score			| Errors 								|
 101-110	| 4/10 =  40%	| 101, 102, 103, 104, 105, 106
 111-120	| 2/10 =  20%	| 111, 112, 113, 114, 115, 116, 117, 118
 121-130	| 5/10 =  50%	| 121, 123, 125, 128, 129
-131-135	| 
+131-135	| 3/5  =  60%	| 131, 135
 
 Overall: ??/120 = ??.0%
 
@@ -2190,14 +2190,22 @@ Which of the following is NOT a _benign skin lesion_?
 Questions 131-135
 -----------------
 
+60% = F: 131, 135
+
 ### Q131
 Which of the following is NOT a nutritional factor _involved in wound healing_?
+
 	A. Vitamin A
 	B. Vitamin B3
 	C. Vitamin B6
 	D. Zinc
 	E. Copper
-#### Answer: E. Copper - ?
+
+#### Answer: E. Copper - *FALSE* = B. Vitamin B3 - TRUE
+- Vitamin A is required for epithelial cell proliferation
+- Vitamin B6 is required for collagen cross-links
+- Zinc is required for RNA and DNA synthesis
+- Copper is required for cross-linking of collagen
  
 ### Q132
 For which of the following is _blood for transfusion_ NOT screened?
@@ -2206,16 +2214,23 @@ For which of the following is _blood for transfusion_ NOT screened?
 	C. Syphilis
 	D. Hepatitis C
 	E. HIV
-#### Answer: A. EBV - ?
+
+#### Answer: A. EBV - TRUE
+- Blood for transfusion is routinely screened for hepatitis B and C, HIV, CMV and syphilis
  
-### Q133
+### Q133 - LEARN
 Which of the following statements is correct regarding _cells involved in wound healing_?
 	A. Platelets take 1 day to appear - F
 	B. Neutrophils take 2 days to appear
 	C. Macrophages appear immediately
 	D. Fibroblasts take 3 days to appear
 	E. Endothelial cells take 1 day to appear
-#### Answer: D. Fibroblasts take 3 days to appear - ?
+
+#### Answer: D. Fibroblasts take 3 days to appear - TRUE
+- Platelets appear immediately in a wound, followed by neutrophils within a day
+- Macrophages appear within 2 days, then
+	- Fibroblasts and myofibroblasts in 2–4 days, then
+	- Endothelial cells in 3–5 days
  
 ### Q134
 Which of the following statements regarding _cell growth_ is NOT true?
@@ -2226,6 +2241,10 @@ Which of the following statements regarding _cell growth_ is NOT true?
 	E. Hamartoma is an overgrowth of a cell not normally found in that tissue - F
 
 #### Answer: E. Hamartoma is an overgrowth of a cell not normally found in that tissue - TRUE
+- Hypertrophy is an increase in cell size, and hyperplasia is an increase in cell number
+- Metaplasia is the conversion of one tissue type to another
+- Teratoma is a growth of cells originating from more than one germ-cell line
+- Hamartoma is an overgrowth of a cell normally found in that tissue
  
 ### Q135
 The _most common_ type of _lung cancer_ is:
@@ -2234,6 +2253,9 @@ The _most common_ type of _lung cancer_ is:
 	C. Large-cell carcinoma
 	D. Adenocarcinoma
 	E. Adenosquamous carcinoma
-#### Answer: B. Small-cell carcinoma - ?
+
+#### Answer: B. Small-cell carcinoma - *FALSE* = A. Squamous cell carcinoma - TRUE
+- Squamous cell carcinoma is the most common type, followed by 
+	- Small-cell, adenocarcinoma, large-cell and adenosquamous
 
 ---
