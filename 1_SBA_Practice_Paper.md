@@ -1,12 +1,12 @@
 SBA Practice Paper: 1
 =====================
 
-Group	| Score			| Errors 					|
---------|---------------|---------------------------|
-1-10	| 8/10 = 80%	| 2, 3
-11-20	| 
-21-30	| 
-31-40	| 
+Group	| Score			| Errors 							|
+--------|---------------|-----------------------------------|
+1-10	| 8/10 =  80%	| 2, 3
+11-20	| 3/10 =  30%	| 13, 14, 15, 16, 17, 18, 20
+21-30	| 1/10 =  10%	| 21, 22, 23, 24, 25, 26, 28, 29, 30
+31-40	| 5/10 =  50%	| 31, 32, 33, 34, 35
 41-50	| 
 51-60	| 
 61-70	| 
@@ -246,6 +246,8 @@ The abdominal aorta lies on the:
 Questions 11-20
 ---------------
 
+30% = F: 13, 14, 15, 16, 17, 18, 20
+
 ### Q11
 You ask your surgical house officer to prescribe a 1-litre bag of _normal saline_ for a patient who is suffering from small-bowel obstruction and appears dehydrated. The _sodium content_ of 0.9% normal saline is:
 
@@ -254,7 +256,17 @@ You ask your surgical house officer to prescribe a 1-litre bag of _normal saline
 	C. 147 mmol/l
 	D. 154 mmol/l
 	E. 308 mmol/l
-#### Answer: D. 154 mmol/l - ?
+
+#### Answer: D. 154 mmol/l - TRUE
+- Sodium content of commonly prescribed fluids
+ 
+Prescribed Fluid				| Na mmol/L	|
+--------------------------------|-----------|
+0.18% saline 					|  30 
+**Hartmann’s solution (CSL)** 	| 131 
+Ringer’s lactate 				| 147 
+**0.9% normal saline** 			| 154 
+1.8% *hypertonic* saline		| 308 
 
 ### Q12
 Which of the following _antiemetics_ is correctly classed as a _5-HT3 antagonist_:
@@ -264,7 +276,9 @@ Which of the following _antiemetics_ is correctly classed as a _5-HT3 antagonist
 	C. Ondansetron
 	D. Hyoscine
 	E. Cyclizine
-#### Answer: C. Ondansetron - ?
+
+#### Answer: C. Ondansetron - TRUE
+- Ondansetron is an example of a 5-HT3 antagonist. The main mechanism of action lies in the blockage of the receptors, which are located in the chemoreceptor trigger zone (CTZ). The CTZ is found within the area postrema of the brainstem and is a direct stimulator of the vomiting centre in the medulla oblongata. The CTZ also contains D2 receptors, which can be blocked by the use of dopamine antagonists such as prochlorperazine and metoclopramide. Hyoscine works as an antimuscarinic agent and cyclizine as an antihistamine. Both muscarinic and histamine receptors are present directly on the vomiting centre, and blockage of these is used to reduce motion sickness-induced nausea.
 
 ### Q13
 Which of the following _parenteral analgesics_ would be the most appropriate in a severely injured, _haemodynamically unstable_ patient following a road traffic accident?
@@ -274,7 +288,9 @@ Which of the following _parenteral analgesics_ would be the most appropriate in 
 	C. Midazolam
 	D. Propofol - F
 	E. Fentanyl
-#### Answer: A. Paracetamol - ?
+
+#### Answer: A. Paracetamol - *FALSE* = E. Fentanyl = TRUE
+- Paracetamol is a weak analgesic in the setting of severe trauma. Morphine administration should be avoided as it is associated with histamine release, which can result in vasodilatation and worsening hypotension in the unstable patient. Propofol and midazolam have no analgesic properties. Fentanyl is ideal for use in haemodynamically unstable patients with severe injuries as it is a very strong analgesic with a rapid onset of action and short half-life, with no resultant metabolites.
 
 ### Q14
 The _right ureter_ in females:
@@ -284,7 +300,11 @@ The _right ureter_ in females:
 	C. Crosses the uterine artery
 	D. Is crossed by the right colic artery
 	E. Lies beneath the bifurcation of the iliac vessels - F
-#### Answer: B. Runs over the ovarian artery - ?
+
+#### Answer: B. Runs over the ovarian artery - *FALSE* = D. Is crossed by the right colic artery - TRUE
+- The right ureter lies beneath the second part of the duodenum at its origin
+- It is crossed by the ovarian, uterine, right colic and ileocolic arteries
+	- It crosses the bifurcation of the iliac arteries
  
 ### Q15	- LEARN
 Passing through the _lesser sciatic foramen_ are the:
@@ -294,7 +314,13 @@ Passing through the _lesser sciatic foramen_ are the:
 	C. Posterior cutaneous nerve of the thigh - F
 	D. Inferior gluteal nerve
 	E. Nerve to quadratus femoris - F
-#### Answer: D. Inferior gluteal nerve - ?
+
+#### Answer: D. Inferior gluteal nerve - *FALSE* = B. Pudendal nerve - TRUE
+- Structures that pass through Lesser Sciatic Foramen 
+	1. Pudendal Nerve
+	2. Nerve to Obturator Internus
+	3. Internal Pudendal Artery
+	4. Tendon of Obturator Internus
  
 ### Q16	
 All of the following functions are mediated by the α-adrenoreceptors within the _sympathetic nervous system_, EXCEPT:
@@ -304,7 +330,29 @@ All of the following functions are mediated by the α-adrenoreceptors within the
 	C. - DELETED - 
 	D. Pupillary dilation
 	E. Secretion of thick saliva
-#### Answer: D. Pupillary dilation - ?
+#### Answer: D. Pupillary dilation - *FALSE* = B. Bronchodilation - TRUE
+- Sympathetic functions are classified by class of adrenoreceptor that is stimulated by noradrenaline 
+ 
+##### Alpha Functions
+- Pupillary dilation
+- Secretion of thick saliva
+- Peripheral blood vessel constriction
+- Increase in gut sphincter tone
+- Splenic capsular contraction
+- Gluconeogenesis (β2/α)
+- Relaxation of the detrusor muscle (also β2)
+- Contraction of the bladder neck
+- Ejaculation
+- Piloerection
+
+##### Beta Functions
+- Increase in heart rate and force of contraction (β1)
+- Vasodilatation in vessels supplying the muscles (β2)
+- Bronchodilatation (β2)
+- Glycogenolysis (β2)
+- Gluconeogenesis (β2/α)
+- Relaxation of the detrusor muscle (β2/α)
+- Uterine relaxation (β2)
  
 ### Q17	
 Stimulation of the _parasympathetic nervous system_ (PNS):
@@ -314,7 +362,18 @@ Stimulation of the _parasympathetic nervous system_ (PNS):
 	C. Dilates the pupil - F
 	D. Causes vasoconstriction - F
 	E. Causes contraction of the detrusor muscle in the bladder
-#### Answer: B. Decreases the rate of gastric emptying - ?
+
+#### Answer: B. Decreases the rate of gastric emptying - *FALSE* = E. Causes contraction of the detrusor muscle in the bladder - TRUE
+
+##### Parasympathetic Functions (PNS)
+- **P**upil dilation
+- Salivary and lacrimal secretion
+- Reduction of heart rate and contractility
+- Bronchoconstriction
+- Gastrointestinal enzyme secretion
+- Increased gastrointestinal motility and gastric emptying
+- Bladder contraction and micturition
+- **P**enile erection
  
 ### Q18	
 Which of the following statements regarding _pulmonary physiology_ is CORRECT?
@@ -324,7 +383,14 @@ Which of the following statements regarding _pulmonary physiology_ is CORRECT?
 	C. The Haldane effect promotes the transport of O2 in systemic arterial blood
 	D. Respiratory chemoreceptors in the carotid and aortic bodies are the most important in the ventilatory response to an elevated Po2
 	E. Ventilation can be increased in respiratory failure
-#### Answer: C. The Haldane effect promotes the transport of O2 in systemic arterial blood - ?
+
+#### Answer: C. The Haldane effect promotes the transport of O2 in systemic arterial blood - *FALSE* = E. Ventilation can be increased in respiratory failure - TRUE
+- Not all pulmonary airways are collapsible because bronchi contain cartilage and therefore do not collapse. An increased systemic PCO2 causes an acidosis due to increased carbonic acid formation. The function of central chemoreceptors (medullary neurones) is to detect changes in PO2 levels. Chemoreceptors in the carotid and aortic bodies are peripheral chemoreceptors which respond to changes in blood PCO2 and pH, as well as PO2. During respiratory failure a patient might hyperventilate in an attempt to correct abnormal arterial gases. Hyperventialtion can also occur with an emotional upset, in response to a metabolic acidosis (in this instance the PCO2 concentration drops, helping the pH to return to normal), and with marked falls in arterial pressure (this effect is mediated via chemoreceptor stimulation in conditions of very low blood flow, when the tissue PO2 falls).
+ 
+##### Notes
+- Haldane effect relates to CO2 transport – **Bohr effect** relates to O2 transport
+- The Haldane effect promotes CO2 release in pulmonary capillaries as PO2 rises
+	- Almost doubling amount of CO2 which is taken up by blood as it passes through systemic capillaries
  
 ### Q19	- LEARN
 Which statement is true of the _compartments of the leg_?
@@ -334,7 +400,37 @@ Which statement is true of the _compartments of the leg_?
 	C. The lateral compartment contains peroneus tertius
 	D. The deep posterior compartment contains plantaris
 	E. The posterior compartment contains the peroneal artery
-#### Answer: E. The posterior compartment contains the peroneal artery - ?
+
+#### Answer: E. The (*deep*) posterior compartment contains the peroneal artery - TRUE
+
+##### Anterior Compartment
+- Nerves: Deep Peroneal Nerve
+- Artery: Anterior Tibial Artery
+- Muscle: Peroneus Tertius
+
+##### Lateral Compartment
+- Nerves: Superficial Peroneal Nerve
+- Artery: NONE 
+- Muscle: 
+	1. Peroneus Brevis 
+	2. Peroneus Longus
+
+##### Posterior Compartment 
+
+###### Superficial
+- Nerves: Ø
+- Artery: Ø
+- Muscle:
+	1. Gastrocnemius
+	2. Soleus
+	3. Plantaris
+
+##### Deep 
+- Nerves: Posterior Tibial Nerve
+- Artery:
+	1. Posterior Tibial Artery
+	2. Peroneal Artery
+- Muscle: Ø
  
 ### Q20	
 The _brachial artery_:
@@ -344,11 +440,20 @@ The _brachial artery_:
 	C. Lies medial to the median nerve proximally
 	D. Lies medial to the ulnar nerve proximally
 	E. Lies lateral to biceps distally
-#### Answer: C. Lies medial to the median nerve proximally - ?
+
+#### Answer: C. Lies medial to the median nerve proximally - *FALSE* = D. Lies medial to the ulnar nerve proximally - TRUE
+
+##### Brachial Artery
+- Commences at the lower border of teres major
+- Initially lies medial to humerus and then moves anteriorly
+- Proximally ulnar nerve is medial to it, and musculocutaneous and median nerves lie laterally
+	- It lies medial to biceps and its tendon
 
 
 Questions 21-30
 ---------------
+
+10% = F: 21, 22, 23, 24, 25, 26, 28, 29, 30
 
 ### Q21
 During the surgical ward round, you note that two of your patients are on the ITU following complicated emergency abdominal surgery. The ITU nurse mentions that both of your patients are still requiring inotropes. Which of the following _inotropes_ are commonly used in the _management of sepsis_ in an ITU setting?
@@ -358,7 +463,9 @@ During the surgical ward round, you note that two of your patients are on the IT
 	C. Dopamine
 	D. Noradrenaline (norepinephrine)
 	E. Isoprenaline
-#### Answer: A. Dobutamine - ?
+
+#### Answer: A. Dobutamine - *FALSE* = D. Noradrenaline (norepinephrine) - TRUE
+- Sepsis induces systemic vasodilatation. Adrenaline works on α1, β1 and β2 receptors and while it does have a role in sepsis it is not frequently used because of the β-agonist effect (more likely to cause tachycardia). Dobutamine also works primarily on β receptors. Dopamine has a dose-dependent effect on β, α and δ receptors. Noradrenaline increases blood pressure and cardiac output by a vasocontrictive α1 effect. Isoprenaline is a β-selective agonist.
  
 ### Q22	
 The following statements regarding the _absolute refractory period_ in the ventricles are correct, EXCEPT:
@@ -368,7 +475,9 @@ The following statements regarding the _absolute refractory period_ in the ventr
 	C. It corresponds to the period of ventricular contraction
 	D. It is shorter than the corresponding period in atrial muscle
 	E. It decreases during sympathetic stimulation of the heart
-#### Answer: C. It corresponds to the period of ventricular contraction - ?
+
+#### Answer: C. It corresponds to the period of ventricular contraction - *FALSE* = D. It is shorter than the corresponding period in atrial muscle - TRUE
+- The state in which the ventricles are completely inexcitable defines an ‘absolute refractory period’ during a heartbeat. During this absolute refractory period the ventricles are in a state of contraction where all the cells are completely depolarised and cannot be excited, ie it is impossible to generate another action potential. The refractory period limits the frequency at which action potentials can be generated to <1000/s and ensures that, once initiated, an action potential can only travel in one direction. Sympathetic stimulation results in a decreased refractory period, thereby permitting higher heart rates.
 
 ### Q23	
 The role of coronary angioplasty and coronary artery bypass surgery is to improve coronary blood flow. In a normal, healthy 70-kg man, which of the following statements regarding _myocardial blood flow_ is correct?
@@ -378,7 +487,9 @@ The role of coronary angioplasty and coronary artery bypass surgery is to improv
 	C. The right coronary artery typically a third of the blood to the right ventricular muscle - F
 	D. Occurs during systole and diastole - F
 	E. It is independent of arterial pressure - F
-#### Answer: B. It is increased by pain - ?
+
+#### Answer: B. It is increased by pain - *FALSE* = C. The right coronary artery typically a third of the blood to the right ventricular muscle - TRUE
+- Myocardial blood flow is approx 250 ml/min at rest. This represents 5% of the cardiac output and is dependent on arterial pressure. Flow is seen in diastole and pain reduces myocardial blood flow.
  
 ### Q24	
 Which of the following medications is NOT known to cause _renal failure_?
@@ -388,7 +499,8 @@ Which of the following medications is NOT known to cause _renal failure_?
 	C. Simvastatin
 	D. Furosemide
 	E. Mannitol
-#### Answer: D. Furosemide - ?
+#### Answer: D. Furosemide - *FALSE* = C. Simvastatin - TRUE
+- Drugs can cause renal failure through a variety of mechanisms. Those that have a direct tubular effect include aminoglycosides, mannitol, NSAIDs, ACE inhibitors and ciclosporin. Sulphonamides and aciclovir can cause tubular obstruction, and beta lactam antibiotics, vancomycin, ciprofloxacin and furosemide can cause acute interstitial nephritis. Acute glomerulonephritis is a recognised complication of penacillamine use. Simvastatin is not known to cause renal impairment.
  
 ### Q25	- LEARN
 Which statement is true of _diaphragmatic openings_?
@@ -398,8 +510,21 @@ Which statement is true of _diaphragmatic openings_?
 	C. The left phrenic nerve passes through the opening at T8
 	D. The right gastric artery passes through the opening at T10
 	E. The azygos vein passes through the opening at T10
-#### Answer: C. The left phrenic nerve passes through the opening at T8 - ?
-- vena cava: 8; oesophagus: 10
+
+#### Answer: C. The left phrenic nerve passes through the opening at T8 - *FALSE* = A. The thoracic duct passes through the opening at T12 - TRUE
+
+##### Diaphragmatic Openings
+- T8
+	1. Inferior Vena Cava (8)
+	2. Right Phrenic Nerve
+- T10
+	1. Oesophagus (10)
+	2. Left Gastric Artery 
+	3. Left Gastric Vein
+- T12
+	1. Aorta
+	2. Thoracic Duct
+	3. Azygos Vein
  
 ### Q26	
 Regarding _shock_, which one of the following _associations_ is most correct?
@@ -409,7 +534,9 @@ Regarding _shock_, which one of the following _associations_ is most correct?
 	C. Cardiogenic shock is best treated with noradrenaline (norepinephrine) - F
 	D. Septic shock is characterised by a high SVR and a low cardiac output
 	E. Noradrenaline is a vasodilator - F
-#### Answer: D. Septic shock is characterised by a high SVR and a low cardiac output - ?
+
+#### Answer: D. Septic shock is characterised by a high SVR and a low cardiac output - *FALSE* = B. Septic shock is characterised by a low SVR and a high cardiac output - TRUE
+- Shock is the inability of the body to maintain tissue perfusion and oxygen delivery to its tissues. Septic shock is characterised by vasodilatation (low SVR) and a hyperdynamic circulation / high cardiac output. Cardiogenic shock, on the other hand, generally results in a low cardiac output state with a high SVR to try to maintain tissue perfusion. Noradrenaline is a potent vasoconstrictor used in the treatment of septic shock. It is not used generally in the treatment of cardiogenic shock.
 
 ### Q27	
 Your medical student has just performed her first _arterial blood gas_ (ABG) procedure and runs to the ITU to process the sample. She returns promptly with the results below and asks you to explain them. You outline the clinical picture and then describe the blood gas results.
@@ -429,7 +556,9 @@ Which statement best describes this arterial blood gas profile?
 	C. Compensated metabolic acidosis
 	D. Uncompensated metabolic acidosis
 	E. Compensated respiratory alkalosis - F
-#### Answer: C. Compensated metabolic acidosis - ?
+
+#### Answer: C. Compensated metabolic acidosis - TRUE
+- The blood gas profile given in the question is a compensated metabolic acidosis as the pH is within the normal range, but the low bicarbonate has been compensated for by hyperventilation (which has caused a low PCO2.) A base excess of –13 (or base deficit of 13) indicates that there is loss of bicarbonate, which must be replenished, in addition to the removal of the cause of metabolic acidosis, in order to achieve acid–base correction.
 
 ### Q28	- LEARN
 Regarding _inotropes_ and circulatory support, which one of the following statements is correct?
@@ -439,7 +568,9 @@ Regarding _inotropes_ and circulatory support, which one of the following statem
 	C. Noradrenaline has maximal effect on α-adrenergic receptors
 	D. All inotropic agents are vasocontrictors
 	E. Milrinone acts via adrenergic receptors
-#### Answer: D. All inotropic agents are vasocontrictors - ?
+
+#### Answer: D. All inotropic agents are vasocontrictors - *FALSE* = C. Noradrenaline has maximal effect on α-adrenergic receptors - TRUE
+- Noradrenaline is a vasoconstrictor and acts mainly via α-adrenergic receptors. Dopexamine acts via β1 and β2 receptors and has no α-adrenergic action. It is therefore an vasodilator. Inotropic agents can be vasodilators or vasocontrictors. Salbutamol acts via β2-adrenergic receptors. Milrinone is a type III phosphodiesterase inhibitor and acts by inhibiting the degradation of intracellular cyclic AMP, causing an increase in intracellular calcium concentration.
  
 ### Q29	
 The _muscle divided_ in the _Hardinge approach_ to the hip is the:
@@ -449,7 +580,16 @@ The _muscle divided_ in the _Hardinge approach_ to the hip is the:
 	C. Gluteus maximus
 	D. Superior gemellus
 	E. Vastus lateralis - F
-#### Answer: C. Gluteus maximus - ?
+
+#### Answer: C. Gluteus maximus - *FALSE* = E. Vastus lateralis - TRUE
+- The Hardinge (**lateral**) approach to the hip splits 
+	1. Tensor Fascia Lata
+	2. **Vastus Lateralis**
+	3. Gluteus Medius
+- Posterior Approach - muslces detached from Greater Trochanter
+	1. Piriformis
+	2. Obturator Internus
+	3. Gemellae 
  
 ### Q30	- LEARN
 Which statement is TRUE regarding the _rotator cuff_?
@@ -459,11 +599,16 @@ Which statement is TRUE regarding the _rotator cuff_?
 	C. The tendon of infraspinatus is fused with the capsule of the shoulder joint
 	D. Subscapularis runs through a tunnel formed by the acromion and the coraco-acromial ligament
 	E. It supports the shoulder joint but is deficient inferiorly
-#### Answer: D. Subscapularis runs through a tunnel formed by the acromion and the coraco-acromial ligament - ?
+
+#### Answer: D. Subscapularis runs through a tunnel formed by the acromion and the coraco-acromial ligament - *FALSE* = E. It supports the shoulder joint but is deficient inferiorly - TRUE
+
+- The rotator cuff is a ring of muscles that surrounds and strengthens the shoulder joint, but is deficient inferiorly. They attach at the level of the anatomical neck of the humerus. Specifically, the attachments are: subscapularis to the lesser tuberosity; supraspinatus, teres minor and infraspinatus to the greater tuberosity (in that order from above down). As well as moving the shoulder joint they also act as a muscular support. Supraspinatus runs thorough a tunnel formed by the acromion and the coraco-acromial ligament and its tendon is fused to the capsule of the shoulder joint.
 
 
 Questions 31-40
 ---------------
+
+50% = F: 31, 32, 33, 34, 35
 
 ### Q31
 A 74-year-old _immunosuppressed patient_ presents with _recurrent pneumonia_. He is quite unwell and showing signs of a _swinging pyrexia_. A chest CT scan reveals that he has an empyema in his right chest cavity. _Complications of an empyema_ within the pleural cavity include all of the following, EXCEPT:
@@ -473,27 +618,58 @@ A 74-year-old _immunosuppressed patient_ presents with _recurrent pneumonia_. He
 	C. Systemic sepsis
 	D. Bronchopleural fistula - T
 	E. Lung collapse - T
-#### Answer: C. Systemic sepsis - ?
+
+#### Answer: C. Systemic sepsis - *FALSE* = B. Bronchiectasis - TRUE
+- Empyema is defined as pus within the pleural cavity or gallbladder
+- Organisms causing empyema include 
+	- Streptococcus pneumoniae
+	- Staphylococcus aureus and other organisms arising from the specific cause
+- Gram-negative organisms can cause empyema in trauma and in oesophageal surgery or disease
+ 
+##### Causes of Empyema
+- Pulmonary infections
+	- Pneumonia
+	- Tuberculosis (TB)
+	- Lung abscess
+- Other infections
+	- Subphrenic abscess
+	- Mediastinitis
+	- Distant foci
+	- Complications of thoracic surgery
+	- Penetrating chest trauma
+
+##### Complications of Empyema
+- Lung collapse
+- Bronchopleural fistula
+- Pleural scarring
+- Systemic sepsis
+
+**NOTE** Bronchiectasis is a **cause of empyema**, not a complication of the disease
  
 ### Q32	
-A 61-year old man is referred to your surgical clinic with _right calf pain_ which occurs on walking 300 yards and is relieved by rest. He has a past history of hypertension, diabetes and hypercholesterolaemia and smokes 15 cigarettes a day. On examination, he has _weak groin pulses_ and _absent distal pulses_ on the right side and _weak pulses distal_ to a _normal femoral pulse on the left side_. Which of the following is the correct **next step** in managing this patient?
+A 61-year old man is referred to your surgical clinic with _right calf pain_ which occurs on walking **300 yards** and is relieved by rest. He has a past history of hypertension, diabetes and hypercholesterolaemia and smokes 15 cigarettes a day. On examination, he has _weak groin pulses_ and _absent distal pulses_ on the right side and _weak pulses distal_ to a _normal femoral pulse on the left side_. Which of the following is the correct **next step** in managing this patient?
 
 	A. Arrange a duplex scan of his vessels
 	B. Arrange a digital subtraction angiogram
-	C. Lifestyle advice and tightening of risk factor control - F
+	C. Lifestyle advice and tightening of risk factor control
 	D. Prescribe warfarin to prevent thrombus formation
-	E. Elective admission for a left femoro-popliteal bypass graft - ?
-#### Answer: B. Arrange a digital subtraction angiogram - ?
+	E. Elective admission for a left femoro-popliteal bypass graft - F
+
+#### Answer: B. Arrange a digital subtraction angiogram - *FALSE* = C. Lifestyle advice and tightening of risk factor control - TRUE
+- This patient has multiple vascular risk factors and a history which suggests a stenosis of the left superficial femoral artery. As he is able to walk 300 yards at present, most of his daily activities are not limited by this claudication. He needs an initial modification and tighter control of his hypertension, diabetes and hypercholesterolaemia, which will prevent progression of his vascular disease. He also needs lifestyle advice – he should stop smoking altogether, eat a healthy diet and take regular exercise. He should be encouraged to walk through the pain. These initial measures might very well improve his symptoms of claudication but in a few people the disease can progress to a point where intervention is required. A duplex scan initially or angiogram might be worthwhile if any intervention is being considered at a later stage. He certainly should not be taken for surgery in the immediate instance and this can be undertaken should the disease or symptoms progress.
  
 ### Q33
 An 81-year-old patient is noted to be in _atrial fibrillation_ but she states that she has never been on anticoagulation therapy. You consider that to lessen the risk of future emboli, she would benefit from starting on _long-term warfarin_ and that this would reduce her risk of developing acute strokes, visceral or limb ischaemia. Arterial emboli leading to _acute limb ischaemia_ most commonly lodge at which one of the following sites?
 
 	A. Brachial artery - F
-	B. Common femoral artery - F
+	B. Common femoral artery
 	C. Popliteal artery
 	D. Aortic bifurcation - F
 	E. Common iliac bifurcation - F
-#### Answer: C. Popliteal artery -?
+
+#### Answer: C. Popliteal artery - *FALSE* = B. Common femoral artery - TRUE
+- Common Femoral artery is *commonest site of arterial emboli* causing Acute Limb Ischaemia
+	- Treatment of choice is urgent femoral embolectomy
  
 ### Q34	
 Sites of _ulnar nerve entrapment_ include the:
@@ -503,7 +679,12 @@ Sites of _ulnar nerve entrapment_ include the:
 	C. Lateral triangular space - F
 	D. Arcade of Struthers
 	E. Cubital fossa - F
-#### Answer: A. Arcade of Frohse - ?
+
+#### Answer: A. Arcade of Frohse - *FALSE* = D. Arcade of Struthers - TRUE
+- Ulnar nerve can get trapped in the arcade of Struthers, which is the proximal end of the cubital tunnel
+- Median and radial nerves pass through the cubital fossa, but not the ulnar
+- Radial nerve passes through the lateral triangular space and the median nerve through the carpal tunnel
+- Arcade of Frohse is a site of possible posterior interosseus nerve entrapment
  
 ### Q35	- LEARN
 Which statement is true of the _inguinal region_?
@@ -513,8 +694,10 @@ Which statement is true of the _inguinal region_?
 	C. The deep inguinal ring lies at the midinguinal point - F (MPoIL)
 	D. The femoral artery lies at the midpoint of the inguinal ligament - F (MIP)
 	E. The femoral nerve lies halfway between the anterior superior iliac spine and the pubic tubercle - F
-#### Answer: A. The midpoint of the inguinal ligament lies halfway between the anterior superior iliac spine and the pubic symphysis - ?
- 
+
+#### Answer: A. The midpoint of the inguinal ligament lies halfway between the anterior superior iliac spine and the pubic *symphysis* - *FALSE* = E. The femoral nerve lies halfway between the anterior superior iliac spine and the pubic tubercle - TRUE
+- The midpoint of the inguinal ligament is halfway between the anterior superior iliac spine and the pubic tubercle. The deep inguinal ring and femoral nerve lie at this point. The midinguinal point is halfway between the anterior superior iliac spine and the pubic symphysis. The femoral artery lies at this point.
+
 ### Q36	
 A **pregnant** 41-year-old woman with tortuous varicose veins in the right thigh and leg attends the Vascular Clinic. A Doppler scan shows _incompetence at the right sapheno-femoral junction_ (SFJ), with multiple perforators. Which one of the following treatment options is best in this case?
 
@@ -523,7 +706,9 @@ A **pregnant** 41-year-old woman with tortuous varicose veins in the right thigh
 	C. Compression hosiery and review in clinic at a later date
 	D. Multiple avulsions plus high tie at the sapheno-femoral junction
 	E. Compression bandaging and injection of sclerosant
-#### Answer: C. Compression hosiery and review in clinic at a later date - ?
+
+#### Answer: C. Compression hosiery and review in clinic at a later date - TRUE
+- Pregnancy is a risk factor for the development of varicose veins. During pregnancy, however, compression stockings alone are used to treat the symptoms of varicose veins. Surgical options might be considered post-partum if the veins are persistent and symptomatic.
  
 ### Q37	- TODO
 An elderly man is admitted to the Surgical Assessment Unit with *diverticulitis*. On clerking him, you note that he appears to have bibasal crepitations and bronchial breathing in the right lower zone, with dullness to percussion. A blood gas taken shows the following:
@@ -542,7 +727,9 @@ Which of the following best describes the blood gas results?
 	C. Uncompensated metabolic alkalosis
 	D. Compensated metabolic alkalosis
 	E. Compensated respiratory acidosis
-#### Answer: C. Uncompensated metabolic alkalosis - ?
+
+#### Answer: C. Uncompensated metabolic alkalosis - TRUE
+- The high pH indicates that he is in a state of alkalosis. As the PCO2 is normal and he has a raised bicarbonate, the correct choice is uncompensated metabolic alkalosis. This could be due to gastrointestinal losses from vomiting, hypercalcaemia, bicarbonate ingestion or hypokalaemia (eg due to diuretics, hyperaldosteronism).
  
 ### Q38	- LEARN
 The _boundaries of the inguinal canal_ include:
@@ -552,7 +739,23 @@ The _boundaries of the inguinal canal_ include:
 	C. External oblique as part of the roof - F
 	D. The conjoint tendon as part of the roof
 	E. The transversalis fascia as part of the roof - F
-#### Answer: D. The conjoint tendon as part of the roof -?
+
+#### Answer: D. The conjoint tendon as part of the roof - TRUE
+
+##### Boundaries of Inguinal Canal
+- Roof
+	- Transversus Abdominis
+	- Internal Oblique
+	- **Conjoint Tendon**
+- Floor
+	- Inguinal Ligament
+	- Lacunar Ligament
+- Anterior
+	- External Oblique
+	- Internal Oblique
+- Posterior
+	- Transversalis Fascia 
+	- Conjoint Tendon
  
 ### Q39	- LEARN
 Which of these structures does NOT pass _posterior to the medial malleolus_?
@@ -562,7 +765,9 @@ Which of these structures does NOT pass _posterior to the medial malleolus_?
 	C. Flexor digitorum longus tendon - T
 	D. Flexor hallucis longus tendon
 	E. Posterior tibial artery - T
-#### Answer: B. Saphenous vein - ?
+
+#### Answer: B. Saphenous vein - TRUE
+- The saphenous vein passes anterior to the medial malleolus. The structures passing posterior, from nearest back are: tibia, posterior tendon, flexor digitorum longus tendon, posterior tibial artery, posterior tibial vein, posterior tibial nerve and the flexor hallucis longus tendon.
  
 ### Q40	- LEARN
 Which of the following statements about hernias is TRUE?
@@ -572,11 +777,15 @@ Which of the following statements about hernias is TRUE?
 	C. A hernia containing a strangulated Meckel’s diverticulum is a Littre’s hernia
 	D. Femoral hernias appear below and medial to the pubic tubercle - F
 	E. Spigelian hernias generally occur through the epiploic foramen of Winslow - F
-#### Answer: C. A hernia containing a strangulated Meckel’s diverticulum is a Littre’s hernia - ?
+
+#### Answer: C. A hernia containing a strangulated Meckel’s diverticulum is a Littre’s hernia - TRUE
+- Paraumbilical hernias occur just above and just below the umbilicus and are more commonly seen in women. They are acquired, and predisposing factors are obesity and multiple pregnancies. They are at high risk of strangulation as the neck is usually narrow. A hernia that contains a strangulated Meckel’s diverticulum is known as a Littre’s hernia and can progress to gangrene, suppuration and formation of a local fistula. Hernias that present below and lateral to the pubic tubercle are femoral hernias as opposed to inguinal hernias, which present above and medial to the pubic tubercle. Hernias that appear spontaneously just superior to the iliac crest are most likely to be lumbar hernias. They occur through the lumbar triangle of Petit, formed by the iliac crest, posterior external oblique and anterior latissimus dorsi. Spigelian hernias present through the linea semilunaris at the lateral border of the rectus sheath. They occur at the point where the posterior rectus sheath becomes deficient posteriorly.
 
 
 Questions 41-50
 ---------------
+
+
 
 ### Q41
 Which of these nerves does NOT lie in the lateral wall of the _cavernous sinus_?
