@@ -1,8 +1,8 @@
 SBA Practice Paper: 2
 =====================
 
-Group	| Score			| Errors 						|
---------|---------------|-------------------------------|
+Group	| Score			| Errors 							|
+--------|---------------|-----------------------------------|
 1-10	| 4/10 =  40%	| 1, 2, 4, 5, 7, 9
 11-20	| 4/10 =  40%	| 11, 13, 14, 17, 18, 20 
 21-30	| 4/10 =  40%	| 21, 24, 25, 26, 28, 30
@@ -12,8 +12,8 @@ Group	| Score			| Errors 						|
 61-70	| 6/10 =  60%	| 61, 65, 67, 69 
 71-80	| 5/10 =  50%	| 72, 73, 75, 79, 80 
 81-90	| 6/10 =  60%	| 81, 86, 88, 89  
-91-100	| ?/10 =  ??%	|  
-101-110	| ?/10 =  ??%	|  
+91-100	| 5/50 =  50%	| 91, 94, 95, 96, 100 
+101-110	| 3/10 =  30%	| 102, 103, 104, 106, 107, 108, 109 
 111-120	| ?/10 =  ??%	|  
 121-130	| ?/10 =  ??%	| 
 131-135	| ?/5  =  ??%	|   
@@ -1419,7 +1419,7 @@ The _inguinal canal_:
 Questions 91-100
 ----------------
 
-??% = F: 
+50% = F: 91, 94, 95, 96, 100
 
 ### Q91
 All of the following statements regarding _interferons_ are correct, EXCEPT that they:
@@ -1441,9 +1441,17 @@ Which of the following statements regarding the hepatitis B virus (HBV) is corre
 	C. 25% of patients infected with hepatitis B become chronic carriers - F
 	D. Risk of transmission from needlestick injuries is greater for HBV than for HIV
 	E. HBV vaccines are live attenuated vaccines
-#### Answer: D. Risk of transmission from needlestick injuries is greater for HBV than for HIV - ?
+
+#### Answer: D. Risk of transmission from needlestick injuries is greater for HBV than for HIV - TRUE
+- Hepatitis B is a dsDNA virus which belongs to the Hepadnaviridae group
+- Transmission occurs via three main routes
+	1. blood inoculation
+	2. sexual transmission
+	3. vertically through childbirth or breastfeeding
+- Risk of HIV transmission following needlestick injury is 0.3% and for HBV is around 3% (10x)
+- HBV vaccine is a recombinant DNA vaccine
  
-### Q93	
+### Q93	- LEARN
 The CHARGE syndrome is NOT associated with which of the following conditions?
 
 	A. Choanal atresia - T
@@ -1452,12 +1460,20 @@ The CHARGE syndrome is NOT associated with which of the following conditions?
 	D. Retarded lung maturation - F
 	E. Coloboma - T
 
-#### Answer: D. Retarded lung maturation - ?
+#### Answer: D. Retarded lung maturation - TRUE
+- The CHARGE association is a sporadic condition associated with multiple congenital anomalies: 
+	- C: coloboma (failure of eyeball closure) and cranial nerve palsies (facial nerve)
+	- H: heart disease
+	- A: atresia choanae
+	- R: retarded growth
+	- G: genital abnormalities
+	- E: ear abnormalities and deafness
+- Patients may also have laryngotracheal abnormalities
 
 ##### Charge Syndrome
 - C: **C**oloboma of Eye + Cranial Nerve Abnormalities (I, VII, IX/X)
 - H: **H**eart Defects
-- A: **A**tresia of Choanae
+- A: **A**tresia Choanae
 - R: **R**etardation of Growth +/- Development
 - G: **G**enital +/- Urinary Abnormalities
 - E: **E**ar Abnormalities +/- Deafness
@@ -1470,7 +1486,9 @@ _Indications for splenectomy_ include all of the following, EXCEPT:
 	C. Thrombocytopenia associated with drug abuse - T
 	D. Sickle cell disease without hypersplenism
 	E. Splenomegaly related to haemodialysis
-#### Answer: E. Splenomegaly related to haemodialysis - ?
+
+#### Answer: E. Splenomegaly related to haemodialysis - *FALSE* = D. Sickle cell disease without hypersplenism - TRUE
+- Numerous reasons exist for splenectomy in the non-trauma setting. The incidence of elective splenectomy in the UK has declined as this was used in the staging of lymphomas previously. Any cause of hypersplenism or thrombocytopenia resulting from hypersplenism can justify a splenectomy, as very large spleens can be symptomatic as well as have a very high incidence of rupture from trauma. Spleens, occasionally can cause pressure symptoms if large enough.
  
 ### Q95	
 The clinical presentation of _neurogenic shock_ includes which one of the following combinations of signs?
@@ -1480,17 +1498,28 @@ The clinical presentation of _neurogenic shock_ includes which one of the follow
 	C. Hypotension, bradycardia, cool skin
 	D. Hypotension, tachycardia, cool skin
 	E. Hypertension, bradycardia, cool skin
-#### Answer: C. Hypotension, bradycardia, cool skin - ?
+
+#### Answer: C. Hypotension, bradycardia, cool skin - *FALSE* = A. Hypotension, bradycardia, warm skin - TRUE
+- Neurogenic shock is shock caused by the sudden loss of the sympathetic nervous system signals to the smooth muscle in vessel walls. This results in the triad of bradycardia, hypotension and peripheral vasodilatation, resulting from loss of sympathetic tone. This should be distinguished from septic shock, which results classically in a tachycardia and hypotension.
  
 ### Q96	
 A woman with _suspected breast cancer_ has fine-needle aspiration (FNA) of a breast lump. The report comes back as 'C3'. What does this mean?
 
-	A. Equivocal - F
-	B. Suspicious for cancer
-	C. Inadequate sample 
-	D. Definitely malignant - F
-	E. Benign - F
-#### Answer: B. Suspicious for cancer - ?
+	A. Equivocal - C3
+	B. Suspicious for cancer - C4
+	C. Inadequate sample - C1
+	D. Definitely malignant - C5
+	E. Benign - C2
+
+#### Answer: B. Suspicious for cancer - *FALSE* = A. Equivocal (C3) - TRUE
+- Cytology reports grade samples according to the cellular appearances by a 5-point system
+	- C1 = inadequate sample
+	- C2 = benign
+	- C3 = **equivocal**
+	- C4 = suspicious for malignancy
+	- C5 = malignant
+- Fine-needle aspiration cytology (FNAC) forms part of the triple assessment for suspected breast cancer
+	- along with clinical examination and imaging (mammogram or ultrasound)
  
 ### Q97	
 Which of the following statements regarding _suxamethonium_ is TRUE?
@@ -1500,7 +1529,12 @@ Which of the following statements regarding _suxamethonium_ is TRUE?
 	C. It is structurally similar to the acetylcholine molecule
 	D. Prolonged action can be due to the presence of too much plasma cholinesterase - F
 	E. It has a half-life of 10 minutes, making it short-acting - F
-#### Answer: C. It is structurally similar to the acetylcholine molecule - ?
+
+#### Answer: C. It is structurally similar to the acetylcholine molecule - TRUE
+- Suxamethonium is a short-acting, depolarising muscle relaxant useful in anaesthesia for performing intubation in the induction phase
+- Structurally similar to the ACh molecule (double-ACh structure)
+- Has a very short half-life of a few minutes
+	- Complete metabolism by plasma cholinesterase in 5–10 minutes
  
 ### Q98	
 The following _brachial plexus injuries_ would all give rise to the accompanying deficits, EXCEPT:
@@ -1510,7 +1544,13 @@ The following _brachial plexus injuries_ would all give rise to the accompanying
 	C. Axillary nerve injury – insensate shoulder patch - T
 	D. Median nerve palsy – weakened thumb movements + loss of sensation to lateral palm - T
 	E. Thoracodorsal nerve injury – winged scapula - F
-#### Answer: E. Thoracodorsal nerve injury – winged scapula - ?
+
+#### Answer: E. Thoracodorsal nerve injury – winged scapula - TRUE
+- The thoracodorsal nerve supplies the latissimus dorsi muscle
+	- One of major adductors of shoulder joint as well as an extensor and medial rotator
+- A winged scapula would result from an injury to the long thoracic nerve of Bell
+	- Arising from roots of C5, 6 and 7 of brachial plexus 
+- Both of these nerves are commonly encountered in axillary dissection procedures and can be injured here as well.
  
 ### Q99	
 Which of the following statements about the _coronary circulation_ is FALSE?
@@ -1520,21 +1560,29 @@ Which of the following statements about the _coronary circulation_ is FALSE?
 	C. Changes in blood flow in the coronary arteries occur by auto-regulation
 	D. The interventricular septum is supplied by the left coronary artery only - F
 	E. The right coronary artery arises from the right aortic sinus
-#### Answer: D. The interventricular septum is supplied by the left coronary artery only - ?
+
+#### Answer: D. The interventricular septum is supplied by the left coronary artery only - TRUE
+- Blood flows in an ‘outward to inward’ direction towards the myocardium. During systole, contraction of the ventricles causes compression of the coronary vessels, reducing or even reversing blood flow. This means that it is in diastole when the most blood reaches the myocardium of the left ventricle. Changes in myocardial activity and demand result in release of mediators, which autoregulate the coronary flow according to need. The right coronary artery, which arises from the right aortic sinus, mainly supplies the right ventricle. The left coronary artery, which arises from the left aortic sinus, supplies the left ventricle. Blood supply to the atria is variable. 
+- The interventricular septum is supplied by both arteries
  
 ### Q100
-Which of the following is the strongest of all the other risk factors in the development of _gastric carcinoma_?
+Which of the following is the _strongest_ of all the other _risk factors_ in the development of _gastric carcinoma_?
 
 	A. Helicobacter pylori
 	B. Atrophic gastritis
 	C. Blood group A
 	D. Pernicious anaemia
 	E. Low socioeconomic class
-#### Answer: A. Helicobacter pylori - ?
+
+:#### Answer: A. Helicobacter pylori - *FALSE* = B. Atrophic gastritis - TRUE
+- Atrophic gastritis and hypogammaglobulinaemia are both associated with a 30-fold increase
+- The other conditions listed have proved risks of developing gastric carcinoma but not as great
 
 
 Questions 101-110
 -----------------
+
+30% = F: 102, 103, 104, 106, 107, 108, 109
 
 ### Q101
 A patient with a diagnosis of inflammatory bowel disease (IBD) may have the following _extraintestinal manifestations_, EXCEPT:
@@ -1544,7 +1592,9 @@ A patient with a diagnosis of inflammatory bowel disease (IBD) may have the foll
 	C. Ankylosing spondylitis
 	D. Erythema nodosum
 	E. Sarcoidosis
-#### Answer: E. Sarcoidosis - ?
+
+#### Answer: E. Sarcoidosis - TRUE
+- Inflammatory bowel disease is associated with several extraintestinal manifestations. These include erythema nodosum, pyoderma gangrenosum, uveitis, iritis, episcleritis, seronegative arthritis, sclerosing cholangitis and cirrhosis. Rarely, systemic amyloidosis can occur, but sarcoidosis is not a known association.
  
 ### Q102
 Colonic diverticular disease:
@@ -1552,19 +1602,25 @@ Colonic diverticular disease:
 	A. Can present with a colo-vesical fistula
 	B. Does not present with colonic obstruction - F
 	C. Is an inherited condition - F
-	D. Is a premalignant condition - T
+	D. Is a premalignant condition
 	E. Is not a feature of ageing - F
-#### Answer: D. Is a premalignant condition - ?
+
+#### Answer: D. Is a premalignant condition - *FALSE* = A. Can present with a colo-vesical fistula - TRUE
+- Diverticular disease occurs in the colon more frequently in the developed countries and increases with increasing age. It is not inherited and has no known risk of causing colorectal cancers. There are theories suggesting that their development may be due to high intraluminal pressures arising from diets that lack fibre and cause the colon to strain in propelling the stools along. Diverticular disease may present as diverticulitis, although it may also present as obstruction, perforation, or even as a fistula into surrounding organs such as bladder, uterus, vagina and even skin.
  
 ### Q103	
 Which of the following _stoma complications_ makes closure technically easier?
 
-	A. Parastomal hernia - F
+	A. Parastomal hernia
 	B. Prolapse - F
 	C. Stenosis
 	D. Retraction - F
 	E. Ischaemia - F
-#### Answer: C. Stenosis - ?
+
+#### Answer: C. Stenosis - *FALSE* = A. Parastomal hernia - TRUE
+- Parastomal hernias spread and stretch tissue planes
+	- making stoma closure technically easier
+- On reversal of stoma, hernia repair can be undertaken at same operation
  
 ### Q104
 Which of the following statements regarding _immunosuppressive drugs_ used in _renal transplantation_ is CORRECT?
@@ -1574,7 +1630,10 @@ Which of the following statements regarding _immunosuppressive drugs_ used in _r
 	C. Mycophenolate works by inhibiting enzymes in the pathway for purine synthesis
 	D. Sirolimus has greater nephrotoxicity than ciclosporin
 	E. Basiliximab is not commonly used as an induction agent in renal transplants
-#### Answer: D. Sirolimus has greater nephrotoxicity than ciclosporin - ?
+
+#### Answer: D. Sirolimus has greater nephrotoxicity than ciclosporin - *FALSE* = C. Mycophenolate works by inhibiting enzymes in the pathway for purine synthesis - TRUE
+- Mycophenolate inhibits enzymes in the pathway of purine synthesis and is more effective and selective than azathioprine in preventing acute rejection episodes in transplanted organs
+- It blocks proliferation of T and B cells, thereby inhibiting formation of antibodies and generation of cytotoxic T cells.
  
 ### Q105
 _Bowel obstruction_ can be caused by all of the following, EXCEPT:
@@ -1584,37 +1643,51 @@ _Bowel obstruction_ can be caused by all of the following, EXCEPT:
 	C. Adhesions from previous surgery - T
 	D. Intussusception - T
 	E. Polyp - T
-#### Answer: B. Hiatus hernia - ?
- 
+
+#### Answer: B. Hiatus hernia - TRUE
+- Hiatus hernia is a protrusion of a viscus
+	- usually stomach or upper oesophagus, through oesophageal hiatus
+- These hernias are usually classed as being of the sliding or rolling variety
+	- may even result in strangulation or perforation
+	- although obstruction does not typically occur from these hernias
+
 ### Q106
 The commonest infection to affect the _asplenic patient_ following splenectomy is:
 
-	A. Streptococcus pneumoniae - F
+	A. Streptococcus pneumoniae
 	B. Neisseria meningitidis - F
 	C. Escherichia coli - F
 	D. Haemophilus influenzae
 	E. Staphylococcus aureus
-#### Answer: D. Haemophilus influenzae - ?
+
+#### Answer: D. Haemophilus influenzae - *FALSE* = A. Streptococcus pneumoniae - TRUE
+- The asplenic patient is at risk of infections from encapsulated organisms such as streptococci, Neisseria meningitidis, Haemophilus influenzae
+- Commonest infection to affect asplenic patient out of this group is *Streptococcus pneumoniae*
+- Regular immunisations as well as penicillin prophylaxis is mandatory for these patients
  
 ### Q107
 All of the following statements regarding the _management of trauma in pregnant women_ are true, EXCEPT:
 
 	A. A qualified surgeon and obstetrician should always be consulted early in the evaluation of the pregnant patient - T
 	B. Small-bowel injury is commoner in upper abdominal penetrating wounds than lower penetrating injuries in late pregnancy - T
-	C. Pregnant women show earlier signs of hypovolaemia during haemorrhage - T
+	C. Pregnant women show earlier signs of hypovolaemia during haemorrhage - F
 	D. Unless contraindicated, pregnant women should be placed in the left-lateral position during assessment and management as early as possible - T
-	E. All Rh-negative pregnant patients should be considered for Rh immunoglobulin therapy in penetrating abdominal injuries
-#### Answer: E. All Rh-negative pregnant patients should be considered for Rh immunoglobulin therapy in penetrating abdominal injuries - ?
+	E. All Rh-negative pregnant patients should be considered for Rh immunoglobulin therapy in penetrating abdominal injuries - T
+
+#### Answer: E. All Rh-negative pregnant patients should be considered for Rh immunoglobulin therapy in penetrating abdominal injuries - *FALSE* = C. Pregnant women show earlier signs of hypovolaemia during haemorrhage - TRUE
+- The management of a pregnant woman in the trauma setting is no different from that of a normal patient. In this case the mother rather than the fetus takes priority and an obstetrician needs to be involved from early on. A special consideration that needs to be addressed is that, in mid- to late pregnancy, a large uterus can compress the IVC when lying in the supine position, and so a left-lateral position whenever possible will provide a better volume return to the heart, as there is lack of caval compression. Pregnant women exhibit slightly altered physiology, which needs to be considered as well; they may not show signs of haemorrhage as they have a larger vascular volume.
  
 ### Q108 - LEARN
 Which of the following is NOT part of the Glasgow Scale used to assess the severity of pancreatitis on initial assessment?
 
-	A	White cell count >15×109/l
-	B	PaO2 <60 mmHg
-	C	Age >55 years
-	D	Glucose <10 mmol/l
-	E	Lactate dehydrogenase (LDH) >600 units/l
-#### Answer: 
+	A. White cell count >15 × 109/l
+	B. PaO2 <60 mmHg
+	C. Age >55 years
+	D. Glucose <10 mmol/l
+	E. Lactate dehydrogenase (LDH) >600 units/l
+
+#### Answer: C. Age >55 years - *FALSE* = D. Glucose <10 mmol/l - TRUE
+- The Glasgow scale is one of the scoring systems used to determine the severity of an attack of pancreatitis. The criteria used are: age >55, WBC >15 × 109/l, blood glucose >10 mmol/l, serum urea >16 mmol/l, PaO2 <8 kPa, serum calcium <2.0 mmol/l, albumin <32 g/l, LDH >600 units/l, AST/ALT >100 U/l. The other scoring system in use is Ranson’s criteria.
  
 ### Q109
 Complications of _intraosseous needle puncture_ in children include all of the following, EXCEPT:
@@ -1622,9 +1695,15 @@ Complications of _intraosseous needle puncture_ in children include all of the f
 	A. Physeal plate injury
 	B. Skin pressure necrosis - T
 	C. Subperiosteal infiltration - T
-	D. Musculocutaneous fistula - T
+	D. Musculocutaneous fistula
 	E. Osteomyelitis - T
-#### Answer: A. Physeal plate injury - ?
+
+#### Answer: A. Physeal plate injury - *FALSE* = D. Musculocutaneous fistula - TRUE
+- Intraosseous needle insertion is not without its recognised complications
+	- Musculocutaneous fistulae are not recognised complications as they do not exist
+- A fistula is an abnormal communication between two epithelial surfaces 
+	- an abscess or infection can drain from the muscle into the skin
+- However, this would by definition **not** be called a musculocutaneous fistula
  
 ### Q110 - LEARN
 Which of the following volumes of blood loss would accurately fall into a class II haemorrhage?
@@ -1634,7 +1713,16 @@ Which of the following volumes of blood loss would accurately fall into a class 
 	C. 1000 ml
 	D. 1500 ml
 	E. 2000 ml
-#### Answer: C. 1000 ml - ?
+#### Answer: C. 1000 ml - TRUE
+
+##### Class of Haemorrhage
+
+Class	| Volume Lost	| % Blood Loss	|
+--------|---------------|---------------|
+I		| < 750	mL		| < 15%
+II		| 750-1500 mL	| 15-30%
+III		| 1500-2000 mL	| 30-40%
+IV		| > 2000 mL		| > 40%
 
 
 Questions 111-120
