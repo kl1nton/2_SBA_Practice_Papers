@@ -3,25 +3,27 @@ SBA Practice Paper: 2
 
 Group	| Score			| Errors 					|
 --------|---------------|---------------------------|
-1-10	| 
-11-20	| 
-21-30	| 
-31-40	| 
-41-50	| 
-51-60	| 
-61-70	| 
-71-80	| 
-81-90	| 
-91-100	| 
-101-110	| 
-111-120	|
-121-130	|
-131-135	| 
+1-10	| 4/10 =  40%	| 1, 2, 4, 5, 7, 9
+11-20	| ?/10 =  ??%	|  
+21-30	| ?/10 =  ??%	| 
+31-40	| ?/10 =  ??%	| 
+41-50	| ?/10 =  ??%	|  
+51-60	| ?/10 =  ??%	| 
+61-70	| ?/10 =  ??%	|  
+71-80	| ?/10 =  ??%	|  
+81-90	| ?/10 =  ??%	|  
+91-100	| ?/10 =  ??%	|  
+101-110	| ?/10 =  ??%	|  
+111-120	| ?/10 =  ??%	|  
+121-130	| ?/10 =  ??%	| 
+131-135	| ?/5  =  ??%	|   
 
 Overall: ??/120 = ??.0%
 
-Questions 1-10 - HERE
+Questions 1-10
 --------------
+
+40% = F: 1, 2, 4, 5, 7, 9
 
 ### Q1
 Structures derived from the _first (mandibular) branchial arch_ include all of the following, EXCEPT:
@@ -31,7 +33,26 @@ Structures derived from the _first (mandibular) branchial arch_ include all of t
 	C. Incus and malleus
 	D. Mylohyoid
 	E. Tensor tympani
-#### Answer: C. Incus and malleus - ?
+
+#### Answer: C. Incus and malleus - *FALSE* = B. Stylohyoid ligament - TRUE
+
+Arch			| Nerve	| Bone							| Muscles						| Ligaments			|
+----------------|-------|-------------------------------|-------------------------------|-------------------|
+1st 			| V		| Incus							| Muscles of Mastication		| Sphenomandibular	
+(*mandibular*)	|		| Malleus						| Tensor tympani				| Anterior ligament of malleus
+				|		|								| Tensor palati					|
+				|		|								| Mylohyoid						|
+				|		|								| Anterior belly of digastric	|
+2nd 			| VII	| Stapes						| Stapedius						| 
+(*hyoid*)		|		| Styloid process				| Stylohyoid					| Stylohoid
+				|		| Upper part of Body of Hyoid	| Posterior belly of digastric	|
+				|		| Lesser Cornu of Hyoid			| Muscles of facial expression	|
+3rd				| IX	| Greater cornu of hyoid		| Stylopharyngeus				|
+				|		| Lower part of Body of Hyoid	|								|
+4th-6th			| X		| Thyroid cartilage				| Pharyngeal muscles			|
+				|		| Arytenoid cartilage			| Laryngeal muscles				|
+				|		| Corniculate cartilage			| Palatal muscles				|
+				|		| Cuneiform cartilage			|								|
  
 ### Q2	
 Regarding _branchial cysts_, which of the following statements is FALSE?
@@ -41,9 +62,20 @@ Regarding _branchial cysts_, which of the following statements is FALSE?
 	C. They occur at the junction of the lower third and upper two-thirds of sternocleidomastoid
 	D. They are present in 60% of males
 	E. A quarter of cysts become infected
-#### Answer: D. They are present in 60% of males - ?
+
+#### Answer: D. They are present in 60% of males - *FALSE* = C. They occur at the junction of the lower third and upper two-thirds of sternocleidomastoid - TRUE
+- Branchial cysts are congenital epithelial cysts which arise on the lateral part of the neck from a failure of obliteration of the second branchial cleft in embryonic development
+- Branchial cysts are commonly found in young adults, 60% on the left and 60% in males
+	- They are lined by stratified squamous epithelium
+- Most arise deep to the anterior border of sternocleidomastoid 
+	- At the junction of the upper third and the lower two-thirds of this muscle
+- Diagnosis is made by clinical assessment and needle aspiration
+- Depending on the size and the anatomical extension of the mass
+	- Local symptoms include: dysphagia, dysphonia, dyspnoea and stridor
+- Needle aspiration may reveal cholesterol crystals
+- Approximately 25% of all cysts become infected
  
-### Q3	
+### Q3 - LEARN
 Which one of the following statements regarding the development of the _parathyroid glands_ is TRUE?
 
 	A. The superior parathyroids develop from the third pharyngeal pouch - F
@@ -52,7 +84,34 @@ Which one of the following statements regarding the development of the _parathyr
 	D. Development of the inferior parathyroids occurs in company with the parafollicular C cells - F
 	E. The inferior parathyroids can be found in the superior mediastinum in association with the thymus gland
 
-#### Answer: E. The inferior parathyroids can be found in the superior mediastinum in association with the thymus gland - ?
+#### Answer: E. The inferior parathyroids can be found in the superior mediastinum in association with the thymus gland - TRUE
+- Embryology questions are common and simple derivatives of the arches and pouches should be known
+
+#### Arches & Pouches
+- First arch (Meckel’s cartilage)
+	- gives rise to malleus, incus, sphenomandibular ligament and the muscles of mastication
+	- supplied by the mandibular division of the trigeminal nerve (CN Vc)
+- First pouch
+	- gives rise to the Eustachian tube
+- Second arch (Reichert’s cartilage)
+	- gives rise to stapes, styloid process, lesser cornu and superior part of the hyoid bone, stylohyoid ligament and the muscles of facial expression
+	- supplied by the facial nerve (VII)
+- Second pouch
+	- contains the palatine tonsils
+- Third arch
+	- gives rise to the lower part and the greater cornu of the hyoid bone and stylopharyngeus
+	- supplied by the glossopharyngeal nerve (IX)
+- Third pouch
+	- gives rise to the inferior parathyroids (superior part) and thymus (inferior part)
+	- inferior parathyroids might be dragged beyond thyroid gland into upper mediastinum 
+		- to lie alongside the thymus gland
+- Fourth and sixth arches
+	- both give rise to thyroid cartilages and the muscles of the larynx
+	- supplied by the vagus nerve (X)
+- Fourth pouch 
+	- gives rise to the superior parathyroids
+- Sixth pouch 
+	- gives rise to ultimobranchial body (parafollicular C cells)
  
 ### Q4	
 A 55-year-old man presents to you with _back pain and paraesthesia_ along the _medial border of the leg and foot_. A disc prolapse is suspected with compression of which of the following spinal nerve roots?
@@ -62,17 +121,24 @@ A 55-year-old man presents to you with _back pain and paraesthesia_ along the _m
 	C. L5
 	D. S1
 	E. S2
-#### Answer: C. L5 - ?
+
+#### Answer: C. L5 - *FALSE* = B. L4 - TRUE
+- L4 dermatome supplies the sensation of the medial leg from the knee down to the medial aspect of the big toe
+- L3 primarily supplies the superior knee and medial thigh region
+- L5 supplies the lateral leg
+- S1 the lateral foot and heel
  
 ### Q5	
 All of the following are complications of _transurethral resection of prostate_ (TURP), EXCEPT:
 
 	A. Urethral stricture - T
 	B. Retrograde ejaculation - T
-	C. HyPERnatraemia - T
+	C. HyPERnatraemia - F
 	D. Incontinence - T
 	E. Increased risk of myocardial infarction
-#### Answer: E. Increased risk of myocardial infarction - ?
+
+#### Answer: E. Increased risk of myocardial infarction - *FALSE* = C. HyPERnatraemia - TRUE
+- TURP is performed by passing a resectoscope through the urethra into the bladder and using a wire loop to pass electrical current to resect the prostate gland. It is a relatively safe procedure (mortality <0.25%) but is associated with certain complications. These include urinary incontinence (2–4%), erectile dysfunction (5%), urethral stricture (5%), retrograde ejaculation (65%) and increase risk of MI. In addition there is the risk of developing TUR syndrome, which is due to the absorption of irrigation fluid into the body. This presents with hypotension, bradycardia, nausea and vomiting and collapse. Blood tests show hyponatraemia.
  
 ### Q6	
 Which of the following _muscles of mastication_ inserts into the _neck of the mandible_ and _anterior surface of the disc_ of the temporomandibular joint?
@@ -80,19 +146,27 @@ Which of the following _muscles of mastication_ inserts into the _neck of the ma
 	A. Lateral pterygoid
 	B. Medial pterygoid
 	C. Masseter - F
-	D. Buccinator -F
-	E. Temporalis -F
-#### Answer: A. Lateral pterygoid - ?
+	D. Buccinator - F
+	E. Temporalis - F
+
+#### Answer: A. Lateral pterygoid - TRUE
+- Muscles of mastication include the lateral and medial pterygoids, the masseter muscle and the temporalis muscle. The buccinator muscle is a muscle of facial expression and not a mastication muscle. All of the muscles of mastication are supplied by the mandibular division of the trigeminal nerve. Buccinator is supplied by the facial nerve.
  
-### Q7	
+- The lateral pterygoid arises as two heads from the lateral aspect of the lateral pterygoid plate and inserts into the neck of the mandible and the anterior surface of the disc of the temporomandibular joint. The medial pterygoid arises from the medial aspect of the lateral pterygoid plate and a small tubercle of the maxilla and its fibres insert inferolaterally into the roughened medial surface of the mandible near the angle.
+
+- The temporalis muscle arises from the temporal fossa and inserts into the coronoid process of the mandible. The masseter arises from the anterior two-thirds of the lower border of the zygomatic arch as well as the posterior third of the lower border and the whole of the deep surface of the arch. It then inserts into the outer surface of the ramus of the mandible from the mandibular notch above, down to the angle of the mandible. Both temporalis and masseter are palpable on the facial examination as superficial muscles.
+ 
+### Q7 - LEARN
 Which one of these _muscle and nerve pairings_ is correct?
 
 	A. Stylopharyngeus – glossopharyngeal nerve
-	B. Tensor veli palatini – pharyngeal plexus
-	C. Buccinator – cranial nerve Vc
-	D. Palatoglossus – hypoglossal nerve
-	E. Cricothyroid – recurrent laryngeal nerve
-#### Answer: C. Buccinator – cranial nerve Vc - ?
+	B. Tensor veli palatini – pharyngeal plexus - F
+	C. Buccinator – cranial nerve Vc - F
+	D. Palatoglossus – hypoglossal nerve - F
+	E. Cricothyroid – recurrent laryngeal nerve - F
+
+#### Answer: C. Buccinator – cranial nerve Vc - *FALSE* = A. Stylopharyngeus – glossopharyngeal nerve - TRUE
+- There are a few simple rules for muscle innervation. All pharyngeal and palatal muscles are supplied by the pharyngeal plexus (IX, X and sympathetics), except stylopharyngeus, which is supplied by the glossopharyngeal nerve (IX) and tensor veli palatini, which is supplied by the nerve to the medial pterygoid (Vc). All tongue muscles are supplied by the hypoglossal nerve (XII), except palatoglossus, which is supplied by the pharyngeal plexus. Muscles of facial expression are supplied by the facial nerve (VII), except levator palpabrae superioris, which is supplied by the oculomotor nerve (III). Muscles of mastication are supplied by the mandibular division of the trigeminal nerve (Vc), except buccinator, which is supplied by the facial nerve. Laryngeal muscles are supplied by the recurrent laryngeal nerve (X), except cricothyroid, which is supplied by the superior laryngeal nerve (X).
  
 ### Q8	
 Concerning _parasympathetic nerve supply_, which one of the following pairings is correct?
@@ -102,7 +176,9 @@ Concerning _parasympathetic nerve supply_, which one of the following pairings i
 	C. Pterygopalatine ganglion – parotid gland - F
 	D. Auriculotemporal nerve – submandibular gland - F
 	E. Facial nerve – otic ganglion - F
-#### Answer: B. Pterygopalatine ganglion – lacrimal gland - ?
+
+#### Answer: B. Pterygopalatine ganglion – lacrimal gland - TRUE
+- Parasympathetic supply arises from cranial nerves III, VII, IX and X. Oculomotor fibres (CN III, Edinger–Westphal nucleus) pass to the ciliary ganglion before supplying pupillary constriction and accommodation. Facial fibres (CN VII, superior salivary nucleus), via the nervus intermedius and greater petrosal nerve, pass to the pterygopalatine and submandibular ganglion, supplying the lacrimal, submandibular, sublingual and palatine glands. Glossopharyngeal fibres (CN IX, inferior salivary nucleus) run via the lesser petrosal to the otic ganglion and then in the auriculotemporal nerve to the parotid gland. Vagus fibres (CN X, dorsal motor nucleus of vagus) pass to the thorax and abdomen.
  
 ### Q9
 A patient arrives in the Emergency Department with the following arterial blood gas results: PaO2 8.0 kPa; PaCO2 2.0 kPa; pH 7.54; bicarbonate 18 mmol/l. The most likely cause is:
@@ -112,7 +188,14 @@ A patient arrives in the Emergency Department with the following arterial blood 
 	C. Diabetic ketoacidosis (DKA) - F
 	D. Cerebrovascular Accident (CVA) - ?
 	E. Chest wall trauma - F
-#### Answer: A. Excessive vomiting - ?
+
+#### Answer: A. Excessive vomiting - *FALSE* = B. Pulmonary embolus (PE)
+- The example shows a patient with low PaO2, low PaCO2, high pH and low bicarbonate. When PaCO2 is low, it shifts the following equilibrium to the left
+	- CO2 + H2O <> H2CO3 < > H+ + HCO3–
+therefore reducing the concentration of H+ and causing a respiratory alkalosis
+- From the given examples, PE is the most likely cause
+	- this results in hyperventilation, which ‘blows off’ and therefore reduces blood levels of CO2 
+	- but at the same time **fails to achieve satisfactory oxygenation**
  
 ### Q10 - LEARN	
 The operation of choice for treatment of a _strangulated femoral hernia_, which is likely to contain _infarcted small bowel_ is:
@@ -122,7 +205,11 @@ The operation of choice for treatment of a _strangulated femoral hernia_, which 
 	C. Lockwood’s crural or low approach
 	D. Bassini’s low repair
 	E. Lower midline laparotomy
-#### Answer: A. McEvedy’s abdominal approach - ?
+
+#### Answer: A. McEvedy’s abdominal approach - TRUE
+- The abdominal approach is best reserved where bowel resection is contemplated
+- An inguinal or high approach is used to repair co-existing inguinal hernias or where the diagnosis is in doubt
+- For small uncomplicated femoral hernias in the elective setting, the low or crural approach is preferable
 
 
 Questions 11-20
