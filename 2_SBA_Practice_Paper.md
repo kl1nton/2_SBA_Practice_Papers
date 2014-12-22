@@ -589,74 +589,94 @@ All of the following muscles are supplied by the posterior interosseous branch o
 	E	Extensor pollicis brevis
 #### Answer: 
 
+
 Questions 61-70
 ---------------
 
-### 61
+### Q61
 Which of the following statements regarding the triquetral bone is correct?
+
 	A	The degree of contact with the radioulnar articular disc is maximal in full adduction of the wrist joint
 	B	It lies just laterally to the lunate bone
 	C	It forms part of the radiocarpal joint in the wrist
 	D	The hamate lies just anterolaterally to the triquetral
 	E	During forced hyperextension of the wrist joint, anterior dislocation of the triquetral can cause carpal tunnel syndrome
  
-62	A 23-year-old man undergoes open reduction and internal fixation of the right tibia after having sustained injuries from a road traffic accident. Shortly after his return to the ward, he begins to complain of paraesthesia in his toes as well as pain in his right leg, which is not relieved by analgesia. He has good distal pulses and sensation to his right foot. The first step in the management of this patient would be to:
+### Q62	
+A 23-year-old man undergoes open reduction and internal fixation of the right tibia after having sustained injuries from a road traffic accident. Shortly after his return to the ward, he begins to complain of paraesthesia in his toes as well as pain in his right leg, which is not relieved by analgesia. He has good distal pulses and sensation to his right foot. The first step in the management of this patient would be to:
+
 	A	Measure his compartment pressures in the right leg
 	B	Prescribe stronger analgesia as this is a common post-operative complaint
 	C	Call your seniors as he may have a trapped nerve from the surgery
 	D	Book theatres immediately for urgent fasciotomies as you are highly suspicious of compartment syndrome
 	E	Split the cast to relieve any pressure from post-operative swelling and reassess the situation in 10 minutes
  
-63	Drainage of the right testicular vein normally occurs into the:
+### Q63	
+Drainage of the right testicular vein normally occurs into the:
+
 	A	Portal vein
 	B	Inferior vena cava
 	C	Right renal vein
 	D	Right internal iliac vein
 	E	Right suprarenal vein
  
-64	Which of these conditions does NOT predispose towards acute sinusitis?
+### Q64	
+Which of these conditions does NOT predispose towards acute sinusitis?
+
 	A	Immunocompromise
 	B	Dental infection
 	C	Nasal polyposis
 	D	Kartagener syndrome
 	E	Waardenberg syndrome
  
-65	Which of the following is NOT a feature of acute respiratory distress syndrome (ARDS)?
+### Q65	
+Which of the following is NOT a feature of acute respiratory distress syndrome (ARDS)?
+
 	A	Severe hypoxaemia (Pao2/Fio2 <27)
 	B	Pulmonary infiltrates on chest X-ray
 	C	A known cause (eg pancreatitis)
 	D	Cardiac pulmonary oedema
 	E	Pulmonary artery wedge pressure (PAWP) <18 mmHg
  
-66	A 43-year-old female patient has had a successful kidney transplant and is being discharged on the 5th post-operative day. One of the instructions she was given was not to eat grapefruit or drink grapefruit juice. This is because:
+### Q66	
+A 43-year-old female patient has had a successful kidney transplant and is being discharged on the 5th post-operative day. One of the instructions she was given was not to eat grapefruit or drink grapefruit juice. This is because:
+
 	A	Grapefruit juice has large amounts of potassium
 	B	Grapefruit juice is sour and might interfere with the patient’s digestion
 	C	Grapefruit juice can interfere with the metabolism of tacrolimus, one of the immunosuppressive agents being used
 	D	Grapefruit juice can interact with the action of the statin that has been prescribed for her hypercholesterolaemia
 	E	Grapefruit juice can cause diarrhoea and interfere with the patient’s fluid balance
  
-67	Which of the following is NOT a complication of tracheostomy?
+### Q67	
+Which of the following is NOT a complication of tracheostomy?
+
 	A	Tracheal necrosis
 	B	Recurrent laryngeal nerve injury
 	C	Pneumothorax
 	D	Hypothyroidism
 	E	Tracheocutaneous fistula
  
-68	A man presents to the Emergency Department with a very low urine output. Analysis of urine and serum samples gives the following results: urinary sodium 15 mmol/l; urine osmolality 520 mOsmol/kg; urine to serum osmolality ratio 1.5. The most likely cause is:
+### Q68	
+A man presents to the Emergency Department with a very low urine output. Analysis of urine and serum samples gives the following results: urinary sodium 15 mmol/l; urine osmolality 520 mOsmol/kg; urine to serum osmolality ratio 1.5. The most likely cause is:
+
 	A	Bilateral pelvi-ureteric junction (PUJ) obstruction
 	B	Retention secondary to enlarged prostate
 	C	Excessive diarrhoea and vomiting
 	D	Interstitial nephritis
 	E	Glomerulonephritis
  
-69	The most common site affected in oral cavity carcinoma is:
+### Q69	
+The most common site affected in oral cavity carcinoma is:
+
 	A	Hard palate
 	B	Lateral border of the tongue
 	C	Tonsils
 	D	Buccal mucosa
 	E	Soft palate
  
-70	A 50-year-old woman is found to be febrile one day after her total gastrectomy for malignancy. The most likely cause of this is:
+### Q70	
+A 50-year-old woman is found to be febrile one day after her total gastrectomy for malignancy. The most likely cause of this is:
+
 	A	Urinary tract infection
 	B	Pulmonary embolus
 	C	Wound infection
@@ -664,74 +684,94 @@ Which of the following statements regarding the triquetral bone is correct?
 	E	Atelectasis
 #### Answer: 
 
+
 Questions 71-80
 ---------------
 
-### 71
+### Q71
 Which of the following is NOT a test used to determine brainstem death?
+
 	A	Corneal reflex
 	B	Gag reflex
 	C	Caloric test
 	D	Pain reflex
 	E	Flexor response
  
-72	The following vessels all supply blood to the oesophagus, EXCEPT:
+### Q72	
+The following vessels all supply blood to the oesophagus, EXCEPT:
+
 	A	Inferior thyroid artery
 	B	Inferior phrenic artery
 	C	Left gastric artery branches
 	D	Superior phrenic artery
 	E	Aortic and bronchial branches
  
-73	High anal fistulae:
+### Q73	
+High anal fistulae:
+
 	A	Are more common than low anal fistulae
 	B	Open into the rectum above the puborectalis muscle
 	C	Can be managed with a loose seton
 	D	Are typically associated with ulcerative colitis
 	E	May be laid open without hazard
  
-74	Which of the following is NOT used in the definition of systemic inflammatory response syndrome (SIRS)?
+### Q74	
+Which of the following is NOT used in the definition of systemic inflammatory response syndrome (SIRS)?
+
 	A	Temperature >39 °C
 	B	Tachycardia >90 bpm
 	C	Temperature <36 °C
 	D	Bradycardia <45 bpm
 	E	Paco2 <4.3 kPa
  
-75	The developmental origin of the uterus and uterine tubes is the:
+### Q75	
+The developmental origin of the uterus and uterine tubes is the:
+
 	A	Pronephric ducts
 	B	Mesonephric ducts
 	C	Metanephric ducts
 	D	Paramesonephric ducts
 	E	Wolffian ducts
  
-76	High-output stomas are associated with all of the following, EXCEPT:
+### Q76	
+High-output stomas are associated with all of the following, EXCEPT:
+
 	A	Distal position
 	B	Electrolyte disturbances
 	C	Diarrhoea
 	D	Octreotide to reduce output
 	E	Loperamide to reduce output
  
-77	A 57-year-old man was admitted to Neurointensive Care after a subarachnoid haemorrhage. He is not brainstem-dead, but the neurosurgeon is of the opinion that further treatment is futile. His long-standing partner of 15 years, a 55-year-old man, is in agreement that treatment should be withdrawn. Which of the following statements is TRUE?
+### Q77	
+A 57-year-old man was admitted to Neurointensive Care after a subarachnoid haemorrhage. He is not brainstem-dead, but the neurosurgeon is of the opinion that further treatment is futile. His long-standing partner of 15 years, a 55-year-old man, is in agreement that treatment should be withdrawn. Which of the following statements is TRUE?
+
 	A	The patient cannot be a kidney donor because he is gay
 	B	The patient cannot be a kidney donor because he is not brainstem-dead
 	C	The patient cannot be a donor because he is too old
 	D	The patient is a potential non-heart-beating donor of his liver and kidneys
 	E	Organ retrieval from such a patient is illegal
  
-78	Concerning laparoscopic surgery, which of the following is NOT true?
+### Q78	
+Concerning laparoscopic surgery, which of the following is NOT true?
+
 	A	Shoulder-tip pain is a common post-operative complaint
 	B	Bowel perforation should have consent
 	C	Verres needles should be inserted under direct vision
 	D	Conduction coupling is a recognised risk
 	E	Pneumoperitoneum can lead to pneumomediastinum
  
-79	Smoking causes all of the following physiological effects, EXCEPT:
+### Q79	
+Smoking causes all of the following physiological effects, EXCEPT:
+
 	A	A shift of the oxygen dissociation curve to the left
 	B	Impaired wound healing and increased risk of wound breakdown
 	C	Impaired mucociliary function
 	D	No change in cardiovascular function when stopped 1 day before surgery
 	E	An increase in pulse rate and mean arterial pressure
  
-80	Which of the following phases is correctly matched with its physiological action within the cardiac ventricular muscle action potential graph?
+### Q80	
+Which of the following phases is correctly matched with its physiological action within the cardiac ventricular muscle action potential graph?
+
 	A	Phase 0 – resting membrane potential
 	B	Phase 1 – rapid depolarisation
 	C	Phase 2 – slow depolarisation plateau
@@ -739,74 +779,94 @@ Which of the following is NOT a test used to determine brainstem death?
 	E	Phase 4 – slow repolarisation
 #### Answer: 
 
+
 Questions 81-90
 ---------------
 
-### 81
+### Q81
 During observation of the venous pulse, you note that the x descent is:
+
 	A	Is prominent in atrial systole
 	B	Is synchronous with the carotid pulse wave
 	C	Reflects a rise in atrial pressure before the tricuspid valve opens
 	D	Is due to the tricuspid valve moving down during ventricular systole
 	E	Reflects opening of the tricuspid valve and a fall in right atrial pressure
  
-82	During the lateral (Hardinge’s) approach to the hip, which one of the following nerves can be injured?
+### Q82	
+During the lateral (Hardinge’s) approach to the hip, which one of the following nerves can be injured?
+
 	A	Tibial
 	B	Sciatic
 	C	Inferior gluteal
 	D	Superior gluteal
 	E	Obturator
  
-83	A tumour marker used in surveillance after orchidectomy for nonseminomatous germ-cell tumours (NSGCT) of the testes is:
+### Q83	
+A tumour marker used in surveillance after orchidectomy for nonseminomatous germ-cell tumours (NSGCT) of the testes is:
+
 	A	Prostate-specific antigen (PSA)
 	B	Alpha-fetoprotein (AFP)
 	C	CA-125
 	D	Carcinoembryonic antigen (CEA)
 	E	CA-19-9
  
-84	In a healthy 70-kg male at rest, the normal coronary blood flow is:
+### Q84	
+In a healthy 70-kg male at rest, the normal coronary blood flow is:
+
 	A	100 ml/min
 	B	250 ml/min
 	C	500 ml/min
 	D	750 ml/min
 	E	1000 ml/min
  
-85	The following are known to cause a metabolic acidosis, EXCEPT:
+### Q85	
+The following are known to cause a metabolic acidosis, EXCEPT:
+
 	A	Myocardial infarction
 	B	Ischaemic bowel
 	C	Diabetic ketoacidosis
 	D	Sepsis
 	E	Persistent vomiting
  
-86	Which of the following is true of ulcerative colitis?
+### Q86	
+Which of the following is true of ulcerative colitis?
+
 	A	It is commonly associated with anal fistulae
 	B	It is commonly associated with oral ulceration
 	C	It is worsened by smoking
 	D	It is associated with abdominal masses
 	E	It is associated with joint pain
  
-87	Which of the following is NOT a feature of multiple endocrine neoplasia type II?
+### Q87	
+Which of the following is NOT a feature of multiple endocrine neoplasia type II?
+
 	A	Medullary thyroid cancer
 	B	Phaeochromocytoma
 	C	Pituitary adenoma
 	D	Parathyroid tumours
 	E	Multiple mucosal neuromas
  
-88	All of the following statements regarding malignant hyperpyrexia are true, EXCEPT:
+### Q88	
+All of the following statements regarding malignant hyperpyrexia are true, EXCEPT:
+
 	A	Relatives of affected individuals should always be tested
 	B	Inheritance is in an autosomal recessive pattern
 	C	Incidence is 1 in 200 000
 	D	Treatment involves the use of dantrolene sodium and fluids
 	E	Conclusive diagnosis requires a muscle biopsy in addition to the clinical picture
  
-89	The main host defences against bacterial exotoxins in a person with an intact immunological system are:
+### Q89	
+The main host defences against bacterial exotoxins in a person with an intact immunological system are:
+
 	A	T-helper cells
 	B	T-cytotoxic cells
 	C	Activated macrophages that secrete proteases
 	D	IgM and IgG antibodies
 	E	Host-cell receptor modulation in response to toxins
  
-90	The inguinal canal:
+### Q90	
+The inguinal canal:
+
 	A	Is approximately 2.5-cm long
 	B	Has the fascia transversalis covering its whole posterior wall
 	C	Has an internal ring lying 5 cm above the middle of the inguinal ligament
@@ -814,74 +874,94 @@ During observation of the venous pulse, you note that the x descent is:
 	E	Has the inferior epigastric artery lying medial to its deep ring
 #### Answer: 
 
+
 Questions 91-100
 ----------------
 
-### 91
+### Q91
 All of the following statements regarding interferons are correct, EXCEPT that they:
+
 	A	Are induced by dsRNA
 	B	Are typically specific to their host species cell of origin
 	C	Appear typically before antibodies in viral infections
 	D	Inhibit the growth of both DNA and RNA viruses
 	E	Enhance the metabolism of infected cells
  
-92	Which of the following statements regarding the hepatitis B virus (HBV) is correct?
+### Q92	
+Which of the following statements regarding the hepatitis B virus (HBV) is correct?
+
 	A	HBV belongs to the Picornaviridae group of viruses
 	B	Hepatitis B cannot be transmitted via breast milk
 	C	25% of patients infected with hepatitis B become chronic carriers
 	D	Risk of transmission from needlestick injuries is greater for HBV than for HIV
 	E	HBV vaccines are live attenuated vaccines
  
-93	The CHARGE syndrome is NOT associated with which of the following conditions?
+### Q93	
+The CHARGE syndrome is NOT associated with which of the following conditions?
+
 	A	Choanal atresia
 	B	Genital abnormalities
 	C	Facial nerve palsy
 	D	Retarded lung maturation
 	E	Coloboma
  
-94	Indications for splenectomy include all of the following, EXCEPT:
+### Q94	
+Indications for splenectomy include all of the following, EXCEPT:
+
 	A	Thrombotic thrombocytopenic purpura
 	B	Felty syndrome
 	C	Thrombocytopenia associated with drug abuse
 	D	Sickle cell disease without hypersplenism
 	E	Splenomegaly related to haemodialysis
  
-95	The clinical presentation of neurogenic shock includes which one of the following combinations of signs?
+### Q95	
+The clinical presentation of neurogenic shock includes which one of the following combinations of signs?
+
 	A	Hypotension, bradycardia, warm skin
 	B	Hypotension, tachycardia, warm skin
 	C	Hypotension, bradycardia, cool skin
 	D	Hypotension, tachycardia, cool skin
 	E	Hypertension, bradycardia, cool skin
  
-96	A woman with suspected breast cancer has fine-needle aspiration (FNA) of a breast lump. The report comes back as ‘C3’. What does this mean?
+### Q96	
+A woman with suspected breast cancer has fine-needle aspiration (FNA) of a breast lump. The report comes back as ‘C3’. What does this mean?
+
 	A	Equivocal
 	B	Suspicious for cancer
 	C	Inadequate sample
 	D	Definitely malignant
 	E	Benign
  
-97	Which of the following statements regarding suxamethonium is TRUE?
+### Q97	
+Which of the following statements regarding suxamethonium is TRUE?
+
 	A	It is a non-depolarising muscle relaxant
 	B	It is not very useful in crash inductions
 	C	It is structurally similar to the acetylcholine molecule
 	D	Prolonged action can be due to the presence of too much plasma cholinesterase
 	E	It has a half-life of 10 minutes, making it short-acting
  
-98	The following brachial plexus injuries would all give rise to the accompanying deficits, EXCEPT:
+### Q98	
+The following brachial plexus injuries would all give rise to the accompanying deficits, EXCEPT:
+
 	A	Radial nerve lesion – wrist drop
 	B	Ulnar nerve lesion – claw deformity
 	C	Axillary nerve injury – insensate shoulder patch
 	D	Median nerve palsy – weakened thumb movements + loss of sensation to lateral palm
 	E	Thoracodorsal nerve injury – winged scapula
  
-99	Which of the following statements about the coronary circulation is FALSE?
+### Q99	
+Which of the following statements about the coronary circulation is FALSE?
+
 	A	Most of the perfusion of the left ventricle occurs during diastole
 	B	Direction of blood flow to the myocardium is from the outer surface of the heart inwards
 	C	Changes in blood flow in the coronary arteries occur by auto-regulation
 	D	The interventricular septum is supplied by the left coronary artery only
 	E	The right coronary artery arises from the right aortic sinus
  
-100	Which of the following is the strongest of all the other risk factors in the development of gastric carcinoma?
+### Q100
+Which of the following is the strongest of all the other risk factors in the development of gastric carcinoma?
+
 	A	Helicobacter pylori
 	B	Atrophic gastritis
 	C	Blood group A
