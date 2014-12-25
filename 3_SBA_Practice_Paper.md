@@ -32,27 +32,48 @@ All of the following muscles are usually *supplied by the obturator nerve*, EXCE
 	C. Gracilis
 	D. Obturator externus
 	E. Adductor brevis
-#### Answer: D. Obturator externus - ?
+#### Answer: D. Obturator externus - *FALSE* = A. Pectineus
+- Obturator Nerve is derived from the anterior primary rami of L2, L3 and L4 of the lumbar plexus
+- Nerve supply to **adductors** and the skin overlying these muscles on **Medial Side of Thigh**
+- It travels medially in relation to Psoas Major and passes through the **obturator foramen**
+- It divides into anterior and posterior divisions around Adductor Brevis 
+
+- 2x Branches of Obturator Nerve supply:
+	- Anterior Branch
+		- Adductor brevis
+		- Adductor longus
+		- Gracilis
+	- Posterior Branch
+		- Adductor magnus (also partly supplied by tibial nerve – hamstring portion)
+		- Obturator externus
+
+**Notes**
+- Pectineus occasionally receives a nerve twig from Obturator Nerve
+	- Although it is classically supplied by Femoral Nerve
  
 ### Q2	
 Select the correct statement regarding *action potentials*:
 
 	A. The size and shape of the action potential becomes smaller as it spreads across the membrane
 	B. The size and shape of action potentials are the same from one excitable tissue to another - F
-	C. The accumulation of positive charges due to Na+ influx promotes further depolarisation of the cell membrane - F
+	C. The accumulation of positive charges due to Na+ influx promotes further depolarisation of the cell membrane
 	D. Repolarisation after an action potential is due to inactivation of the postassium channels
 	E. Tetrodotoxin (TTX) is a specific blocker of the potassium channel
-#### Answer: D. Repolarisation after an action potential is due to inactivation of the postassium channels - ?
+#### Answer: D. Repolarisation after an action potential is due to inactivation of the postassium channels - *FALSE* = C. The accumulation of positive charges due to Na+ influx promotes further depolarisation of the cell membrane
+- An action potential is a sequence of changes in the membrane potential that occurs when a nerve or muscle membrane impulse spreads over its surface. Any factor that increases the permeability of the cell to Na+ can elicit an action potential. Action potentials take different forms in terms of size and shape in different tissues (eg motor 2 ms, skeletal 5 ms and cardiac ventricle 200 ms). However, the action potential is propagated without decrement down the entire length of nerve or muscle fibres.
+ 
+- The action potential is based on successive increases in conductance of Na+, then K+; there would be no net movement of ions across the membrane if this were to occur simultaneously. Action potentials are most often initiated by the opening of the ligand-gated ion channels that increase the permeability of the membrane to Na+, allowing these ions to enter the cells and thus cause Em (membrane potential) to move closer to ENa. In a resting cell the membrane potential is very close to the equilibrium potential of potassium. During an action potential, opening of the voltage-gated sodium channels leads to further depolarisation. This process becomes explosively self-regenerating when Em reaches about –45 mV to –50 mV. At the peak of depolarisation, around +35 mV, sodium channels deactivate and the permeability to Na+ rapidly diminshes. At the same time, voltage-gated potassium channels open so that Em moves back towards EK. During an action potential it is only the voltage-gated sodium channels that inactivate and not the potassium channels. TTX is a selective sodium-channel blocker that binds to the extracellular side.
  
 ### Q3	
 Select the correct statement regarding cerebrospinal fluid (CSF):
 
-	A. It is produced by specialised endothelial cells covering the choroid plexuses
+	A. It is produced by specialised endothelial cells covering the choroid plexuses - F
 	B. It has similar composition to plasma EXCEPT for glucose
 	C. It is produced at 1.5 ml/min, allowing it to be turned over four times a day
 	D. About half of the volume is distributed in the ventricles at any one time
 	E. It plays a critical role in important brain functions and in providing nutritive support
-#### Answer: C. It is produced at 1.5 ml/min, allowing it to be turned over four times a day - ?
+#### Answer: C. It is produced at 1.5 ml/min, allowing it to be turned over four times a day - *FALSE* = E. It plays a critical role in important brain functions and in providing nutritive support
+- CSF is produced largely by the choroid plexuses, which are capillary loops covered by specialised ependymal cells located in the ventricular system. It is produced at a rate of 0.35–0.5 ml/min, distributed approximately as 20 ml in the ventricles, 45 ml in the cranial subarachnoid space and the rest in the spinal subarachnoid space and central canal. CSF has lower concentrations of K+, glucose and protein but greater concentrations of Na+ and Cl– than blood. CSF is important in regulation of brain function in many ways, for example: CSF pH and PCO2 on respiration; CSF sodium chloride on AVP (vasopressin); CSF carriage of neuromodulators, eg opioids. It plays a minor role in supplying glucose to inaccessible areas.
  
 ### Q4	
 All of the following special precautions should be taken when operating on a patient with known *HIV status*, EXCEPT:
@@ -62,7 +83,15 @@ All of the following special precautions should be taken when operating on a pat
 	C. Minimising the presence of unnecessary theatre staff - T
 	D. Operating in a theatre with negative-pressure air ventilation
 	E. Use of the kidney dish to pass all instruments - T
-#### Answer: D. Operating in a theatre with negative-pressure air ventilation - ?
+#### Answer: D. Operating in a theatre with negative-pressure air ventilation - TRUE
+- Standard HIV precautions exist to minimise any chance of inoculation from blood contact
+	1. Double gloving
+	2. disposable gowns
+	3. kidney-dish passing of sharp instruments are just some of the few precautions listed
+
+**Notes**	
+- There are no suggestions for specific theatre ventilation in HIV
+	- HIV is not transmitted via airborne routes!
  
 ### Q5	
 The correct ‘shelf-life’ of *platelet concentrates* is:
@@ -72,7 +101,16 @@ The correct ‘shelf-life’ of *platelet concentrates* is:
 	C. -30 °C, maximum 12 months - F
 	D. -65 °C, maximum 3 years - F
 	E. Room temperature, maximum 24 hours
-#### Answer: E. Room temperature, maximum 24 hours - ?
+#### Answer: E. Room temperature, maximum 24 hours - *FALSE* = B. Room temperature, maximum 5 days
+- Platelet transfusions are used for various reasons
+	- e.g. to correct thrombocytopenia prior to operation
+- NOTE: They should be ABO-compatible
+- Platelets have a shelf-life of 5 days at room temperature
+
+**Notes**
+- Red blood cell (RBC) concentrates have a shelf-life of 35 days at 4 °C
+- Fresh frozen plasma (FFP) can be stored for a maximum of 12 months at –30 °C
+- Granulocytes can be kept for 24 hours at room temperature
  
 ### Q6	
 Which one of the following statements regarding *skeletal muscle* is CORRECT?
@@ -82,7 +120,20 @@ Which one of the following statements regarding *skeletal muscle* is CORRECT?
 	C. An action potential in a skeletal muscle only lasts 1–2 ms
 	D. Fatigue results from depletion of muscle ATP levels
 	E. Fast muscle fibres contain myosin with high ATPase activity
-#### Answer: E. Fast muscle fibres contain myosin with high ATPase activity - ?
+#### Answer: E. Fast muscle fibres contain myosin with high ATPase activity - TRUE
+- A graded increase in tension is produced by recruiting more motor units 
+	- as well as by increasing the firing rate of the motor neurones of each motor unit
+- Skeletal muscle is innervated by the **somatic nervous system** and not by the autonomic nervous system
+- An action potentials lasts 2–4 ms and travels at a rate of 5 m/s
+- Contraction-to-peak-tension is much quicker in fast muscle fibres than in slow ones
+	- Where there is low ATPase activity (slow muscle fibres)
+
+**Notes**
+- The reason for muscle fatigue is unknown, but the following contribute to it
+	- H+ ion (acid)
+	- Lactate
+	- PO43- ion rise
+	- Failure of Ca2+-ATPase of the *sarcoplasmic reticulum* 
  
 ### Q7	
 A 23-year-old patient with *myasthenia gravis* is admitted under your care for a thymectomy. On further reading you discover that this autoimmune disorder affects the neuromuscular junction. Which one of the following statements concerning *neuromuscular junctions* is CORRECT?
@@ -92,27 +143,43 @@ A 23-year-old patient with *myasthenia gravis* is admitted under your care for a
 	C. Choline is synthesised in adequate amounts in the ends of motor neurones - F
 	D. In myasthenia gravis the number of acetylcholine (Ach) molecules released is dramatically reduced
 	E. It is an example of a chemical synapse - F
-#### Answer: D. In myasthenia gravis the number of acetylcholine (Ach) molecules released is dramatically reduced - ?
+#### Answer: D. In myasthenia gravis the number of acetylcholine (Ach) molecules released is dramatically reduced - *FALSE* = E. It is an example of a chemical synapse
+- The chemical synapses between the axons of motor neurones and skeletal muscle are called ‘neuromuscular junctions’. Gap junctions are the contact points between neurones which act as electrical synapses. The axon terminals are unmyelinated and contain many 40-nm-diameter synaptic vesicles containing ACh, the neurotransmitter employed at this synapse. The choline subunit cannot be synthesised by the motor neurone; it is obtained by active uptake from the extracellular fluid by Na+-coupled secondary active transporter in the nerve terminal.
+ - Myasthenia gravis occurs as a result of the production of autoantibodies against the nicotinic receptor. This results in the production of a smaller action potential and subsequent weakened muscle contraction. There is a normal discharge of 100–220 vesicles even in myasthenia gravis. (Each vesicle or quantum contains 100 000 molecules of Ach.)
  
 ### Q8	
 A 12-year-old boy presents to the Emergency Department with spontaneous hip pain and inability to walk. You suspect that the patient might have *slipped upper femoral epiphysis* (SUFE). Which of the following statements regarding SUFE is CORRECT?
 
-	A. The incidence of SUFE is approximately 2%
+	A. The incidence of SUFE is approximately 2% - F
 	B. SUFE is commoner in girls than in boys - F
-	C. The incidence of bilateral SUFE in children with symptomatic disease is around 10% - F
+	C. The incidence of bilateral SUFE in children with symptomatic disease is around 10%
 	D. The clinical presentation can be with pain located in the foot
 	E. It can be managed non-operatively
-#### Answer: D. The clinical presentation can be with pain located in the foot - ?
+#### Answer: D. The clinical presentation can be with pain located in the foot - *FALSE* = C. The incidence of bilateral SUFE in children with symptomatic disease is around 10%
+
+#### Slipped Upper Femoral Epiphysis (SUFE) Facts
+- Incidence is 2 per 100 000 of the population
+- Commoner in boys than girls (3:2)
+- Commonly occurs in the 10–15-years age group
+- Associated with hypogonadism, pituitary dysfunction and hypothyroidism
+- Reported incidence of bilateral disease in cases which are symptomatic is 10%
+- Usual presenting symptom is pain in the groin, thigh or knee, and a limp
+- X-rays should include an AP X-ray as well as a frog-lateral to avoid missing a SUFE
+- Cannulated screws are used to fix the femoral head very soon after diagnosis to prevent progression
+- In severe cases where avascular necrosis has occurred, salvage procedures such as osteotomy, joint replacement or arthrodesis may be required.
  
 ### Q9	
 You are looking after a 73-year-old woman in ITU who requires total parenteral nutrition (TPN) via a central venous catheter in her right internal jugular vein. All of the following are recognised *complications of central venous pressure* (CVP) line insertion, EXCEPT:
 
 	A. Tension pneumothorax - T
 	B. Air embolus - T
-	C. Cardiac arrythmias
-	D. Pleural effusions
-	E. Thrombophlebitis - T
-#### Answer: C. Cardiac arrythmias - ?
+	C. Cardiac arrythmias - T
+	D. Pleural effusions - T
+	E. Thrombophlebitis
+#### Answer: C. Cardiac arrythmias - *FALSE* = E. Thrombophlebitis
+- Thrombophlebitis **does not** usually occur in such large-bore veins
+- It is recognised in peripheral veins with the use of hyperosmolar solutions
+	- Which is why a central vein is used instead
  
 ### Q10	
 *Down syndrome* (trisomy 21) is associated with an increased risk of all of the following *surgical conditions*, EXCEPT:
@@ -120,113 +187,122 @@ You are looking after a 73-year-old woman in ITU who requires total parenteral n
 	A. Endocardial cushion defect
 	B. Cryptorchidism - T
 	C. Duodenal atresia - T
-	D. Diaphragmatic hernia - T
+	D. Diaphragmatic hernia
 	E. Hirschsprung’s disease - T
-#### Answer: A. Endocardial cushion defect - ?
+#### Answer: A. Endocardial cushion defect - *FALSE* = D. Diaphragmatic hernia
+- Although case reports show that diaphragmatic hernias can occur in children with Down's
+	- There is no increased risk above that of the normal population
+
+**Notes**
+- Known surgical conditions associated with Down syndrome - **CHED**
+	1. **C**ryptorchidism
+	2. **H**irschsprung’s disease
+	3. **E**ndocardial cushion defects
+	4. **D**uodenal atresia
 
 
 Questions 11-20
 ---------------
 
 ### Q11
-Which of the following is the most common cause of osteomyelitis in adults?
+Which of the following is the most common cause of *osteomyelitis in adults*?
 
 	A. Sickle cell disease
 	B. Following a compound fracture
 	C. Haematogenous spread
 	D. Immunosuppression
 	E. Following orthopaedic surgery
-#### Answer: 
+#### Answer: B. Following a compound fracture - ?
  
 ### Q12	
-A 39-year-old woman presents to the Orthopaedic Clinic complaining of severe pain and tingling in both hands at nighttime, especially in her thumb, index and middle fingers, and occasionally her ring finger. You confirm that she has carpal tunnel syndrome on nerve conduction tests. The following are all recognised causes of carpal tunnel syndrome, EXCEPT:
+A 39-year-old woman presents to the Orthopaedic Clinic complaining of severe pain and tingling in both hands at nighttime, especially in her thumb, index and middle fingers, and occasionally her ring finger. You confirm that she has carpal tunnel syndrome on nerve conduction tests. The following are all recognised *causes of carpal tunnel syndrome*, EXCEPT:
 
-	A. Acromegaly
+	A. Acromegaly - T
 	B. Rheumatoid arthritis
-	C. Pregnancy
-	D. Addison’s disease
-	E. Repetitive strain injury
-#### Answer: 
+	C. Pregnancy - T
+	D. Addison’s disease - T
+	E. Repetitive strain injury - T
+#### Answer: B. Rheumatoid arthritis - ?
  
 ### Q13	
-Select the correct statement regarding compartment syndrome:
+Select the correct statement regarding *compartment syndrome*:
 
-	A. It presents early with a pulseless limb
+	A. It presents early with a pulseless limb - F
 	B. Ischaemia occurs initially because compartment pressures exceed capillary pressures
-	C. Operative management is only mandatory after failed conservative treatment
-	D. Compartment pressures must be measured prior to any surgical procedure
-	E. Fasciotomy is a recognised cause
-#### Answer: 
+	C. Operative management is only mandatory after failed conservative treatment - F
+	D. Compartment pressures must be measured prior to any surgical procedure - 
+	E. Fasciotomy is a recognised cause - F
+#### Answer: B. Ischaemia occurs initially because compartment pressures exceed capillary pressures - ?
  
 ### Q14
-All of the following are true statements regarding diverticular disease, EXCEPT:
+All of the following are true statements regarding *diverticular disease*, EXCEPT:
 
-	A. It is found more commonly in the developed world
-	B. Surgical treatment is usually unnecessary in acute uncomplicated disease
+	A. It is found more commonly in the developed world - T
+	B. Surgical treatment is usually unnecessary in acute uncomplicated disease - T
 	C. Diverticulae are most commonly found in the descending colon
-	D. Perforation and fistula formation can result from an attack of acute diverticulitis
-	E. Resolution of the diverticulae can occur with a high-fibre diets and adequate hydration
-#### Answer: 
+	D. Perforation and fistula formation can result from an attack of acute diverticulitis - T
+	E. Resolution of the diverticulae can occur with a high-fibre diets and adequate hydration - T
+#### Answer: C. Diverticulae are most commonly found in the descending colon - ?
  
 ### Q15
-A patient has blood sent away for clotting studies and the results show a raised prothrombin time, but activated partial thromboplastin time, thrombin time and platelet count are normal. What is the most likely reason?
+A patient has blood sent away for clotting studies and the results show a *raised prothrombin time*, but activated partial thromboplastin time, thrombin time and platelet count are normal. What is the most likely reason?
 
 	A. Heparin treatment
 	B. Liver disease
 	C. Disseminated intravascular coagulation
 	D. Warfarin treatment
 	E. Vitamin K treatment
-#### Answer: 
+#### Answer: D. Warfarin treatment - ?
  
 ### Q16
-Risk factors for squamous cell carcinoma include the following, EXCEPT:
+Risk factors for *squamous cell carcinoma* include the following, EXCEPT:
 
-	A. UV radiation
-	B. Burn scars
+	A. UV radiation - T
+	B. Burn scars - T
 	C. Surgery
-	D. Vitiligo
-	E. Actinic keratoses and Bowen’s disease
-#### Answer: 
+	D. Vitiligo - T
+	E. Actinic keratoses and Bowen’s disease - T
+#### Answer: C. Surgery - ?
  
 ### Q17
-Clinical features of a basal cell carcinoma include the following, EXCEPT:
+Clinical features of a *basal cell carcinoma* include the following, EXCEPT:
 
-	A. Pink, pearly nodules
-	B. Surface telangiectasia
+	A. Pink, pearly nodules - T
+	B. Surface telangiectasia - T
 	C. Ulceration
 	D. Nodular
 	E. Associated adenopathy
-#### Answer: 
+#### Answer: D. Nodular - ?
  
 ### Q18
-Types of radiation-induced cell damage include all of the following, EXCEPT:
+Types of *radiation-induced cell damage* include all of the following, EXCEPT:
 
-	A. DNA strand breakage
-	B. Free radical peroxidation in cell membrane lipids
-	C. DNA base alterations
-	D. Catalytic dismutation of the superoxide anion
+	A. DNA strand breakage - T
+	B. Free radical peroxidation in cell membrane lipids - T
+	C. DNA base alterations - T
+	D. Catalytic dismutation of the superoxide anion - T
 	E. DNA cross-linking
-#### Answer: 
+#### Answer: E. DNA cross-linking - ?
  
 ### Q19
-All of the following statements regarding the anion gap are true, EXCEPT:
+All of the following statements regarding the *anion gap* are true, EXCEPT:
 
-	A. Normal range is between 10 and 19 mmol/l
-	B. It reflects the concentrations of normally unmeasured anions in the serum
-	C. It will be abnormal in conditions where bicarbonate is lost, such as diarrhoea and fistulae
+	A. Normal range is between 10 and 19 mmol/L
+	B. It reflects the concentrations of normally unmeasured anions in the serum - F
+	C. It will be abnormal in conditions where bicarbonate is lost, such as diarrhoea and fistulae - T
 	D. It is calculated by taking the difference between the main cations and anions in the serum (Na+, K+, HCO3-, Cl-)
 	E. It would be increased in the serum of a runner immediately after a marathon
-#### Answer: 
+#### Answer: D. It is calculated by taking the difference between the main cations and anions in the serum (Na+, K+, HCO3-, Cl-) - ?
  
 ### Q20
-All of the following features are associated with necrotising enterocolitis, EXCEPT:
+All of the following features are associated with *necrotising enterocolitis*, EXCEPT:
 
-	A. Pneumatosis coli
-	B. Bleeding per rectum
+	A. Pneumatosis coli - T
+	B. Bleeding per rectum - T
 	C. Metabolic acidosis
 	D. Haematemesis
 	E. Disseminated intravascular coagulation
-#### Answer: 
+#### Answer: D. Haematemesis - ?
 
 
 Questions 21-30
