@@ -7,8 +7,8 @@ Group	| Score			| Errors 						|
 --------|---------------|-------------------------------|
 1-10	| 2/10 =  20%	|  1,  2,  3,  5,  7,  8, 9, 10
 11-20	| 4/10 =  40%	| 12, 14, 16, 17, 18, 19
-21-30	| ?/10 =  ?%	| 
-31-40	| ?/10 =  ?%	| 
+21-30	| 4/10 =  40%	| 21, 23, 24, 25, 27, 29
+31-40	| 4/10 =  40%	| 31, 35, 36, 37, 38, 40
 41-50	| ?/10 =  ?%	| 
 51-60	| ?/10 =  ?%	| 
 61-70	| ?/10 =  ?%	| 
@@ -405,208 +405,376 @@ Questions 21-30
 ---------------
 
 ### Q21
-Which of the following is NOT a possible long-term complication of gastrectomy?
+Which of the following is NOT a possible long-term *complication of gastrectomy*?
 
 	A. Bolus obstruction
-	B. Dumping
+	B. Dumping - T
 	C. Weight gain
-	D. Vitamin B12 deficiency
+	D. Vitamin B12 deficiency - T
 	E. Low serum calcium
-#### Answer: 
+#### Answer: A. Bolus obstruction - *FALSE* = C. Weight gain
+- Gastrectomy is an effective treatment for gastric carcinoma but is associated with possible long-term complications. Dumping syndrome is caused by food and liquid passing too quickly into the small intestine causing abdominal cramps, diarrhoea, dizziness, sweating, nausea and vomiting. It is thought to be due to accelerated gastric emptying of hyperosmolar contents into the small bowel. This leads to fluid shifts from the intravascular compartment into the bowel lumen. It is often relieved by dietary changes. Another possible problem is vitamin B12 deficiency: the stomach is where intrinsic factor is secreted by the parietal cells and stomach acid also helps to release vitamin B12 from ingested food. Bolus obstruction can occur from the relative reduction in volume of the small intestine compared with the stomach. Hypocalcaemia can also occur post-gastrectomy and is due to increased transit time and therefore reduced time over which absorption can occur. 
+- Because of this malabsorption, **weight loss** is commonly seen post-gastrectomy.
  
 ### Q22	
-All of the following statements regarding fracture healing are true, EXCEPT:
+All of the following statements regarding *fracture healing* are true, EXCEPT:
 
 	A. The internal callus lies within the medullary cavity
-	B. The external callus is related to the periosteum and acts as a splint
-	C. Lamellar bone is subsequently replaced by woven bone
-	D. Maximum bony girth is normally attained within 3 weeks of the injury
+	B. The external callus is related to the periosteum and acts as a splint - T
+	C. Lamellar bone is subsequently replaced by woven bone - F
+	D. Maximum bony girth is normally attained within 3 weeks of the injury - F
 	E. Remodelling takes place according to the direction of mechanical stress
-#### Answer: 
+#### Answer: C. Lamellar bone is subsequently replaced by woven bone - TRUE
+- Bone healing occurs in well-defined stages after the initial trauma. The first stage is the formation of a haematoma from ruptured vessels and periosteum from the ends of the fracture. Following this, macrophages invade the haematoma, together with fibroblasts and polymorphs, to allow new vessel formation, fibrosis and the formation of an organised clot by the end of the first week. Osteoblasts then proceed to grow into the haematoma and form trabeculae of woven bone. This new bone is called ‘callus’ and can also contain some islands of cartilage, which are chondroblast-induced
+- Woven bone is subsequently replaced by lamellar bone and remodelling occurs over time.
+- Normal restoration can take up to a year, although, 
+	- functionally, most bone is clinically healed within 8 weeks
  
 ### Q23	
-Which of the following chemical mediators of acute inflammation is correctly paired with its source?
+Which of the following *chemical mediators of acute inflammation* is correctly paired with its source?
 
 	A. Lysosomes – mast cells
 	B. Histamine – red cells
 	C. Prostaglandins – platelets
 	D. Nitric oxide – neutrophils
 	E. Leukotrienes – eosinophils
-#### Answer: 
+#### Answer: E. Leukotrienes – eosinophils - *FALSE* = C. Prostaglandins – platelets
+
+#### Chemical Mediators of Acute Inflammation - LEARN
+
+Chemical Mediator	| Source (cell type)							|
+--------------------|-----------------------------------------------|
+Lysosomes			| Neutrophils
+Histamine			| Mast cells, basophils, eosinophils, platelets
+Prostaglandins		| Platelets, endothelium, macrophages, others
+Nitric oxide		| Endothelium, macrophages, free radicals
+Leukotrienes		| Neutrophils, mast cells, macrophages, others
+Cytokines			| Many cells
  
 ### Q24	
-All of the following products of complement activation are correctly associated with their functions, EXCEPT:
+All of the following products of *complement activation* are correctly associated with their functions, EXCEPT:
 
 	A. C3a – cytolytic activity
 	B. C3b – opsonisation
 	C. C4b – histamine release from mast cells
 	D. C5a – opsonisation
 	E. C8 – chemotaxis
-#### Answer: 
+#### Answer: C. C4b – histamine release from mast cells - *FALSE* = B. C3b – opsonisation
+- Complement system is a cascade of enzymatic proteins 
+	- Which become activated during the acute inflammatory response
+- The components of the cascade have specific roles in the process of inflammation
+ 
+#### Complement Cascade Components - LEARN
+
+Component			| Function												|
+--------------------|-------------------------------------------------------|
+C5a					| neutrophil chemotaxis
+					| histamine release from mast cells
+					| increase in vascular permeability
+C3a					| similar activity as above but less potent
+C5, C6, C7			| neutrophil chemotaxis
+C5, C6, C7, C8, C9	| MAC (*membrane attack complex*) = cytolytic activity
+C2a, C3b, C4b		| bacterial **opsonisation** and phagocyte facilitation
  
 ### Q25	
-A complete division of the right oculomotor nerve (N III) would result in all of the following signs, EXCEPT:
+A complete division of the *right oculomotor nerve* (CN III) would result in all of the following signs, **EXCEPT**:
 
 	A. Ptosis
 	B. Diplopia
 	C. Convergent squint
 	D. Dilated pupil on the right side
 	E. Loss of a consensual pupillary reflex when the left eye is examined
-#### Answer: 
+#### Answer: E. Loss of a consensual pupillary reflex when the left eye is examined - *FALSE* = C. Convergent squint
+- All of the following signs are seen as well as a divergent squint
+- Occurs because of unopposed action of Lateral Rectus (CN VI) and Superior Oblique (CN IV)
+
+#### LR6-SO4-3 - LEARN
+- CN VI: Lateral Rectus
+- CN IV: Superior Oblique
+- CN III: All the rest
  
 ### Q26	
-A 66-year-old man comes into the Emergency Department with severe tearing chest pain, which radiates to the back. His past medical history includes hypertension and diet-controlled diabetes. Examination reveals an early diastolic murmur and blood pressure differences in both arms of >15 mmHg. The gold-standard investigation of choice in confirming your diagnosis would be:
+A 66-year-old man comes into the Emergency Department with *severe tearing chest pain*, which radiates to the back. His past medical history includes hypertension and diet-controlled diabetes. Examination reveals an early *diastolic murmur* and *blood pressure differences* in both arms of >15 mmHg. The *gold-standard investigation* of choice in confirming your diagnosis would be:
 
 	A. CT chest with contrast
-	B. MRI chest
-	C. Echocardiogram
-	D. Electrocardiogram
+	B. MRI chest - F
+	C. Echocardiogram - F
+	D. Electrocardiogram - F
 	E. Angiogram of the arch vessels
-#### Answer: 
+#### Answer: E. Angiogram of the arch vessels - TRUE
+- Dx: Aortic Dissection
  
 ### Q27	
-Which of the following statements regarding HIV is CORRECT?
+Which of the following statements regarding *HIV* is CORRECT?
 
 	A. It is a double-stranded RNA retrovirus
-	B. HIV infection results in a fall of CD8+ T cells
-	C. HIV can be transmitted in normal saliva
+	B. HIV infection results in a fall of CD8+ T cells - F
+	C. HIV can be transmitted in normal saliva - F
 	D. There is an increased risk of malignancies other than Kaposi’s sarcoma
 	E. Newborn haemophiliacs will have an increased lifetime risk of contracting the virus
-#### Answer: 
+#### Answer: E. Newborn haemophiliacs will have an increased lifetime risk of contracting the virus - *FALSE* = D. There is an increased risk of malignancies other than Kaposi’s sarcoma
+- The HIV or human immunodeficiency virus is a single-stranded RNA retrovirus that 
+	- produces DNA, which is incorporated into host cells using the reverse transcriptase enzyme
+	- Results in a fall in CD4+ T-helper cells and subsequent widespread immunological dysfunction 
+- Opportunistic infections and a wide variety of neoplastic disorders can occur in HIV infection
+
+#### Transmission of HIV - LEARN
+- Sexual transmission
+- Vertical transmission: childbirth or breast-feeding
+- Intravenous drug use (IVDU)
+- Blood transfusion
+
+#### Individuals at Risk of HIV - LEARN
+- Promiscuous individuals and prostitutes (and their partners)
+- Homosexual or bisexual males
+- Intravenous drug abusers
+- Children of affected mothers
+- Haemophiliacs treated before *October 1995*, when routine testing of blood became available
  
 ### Q28	
-A 40-year-old woman presents with right upper quadrant pain and nausea. Ultrasound scan reveals that she has cholecystitis and your consultant asks you to place the patient on a course of ciprofloxacin therapy. Which one of the following statements correctly represents the mechanism of action of ciprofloxacin?
+A 40-year-old woman presents with right upper quadrant pain and nausea. Ultrasound scan reveals that she has cholecystitis and your consultant asks you to place the patient on a course of ciprofloxacin therapy. Which one of the following statements correctly represents the *mechanism of action of ciprofloxacin*?
 
 	A. It binds to the 30s subunit of ribosomes
 	B. It inhibits transpeptidase and cell wall synthesis
 	C. It binds to the 50s subunit of ribosomes
 	D. It inhibits DNA gyrase
 	E. It competitively inhibits dihydrofolate reductase
-#### Answer: 
+#### Answer: D. It inhibits DNA gyrase - TRUE
+- Ciprofloxacin works by blocking DNA synthesis in bacteria by inhibiting DNA gyrase. It is part of the quinolone group of antibiotics.
+
+- Aminogylcosides such as gentamicin, as well as the tetracycline group of antibiotics, work by binding to the 30s subunit of ribosomes and preventing bacterial protein synthesis
+	- In a similar way, chloramphenicol and macrolides such as erythromycin work by binding to the 50s subunit of bacterial ribosomes and so prevent protein synthesis as well.
+ 
+- Penicillins and cephalosporins both inhibit transpeptidase and so inhibit bacterial cell wall synthesis
+	- Resistant bacteria that possess the penicillinase enzyme can break down penicillin and render it inactive
+ 
+- Competitive inhibition of dihydrofolate reductase occurs when trimethoprim is administered
+	- This inhibits the production of tetrahydrofolic acid, which subsequently inhibits bacterial nucleic acid (precursor) synthesis
  
 ### Q29	
-A 46-year-old man is noted to have a platelet count of 28 × 109/l as part of his full blood count results taken at a pre-admission clinic. You decide to postpone elective surgery and investigate this further to find the cause of his condition. Causes of thrombocytopenia include all of the following, EXCEPT:
+A 46-year-old man is noted to have a platelet count of 28 × 10^9/L as part of his full blood count results taken at a pre-admission clinic. You decide to postpone elective surgery and investigate this further to find the cause of his condition. *Causes of thrombocytopenia* include all of the following, EXCEPT:
 
-	A. Multiple myeloma
-	B. Alcohol abuse
-	C. Heparin administration
+	A. Multiple myeloma - T
+	B. Alcohol abuse - T
+	C. Heparin administration - T
 	D. Uraemia
-	E. Hypersplenism
-#### Answer: 
- 
-### Q30	
-Which of the following statements is true regarding the aetiology of colorectal carcinoma?
+	E. HyPERsplenism - T
+#### Answer: E. HyPERsplenism - *FALSE* = D. Uraemia
+- Uraemia can cause bleeding even with a normal platelet count because of loss of or abnormal platelet function
 
-	A. Crohn’s disease poses a similar risk in the development of colorectal carcinoma as does ulcerative colitis
-	B. Malignancy developing from ureterosigmoidostomy classically occurs at some distance from the anastomosis site
-	C. Colon cancer is more prevalent in non-urban areas compared with urban areas
+#### Causes of Abnormal Platelet Function - LEARN
+- Drugs (eg aspirin, NSAIDs)
+- Septicaemia
+- von Willebrand’s disease
+- Bernard–Soulier syndrome
+- Glanzmann’s thromboaesthenia
+
+#### Causes of Thrombocytopenia - LEARN
+- Decreased production
+- Hereditary thrombocytopenia
+- Aplastic anaemia
+- Drugs (cytotoxic agents)
+- Alcohol abuse
+- Viral infections (cytomegalovirus or CMV)
+- Myelodysplasia, myelofibrosis and bone marrow infiltration
+- Heparin-Induced Thrombocytopenia (HIT)
+
+#### Causes of Platelet Destruction - LEARN
+- Thombocytopenic purpura (idiopathic/thrombotic)
+- Drugs (heparin, antibiotics)
+- Post-transfusion
+- Infections
+- Disseminated intravascular coagulation (DIC)
+- *HyPERsplenism*
+
+### Q30	
+Which of the following statements is true regarding the *aetiology of colorectal carcinoma*?
+
+	A. Crohn’s disease poses a similar risk in the development of colorectal carcinoma as does ulcerative colitis - F
+	B. Malignancy developing from ureterosigmoidostomy classically occurs at some distance from the anastomosis site - F
+	C. Colon cancer is more prevalent in non-urban areas compared with urban areas - F
 	D. Hereditary non-polyposis colon cancer (HNPCC) causes over 60% of tumours proximal to the splenic flexure
 	E. Gardner syndrome results from a mutation on chromosome 6
-#### Answer: 
+#### Answer: E. Gardner syndrome results from a mutation on chromosome 6 - *FALSE* = D. Hereditary non-polyposis colon cancer (HNPCC) causes over 60% of tumours proximal to the splenic flexure
+- Gardner syndrome and familial adenomatous polyposis (FAP) share the same APC gene 
+	- that mutates on the long arm of chromosome 5
+- Cancers occurring post-ureterosigmoidostomy classically occur at or near the ureterocolic anastomosis
 
+**NOTE** In HNPCC, around two-thirds (67%) of cancers are proximal to the splenic flexure
+
+#### Risk Factors for Colon Cancer
+- Genetic causes
+- Diet
+- Irradiation
+- Surgical procedures
+- Inflammatory bowel disease
 
 Questions 31-40
 ---------------
 
 ### Q31
-All of the following statements about carcinoma of the gallbladder are correct, EXCEPT:
+All of the following statements about *carcinoma of the gallbladder* are correct, EXCEPT:
 
-	A. The neoplasm usually starts in the cystic duct and neck of the gallbladder
-	B. It is found more commonly in women than in men
-	C. It is associated with the presence of gallstones in >85% of cases
-	D. Prognosis is generally poor with <1-year survival with local invasion
-	E. Chemotherapy and radiotherapy do not alter disease progression
-#### Answer: 
+	A. The neoplasm usually starts in the cystic duct and neck of the gallbladder - FALSE
+	B. It is found more commonly in women than in men - T
+	C. It is associated with the presence of gallstones in >85% of cases - T
+	D. Prognosis is generally poor with <1-year survival with local invasion - T
+	E. Chemotherapy and radiotherapy do not alter disease progression - T
+#### Answer: C. It is associated with the presence of gallstones in >85% of cases - *FALSE* = A. The neoplasm usually starts in the cystic duct and neck of the gallbladder
+- Gallbladder tumours occur in 
+	- Fundus in 60% of patients
+	- Body in 30% of patients
+	- Neck in 10% of patients
+- They are rarely found in the UK and are associated with gallstones and porcelain gallbladders.
  
 ### Q32	
-A 15-year-old boy complains of easy bruising while playing sport and bleeding gums while brushing his teeth. He is seen by the GP, who orders a blood test for coagulation studies. His APTT is normal, but the PT is abnormal. The explanation for this result is a deficit in:
+A 15-year-old boy complains of *easy bruising* while playing sport and *bleeding gums* while brushing his teeth. He is seen by the GP, who orders a blood test for coagulation studies. His APTT is normal, but the PT is abnormal. The explanation for this result is a deficit in:
 
 	A. Platelet function
 	B. Vessel wall
 	C. Common pathway
 	D. Factor VII deficiency
 	E. Intrinsic pathway
-#### Answer: 
+#### Answer: D. Factor VII deficiency - TRUE
  
 ### Q33	
-Failure of normal organ differentiation is defined as:
+Failure of normal *organ differentiation* is defined as:
 
-	A. Agenesis
-	B. Atresia
+	A. Agenesis - F
+	B. Atresia - F
 	C. Hypoplasia
 	D. Dysgenesis
-	E. Heterotopia
-#### Answer: 
+	E. Heterotopia - F
+#### Answer: D. Dysgenesis - TRUE
  
 ### Q34	
-All of the following factors stimulate the progression of the cell cycle, EXCEPT:
+All of the following factors stimulate the *progression of the cell cycle*, EXCEPT:
 
 	A. P53
 	B. PDGF (platelet-derived growth factor)
 	C. EGF (epidermal growth factor)
 	D. IGF-1 (insulin-like growth factor 1)
 	E. IGF-2 (insulin-like growth factor 2)
-#### Answer: 
+#### Answer: A. P53 - TRUE
  
 ### Q35	
-Which of the following statements about the differences between jejunum and ileum are TRUE?
+Which of the following statements about the differences between *jejunum and ileum* are TRUE?
 
-	A. The ileum has a thicker wall than the jejunum
-	B. The jejunum has fewer arterial arcades
-	C. The ileum has a wider lumen
-	D. The jejunum has fewer villi on its inner surface
-	E. The ileum has more valvulae conniventes
-#### Answer: 
+	A. The ileum has a thicker wall than the jejunum - F
+	B. The jejunum has fewer arterial arcades - TRUE
+	C. The ileum has a wider lumen - F
+	D. The jejunum has fewer villi on its inner surface - F
+	E. The ileum has more valvulae conniventes - F
+#### Answer: E. The ileum has more valvulae conniventes - *FALSE* = B. The jejunum has fewer arterial arcades
+- Jejunum forms upper 2/5ths of small bowel: ileum forms lower 3/5ths
+	- There are certain anatomical differences between them
+
+#### Jejunum Compare to Ileum - LEARN
+- Compared with Ileum, Jejunum has
+	1. a thicker wall
+	2. more valvulae conniventes
+	3. a greater number of villi
+	4. a wider lumen
+- There is also a difference in the arrangement of the blood vessels in the small bowel mesentery
+	- Ileal vessels form complex branching arcades before reaching bowel
+	- Jejunal vessels have much simpler arrangement - **fewer arterial arcades**
  
 ### Q36	
-All of the following statements about Herceptin are correct, EXCEPT:
+All of the following statements about *Herceptin* are correct, EXCEPT:
 
-	A. It is a form of immunotherapy as opposed to chemotherapy
-	B. Patients receiving Herceptin need regular cardiac function monitoring
-	C. It can be used in combination with paclitaxel as a first-line agent for metastatic breast cancer with HER2 overexpression
-	D. Up to 40% of patients may get an infusion reaction in the first 24 hours
-	E. Polycythaemia and leukaemia may occur
-#### Answer: 
+	A. It is a form of immunotherapy as opposed to chemotherapy - T
+	B. Patients receiving Herceptin need regular cardiac function monitoring - T
+	C. It can be used in combination with paclitaxel as a first-line agent for metastatic breast cancer with HER2 overexpression - T
+	D. Up to 40% of patients may get an infusion reaction in the first 24 hours - T
+	E. Polycythaemia and leukaemia may occur - FALSE
+#### Answer: D. Up to 40% of patients may get an infusion reaction in the first 24 hours - *FALSE* = E. Polycythaemia and leukaemia may occur
+- Herceptin is the first humanised antibody (immunotherapy) approved for the treatment of HER2-positive metastatic breast cancer
+- Herceptin is designed to target and block the function of HER2 protein overexpression
+- Herceptin administration can result in the development of certain heart problems
+	- including congestive heart failure
+- Severe allergic reactions, infusion reactions, and lung problems have been observed
+- Anaemia and leucopenia have also been reported when it is used in combination with chemotherapy.
  
 ### Q37	
-The sensitivity of a test is defined by which one of the following:
+The *sensitivity of a test* is defined by which one of the following:
 
 	A. True positives / (true positives + false positives)
-	B. True positives / (true positives + false negatives)
-	C. True negatives / (true negatives + false positives)
-	D. True negatives / (true negatives + false negatives)
-	E. True positives / (true negatives + false positives)
-#### Answer: 
+	B. True positives / (true positives + false negatives) 
+	C. True negatives / (true negatives + false positives) - F
+	D. True negatives / (true negatives + false negatives) - F
+	E. True positives / (true negatives + false positives) - F
+#### Answer: A. True positives / (true positives + false positives) - *FALSE* = B. True positives / (true positives + false negatives) 
+
+#### Test Results: Sensitivity, Specificity, PPV, NPV - LEARN
+- Sensitivity
+	- Probability of a positive diagnosis in all patients with the disease.
+	- Sensitivity = true positives / (true positives + false negatives)
+- Specificity
+	- Probability of a negative diagnosis in all patients without the disease.
+	- Specificity = true negatives / (true negatives + false positives)
+
+- Positive Predictive Value (PPV) 
+	- Ability of a test to correctly report patients with disease in all patients who test positive
+	- Positive predictive value = true positives / (true positives + false positives)
+- Negative predictive value 
+	- Ability of a test to correctly report patients **without** disease in all patients who test negative
+	- Negative predictive value= true negatives / (true negatives + false negatives)
  
 ### Q38	
-Risk factors for oesophageal carcinoma include all of the following, EXCEPT:
+Risk factors for *oesophageal carcinoma* include all of the following, EXCEPT:
 
-	A. Vitamin A deficiency
-	B. Opium ingestion
-	C. High intake of tannic acid
-	D. Pharyngeal pouch
-	E. Lye strictures
-#### Answer: 
- 
+	A. Vitamin A deficiency - T
+	B. Opium ingestion - T
+	C. High intake of tannic acid - T
+	D. Pharyngeal pouch - FALSE
+	E. Lye strictures - T
+#### Answer: A. Vitamin A deficiency - *FALSE* = D. Pharyngeal pouch
+- Oesophageal carcinoma accounts for around 2% of all malignant disease in the UK
+
+#### Oesophageal Carcinoma: Risk Factors
+- Barratt’s oesophagus
+- Lye strictures
+- Smoking
+- Alcohol consumption
+- Oesophageal webs
+- Achalasia
+- Peptic strictures
+- Plummer–Vinson syndrome
+- Dietary deficiencies of zinc, riboflavin, vitamin A
+- High intake of tannic acid
+- Thermal injury
+- Fungal contamination of food
+- Opiate ingestion
+
 ### Q39	
-Which of the following statements regarding malignant bone tumours is CORRECT?
+Which of the following statements regarding *malignant bone tumours* is CORRECT?
 
-	A. Primary malignant bone tumours account for 3% of all deaths from malignant disease in the UK
-	B. Ewing’s sarcoma is more common in prevalence than chondrosarcoma
-	C. Pain is an unusual presenting feature of bone tumours
-	D. The commonest presenting sites of osteosarcoma are the proximal femur and proximal humerus
+	A. Primary malignant bone tumours account for 3% of all deaths from malignant disease in the UK - F
+	B. Ewing’s sarcoma is more common in prevalence than chondrosarcoma - F
+	C. Pain is an unusual presenting feature of bone tumours - F
+	D. The commonest presenting sites of osteosarcoma are the proximal femur and proximal humerus - F
 	E. Radiographic features of an osteosarcoma reveal a sclerotic intramedullary lesion of the metaphysis
-#### Answer: 
+#### Answer: E. Radiographic features of an osteosarcoma reveal a sclerotic intramedullary lesion of the metaphysis - TRUE
  
 ### Q40	
-Which of the following is NOT a feature of ulcerative colitis?
+Which of the following is NOT a feature of *ulcerative colitis*?
 
 	A. Crypt abscesses
 	B. Granulomas
 	C. Perianal infection
 	D. Pseudopolyps
-	E. Backwash ileitis
-#### Answer: 
+	E. Backwash ileitis - T
+#### Answer: A. Crypt abscesses - *FALSE* = B. Granulomas
+- Ulcerative colitis is a disease of the mucosa lining the Rectum 
+	- Spreads proximally in a continuous manner to involve a variable proportion of Colon
+	- **NOTE** In a few cases the terminal ileum is involved and this is known as backwash ileitis
+- Even less commonly, the perianal region may be involved
+	- Although this is much more common in Crohn’s disease
+- Unlike Crohn’s disease, which is transmural
+	- inflammation in ulcerative colitis is restricted to the mucosa
+	- causing oedema, ulceration and pseudopolyps
+
+**NOTE** Granulomas are a typical feature of Crohn’s disease but not of ulcerative colitis
 
 
 Questions 41-50
