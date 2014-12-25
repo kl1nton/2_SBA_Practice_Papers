@@ -9,7 +9,7 @@ Group	| Score			| Errors 						|
 11-20	| 4/10 =  40%	| 12, 14, 16, 17, 18, 19
 21-30	| 4/10 =  40%	| 21, 23, 24, 25, 27, 29
 31-40	| 4/10 =  40%	| 31, 35, 36, 37, 38, 40
-41-50	| ?/10 =  ?%	| 
+41-50	| 3/10 =  40%	| 43, 44, 46, 47, 48, 49, 50
 51-60	| ?/10 =  ?%	| 
 61-70	| ?/10 =  ?%	| 
 71-80	| ?/10 =  ?%	| 
@@ -781,104 +781,152 @@ Questions 41-50
 ---------------
 
 ### Q41
-Which of the following vessels used in coronary artery bypass grafting has been shown through evidence-based practice to have the best outcome for long-term graft patency rates?
+Which of the following vessels used in *coronary artery bypass grafting* has been shown through evidence-based practice to have the best outcome for *long-term graft patency* rates?
 
 	A. Internal thoracic artery
 	B. Radial artery
 	C. Long saphenous vein
 	D. Short saphenous vein
 	E. Cephalic vein
-#### Answer: 
+#### Answer: A. Internal thoracic artery - TRUE
  
 ### Q42	
-Which of the following diseases is the commonest indication for a bilateral lung transplant?
+Which of the following diseases is the commonest indication for a *bilateral lung transplant*?
 
 	A. Chronic obstructive pulmonary disease
 	B. Primary pulmonary hypertension
 	C. Fibrotic lung disease
 	D. Cystic fibrosis
 	E. Severe asbestosis
-#### Answer: 
+#### Answer: D. Cystic fibrosis - TRUE
  
 ### Q43	
-Which of the following statements regarding dumping syndrome is correct?
+Which of the following statements regarding *dumping syndrome* is correct?
 
-	A. Can be avoided by performing a gastroenterostomy
-	B. Results from hyperosmolar fluid reaching the small bowel
-	C. Reduced by eating high-carbohydrate meals frequently
-	D. Can cause constipatory symptoms
-	E. Can be avoided by pylorus-preserving surgery
-#### Answer: 
+	A. Can be avoided by performing a gastroenterostomy - F
+	B. Results from hyperosmolar fluid reaching the small bowel - TRUE
+	C. Reduced by eating high-carbohydrate meals frequently - F
+	D. Can cause constipatory symptoms - F
+	E. Can be avoided by pylorus-preserving surgery - F
+#### Answer: E. Can be avoided by pylorus-preserving surgery - *FALSE* = B. Results from hyperosmolar fluid reaching the small bowel
+- Dumping syndrome occurs after gastrectomy surgery due to 
+	- rapid emptying of hyperosmolar contents into the small bowel 
+	- resultant rapid fluid shift into the lumen of the bowel
+- Patients complain of dizziness, faintness, nausea, and vomiting within 15 minutes of eating a meal
+- Patients are advised to take small meals frequently with a low carbohydrate and high fibre component
+- Late dumping syndrome may result in a reactive hypoglycaemia from a delayed insulin secretory response
  
 ### Q44	
-All of the following staements about a hiatus hernia are correct, EXCEPT:
+All of the following statements about a *hiatus hernia* are correct, EXCEPT:
 
-	A. They are more common in males
-	B. Rolling types are more common than sliding
-	C. Sliding types are more common in the elderly
-	D. Dysphagia is accounted for by extrinsic compression
-	E. Gastric volvulus is rare
-#### Answer: 
+	A. They are more common in males - T
+	B. Rolling types are more common than sliding - T
+	C. Sliding types are more common in the elderly - FALSE
+	D. Dysphagia is accounted for by extrinsic compression - T
+	E. Gastric volvulus is rare - T
+#### Answer: B. Rolling types are more common than sliding - *FALSE* = C. Sliding types are more common in the elderly
+- Hiatus hernias are protrusions of viscus through the oesophageal hiatus
+	- More common in the elderly and are usually (80%) of sliding variety
+- Dysphagia is only reported in about 20% of patients 
+	- Most common symptom is upper abdominal discomfort
  
 ### Q45	
-Which of the following cases should be considered to have the highest priority on the emergency theatre list?
+Which of the following cases should be considered to have the *highest priority* on the *emergency theatre list*?
 
-	A. Laparoscopic appendicectomy for suspected appendicitis
-	B. Pyloroplasty for congenital pyloric stenosis
+	A. Laparoscopic appendicectomy for suspected appendicitis - F
+	B. Pyloroplasty for congenital pyloric stenosis - F
 	C. Incarcerated inguinal hernia in a young man
 	D. Strangulated femoral hernia in an elderly woman
-	E. Hemiarthroplasty for fractured neck of femur
-#### Answer: 
+	E. Hemiarthroplasty for fractured neck of femur - F
+#### Answer: D. Strangulated femoral hernia in an elderly woman - TRUE
+- A laparoscopic appendicectomy for suspected appendicitis should be done within 12 hours of diagnosis, although ideally as soon as possible
+	- Patients can be maintained on intravenous antibiotics in the meantime. 
+	- Laparoscopic approach should have no difference in priority from the open approach
+- Pyloroplasty for congenital pyloric stenosis should also be surgically operated within a day
+	- however, neonates usually require a period of resuscitation pre-operatively due to the loss of fluid and electrolytes from all the vomiting
+- Incarcerated inguinal hernia in a young man that is not strangulated or obstructed 
+	- can wait until the next elective list, provided it is *not symptomatic*
+- Strangulated femoral hernia in an elderly woman 
+	- might contain **ischaemic bowel** and requires urgent operation
+	- A long period of resuscitation is not recommended 
+		- cause of any sepsis may worsen in delaying surgery
+- Hemiarthroplasty for fractured neck of the femur can wait at least a day 
+	- before being booked onto the trauma list for surgery (KPI < 48 hrs)
  
 ### Q46	
-A 69-year-old man presents with mechanical bowel obstruction confirmed by barium enema. Which of the following is NOT a possible cause?
+A 69-year-old man presents with *mechanical bowel obstruction* confirmed by barium enema. Which of the following is NOT a possible cause?
 
 	A. Diverticular disease
 	B. Angiodysplasia
-	C. Crohn’s disease
-	D. Gallstones
-	E. Carcinoma of the colon
-#### Answer: 
+	C. Crohn’s disease 
+	D. Gallstones - T
+	E. Carcinoma of the colon - T
+#### Answer: C. Crohn’s disease - *FALSE* = B. Angiodysplasia
+- Diverticular disease can cause bowel obstruction, either as 
+	1. Rresult of repeated episodes of inflammation, which causes fibrosis and strictures
+	2. Due to a diverticular mass, which obstructs the lumen. 
+- Similarly an adenocarcinoma of the bowel, particularly if it is annular in nature, can also cause obstruction
+- Crohn’s disease causes transmural inflammation and this also results in stricturing
+- Gallstones may erode into the duodenum causing a gallstone ileus
+- Angioplasia is a vascular malformation **does not cause obstruction**
+	- can result in PR bleeding, most commonly in the elderly
  
 ### Q47	
-Which of the following statements regarding the management of colorectal carcinoma is true?
+Which of the following statements regarding the *management of colorectal carcinoma* is true?
 
-	A. 5-FU is commonly used in the adjuvant treatment of Duke’s B colon cancer
-	B. Post-operative adjuvant radiotherapy for locally extensive but resectable colon cancer is preferred over pre-operative radiation
+	A. 5-FU is commonly used in the adjuvant treatment of Duke’s B colon cancer - F
+	B. Post-operative adjuvant radiotherapy for locally extensive but resectable colon cancer is preferred over pre-operative radiation - F
 	C. Patients presenting with large-bowel obstruction from an ascending colon tumour are best treated with a primary resection with a defunctioning colostomy to aid healing of the anastomosis
-	D. Surveillance colonoscopy should be performed annually for the first 10 years to assess the presence of local recurrence and metachronous tumours
-	E. Hand-sewn anastomoses in bowel resections for cancer have been shown to be structurally and functionally superior to stapled anastomoses
-#### Answer: 
+	D. Surveillance colonoscopy should be performed annually for the first 10 years to assess the presence of local recurrence and metachronous tumours - F
+	E. Hand-sewn anastomoses in bowel resections for cancer have been shown to be structurally and functionally superior to stapled anastomoses - F
+#### Answer: C. Patients presenting with large-bowel obstruction from an ascending colon tumour are best treated with a primary resection with a defunctioning colostomy to aid healing of the anastomosis - *FALSE* = A. 5-FU is commonly used in the adjuvant treatment of Duke’s B colon cancer
+- 5-FU is commonly used in the adjuvant chemotherapy in managing colorectal cancers
+- Colorectal cancers should be treated with excision where possible
+	- although in some cases a limited course of pre-operative chemoradiotherapy may be required
+- Management of ascending colon tumour in the acute obstructed setting would include a 
+	- right hemicolectomy plus a defunctioning loop ileostomy
+	- **not a colostomy**
+- Surveillance colonoscopy should be performed for the first 5–10 years every 2 years and not annually
+	- although local guidelines may differ slightly
+
+**NOTE** Numerous studies have shown that there is no difference between hand-sewn and stapled bowel anastomoses
  
 ### Q48	
-Which of the following hepatobiliary conditions would typically result in an unconjugated hyperbilirubinaemia?
+Which of the following hepatobiliary conditions would typically result in an *unconjugated hyperbilirubinaemia*?
 
 	A. Crigler–Najjar syndrome
-	B. Primary biliary cirrhosis
+	B. Primary biliary cirrhosis - F
 	C. Mirizzi syndrome
-	D. Congenital biliary atresia
-	E. Hepatitis B infection
-#### Answer: 
+	D. Congenital biliary atresia - F
+	E. Hepatitis B infection - F
+#### Answer: C. Mirizzi syndrome - *FALSE* = A. Crigler–Najjar syndrome
+- Unconjugated hyperbilirubinaemia results from 
+	1. Prehepatic haemolysis or 
+	2. Hepatic disorders of bilirubin conjugation 
+		- e.g. *Gilbert syndrome* and *Crigler-Najjar syndrome*
+- Remainder of causes listed result in jaundice from an elevated level of conjugated bilirubin
  
 ### Q49	
-The following are all recognised complications of acute pancreatitis, EXCEPT:
+The following are all recognised *complications of acute pancreatitis*, EXCEPT:
 
-	A. Toxic psychosis
-	B. Gastric ulceration
-	C. Chronic renal failure
-	D. Pancreatic abscess
-	E. Hypocalcaemia
-#### Answer: 
- 
+	A. Toxic psychosis - T
+	B. Gastric ulceration - T
+	C. Chronic renal failure - FALSE
+	D. Pancreatic abscess - T
+	E. HyPOcalcaemia - T
+#### Answer: B. Gastric ulceration - *FALSE* = C. Chronic renal failure
+- Acute pancreatitis can cause *acute* renal failure, ARDS, and DIC in very severe cases
+- **NOTE**: *chronic* renal failure is not a recognised complication of *acute* pancreatitis
+
 ### Q50	
-Which of the following is NOT a cause of constipation?
+Which of the following is NOT a *cause of constipation*?
 
-	A. Volvulus
-	B. Fissure in ano
+	A. Volvulus - T
+	B. Fissure in ano - T
 	C. Digoxin
 	D. Aspirin
-	E. Cerebral vascular accident (CVA)
-#### Answer: 
+	E. Cerebral vascular accident (CVA) - T
+#### Answer: D. Aspirin - *FALSE* = C. Digoxin
 
 
 Questions 51-60
