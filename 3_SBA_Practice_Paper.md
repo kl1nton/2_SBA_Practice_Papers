@@ -25,24 +25,24 @@ Questions 1-10
 --------------
 
 ### Q1
-All of the following muscles are usually supplied by the obturator nerve, EXCEPT:
+All of the following muscles are usually *supplied by the obturator nerve*, EXCEPT:
 
 	A. Pectineus
 	B. Adductor longus
 	C. Gracilis
 	D. Obturator externus
 	E. Adductor brevis
-#### Answer: 
+#### Answer: D. Obturator externus - ?
  
 ### Q2	
-Select the correct statement regarding action potentials:
+Select the correct statement regarding *action potentials*:
 
 	A. The size and shape of the action potential becomes smaller as it spreads across the membrane
-	B. The size and shape of action potentials are the same from one excitable tissue to another
-	C. The accumulation of positive charges due to Na+ influx promotes further depolarisation of the cell membrane
+	B. The size and shape of action potentials are the same from one excitable tissue to another - F
+	C. The accumulation of positive charges due to Na+ influx promotes further depolarisation of the cell membrane - F
 	D. Repolarisation after an action potential is due to inactivation of the postassium channels
 	E. Tetrodotoxin (TTX) is a specific blocker of the potassium channel
-#### Answer: 
+#### Answer: D. Repolarisation after an action potential is due to inactivation of the postassium channels - ?
  
 ### Q3	
 Select the correct statement regarding cerebrospinal fluid (CSF):
@@ -52,77 +52,77 @@ Select the correct statement regarding cerebrospinal fluid (CSF):
 	C. It is produced at 1.5 ml/min, allowing it to be turned over four times a day
 	D. About half of the volume is distributed in the ventricles at any one time
 	E. It plays a critical role in important brain functions and in providing nutritive support
-#### Answer: 
+#### Answer: C. It is produced at 1.5 ml/min, allowing it to be turned over four times a day - ?
  
 ### Q4	
-All of the following special precautions should be taken when operating on a patient with known HIV status, EXCEPT:
+All of the following special precautions should be taken when operating on a patient with known *HIV status*, EXCEPT:
 
-	A. Use of disposable gowns and drapes
-	B. Double gloving and use of indicator systems
-	C. Minimising the presence of unnecessary theatre staff
+	A. Use of disposable gowns and drapes - T
+	B. Double gloving and use of indicator systems - T
+	C. Minimising the presence of unnecessary theatre staff - T
 	D. Operating in a theatre with negative-pressure air ventilation
-	E. Use of the kidney dish to pass all instruments
-#### Answer: 
+	E. Use of the kidney dish to pass all instruments - T
+#### Answer: D. Operating in a theatre with negative-pressure air ventilation - ?
  
 ### Q5	
-The correct ‘shelf-life’ of platelet concentrates is:
+The correct ‘shelf-life’ of *platelet concentrates* is:
 
 	A. 4 °C, maximum 35 days
 	B. Room temperature, maximum 5 days
-	C. -30 °C, maximum 12 months
-	D. -65 °C, maximum 3 years
+	C. -30 °C, maximum 12 months - F
+	D. -65 °C, maximum 3 years - F
 	E. Room temperature, maximum 24 hours
-#### Answer: 
+#### Answer: E. Room temperature, maximum 24 hours - ?
  
 ### Q6	
-Which one of the following statements regarding skeletal muscle is CORRECT?
+Which one of the following statements regarding *skeletal muscle* is CORRECT?
 
 	A. Increasing tension in a muscle depends on modulation of the firing frequency of motor neurones
 	B. It can be innervated by parasympathetic nerves
 	C. An action potential in a skeletal muscle only lasts 1–2 ms
 	D. Fatigue results from depletion of muscle ATP levels
 	E. Fast muscle fibres contain myosin with high ATPase activity
-#### Answer: 
+#### Answer: E. Fast muscle fibres contain myosin with high ATPase activity - ?
  
 ### Q7	
-A 23-year-old patient with myasthenia gravis is admitted under your care for a thymectomy. On further reading you discover that this autoimmune disorder affects the neuromuscular junction. Which one of the following statements concerning neuromuscular junctions is CORRECT?
+A 23-year-old patient with *myasthenia gravis* is admitted under your care for a thymectomy. On further reading you discover that this autoimmune disorder affects the neuromuscular junction. Which one of the following statements concerning *neuromuscular junctions* is CORRECT?
 
-	A. It is also known as a ‘gap junction’
-	B. Noradrenaline (norepinephrine) is the primary neurotransmitter in the neuromuscular junctions in the somatic nervous system
-	C. Choline is synthesised in adequate amounts in the ends of motor neurones
+	A. It is also known as a 'gap junction' - F
+	B. Noradrenaline (norepinephrine) is the primary neurotransmitter in the neuromuscular junctions in the somatic nervous system - F
+	C. Choline is synthesised in adequate amounts in the ends of motor neurones - F
 	D. In myasthenia gravis the number of acetylcholine (Ach) molecules released is dramatically reduced
-	E. It is an example of a chemical synapse
-#### Answer: 
+	E. It is an example of a chemical synapse - F
+#### Answer: D. In myasthenia gravis the number of acetylcholine (Ach) molecules released is dramatically reduced - ?
  
 ### Q8	
-A 12-year-old boy presents to the Emergency Department with spontaneous hip pain and inability to walk. You suspect that the patient might have slipped upper femoral epiphysis (SUFE). Which of the following statements regarding SUFE is CORRECT?
+A 12-year-old boy presents to the Emergency Department with spontaneous hip pain and inability to walk. You suspect that the patient might have *slipped upper femoral epiphysis* (SUFE). Which of the following statements regarding SUFE is CORRECT?
 
 	A. The incidence of SUFE is approximately 2%
-	B. SUFE is commoner in girls than in boys
-	C. The incidence of bilateral SUFE in children with symptomatic disease is around 10%
+	B. SUFE is commoner in girls than in boys - F
+	C. The incidence of bilateral SUFE in children with symptomatic disease is around 10% - F
 	D. The clinical presentation can be with pain located in the foot
 	E. It can be managed non-operatively
-#### Answer: 
+#### Answer: D. The clinical presentation can be with pain located in the foot - ?
  
 ### Q9	
-You are looking after a 73-year-old woman in ITU who requires total parenteral nutrition (TPN) via a central venous catheter in her right internal jugular vein. All of the following are recognised complications of central venous pressure (CVP) line insertion, EXCEPT:
+You are looking after a 73-year-old woman in ITU who requires total parenteral nutrition (TPN) via a central venous catheter in her right internal jugular vein. All of the following are recognised *complications of central venous pressure* (CVP) line insertion, EXCEPT:
 
-	A. Tension pneumothorax
-	B. Air embolus
+	A. Tension pneumothorax - T
+	B. Air embolus - T
 	C. Cardiac arrythmias
 	D. Pleural effusions
-	E. Thrombophlebitis
-#### Answer: 
+	E. Thrombophlebitis - T
+#### Answer: C. Cardiac arrythmias - ?
  
 ### Q10	
-Down syndrome (trisomy 21) is associated with an increased risk of all of the following surgical conditions, EXCEPT:
+*Down syndrome* (trisomy 21) is associated with an increased risk of all of the following *surgical conditions*, EXCEPT:
 
 	A. Endocardial cushion defect
-	B. Cryptorchidism
-	C. Duodenal atresia
-	D. Diaphragmatic hernia
-	E. Hirschsprung’s disease
-#### Answer: 
+	B. Cryptorchidism - T
+	C. Duodenal atresia - T
+	D. Diaphragmatic hernia - T
+	E. Hirschsprung’s disease - T
+#### Answer: A. Endocardial cushion defect - ?
 
 
 Questions 11-20
