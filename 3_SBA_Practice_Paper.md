@@ -3,10 +3,10 @@ SBA Practice Paper: 3
 
 Overall: ??/120 = ??.0% (?? errors)
 
-Group	| Score			| Errors 					|
---------|---------------|---------------------------|
-1-10	| ?/10 =  ?%	| 
-11-20	| ?/10 =  ?%	| 
+Group	| Score			| Errors 						|
+--------|---------------|-------------------------------|
+1-10	| 2/10 =  20%	|  1,  2,  3,  5,  7,  8, 9, 10
+11-20	| 4/10 =  40%	| 12, 14, 16, 17, 18, 19
 21-30	| ?/10 =  ?%	| 
 31-40	| ?/10 =  ?%	| 
 41-50	| ?/10 =  ?%	| 
@@ -212,7 +212,7 @@ Which of the following is the most common cause of *osteomyelitis in adults*?
 	C. Haematogenous spread
 	D. Immunosuppression
 	E. Following orthopaedic surgery
-#### Answer: B. Following a compound fracture - ?
+#### Answer: B. Following a compound fracture - TRUE
  
 ### Q12	
 A 39-year-old woman presents to the Orthopaedic Clinic complaining of severe pain and tingling in both hands at nighttime, especially in her thumb, index and middle fingers, and occasionally her ring finger. You confirm that she has carpal tunnel syndrome on nerve conduction tests. The following are all recognised *causes of carpal tunnel syndrome*, EXCEPT:
@@ -220,9 +220,42 @@ A 39-year-old woman presents to the Orthopaedic Clinic complaining of severe pai
 	A. Acromegaly - T
 	B. Rheumatoid arthritis
 	C. Pregnancy - T
-	D. Addison’s disease - T
+	D. Addison’s disease
 	E. Repetitive strain injury - T
-#### Answer: B. Rheumatoid arthritis - ?
+#### Answer: B. Rheumatoid arthritis - *FALSE* = D. Addison’s disease
+- Carpal Tunnel Syndrome (CTS) affects women aged 40–60 years 
+	- Who perform *chronically repetitive tasks* that involve Hand
+- The median nerve can become compressed within the carpal tunnel in such cases
+- Patients often present with nocturnal symptoms in the Palm of Hand and Fingers
+	- frequent burning
+	- tingling
+	- itching
+	- numbness
+- Carpal Tunnel Syndrome especially affects thumb, index and middle fingers
+
+**Notes**
+- Loss of coordination and strength in Thumb because Median Nerve innervates 
+	- Abductor Pollicis Brevis (APB)
+	- Flexor Pollicis Brevis (FPB)
+	- Opponens Pollicis
+- Adduction of Thumb is **not affected** as it is controlled by Abductor Pollicis
+	- Innervated by Ulnar Nerve
+- Sensation over Lateral Aspect of Palm is controlled by Median Nerve
+	- Although branch innervating Palm (*palmar cutaneous branch*) passes superficially to Carpal Tunnel
+- Sensation over Medial Aspect of Dorsum of Hand is mediated by Ulnar Nerve
+	- As is the Medial Aspect of Palm
+
+#### Causes of Carpal Tunnel Syndrome (CTS) - LEARN 
+- Idiopathic
+- Repetitive strain injury
+- Pregnancy
+- Rheumatoid arthritis
+- Acromegaly
+- Diabetes
+- Cushing’s disease
+- HyPOthyroidism
+- Lipomata and ganglia of Wrist
+- Post-traumatic wrist injuries
  
 ### Q13	
 Select the correct statement regarding *compartment syndrome*:
@@ -232,7 +265,7 @@ Select the correct statement regarding *compartment syndrome*:
 	C. Operative management is only mandatory after failed conservative treatment - F
 	D. Compartment pressures must be measured prior to any surgical procedure - 
 	E. Fasciotomy is a recognised cause - F
-#### Answer: B. Ischaemia occurs initially because compartment pressures exceed capillary pressures - ?
+#### Answer: B. Ischaemia occurs initially because compartment pressures exceed capillary pressures - TRUE
  
 ### Q14
 All of the following are true statements regarding *diverticular disease*, EXCEPT:
@@ -241,8 +274,17 @@ All of the following are true statements regarding *diverticular disease*, EXCEP
 	B. Surgical treatment is usually unnecessary in acute uncomplicated disease - T
 	C. Diverticulae are most commonly found in the descending colon
 	D. Perforation and fistula formation can result from an attack of acute diverticulitis - T
-	E. Resolution of the diverticulae can occur with a high-fibre diets and adequate hydration - T
-#### Answer: C. Diverticulae are most commonly found in the descending colon - ?
+	E. Resolution of the diverticulae can occur with a high-fibre diets and adequate hydration
+#### Answer: C. Diverticulae are most commonly found in the descending colon - *FALSE* = E. Resolution of the diverticulae can occur with a high-fibre diets and adequate hydration
+- Diverticular disease is more prevalent in the developed world
+ 	- Theories suggest this may be due to dietary factor
+- Prevention and not resolution of diverticular disease may occur with use of a high-fibre diet
+	- Which theoretically puts less strain on the colon
+- Attacks of diverticulitis are usually managed conservatively unless 
+	- Symptoms are troubling enough with frequent attacks, or
+	- Complications from initial disease have occurred (*fistula or abscess formation*)
+
+**NOTE** Once diverticular disease is established, **only surgery** can completely eradicate it
  
 ### Q15
 A patient has blood sent away for clotting studies and the results show a *raised prothrombin time*, but activated partial thromboplastin time, thrombin time and platelet count are normal. What is the most likely reason?
@@ -252,7 +294,7 @@ A patient has blood sent away for clotting studies and the results show a *raise
 	C. Disseminated intravascular coagulation
 	D. Warfarin treatment
 	E. Vitamin K treatment
-#### Answer: D. Warfarin treatment - ?
+#### Answer: D. Warfarin treatment - TRUE
  
 ### Q16
 Risk factors for *squamous cell carcinoma* include the following, EXCEPT:
@@ -260,9 +302,16 @@ Risk factors for *squamous cell carcinoma* include the following, EXCEPT:
 	A. UV radiation - T
 	B. Burn scars - T
 	C. Surgery
-	D. Vitiligo - T
+	D. Vitiligo
 	E. Actinic keratoses and Bowen’s disease - T
-#### Answer: C. Surgery - ?
+#### Answer: C. Surgery - *FALSE* = D. Vitiligo
+- Squamous cell carcinoma is a malignant epidermal tumour 
+	- Whose cells show maturation towards keratin formation
+- Squamous cell carcinoma has a number of risk factors, but vitiligo is **not** one of them
+
+#### Squamous Cell Carcinoma (SCC) - LEARN
+- Clinically this is a firm skin tumour normally found on the dorsum of the hand, the scalp or the face
+- It can have everted edges and a keratotic crust: well-differentiated tumours will have a keratin horn
  
 ### Q17
 Clinical features of a *basal cell carcinoma* include the following, EXCEPT:
@@ -271,9 +320,19 @@ Clinical features of a *basal cell carcinoma* include the following, EXCEPT:
 	B. Surface telangiectasia - T
 	C. Ulceration
 	D. Nodular
-	E. Associated adenopathy
-#### Answer: D. Nodular - ?
- 
+	E. Associated (lymph)-adenopathy
+#### Answer: D. Nodular - *FALSE* = E. Associated adenopathy
+- Basal cell carcinoma (BCC) is a malignant tumour 
+	- Composed of cells derived from **basal layer of skin**
+- It is *commonest malignant tumour* of the skin in white races
+	- With increased prevalence in locations of high sun exposure
+- Other risk factors include 
+	- UV and ionising radiation 
+	- Immunosuppression
+
+**Notes**
+- BCC are **locally invasive** and rarely metastasises to lymphatics 
+
 ### Q18
 Types of *radiation-induced cell damage* include all of the following, EXCEPT:
 
@@ -282,17 +341,38 @@ Types of *radiation-induced cell damage* include all of the following, EXCEPT:
 	C. DNA base alterations - T
 	D. Catalytic dismutation of the superoxide anion - T
 	E. DNA cross-linking
-#### Answer: E. DNA cross-linking - ?
+#### Answer: E. DNA cross-linking - *FALSE* = D. Catalytic dismutation of the superoxide anion
+- Radiation-induced cell damage can produce several types of free radicals
+	- Which can be damaging to cell membranes and DNA
+- DNA damage can include
+	- Strand breakages
+	- Base alterations
+	- Cross-linking
+- Free radicals cause peroxidation of the unsaturated lipids in the membrane 
+	- Causing damage to the cell 
+
+**Notes**
+- Free radical scavengers such as superoxide dismutases (SODs) catalyse dismutation of superoxide anion, 
+	- Which is an important byproduct of oxidative metabolism
+- The resulting hydrogen peroxide and molecular oxygen products of the reaction 
+	- Are further detoxified to water by catalases and peroxidases
  
 ### Q19
 All of the following statements regarding the *anion gap* are true, EXCEPT:
 
 	A. Normal range is between 10 and 19 mmol/L
 	B. It reflects the concentrations of normally unmeasured anions in the serum - F
-	C. It will be abnormal in conditions where bicarbonate is lost, such as diarrhoea and fistulae - T
+	C. It will be abnormal in conditions where bicarbonate is lost, such as diarrhoea and fistulae
 	D. It is calculated by taking the difference between the main cations and anions in the serum (Na+, K+, HCO3-, Cl-)
 	E. It would be increased in the serum of a runner immediately after a marathon
-#### Answer: D. It is calculated by taking the difference between the main cations and anions in the serum (Na+, K+, HCO3-, Cl-) - ?
+#### Answer: D. It is calculated by taking the difference between the main cations and anions in the serum (Na+, K+, HCO3-, Cl-) - *FALSE* = C. It will be abnormal in conditions where bicarbonate is lost, such as diarrhoea and fistulae
+- Anion gap would be increased in conditions where unmeasured anions exist in the blood in metabolic acidosis
+- Examples include 
+	- Lactic acidosis
+	- Ketones from diabetic ketoacidosis, and 
+	- Drugs that are taken in overdose
+
+**NOTE** Diarrhoea and loss of bicarbonate do **not** result in an increased anion gap
  
 ### Q20
 All of the following features are associated with *necrotising enterocolitis*, EXCEPT:
@@ -302,7 +382,23 @@ All of the following features are associated with *necrotising enterocolitis*, E
 	C. Metabolic acidosis
 	D. Haematemesis
 	E. Disseminated intravascular coagulation
-#### Answer: D. Haematemesis - ?
+#### Answer: D. Haematemesis - TRUE
+- Necrotising enterocolitis (NEC) is *most common gastrointestinal surgical emergency in neonates*
+- With mortality rates of 50% in infants who weigh <1500 g, NEC is a significant clinical problem
+ 
+#### Necrotising Entercolitis (NEC): Symptoms - LEARN
+- Feeding intolerance and delayed gastric emptying
+- Abdominal distension and/or tenderness
+- Haematochezia
+
+#### Necrotising Entercolitis (NEC): Systemic Signs - LEARN
+- Apnoea
+- Lethargy
+- Decreased peripheral perfusion and shock (in advanced stages)
+- Cardiovascular collapse
+- Bleeding diathesis (DIC)
+- Pneumatosis coli and metabolic acidosis result 
+	- NOTE: haematemesis is **not** classically found in this condition
 
 
 Questions 21-30
