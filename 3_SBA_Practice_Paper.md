@@ -10,9 +10,9 @@ Group	| Score			| Errors 						|
 21-30	| 4/10 =  40%	| 21, 23, 24, 25, 27, 29
 31-40	| 4/10 =  40%	| 31, 35, 36, 37, 38, 40
 41-50	| 3/10 =  40%	| 43, 44, 46, 47, 48, 49, 50
-51-60	| ?/10 =  ?%	| 
-61-70	| ?/10 =  ?%	| 
-71-80	| ?/10 =  ?%	| 
+51-60	| 4/10 =  40%	| 52, 53, 54, 57, 58, 59
+61-70	| 5/10 =  50%	| 61, 62, 63, 66, 68
+71-80	| 3/10 =  30%	| 71, 72, 73, 74, 75, 77, 80
 81-90	| ?/10 =  ?%	| 
 91-100	| ?/10 =  ?%	| 
 101-110	| ?/10 =  ?%	| 
@@ -933,319 +933,460 @@ Questions 51-60
 ---------------
 
 ### Q51
-A 24-year-old woman, who is 2 months post-partum and is breastfeeding, attends your clinic with symptomatic hyperthyroidism. Which of the following treatments would you initiate in this patient to treat her hyperthyroidism?
+A 24-year-old woman, who is 2 months post-partum and is *breastfeeding*, attends your clinic with symptomatic hyPERthyroidism. Which of the following treatments would you initiate in this patient to treat her hyperthyroidism?
 
 	A. Radioactive iodine
 	B. Carbimazole
 	C. Proplythiouracil
 	D. Atenolol therapy
 	E. Iodine therapy with recommended cessation of breastfeeding
-#### Answer: 
+#### Answer: C. Proplythiouracil - TRUE
  
 ### Q52	
-A 35-year-old woman presents to the Endocrine Clinic with complaints of lethargy and easy skin bruising. She appears to have cushingoid features and you decide to investigate this in the Outpatient Department with some simple blood tests. All of the following are features of Cushing’s disease found on blood testing, EXCEPT:
+A 35-year-old woman presents to the Endocrine Clinic with complaints of lethargy and easy skin bruising. She appears to have cushingoid features and you decide to investigate this in the Outpatient Department with some simple blood tests. All of the following are *features of Cushing's disease* found on blood testing, EXCEPT:
 
 	A. Hypernatraemia
 	B. Hypokalaemia
 	C. Hyperglycaemia
 	D. Lowered plasma adrenocorticotropic hormone (ACTH)
 	E. Raised plasma cortisol levels
-#### Answer: 
+#### Answer: E. Raised plasma cortisol levels - *FALSE* = C. Hyperglycaemia
+- Cushing’s disease is due to a pituitary adenoma, which secretes ACTH
+- The resulting clinical picture is no different from Cushing syndrome
+- However, the plasma ACTH is raised in contrast to an adrenal adenoma or exogenous source 
+	- where the plasma ACTH is lowered due to the negative feedback of cortisol on the pituitary
  
-### Q53	
-A 34-year-old woman undergoes a right mastectomy and axillary clearance for a 4-cm carcinoma of the right breast with fixed unilateral axillary nodes. A staging CT scan confirms that there are no metastases present. Which of the following TNM stages does this patient’s clinical picture represent?
+### Q53	- TODO
+A 34-year-old woman undergoes a *right mastectomy and axillary clearance* for a 4-cm carcinoma of the right breast with *fixed unilateral axillary nodes*. A staging CT scan confirms that there are *no metastases* present. Which of the following *TNM stages* does this patient’s clinical picture represent?
 
 	A. T1 N0 M0
 	B. T1 N1 M0
 	C. T2 N0 M0
 	D. T2 N1 M0
 	E. T2 N2 M0
-#### Answer: 
- 
+#### Answer: C. T2 N0 M0 - *FALSE* = E. T2 N2 M0
+
+#### Staging of Breast Cancer: TNM - LEARN
+
+T	| Description						| N		| Description							|
+----|-----------------------------------|-------|---------------------------------------|
+Tis	| in-situ carcinoma					| N0	| no regional nodes
+T1	| <2 cm								| N1	| palpable *unilateral* axillary nodes
+T2	| 2–5 cm							| N2	| fixed *unilateral* axillary nodes
+T3	| >5 cm								| N3	| *unilateral* internal mammary nodes
+T4	| involvement of chest wall or skin
+ 	 
+M	| Description			|
+----|-----------------------|
+M0	| no distant metastases	 
+M1	| distant metastases	 
+
 ### Q54	
-The commonest site for peripheral vascular aneurysms after the aorta is:
+The commonest site for *peripheral vascular aneurysms* after the aorta is:
 
 	A. Iliac artery
 	B. Femoral artery
 	C. Popliteal artery
 	D. Splenic artery
 	E. Radial artery
-#### Answer: 
+#### Answer: B. Femoral artery - *FALSE* = C. Popliteal artery
+- The commonest site of vascular aneurysms is the abdominal aorta
+- Following this, the commonest site of peripheral vascular aneurysms is the popliteal artery
+	- followed by the femoral artery
+
+**NOTE** Although rare, commonest site of abdominal vascular aneurysms is the splenic artery
  
 ### Q55	
 Which of the following statements is TRUE?
 
-	A. Veins are better than arteries as conduits for bypass procedures
-	B. Superficial veins may be stripped in the presence of deep venous insufficiency
-	C. The radial artery is safe to be harvested if Allen’s test reveals a time of 15 seconds
+	A. Veins are better than arteries as conduits for bypass procedures - F
+	B. Superficial veins may be stripped in the presence of deep venous insufficiency - F
+	C. The radial artery is safe to be harvested if Allen’s test reveals a time of 15 seconds - F
 	D. Veins may need valves to be stripped with a valvulotome before use in bypass procedures
-	E. Off-pump coronary artery bypass graft (CABG) procedures increase the risk of TIA or CVA
-#### Answer: 
+	E. Off-pump coronary artery bypass graft (CABG) procedures increase the risk of TIA or CVA - F
+#### Answer: D. Veins may need valves to be stripped with a valvulotome before use in bypass procedures - TRUE
  
 ### Q56	
-Which of the following is NOT a cause of splenomegaly?
+Which of the following is NOT a *cause of splenomegaly*?
 
-	A. Syphilis
-	B. Polycythaemia
-	C. Congestive cardiac failure
-	D. Familial adenomatous polyposis
-	E. Amyloidosis
-#### Answer: 
- 
+	A. Syphilis - T
+	B. Polycythaemia - T
+	C. Congestive cardiac failure - T
+	D. Familial adenomatous polyposis - FALSE
+	E. Amyloidosis - T
+#### Answer: D. Familial adenomatous polyposis - TRUE
+- Early splenomegaly is usually asymptomatic but, as the spleen increases in size
+	- it may cause abdominal discomfort and early satiety from gastric compression
+
+#### Causes of Splenomegaly
+- Infection (eg CMV, malaria/TB/syphilis)
+- Autoimmune disease (eg rheumatoid arthritis and SLE)
+- Haematological disorders (eg leukaemia, lymphoma, polycythaemia and haemolytic anaemia)
+- Amyloidosis
+
 ### Q57	
-Which of the following ulcers are correctly associated?
+Which of the following ulcers are *correctly associated*?
 
 	A. Cushing’s ulcer – burns
 	B. Venous ulcer – haemochromatosis
 	C. Curling’s ulcer – head injury
 	D. Neuropathic ulcer – glucosuria
 	E. Marjolin’s ulcer – chronic scarring
-#### Answer: 
+#### Answer: D. Neuropathic ulcer – glucosuria - *FALSE* = E. Marjolin’s ulcer – chronic scarring
+- Cushing’s ulcer – stress ulceration from head injuries
+- Venous ulcer – lipodermatosclerosis and haemosiderin deposits
+- Curling’s ulcer – stress ulcer from burns
+- Neuropathic ulcer – diabetes
+- Marjolin’s ulcer – squamous cell carcinoma (SCC) occurring in a chronic ulcer or scar tissue
  
 ### Q58	
-Which one of the following statements regarding acoustic neuroma is CORRECT?
+Which one of the following statements regarding *acoustic neuroma* is CORRECT?
 
-	A. Acoustic neuromas make up 1% of all intracranial tumours
-	B. The majority are bilateral
-	C. Vertigo is a common symptom
-	D. Acoustic neuromas arise from Schwann cells
-	E. Most patients have normal hearing
-#### Answer: 
+	A. Acoustic neuromas make up 1% of all intracranial tumours - F
+	B. The majority are bilateral - F
+	C. Vertigo is a common symptom - F
+	D. Acoustic neuromas arise from Schwann cells - TRUE
+	E. Most patients have normal hearing - F
+#### Answer: C. Vertigo is a common symptom - *FALSE* = D. Acoustic neuromas arise from Schwann cells
+- Acoustic neuromas arise from Schwann cells and make up 8% of all intracranial tumours
+- The majority are unilateral (95%)
+- Patients usually present with 
+	1. Gradual progressive unilateral deafness (90%)
+	2. Associated with tinnitus (70%)
+- Vertigo is unusual
+
+**NOTE** The investigation of choice is a gadolinium-enhanced MRI scan
  
 ### Q59	
-Which of the following statements about pharyngeal pouch is TRUE?
+Which of the following statements about *pharyngeal pouch* is TRUE?
 
-	A. Also known as Zenker’s diverticulum
-	B. Arises from the anterior pharyngeal wall, known as Killian’s dehiscence
-	C. Hoarseness is a common symptom
-	D. Barium swallow should not be performed because of the risk of perforation
-	E. Commonly, a pouch contains an invasive squamous cell carcinoma (SCC) in its wall
-#### Answer: 
+	A. Also known as Zenker’s diverticulum - TRUE
+	B. Arises from the anterior pharyngeal wall, known as Killian’s dehiscence - F
+	C. Hoarseness is a common symptom - F
+	D. Barium swallow should not be performed because of the risk of perforation - F
+	E. Commonly, a pouch contains an invasive squamous cell carcinoma (SCC) in its wall - F
+#### Answer: B. Arises from the anterior pharyngeal wall, known as Killian’s dehiscence - *FALSE* = A. Also known as Zenker’s diverticulum
+- Pharyngeal pouches arise from Killian’s dehiscence
+	- a **posterior** pharyngeal weakness between thyropharyngeus and cricopharyngeus. 
+- It is also known as Zenker’s diverticulum
+- Patients may present with a lump in the throat, dysphagia and regurgitation of food
+- Only very rarely does a pouch contain an invasive SCC
+
+**NOTE** Barium swallow is the initial definitive investigation
  
-### Q60	
-A 42-year-old woman attends your clinic to discuss her management options after recieving her results of a triple assessment scan. She is found to have ductal carcinoma in situ (DCIS) on Trucut biopsy of a 5-cm mass in her right breast. Which of the following treatment options would you advise for this woman?
+### Q60
+A 42-year-old woman attends your clinic to discuss her management options after recieving her results of a triple assessment scan. She is found to have *ductal carcinoma in situ* (DCIS) on Trucut biopsy of a 5-cm mass in her right breast. Which of the following *treatment options* would you advise for this woman?
 
 	A. Right mastectomy
-	B. Right mastectomy with axillary clearance
-	C. Right mastectomy with sentinel node biopsy
+	B. Right mastectomy with axillary clearance - F
+	C. Right mastectomy with sentinel node biopsy 
 	D. Right wide local excision
-	E. Right wide local excision with axillary clearance
-#### Answer: 
+	E. Right wide local excision with axillary clearance - F
+#### Answer: C. Right mastectomy with sentinel node biopsy - TRUE
 
 
 Questions 61-70
 ---------------
 
 ### Q61
-A 1st-year medical student attends a dental appointment for a filling of a right lower 7th molar tooth under local anaesthetic. After injection of the anaesthetic, she notices that the right half of her chin has gone numb, although she still retains normal movements of the jaw. Which of the following nerves has been infiltrated by local anaesthetic in this clinical scenario?
+A 1st-year medical student attends a dental appointment for a filling of a right lower 7th molar tooth under local anaesthetic. After injection of the anaesthetic, she notices that the *right half of her chin has gone numb*, although she still retains normal movements of the jaw. Which of the following nerves has been infiltrated by local anaesthetic in this clinical scenario?
 
 	A. Lingual nerve
 	B. Buccal nerve
 	C. Mental nerve
 	D. Mandibular nerve
 	E. Inferior alveolar nerve
-#### Answer: 
+#### Answer: D. Mandibular nerve - *FALSE* = E. Inferior alveolar nerve
  
 ### Q62	
-Which of the following statements about salivary gland tumours is FALSE?
+Which of the following statements about *salivary gland tumours* is FALSE?
 
-	A. 80% of parotid gland tumours are benign
-	B. 15% of salivary gland neoplasms are submandibular
-	C. Excision of the submandibular gland can result in Frey syndrome
-	D. Malignant parotid tumours can cause facial nerve palsy
-	E. Adenolymphoma of the parotid (Warthin’s tumour) is benign
-#### Answer: 
+	A. 80% of parotid gland tumours are benign - T
+	B. 15% of salivary gland neoplasms are submandibular - T
+	C. Excision of the submandibular gland can result in Frey syndrome - FALSE
+	D. Malignant parotid tumours can cause facial nerve palsy - T
+	E. Adenolymphoma of the parotid (Warthin's tumour) is benign - T
+#### Answer: B. 15% of salivary gland neoplasms are submandibular - *FALSE* = C. Excision of the submandibular gland can result in Frey syndrome
+- The parotid gland is known as the 80% gland because: 
+	- 80% of salivary tumours are found in the parotid
+	- Of these, 80% are benign in nature
+	- And 80% of these are pleomorphic adenomas
+- Another benign tumour of the parotid is an adenolymphoma
+- Adenocarcinoma of the parotid makes up 3% of all parotid tumours
+- It may infiltrate the facial nerve, which runs through the parotid, causing a facial palsy
+- Management is by parotidectomy, with the aim of preserving Facial Nerve if it is not involved
+- Damage to innervation of **Parotid Gland** during surgery can result in Frey’s syndrome
+	- This is due to inappropriate regeneration of parasympathetic nerve fibres
+		- which stimulate sweat glands of overlying skin resulting in gustatory sweating
+
+**NOTE** 15% of salivary gland neoplasms are located in the submandibular gland
  
 ### Q63	
-All of the following sinuses drain into the middle meatus below the middle concha of the maxilla, EXCEPT the:
+All of the following sinuses *drain into the middle meatus* below the middle concha of the maxilla, EXCEPT the:
 
 	A. Posterior ethmoidal sinus
 	B. Middle ethmoidal sinus
 	C. Anterior ethmoidal sinus
 	D. Frontal sinus
 	E. Maxillary sinus
-#### Answer: 
+#### Answer: E. Maxillary sinus - *FALSE* = A. Posterior ethmoidal sinus
  
 ### Q64	
-A 4-year-old child is brought into the Emergency Department by his mother after having fallen from a slide at a height of 2 metres. His vital signs are: heart rate 135/min, BP 90/70mmHg, respiratory rate 28/min, and temperature 36.5 °C. Which one of the following signs would you consider abnormal in this child?
+A 4-year-old child is brought into the Emergency Department by his mother after having *fallen from a slide* at a height of 2 metres. His vital signs are: heart rate 135/min, BP 90/70mmHg, respiratory rate 28/min, and temperature 36.5 °C. Which one of the following signs would you *consider abnormal* in this child?
 
 	A. Heart rate
 	B. Blood pressure
 	C. Respiratory rate
 	D. Temperature
 	E. None of the above
-#### Answer: 
+#### Answer: E. None of the above - TRUE
+
+#### Paediatric Vital Signs - LEARN
+
+Age	(yr)	| HR (bpm)	| BP (mmHg) | RR (bpm)	|
+------------|-----------|-----------|-----------|
+0-1			| <160		| >60		| <60		|
+1-3			| <150		| >70		| <40		|
+3-5			| <140		| >75		| <35		|
+6-12		| <120		| >80		| <30		|
+\>12		| <100		| >90		| <30		|
  
 ### Q65	
-In acute arterial occlusion, the tissue that is most sensitive to arterial hypoxaemia is:
+In *acute arterial occlusion*, the tissue that is most sensitive to *arterial hypoxaemia* is:
 
 	A. Skin
 	B. Subcutaneous tissue
 	C. Nerve
 	D. Muscle
 	E. Bone
-#### Answer: 
+#### Answer: C. Nerve - TRUE
+- Nervous tissue is the most sensitive tissue in the human body to hypoxaemia
+	- Can undergo irreversible ischaemic changes within minutes of being deprived of oxygen
  
 ### Q66	
-Which of the following is the commonest cause of vocal cord palsy in an adult?
+Which of the following is the *commonest cause of vocal cord palsy* in an adult?
 
 	A. Idiopathic
 	B. Malignant disease
 	C. Trauma
-	D. CVA
+	D. Cerebrovascular Accident (CVA)
 	E. Iatrogenic
-#### Answer: 
+#### Answer: E. Iatrogenic - *FALSE* = B. Malignant disease
+- Unilateral vocal cord palsy produces hoarseness
+- The commonest cause is **malignant disease** (30%), especially of the bronchus
+	- followed by iatrogenic causes (25%)
+		- i.e. thyroid surgery or any surgery along course of Recurrent Laryngeal Nerve
+- Trauma, idiopathic and other causes e.g. central and myopathies, are unlikely (15% each)
  
 ### Q67	
-A 73-year-old woman presents with a lump in her neck. Biopsy and imaging indicate that this is an early anaplastic thyroid tumour. What is the most appropriate management?
+A 73-year-old woman presents with a lump in her neck. Biopsy and imaging indicate that this is an early *anaplastic thyroid tumour*. What is the most appropriate management?
 
 	A. Radiotherapy
 	B. Chemotherapy
 	C. Resection and radiotherapy
 	D. Total thyroidectomy only
 	E. Radiotherapy and chemotherapy
-#### Answer: 
+#### Answer: C. Resection and radiotherapy - TRUE
  
 ### Q68	
-A 34-year-old man wants to donate a kidney to his sister. His BMI is 31 Kg/m2. His glomerular filtration rate (GFR) is 110 ml/min. The patient and his sister have the same blood group but they have no HLA antigens in common. On arteriography, he has a single renal artery and single renal vein on the left and single renal artery and single vein on the right. Based on the above findings, which of the following statements is TRUE?
+A 34-year-old man wants to donate a kidney to his sister. His BMI is 31 kg/m^2. His glomerular filtration rate (GFR) is 110 ml/min. The patient and his sister have the *same blood group* but they have *no HLA antigens in common*. On arteriography, he has a single renal artery and single renal vein on the left and single renal artery and single vein on the right. Based on the above findings, which of the following statements is TRUE?
 
 	A. The patient and his sister do not have the same biological parents
 	B. The patient is too overweight to be a living kidney donor
 	C. The patient’s kidney function is not adequate for him to be a donor
 	D. The kidney of choice for donation and transplant is the left kidney
 	E. The kidney of choice for donation and transplant is the right kidney
-#### Answer: 
+#### Answer: C. The patient’s kidney function is not adequate for him to be a donor - *FALSE* = D. The kidney of choice for donation and transplant is the left kidney
+- The left kidney is the kidney of choice as it has the longer renal vein
+	- the vena cava being to the right of the aorta
+- A BMI of 31 kg/m2 is not an absolute contraindication to donation
+	- GFR = 110 ml/min is within the normal range for his age
+- It is possible for siblings not to have HLA antigens in common
+- Proof for consanguinity is to check parent HLA type or HLA type of other siblings
  
 ### Q69	
-Presence of all of the following factors will predispose to the development of an anal fistula, EXCEPT:
+Presence of all of the following *factors will predispose* to the development of an *anal fistula*, EXCEPT:
 
-	A. Infection
-	B. Foreign bodies
-	C. Radiation
-	D. Neoplastic disease
+	A. Infection - T
+	B. Foreign bodies - T
+	C. Radiation - T
+	D. Neoplastic disease - T
 	E. Inadequate vascularisation
-#### Answer: 
+#### Answer: E. Inadequate vascularisation - TRUE
  
 ### Q70	
-A 25-year-old right-handed woman is brought into the Emergency Department after a traumatic amputation of her right middle finger less than 1 hour ago. The finger has been preserved on ice and a decision is taken to re-implant the finger under general anaesthetic. The correct order in which the structures will be re-anastomosed (excluding the finger tendons) is which of the following?
+A 25-year-old right-handed woman is brought into the Emergency Department after a traumatic amputation of her right middle finger less than 1 hour ago. The finger has been preserved on ice and a decision is taken to re-implant the finger under general anaesthetic. The *correct order in which the structures will be re-anastomosed* (excluding the finger tendons) is which of the following?
 
 	A. Artery, vein, bone, nerve, skin
 	B. Artery, bone, vein, nerve, skin
 	C. Bone, artery, vein, nerve, skin
 	D. Bone, vein, artery, nerve, skin
 	E. Vein, artery, bone, nerve, skin
-#### Answer: 
+#### Answer: D. Bone, vein, artery, nerve, skin - TRUE
 
 
 Questions 71-80
 ---------------
 
 ### Q71
-The following endocrine conditions are paired with the correct hormone abnormality, EXCEPT:
+The following endocrine conditions are paired with the *correct hormone abnormality*, **EXCEPT**:
 
-	A. Cushing syndrome – excess glucocorticoid
-	B. Phaeochromocytoma – excess catecholamines
-	C. Conn syndrome – excess ACTH
+	A. Cushing syndrome – excess glucocorticoid - F
+	B. Phaeochromocytoma – excess catecholamines - F
+	C. Conn syndrome – excess ACTH 
 	D. Addison’s disease – reduced cortisol secretion
-	E. Congenital adrenal hyperplasia – 21-hydroxylase deficiency
-#### Answer: 
+	E. Congenital adrenal hyperplasia – 21-hydroxylase deficiency - F
+#### Answer: D. Addison’s disease – reduced cortisol secretion - *FALSE* = C. Conn syndrome – excess ACTH
+- Conn syndrome is caused by an aldosterone-secreting adrenocortical adenoma and causes raised plasma aldosterone 
+
+#### Endocrine Conditions - LEARN
+- Cushing syndrome is a disease caused by an excess of cortisol production or by excessive use of cortisol or other similar steroid (glucocorticoid) hormones
+	- It can be diagnosed either by measuring 24-hour urinary free cortisol or by an overnight dexamethasone suppression test, which fails to suppress morning cortisol levels in affected patients
+- Cushing’s disease is the name given to a type of Cushing syndrome caused by too much ACTH production in the pituitary 
+- Phaeochromocytomas are tumours of the adrenal medulla arising from chromaffin cells and secreting excess catecholamines
+	- Vanilly-mandelic acid (VMA) is a breakdown product of catecholamines and therefore urinary levels become elevated and are used as a diagnostic test
+- Conn syndrome is caused by an aldosterone-secreting adrenocortical adenoma and causes raised plasma aldosterone 
+- Addison’s disease is often associated with other autoimmune disorders and is characterised by low serum cortisol
+	- It can be investigated for by using the short Synacthen test
+		- which doesn’t cause a rise in plasma cortisol in affected patients whereas it does in unaffected people 
+- Congenital adrenal hyperplasia occurs as a result of 21-hydroxylase deficiency
  
 ### Q72	
-All of the following arteries are named direct branches of the axillary artery, EXCEPT:
+All of the following arteries are named direct branches of the *axillary artery*, EXCEPT:
 
 	A. Superior thoracic artery
 	B. Lateral thoracic artery
 	C. Suprascapular artery
 	D. Subscapular artery
 	E. Acromiothoracic artery
-#### Answer: 
+#### Answer: A. Superior thoracic artery - *FALSE* = C. Suprascapular artery
+- Suprascapular Artery is a branch of the thyrocervical trunk of the subclavian artery
+- All of the others listed are direct branches of the axillary artery in addition to
+	- Anterior and posterior circumflex humeral arteries from third part
  
 ### Q73	
-A 46-year-old woman presents with a small mass to the left of the hyoid bone and anterior to the sternocleidomastoid muscle. It is smooth and compressible and mobile in the horizontal but not the vertical plane. There is also a bruit. The probable diagnosis is:
+A 46-year-old woman presents with a *small mass* to the *left of the hyoid bone* and *anterior to the sternocleidomastoid* muscle. It is smooth and compressible and mobile in the horizontal but not the vertical plane. There is also a bruit. The probable diagnosis is:
 
 	A. Sternocleidomastoid tumour
 	B. Dermoid cyst
 	C. Carotid body tumour
 	D. Laryngocele
 	E. Cystic hygroma
-#### Answer: 
+#### Answer: E. Cystic hygroma - *FALSE* = C. Carotid body tumour
+- Carotid body tumours present as masses adjacent to the hyoid bone and anterior to the sternocleidomastoid
+- They are typically pulsatile, compressible and smooth, with mobility in the horizontal but not the vertical plane 
+	- Approximately 5% are malignant
+- Cystic hygromas are congenital lymphatic malformations situated at the root of the neck and are present at birth in 50% of neonates
+- Sternocleidomastoid tumours are usually found in the neonatal period and 
+	- are located at the junction between the upper and middle thirds of the muscle
+	- They tend to disappear with age
+- Laryngoceles are saccules that become expanded with air, often after straining
+- Dermoid cysts can be congenital or acquired
+	- Congenital cysts are commonly located on the head or neck
+	- Acquired cysts are most commonly caused when a piece of skin is implanted into the dermis, secondary to trauma
  
 ### Q74	
-Which of the following structures are skeletal derivatives of the third branchial arch?
+Which of the following structures are skeletal derivatives of the *third branchial arch*?
 
-	A. Stapes
-	B. Styloid process
-	C. Incus and malleus
+	A. Stapes - F
+	B. Styloid process - F
+	C. Incus and malleus - F
 	D. Lesser cornu of the hyoid bone
 	E. Greater cornu of the hyoid bone
-#### Answer: 
+#### Answer: D. Lesser cornu of the hyoid bone - *FALSE* = E. Greater cornu of the hyoid bone
+- Skeletal derivatives of third branchial arch or 'thyrohyoid arch'
+	- Include Inferior Body and Greater Cornu of Hyoid Bone
+- Remainder of Hyoid Bone, including Styloid Process and Stapes 
+	- are derived from Second Branchial arch or ‘hyoid arch’
+- Incus and Malleus are derivatives of first branchial arch
  
 ### Q75	
-Which of the following pathological changes is correctly associated with the named disease?
+Which of the following *pathological changes* is correctly associated with the *named disease*?
 
 	A. Familial adenomatous polyp (FAP) – metaplasia
 	B. Peutz–Jehger – hamartoma
 	C. Barratt’s oesophagus – dysplasia
 	D. Paget’s disease of the nipple – metaplasia
 	E. Gardner syndrome – hamartoma
-#### Answer: 
+#### Answer: D. Paget’s disease of the nipple – metaplasia - *FALSE* = B. Peutz–Jehger – hamartoma
+- Peutz–Jehger disease 
+	- Autosomal dominant (AD) disorder characterised by 
+	- Hamartomatous polyps within GIT
+	- Circumoral pigmentation within GIT
+- Examples of metaplasia
+	- Barratt’s oesophagus 
+	- Squamous change of Cervix, Bronchus or Bladder
+- Examples of dysplasia 
+	- Cervical Intraepithelial Neoplasia (CIN) 
+	- Vulvar Intraepithelial Neoplasia (VIN)
+- Examples of neoplastic disorders
+	- Paget’s disease 
+	- Familial Adenomatous Polyposis (FAP)
  
 ### Q76	
-Which of the following is NOT a possible complication of thyroidectomy?
+Which of the following is NOT a possible *complication of thyroidectomy*?
 
-	A. Laryngeal oedema
+	A. Laryngeal oedema - T
 	B. Hypercalcaemia
-	C. Hypothyroidism
-	D. Haematoma
-	E. Superior laryngeal nerve palsy
-#### Answer: 
+	C. Hypothyroidism - T
+	D. Haematoma - T
+	E. Superior laryngeal nerve palsy - T
+#### Answer: B. Hypercalcaemia - TRUE
  
 ### Q77	
-A 45-year-old patient presents to the Emergency Department 1 hour after falling from his mountain bike. He is complaining of left hip pain and X-rays reveal an undisplaced intracapsular fracture of his left femoral neck. The best method of treatment for this patient is:
+A *45-year-old patient* presents to the Emergency Department 1 hour after falling from his mountain bike. He is complaining of left hip pain and X-rays reveal an *undisplaced intracapsular* fracture of his left femoral neck. The best method of treatment for this patient is:
 
-	A. Dynamic hip screw
+	A. Dynamic hip screw (DHS)
 	B. Hemiarthroplasty
 	C. Partially threaded cancellous screws
-	D. Intramedullary reconstruction nail
-	E. Total hip replacement
-#### Answer: 
+	D. Intramedullary reconstruction nail - F
+	E. Total hip replacement - F
+#### Answer: B. Hemiarthroplasty - *FALSE* = C. Partially threaded cancellous screws
+- Intracapsular fracture fixation in presence of **good-quality bone**
+	- Best method of fixation is with **cannulated screws**
+- Majority of patients are elderly
+	- With osteoporotic bone, hemiarthroplasty is performed
+- Dynamic hip screw is usually performed for *extracapsular* fractures
  
 ### Q78	
-The conjoint tendon of the biceps and coracobrachialis is retracted medially during an anterior approach to the shoulder. Post-operatively the patient has weakness of elbow flexion and reduced sensation over the lateral forearm. Which nerve has been injured?
+The conjoint tendon of the biceps and coracobrachialis is retracted medially during an *anterior approach to the shoulder*. Post-operatively the patient has weakness of *elbow flexion* and reduced sensation over the *lateral forearm*. Which nerve has been injured?
 
 	A. Radial
 	B. Median
 	C. Ulnar
 	D. Musculocutaneous
 	E. Axillary
-#### Answer: 
+#### Answer: D. Musculocutaneous - TRUE
  
 ### Q79	
-In the spine, the intervertebral disc which is most commonly implicated in causing nerve root symptoms is the disc between:
+In the spine, the *intervertebral disc* which is most commonly implicated in causing *nerve root symptoms* is the disc between:
 
 	A. L5/S1
 	B. L4/5
 	C. L3/4
 	D. L1/2
 	E. T12/L1
-#### Answer: 
+#### Answer: B. L4/5 - TRUE
  
 ### Q80	
-Following pneumonectomy for carcinoma of the lung, which of the following statements is TRUE?
+Following *pneumonectomy for carcinoma of the lung*, which of the following statements is TRUE?
 
-	A. A chest drain is always required
-	B. Mortality rates are higher for left-sided pneumonectomy compared with right-sided pneumonectomy
-	C. Bronchopleural fistulae occur in <5% of cases
-	D. A double-lumen endotracheal tube is contraindicated
-	E. Mediastinal shift is a major problem, requiring further surgery
-#### Answer: 
+	A. A chest drain is always required - F
+	B. Mortality rates are higher for left-sided pneumonectomy compared with right-sided pneumonectomy - F
+	C. Bronchopleural fistulae occur in <5% of cases - F
+	D. A double-lumen endotracheal tube is contraindicated - TRUE
+	E. Mediastinal shift is a major problem, requiring further surgery - F
+#### Answer: B. Mortality rates are higher for left-sided pneumonectomy compared with right-sided pneumonectomy - *FALSE* = D. A double-lumen endotracheal tube is contraindicated
+- Double-lumen endotracheal tubes are essential for any cardiothoracic or oesophageal procedure to 
+	- Allow control of individual lungs during surgery 
+	- Avoid damaging lungs while the chest is opened
 
 
 Questions 81-90
 ---------------
 
 ### Q81
-Which of the following systemic conditions is NOT associated with pruritus ani?
+Which of the following systemic conditions is **NOT** associated with *pruritus ani*?
 
 	A. Cell-mediated lympholysis
 	B. Systemic lupus erythematosus (SLE)
