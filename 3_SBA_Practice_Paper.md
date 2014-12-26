@@ -13,12 +13,12 @@ Group	| Score			| Errors 						|
 51-60	| 4/10 =  40%	| 52, 53, 54, 57, 58, 59
 61-70	| 5/10 =  50%	| 61, 62, 63, 66, 68
 71-80	| 3/10 =  30%	| 71, 72, 73, 74, 75, 77, 80
-81-90	| ?/10 =  ?%	| 
-91-100	| ?/10 =  ?%	| 
-101-110	| ?/10 =  ?%	| 
-111-120	| ?/10 =  ?%	| 
-121-130	| ?/10 =  ?%	| 
-131-135	| ?/10 =  ?%	|
+81-90	| 5/10 =  50%	| 82, 83, 85, 87, 89
+91-100	| 5/10 =  50%	| 92, 94, 96, 97, 98
+101-110	| 3/10 =  30%	| 102, 104, 106, 107, 108, 109, 110
+111-120	| 6/10 =  60%	| 112, 113, 114, 118
+121-130	| 6/10 =  60%	| 122, 126, 129, 130
+131-135	| ?/5  =  ?%	|
 
 
 Questions 1-10
@@ -1393,513 +1393,720 @@ Which of the following systemic conditions is **NOT** associated with *pruritus 
 	C. Obstructive jaundice
 	D. Diabetes
 	E. Lymphoma
-#### Answer: 
+#### Answer: B. Systemic lupus erythematosus (SLE) - TRUE
  
 ### Q82	
-A 50-year-old woman has a Colles’ fracture manipulated in theatre, followed by application of a full below-elbow cast. One hour after being on the ward with her arm elevated, she starts to complain of paraesthesia in the index and middle fingers, along with wrist pain. The correct initial treatment should be:
+A 50-year-old woman has a Colles' fracture manipulated in theatre, followed by application of a full below-elbow cast. One hour after being on the ward with her *arm elevated*, she starts to complain of *paraesthesia in the index and middle fingers*, along with wrist pain. The correct initial treatment should be:
 
 	A. Observe for another hour to see if the symptoms settle
 	B. Split the cast and lower the arm
 	C. Take her back to theatre for a remanipulation
 	D. Split the cast and keep the arm elevated
 	E. Perform an urgent carpal tunnel decompression
-#### Answer: 
+#### Answer: B. Split the cast and lower the arm - *FALSE* = D. Split the cast and keep the arm elevated
+- The commonest cause of pain after a manipulation is because of swelling and a tight cast
+	- It is important to keep the limb elevated to reduce the swelling and split the cast
+- Delay can lead to limb ischaemia and muscle damage resulting in ischaemic contractures
+- If a patient undergoes an open reduction and there are median nerve symptoms at presentation
+	- Then a carpal tunnel decompression can be done at the same time
  
 ### Q83	
-A 23-year-old man is brought into the Emergency Department after having been involved in a motorbike accident at high speed. He is unconscious and has a cervical collar on as a C-spine injury cannot be excluded without X-rays. A decision to intubate him using the nasotracheal route is taken. Contraindications to blind nasotracheal intubation in this patient would include all of the following, EXCEPT:
+A 23-year-old man is brought into the Emergency Department after having been involved in a motorbike accident at high speed. He is unconscious and has a cervical collar on as a C-spine injury cannot be excluded without X-rays. A decision to intubate him using the nasotracheal route is taken. *Contraindications to blind nasotracheal intubation* in this patient would include all of the following, EXCEPT:
 
 	A. Apnoea
 	B. Cervical spine injury
 	C. Skull base fracture
 	D. Frontal bone fracture
 	E. Facial fractures
-#### Answer: 
+#### Answer: A. Apnoea - *FALSE* = B. Cervical spine injury
+- Blind nasotracheal intubation is contraindicated in apnoea
+- Any nasotracheal intubation is contraindicated 
+	- If a basal skull fracture is suspected from head or facial trauma
+
+**NOTE** C-spine injury on its own is not a contraindication, especially in a breathing patient
  
 ### Q84	
-A 55-year-old woman treated for 6 months with carbimazole for thyrotoxicosis is no longer getting any control of her symptoms. What is the most appropriate form of management?
+A 55-year-old woman treated for 6 months with *carbimazole for thyrotoxicosis* is no longer getting any control of her symptoms. What is the most appropriate form of management?
 
 	A. Subtotal thyroidectomy
 	B. Total thyroidectomy
 	C. Radio-iodine treatment
 	D. Propylthiouracil
 	E. Propranolol
-#### Answer: 
+#### Answer: C. Radio-iodine treatment - TRUE
  
 ### Q85	
-Complications of a surgical cricothyroidotomy include all of the following, EXCEPT:
+*Complications of a surgical cricothyroidotomy* include all of the following, EXCEPT:
 
 	A. Subglottic stenosis
 	B. Mediastinal emphysema
 	C. Vocal cord paralysis
 	D. Oesophageal laceration
 	E. Carotid artery puncture
-#### Answer: 
+#### Answer: E. Carotid artery puncture - *FALSE* = C. Vocal cord paralysis
+- Vocal cord paralysis only occurs with direct trauma to the cords or damage to the recurrent laryngeal nerves
+- A surgical cricothyroidotomy does not involve direct trauma to the cord or nerves 
+	- Because the incision occurs at the cricothyroid membrane
  
 ### Q86	
-Which one of the following associations between daily gastrointestinal secretion volume (in a normal 70-kg young adult) and fluid type are CORRECT?
+Which one of the following associations between *daily gastrointestinal secretion* volume (in a normal 70-kg young adult) and fluid type are CORRECT?
 
 	A. Saliva – 0.5 litres
 	B. Gastric juice – 2 litres
 	C. Bile – 0.2 litres
 	D. Pancreatic juice – 3 litres
 	E. Intestinal secretions – 5 litres
-#### Answer: 
+#### Answer: B. Gastric juice – 2 litres - TRUE
+
+#### Daily Gastrointestinal Secretion Volume - LEARN
+
+Organ		| Volume	|
+------------|----------:|
+Mouth		| 1.5 L
+Stomach		| 2–3 L
+Gallbladder | 500 mL
+Pancreas	| 1.5 L
+Small bowel	| 1.5 L
+Large bowel	| 100 mL
  
 ### Q87	
-All of the following conditions would result in decreased lung compliance, EXCEPT:
+All of the following conditions would result in *decreased lung compliance*, EXCEPT:
 
-	A. Alpha1-antitrypsin deficiency
-	B. Pulmonary oedema
-	C. Supine position
-	D. Mechanical ventilation
-	E. Increased age
-#### Answer: 
+	A. Alpha1-antitrypsin deficiency - FALSE
+	B. Pulmonary oedema - T
+	C. Supine position - T
+	D. Mechanical ventilation - T
+	E. Increased age - T
+#### Answer: C. Supine position - *FALSE* = A. Alpha1-antitrypsin deficiency
+- Alpha1-antitrypsin deficiency causes emphysema
+	- Resulting in an increased compliance of the lung tissue
+- **All** of the other listed conditions decrease lung compliance
  
 ### Q88	
-A 24-year-old male is brought into the Emergency Department having sustained multiple stab wound injuries to the chest and abdomen. His HR is 130/min, BP 90/50 mmHg, RR 34/min, with a narrow pulse pressure and reduced urine output. Given this clinical scenario, how much blood volume loss do you expect in this patient?
+A 24-year-old male is brought into the Emergency Department having sustained *multiple stab wound injuries* to the chest and abdomen. His HR is 130/min, BP 90/50 mmHg, RR 34/min, with a narrow pulse pressure and reduced urine output. Given this clinical scenario, *how much blood volume loss* do you expect in this patient?
 
 	A. 600 ml
 	B. 950 ml
 	C. 1300 ml
 	D. 1650 ml
 	E. 2000 ml
-#### Answer: 
+#### Answer: D. 1650 ml - TRUE
+- This scenario demonstrates a class III haemorrhage
+	- Tachycardia >120/min
+	- Reduced blood pressure and urine output
+	- Increased respiratory rate >30 litres
+- Class III haemorrhage involves a blood loss of 1.5–2 litres
  
 ### Q89	
-How much crystalloid fluid volume resuscitation does this patient require immediately as cross-matched blood is being awaited?
+How much *crystalloid fluid volume resuscitation* does this patient require immediately as cross-matched blood is being awaited?
 
 	A. 1900 ml
 	B. 2600 ml
 	C. 3300 ml
 	D. 3900 ml
 	E. 4950 ml
-#### Answer: 
+#### Answer: C. 3300 ml - *FALSE* = E. 4950 ml
+- Volume replacement in the trauma setting uses the 3 for 1 replacement rule with crystalloids
+- Ideally, for class III haemorrhage, blood replacement should be given as soon as possible
+	- Meanwhile volume of crystalloid should be replaced with 3L for every L of blood lost
  
 ### Q90	
-A 60-year-old male smoker who is under your care undergoes a laryngectomy for cancer of the larynx. In assessing the sterility of this operation, you would best classify this procedure as a:
+A 60-year-old male smoker who is under your care undergoes a *laryngectomy for cancer* of the larynx. In assessing the sterility of this operation, you would best classify this procedure as a:
 
 	A. Clean procedure
 	B. Clean-contaminated procedure
 	C. Contaminated procedure
 	D. Contaminated-dirty procedure
 	E. Dirty procedure
-#### Answer: 
+#### Answer: B. Clean-contaminated procedure - TRUE
+- Laryngectomy is classed as a clean-contaminated procedure
+	1. It involves entering the airways 
+	2. And coming into contact with pathogens
+	
+#### Classification of Procedure Sterility - LEARN
+1. Clean procedure – thyroidectomy
+2. Clean-contaminated procedure – cholecystectomy, laryngectomy
+3. Contaminated procedure – right hemicolectomy
+4. Dirty procedure – perforated colon/faecal peritonitis
 
 
 Questions 91-100
 ----------------
 
 ### Q91
-The following statements about the anatomy of the orbit are all FALSE, EXCEPT:
+The following statements about the *anatomy of the orbit* are all FALSE, EXCEPT:
 
-	A. All the muscles that move the eye originate from a fibrous ring except lateral rectus
-	B. The ethmoid bone forms the lateral wall
-	C. The wings of the sphenoid form the posterior wall
-	D. The lateral rectus is supplied by cranial nerve III
-	E. The frontal bone forms the medial wall
-#### Answer: 
+	A. All the muscles that move the eye originate from a fibrous ring except lateral rectus - F
+	B. The ethmoid bone forms the lateral wall - F
+	C. The wings of the sphenoid form the posterior wall - TRUE
+	D. The lateral rectus is supplied by cranial nerve III - F
+	E. The frontal bone forms the medial wall - F
+#### Answer: C. The wings of the sphenoid form the posterior wall - TRUE
  
 ### Q92	
-An advantage of using povidone-iodine disinfectant over chlorhexidine solution while a surgical scrub is being performed is that iodine:
+An advantage of using *povidone-iodine disinfectant over chlorhexidine* solution while a surgical scrub is being performed is that iodine:
 
 	A. Causes less skin sensitivity and irritation than does chlorhexidine
 	B. Has a longer duration of action than chlorhexidine
 	C. Is more effective than chlorhexidine against spores and fungi
 	D. Has greater bactericidal activity than chlorhexidine for Gram-positive bacteria
 	E. Is resistant to deactivation in the presence of organic material such as blood, pus and faeces
-#### Answer: 
+#### Answer: A. Causes less skin sensitivity and irritation than does chlorhexidine - *FALSE* = C. Is more effective than chlorhexidine against spores and fungi
+- Iodine solutions have a very broad-spectrum disinfecting activity
+	- Especially when compared with chlorhexidine.
+- Iodine is easily deactivated when in contact with organic solutions such as bodily fluids
+- Chlorhexidine is less irritating to the skin and has a longer duration of action than iodine
  
 ### Q93	
-A 42-year-old opera singer presents with a laryngeal carcinoma of the vocal cord. Staging investigations show this to be limited to the vocal cord with no evidence of spread. What is the most appropriate form of management?
+A 42-year-old opera singer presents with a *laryngeal carcinoma of the vocal cord*. Staging investigations show this to be *limited to the vocal cord* with no evidence of spread. What is the most appropriate form of management?
 
 	A. Chemotherapy alone
 	B. Radiotherapy alone
 	C. Radiotherapy and chemotherapy
 	D. Partial laryngectomy
 	E. Endoscopic resection
-#### Answer: 
+#### Answer: B. Radiotherapy alone - TRUE
  
 ### Q94	
-While performing a small-bowel resection for strictures following Crohn’s disease, you notice that, on inspection, there are marked differences between jejunal and ileal anatomy. Such differences include all of the following, EXCEPT:
+While performing a small-bowel resection for strictures following Crohn’s disease, you notice that, on inspection, there are marked differences between *jejunal and ileal anatomy*. Such differences include all of the following, EXCEPT:
 
-	A. Wider lumen in the jejunum
-	B. Fewer lymphatics in the jejunal mesentery compared with ileal
-	C. More prominent and multiple arcades of vessels in the ileum
-	D. Thicker wall of the ileum
-	E. Thicker and more fat-laden mesentery increasing towards the ileum
-#### Answer: 
+	A. Wider lumen in the jejunum - T
+	B. Fewer lymphatics in the jejunal mesentery compared with ileal - T
+	C. More prominent and multiple arcades of vessels in the ileum - T
+	D. Thicker wall of the ileum - FALSE
+	E. Thicker and more fat-laden mesentery increasing towards the ileum - T
+#### Answer: C. More prominent and multiple arcades of vessels in the ileum - *FALSE* = D. Thicker wall of the ileum
+
+#### Differences Between Jejunum vs Ileum - LEARN
+
+Criteria						| Jejunum				| **Ileum**					|
+--------------------------------|-----------------------|---------------------------|
+Position						| Upper left abdomen	| Lower right abdomen
+Extent							| 2/5					| 3/5
+External feel and appearance	| Thick, wide, vascular	| **Thin**, narrow, pale
+Peyer's patches					| Few					| Many
+Vascular arcades				| Few					| Many
+Vasa recti						| Long					| Short
+Mesenteric fat					| Less					| More
  
 ### Q95	
-Which of the following statements regarding monopolar diathermy is TRUE?
+Which of the following statements regarding *monopolar diathermy* is TRUE?
 
-	A. It uses a very-high-frequency direct current to cut and coagulate
-	B. Cutting of tissues is accomplished by pulsed output of currents at short intervals
+	A. It uses a very-high-frequency direct current to cut and coagulate - F
+	B. Cutting of tissues is accomplished by pulsed output of currents at short intervals - F
 	C. Currents as high as 500 mA can be passed through the body at frequencies of 5 mHz
-	D. When monopolar diathermy forceps are used, the current is passed between the two limbs of the forceps at the tip
-	E. It can be used in surgery on the penis or digits
-#### Answer: 
+	D. When monopolar diathermy forceps are used, the current is passed between the two limbs of the forceps at the tip - F
+	E. It can be used in surgery on the penis or digits - F
+#### Answer: C. Currents as high as 500 mA can be passed through the body at frequencies of 5 mHz - TRUE
  
 ### Q96	
-The following statements about the anatomy of the thyroid gland are all true, EXCEPT:
+The following statements about the *anatomy of the thyroid gland* are all true, EXCEPT:
 
-	A. The superior thyroid artery supplies the upper pole
-	B. The inferior thyroid artery is a branch of the external carotid artery
-	C. The isthmus of the gland overlies the second and third tracheal cartilages
-	D. The inferior thyroid vein drains into the brachiocephalic veins
-	E. There may be a pyramidal lobe
-#### Answer: 
+	A. The superior thyroid artery supplies the upper pole - T
+	B. The inferior thyroid artery is a branch of the external carotid artery - FALSE
+	C. The isthmus of the gland overlies the second and third tracheal cartilages - T
+	D. The inferior thyroid vein drains into the brachiocephalic veins - T
+	E. There may be a pyramidal lobe - T
+#### Answer: C. The isthmus of the gland overlies the second and third tracheal cartilages - *FALSE* = B. The inferior thyroid artery is a branch of the external carotid artery
+- Thyroid is made up of two lobes connected by an isthmus that overlies **second and third** tracheal rings
+	- Occasionally there may be a pyramidal lobe
+- It obtains its blood supply from 
+	1. Superior Thyroid Artery
+		- Branch of external carotid
+		- Supplies the upper pole
+	2. Inferior Thyroid Artery 
+		- Branch of thyrocervical trunk of subclavian artery
+		- Supplies lower pole and posterior part
+- 10% of population has an additional artery
+	- Thyroid ima artery (arising from Arch of Aorta or Brachiocephalic Artery)
+	- Supplies the Isthmus
+- Thyroid is drained by three veins
+	1. Superior Thyroid Vein drains Upper pole
+	2. Middle Thyroid Vein drains Lateral aspects
+	3. Inferior Thyroid Vein drains Lower pole
+- Whereas the Superior and Middle Veins Drain into Internal Jugular Vein (IJV)
+	- Inferior thyroid veins drain into Brachiocephalic Veins
  
 ### Q97	
-Which of the following statements about immediate care of a patient with burns is CORRECT?
+Which of the following statements about immediate care of a *patient with burns* is CORRECT?
 
-	A. Third-degree burns are usually painless
-	B. Intravenous lines may be placed in burnt skin provided no other site is accessible and good venous access is obtained
-	C. Priority is given to the airway and breathing before attending to stopping the burning process
-	D. Fluid resuscitation is calculated by a formula involving the body weight, percentage area burned, and the degree of burns
+	A. Third-degree burns are usually painless - T
+	B. Intravenous lines may be placed in burnt skin provided no other site is accessible and good venous access is obtained - F
+	C. Priority is given to the airway and breathing before attending to stopping the burning process - F
+	D. Fluid resuscitation is calculated by a formula involving the body weight, percentage area burned, and the degree of burns - F
 	E. The most important complication found in the hospital phase of recovery from a large (>40%) burn is renal failure
-#### Answer: 
+#### Answer: A. Third-degree burns are usually painless - *FALSE* = B. Intravenous lines may be placed in burnt skin provided no other site is accessible and good venous access is obtained
+- Priorities in management of burns 
+	1. Remove source of burns
+	2. Systematically resuscitate victim: airway, breathing and circulation
+- **NOTE** All burns are painful
+- Although full-thickness burns may have a central area of painless tissue due of burnt nerves
+	- Transition area around the edges from surrounding normal skin
+	- Areas of lesser-degree burns, which will be very sensitive
+- Fluid replacement in burns uses a formula that 
+	- Does not incorporate the degree of burns as a factor
+	- Percentage area burned and body weight are key factors
  
 ### Q98	
-All of the following signs are found in re-feeding syndrome, EXCEPT:
+All of the following signs are found in *re-feeding syndrome*, EXCEPT:
 
-	A. Hypophosphataemia
-	B. Hypocalcaemia
-	C. Hypokalaemia
-	D. Hypoglycaemia
-	E. Hypomagnesaemia
-#### Answer: 
+	A. Hypophosphataemia - T
+	B. Hypocalcaemia - T
+	C. Hypokalaemia - T
+	D. Hypoglycaemia - FALSE
+	E. Hypomagnesaemia - T
+#### Answer: A. Hypophosphataemia - *FALSE* = D. Hypoglycaemia
+- Re-feeding syndrome occurs when previously malnourished patients are fed with high loads of carbohydrate
+	- Resulting in a rapid fall in phosphate, magnesium, potassium, and calcium (PMPC)
+	- Along with an increasing extracellular volume and subsequent hyponatraemia
+- Hypoglycaemia is **not** a key feature of re-feeding syndrome (RFS)
+	- Although may be seen if the insulin response is oversensitive
+- Initial **hyperglycaemia** is normal as a high-carbohydrate diet is given
  
 ### Q99	 
-A 23-year-old female patient has just been admitted following an aspirin overdose. She does not state how many tablets she has ingested; but, she is complaining of tinnitus. She has vomited six times before presenting and appears to be tachypnoeic on arrival to the Emergency Department. Her blood gas reveals the following: pH 7.4; HCO3 - 22 mmol/l; base excess –2 mmol/l; PCO2 5 kPa.
+A 23-year-old female patient has just been admitted following an *aspirin overdose*. She does not state how many tablets she has ingested; but, she is complaining of tinnitus. She has vomited six times before presenting and appears to be tachypnoeic on arrival to the Emergency Department. Her *blood gas* reveals the following: pH 7.4; HCO3 - 22 mmol/l; base excess –2 mmol/l; PCO2 5 kPa.
  
-	A. Uncompensated metabolic acidosis
-	B. Uncompensated respiratory acidosis
+	A. Uncompensated metabolic acidosis - F
+	B. Uncompensated respiratory acidosis - F
 	C. Compensated metabolic acidosis
 	D. Compensated respiratory acidosis
 	E. Mixed metabolic acidosis with metabolic alkalosis
-#### Answer: 
+#### Answer: E. Mixed metabolic acidosis with metabolic alkalosis - TRUE
 
 ### Q100	
-You are asked to review a patient who is 2 days post-laparotomy for a perforated duodenal ulcer. On blood gases, the following results are noted: pH 7.35; HCO3 - 35 mmol/l; base excess +9 mmol/l; PCO2 7 kPa.
+You are asked to review a patient who is 2 days post-laparotomy for a *perforated duodenal ulcer*. On blood gases, the following results are noted: pH 7.35; HCO3 - 35 mmol/l; base excess +9 mmol/l; PCO2 7 kPa.
 
 	A. Uncompensated metabolic acidosis
 	B. Uncompensated respiratory acidosis
 	C. Compensated metabolic acidosis
 	D. Compensated respiratory acidosis
 	E. Mixed metabolic acidosis with metabolic alkalosis
-#### Answer: 
+#### Answer: D. Compensated respiratory acidosis - TRUE
 
 
 Questions 101-110
 -----------------
 
 ### Q101
-A 33-year-old insulin-dependent diabetic patient attends the Day Surgery Unit for an inguinal hernia repair on the afternoon list. In the anaesthetic room, she collapses and is immediately resuscitated by the anaesthetist present. A blood gas taken shows pH 7.2; HCO3 - 12 mmol/l; base excess –14 mmol/l; PCO2 5.3 kPa.
+A 33-year-old *insulin-dependent diabetic* patient attends the Day Surgery Unit for an inguinal hernia repair on the afternoon list. In the anaesthetic room, she collapses and is immediately resuscitated by the anaesthetist present. A *blood gas* taken shows pH 7.2; HCO3 - 12 mmol/l; base excess –14 mmol/l; PCO2 5.3 kPa.
  
 	A. Uncompensated metabolic acidosis
-	B. Uncompensated respiratory acidosis
+	B. Uncompensated respiratory acidosis - F
 	C. Compensated metabolic acidosis
-	D. Compensated respiratory acidosis
+	D. Compensated respiratory acidosis - F
 	E. Mixed metabolic acidosis with metabolic alkalosis
-#### Answer: 
+#### Answer: A. Uncompensated metabolic acidosis - TRUE
 
 ### Q102	
-A 14-year-old girl is admitted as an inpatient under your care with suspected acute appendicitis. She is competent to understand the diagnosis and management decision along with complications of undergoing an appendicectomy. She consents to the procedure. However, her parents do not want her to undergo the treatment as your diagnosis is not guaranteed, and fear that their daughter may undergo unnecessary surgery. Assuming that this case has been discussed with all relevant hospital personnel and team members, which of the following options should you carry on with?
+A 14-year-old girl is admitted as an inpatient under your care with suspected acute appendicitis. She is *competent* to understand the diagnosis and management decision along with complications of undergoing an appendicectomy. She *consents* to the procedure. However, her *parents do not want her to undergo* the treatment as your diagnosis is not guaranteed, and fear that their daughter may undergo unnecessary surgery. Assuming that this *case has been discussed* with all relevant hospital personnel and team members, which of the *following options* should you carry on with?
 
 	A. Proceed against the parents’ wishes to an appendicectomy
 	B. Agree with the parents’ wishes and withhold from operating
 	C. Obtain a court order to carry out treatment in the patient’s best interests
 	D. Adopt a ‘wait and see’ policy in this particular case
 	E. Treat the patient with antibiotics in the first instance
-#### Answer: 
+#### Answer: C. Obtain a court order to carry out treatment in the patient’s best interests - *FALSE* = A. Proceed against the parents’ wishes to an appendicectomy
+- An appendicectomy should be carried out if 
+	- patient agrees with treatment **and** is competent to make that choice
+- **NOTE** In this case, she takes priority over her parents’ wishes
+- For children under 16, they can consent to treatment 
+	- If they are deemed competent to understand procedure, risks and complications
  
 ### Q103	
-A 16-year-old boy is hit over the head with a bat while playing cricket. He loses consciousness for 10 minutes but then recovers and wants to carry on playing. His parents take him to the hospital, which is an hour’s drive away. On arrival he is drowsy with a Glasgow Coma Scale (GCS) score of 12. The most likely diagnosis is:
+A 16-year-old boy is *hit over the head* with a bat while playing cricket. He *loses consciousness* for 10 minutes but then recovers and wants to carry on playing. His parents take him to the hospital, which is an hour’s drive away. On arrival he is *drowsy* with a Glasgow Coma Scale (GCS) score of 12. The most likely diagnosis is:
 
 	A. Basal skull fracture
 	B. Subdural haemorrhage
 	C. Extradural haematoma
 	D. Subarachnoid haemorrhage
 	E. Diffuse axonal injury
-#### Answer: 
+#### Answer: C. Extradural haematoma - TRUE
  
 ### Q104	
-Which of the following statements regarding FAP is TRUE?
+Which of the following statements regarding Familial Adenomatous Polyposis (FAP) is TRUE?
 
 	A. It accounts for up to 10% of colorectal carcinomas
 	B. It may be treated with a prophylactic right hemicolectomy
 	C. It usually takes 30–40 years to present as a colorectal carcinoma
 	D. The gene is located on the long arm of chromosome 5
 	E. It is inherited as an autosomal recessive condition
-#### Answer: 
+#### Answer: C. It usually takes 30–40 years to present as a colorectal carcinoma - *FALSE* = D. The gene is located on the long arm of chromosome 5
+- FAP accounts for <1% of colorectal cancers 
+	- Characterised by development of hundreds to thousands of polyps within colon and rectum
+- It is inherited as an autosomal dominant condition
+	- Some cases may arise as a de-novo mutation of the long arm of the chromosome 5 where the gene is located
+- Cancers typically develop in fourth and fifth decades
+	- FAP is associated with a 100% lifetime risk of cancer
+- **NOTE** Affected individuals Tx with prophylactic total or subtotal colectomy
  
 ### Q105	
-Which of the following pairings is correct regarding complement function?
+Which of the following pairings is correct regarding *complement function*?
 
 	A. C5a – cytolytic activity
 	B. C3a – neutrophil chemotaxis
 	C. C3b – release of histamine from mast cells
 	D. C8 – neutrophil chemotaxis
 	E. C7 – cytolytic activity
-#### Answer: 
+#### Answer: E. C7 – cytolytic activity - TRUE
+
+#### Complement Functions - LEARN
+- Opsonisation: 	C3b
+- Chemotaxis: 		C5a and C5, C6, C7
+- Anaphylatoxin: 	C3a < C4a < C5a
+- Cytolysis:  		C5b6789 complex
  
 ### Q106	
-All of the following familial cancer syndromes are correctly associated with the resultant neoplasm, EXCEPT:
+All of the following *familial cancer* syndromes are correctly associated with the *resultant neoplasm*, **EXCEPT**:
 
-	A. Li–Fraumeni – cerebral astrocytoma
-	B. Retinoblastoma (Rb1) – osteosarcoma
-	C. von Hippel–Lindau (VHL) – renal carcinoma
-	D. BRCA1 and 2 – ovarian carcinoma
-	E. MEN I – phaeochromocytoma
-#### Answer: 
+	A. Li–Fraumeni – cerebral astrocytoma - T
+	B. Retinoblastoma (Rb1) – osteosarcoma - T
+	C. von Hippel–Lindau (VHL) – renal carcinoma - T
+	D. BRCA1 and 2 – ovarian carcinoma - T
+	E. MEN I – phaeochromocytoma - FALSE
+#### Answer: C. von Hippel–Lindau (VHL) – renal carcinoma - *FALSE* = E. MEN I – phaeochromocytoma
+- Multiple endocrine neoplasia (MEN) type I is an uncommon inherited disorder 
+	- affecting Parathyroid, Pituitary and Pancreas
+- Occasionally, adrenal cortical disorders can also occur as part of MEN
+- **NOTE** Phaeochromocytomas are associated with MEN II
  
 ### Q107	
-Following splenectomy, which of the following organisms can cause overwhelming sepsis?
+*Following splenectomy*, which of the following organisms can cause *overwhelming sepsis*?
 
 	A. Pseudomonas species
 	B. Fungal infections
 	C. Neisseria meningitidis
 	D. Salmonella
 	E. Staphylococcus aureus
-#### Answer: 
+#### Answer: A. Pseudomonas species - *FALSE* = C. Neisseria meningitidis
+- Spleen has a significant immune function : impaired following splenectomy
+- Lack of splenic macrophages to clear opsonised micro-organisms 
+	- Can result in severe post-splenectomy sepsis
+- Most commonly affects younger patients in the first few months after splenectomy
+	- Although can occur several years later
+- People undergoing elective splenectomy should be immunised with the relevant vaccines
+	- Preferably at least 20 weeks prior to operation
+- They should also be started on a prophylactic dose of penicillin V
+
+#### Post-Splenectomy Sepsis - LEARN
+- Organisms that cause most concern are encapsulated organisms 
+	- Streptococcus pneumoniae
+	- Neisseria meningitidis
+	- Haemophilus influenzae B
  
 ### Q108	
-Which of the following statements regarding the spleen is correct?
+Which of the following statements regarding the *spleen* is correct?
 
-	A. Red pulp consists of central arteries ensheathed by lymphoid nodules and lymphocytes
-	B. Red pulp forms most of the splenic volume
-	C. Most of the antibody synthesis in the spleen occurs in the red pulp
-	D. White pulp contains sinusoids, which trap defective red cells
-	E. White pulp contains B lymphocytes located in the immediate vicinity of the central artery
-#### Answer: 
+	A. Red pulp consists of central arteries ensheathed by lymphoid nodules and lymphocytes - F
+	B. Red pulp forms most of the splenic volume - TRUE
+	C. Most of the antibody synthesis in the spleen occurs in the red pulp - F
+	D. White pulp contains sinusoids, which trap defective red cells - F
+	E. White pulp contains B lymphocytes located in the immediate vicinity of the central artery - F
+#### Answer: D. White pulp contains sinusoids, which trap defective red cells - *FALSE* = B. Red pulp forms most of the splenic volume
+- White pulp consists of central arteries ensheathed by lymphoid nodules and lymphocytes
+- White pulp contains T lymphocytes located in the immediate the vicinity of the central artery
+- Most of the antibody synthesis in the spleen occurs in the white pulp
+- Red pulp forms most of splenic volume and contains sinusoids
+	- Which trap defective red cells
  
 ### Q109	
-Which of the following phases in a cell cycle is the most resistant to chemotherapeutic agents and requires higher doses in order to obtain a response?
+Which of the following phases in a cell cycle is the *most resistant to chemotherapeutic agents* and requires higher doses in order to obtain a response?
 
 	A. G0
 	B. G1
 	C. S
 	D. G2
 	E. M
-#### Answer: 
+#### Answer: C. S - *FALSE* = A. G0
+- Quiescent or G0 phase is the dormant phase of the cell cycle where no cell division takes place
+	- Although cells are still capable of undergoing mitosis
+- This phase of cell cycle that is most resistant to chemotherapeutic agents
+- Most chemotherapeutic agents produce their lethal effect on cells that are actively replicating
+- Higher doses of chemotherapeutic agents are required to target cells in G0 phase of the cycle
  
 ### Q110	
-Capacitance coupling in laparoscopic surgery can be avoided by:
+*Capacitance coupling* in laparoscopic surgery can be avoided by:
 
-	A. Careful use of prep solution
-	B. Having the surgery performed by the most experienced surgeon available
-	C. Use of an insulated instrument with a metal cannula
-	D. Use of all-metal instruments and cannula
-	E. Use of lower power settings on the diathermy machine
-#### Answer: 
+	A. Careful use of prep solution - F
+	B. Having the surgery performed by the most experienced surgeon available - F
+	C. Use of an insulated instrument with a metal cannula - F
+	D. Use of all-metal instruments and cannula - TRUE
+	E. Use of lower power settings on the diathermy machine - F
+#### Answer: C. Use of an insulated instrument with a metal cannula - *FALSE* = D. Use of all-metal instruments and cannula
+- Capacitance coupling occurs with the use of insulated instruments 
+	- Combining plastic and metal ports with instruments during laparoscopic surgery
+- Combined energy is insulated as metal–plastic–metal layering acts as a capacitor
+- Such coupling can be avoided by
+	1. High index of suspicion 
+	2. Vigilance over use of port and instrument combinations
+- Use of all-similar ports avoids capacitance and coupling
 
 
 Questions 111-120
 -----------------
 
 ### Q111
-A 55-year-old man on the surgical high dependency unit is being treated with dobutamine for congestive heart failure. The mechanism of action of dobutamine is:
+A 55-year-old man on the surgical *high dependency unit* is being treated with dobutamine for congestive heart failure. The mechanism of action of *dobutamine* is:
 
 	A. α-adrenergic agonist
 	B. β-adrenergic agonist
 	C. β-cholinergic agonist
 	D. α- and β-cholinergic agonist
 	E. α- and β-adrenergic agonist
-#### Answer: 
+#### Answer: E. α- and β-adrenergic agonist - TRUE
  
 ### Q112	
-All of the following vitamins are synthesised in the gut by colonic bacteria, EXCEPT:
+All of the following *vitamins are synthesised* in the gut by *colonic bacteria*, EXCEPT:
 
 	A. Vitamin K
 	B. Vitamin B12
 	C. Vitamin B2 (riboflavin)
 	D. Vitamin B1 (thiamine)
 	E. Vitamin B3 (niacin)
-#### Answer: 
+#### Answer: B. Vitamin B12 - *FALSE* = E. Vitamin B3 (niacin)
+- Colonic flora comprise a huge population of both aerobic and anaerobic bacteria
+- They are involved in:
+	- Fermentation of indigestible carbohydrates and 
+		- production of fatty acids that the colonic mucosa can use as an energy source
+	- Degradation of bilirubin to stercobilin, urobilin and urobilinogen
+
+**NOTE** Colonic flora synthesize of vitamins B1, B2, B12 and vitamin K
  
 ### Q113	
-Regarding pulmonary blood flow, which of the following statements is CORRECT?
+Regarding *pulmonary blood flow*, which of the following statements is CORRECT?
 
-	A. Both hypoxia and hypercapnia result in constriction of smaller alveolar vessels
-	B. Hypercapnia results in dilatation of smaller alveolar vessels
-	C. Pulmonary arterioles play an important role in the regulation of pulmonary blood flow
-	D. Perfusion of blood with alveolar ventilation is better matched towards the base of the lung rather than at the apex
-	E. Perfusion of blood with alveolar ventilation is better matched towards the apex of the lung rather than at the base
-#### Answer: 
+	A. Both hypoxia and hypercapnia result in constriction of smaller alveolar vessels - TRUE
+	B. Hypercapnia results in dilatation of smaller alveolar vessels - F
+	C. Pulmonary arterioles play an important role in the regulation of pulmonary blood flow - F
+	D. Perfusion of blood with alveolar ventilation is better matched towards the base of the lung rather than at the apex - F
+	E. Perfusion of blood with alveolar ventilation is better matched towards the apex of the lung rather than at the base - F
+#### Answer: D. Perfusion of blood with alveolar ventilation is better matched towards the base of the lung rather than at the apex - *FALSE* = A. Both hypoxia and hypercapnia result in constriction of smaller alveolar vessels
+- Hypoxia and hypercapnia both cause constriction of *smaller alveolar vessel* 
+	- Diverting blood to areas that are better oxygenated
+- This is in contrast to peripheral vessels
+	- Where the opposite response is seen and hypoxia causes vasodilatation
+- Ideal area for ventilation and perfusion matching (V/Q = 1) within the lung 
+	- Occurs about two-thirds of the way up from the base of the lung
  
 ### Q114	
-Which of the following statements regarding ANP (atrial natriuretic peptide) is correct?
+Which of the following statements regarding ANP (*atrial natriuretic peptide*) is correct?
 
 	A. It stimulates ADH secretion
 	B. It increases the GFR by simultaneous dilation of renal afferent arterioles and constriction of efferent arterioles
 	C. It is secreted in response to hyponatraemia
 	D. Secretion increases as central venous pressure decreases
 	E. It acts on selected parts of the nephron to increase water and salt resorption
-#### Answer: 
+#### Answer: D. Secretion increases as central venous pressure decreases - *FALSE* = B. It increases the GFR by simultaneous dilation of renal afferent arterioles and constriction of efferent arterioles
+- Atrial natriuretic peptide (ANP) is a 28-amino-acid peptide 
+	- Synthesised, stored and released by atrial cells in response to
+	- Atrial distension, angiotensin II and sympathetic stimulation (β-adrenoceptor-mediated)
+- Elevated levels of ANP are found during hypervolaemic states and congestive heart failure
+- ANP serves to increase GFR and inhibit tubular resorption of Na+
+	- End result is an increase in sodium and water excretion
  
 ### Q115	
-A 43-year-old postman presents to your clinic with troublesome PR bleeding and a feeling of a prolapse. Examination reveals third-degree haemorrhoids. Ideal management of this patient would include which one of the following treatment options?
+A 43-year-old postman presents to your clinic with troublesome PR bleeding and a feeling of a prolapse. Examination reveals *third-degree haemorrhoids*. Ideal management of this patient would include which one of the following treatment options?
 
 	A. Injection sclerotherapy
 	B. Banding of piles
 	C. Prolapse and haemorrhoidopexy (PPH)
 	D. Open haemorrhoidectomy with a Delorme’s procedure for prolapse
 	E. Fibre diet alone and observe in the outpatient setting
-#### Answer: 
+#### Answer: C. Prolapse and haemorrhoidopexy (PPH) - TRUE
  
 ### Q116	
-A 65-year-old male ex-smoker undergoes a single left main-stem LIMA (left internal mammary artery) CABG operation by a median sternotomy approach. During the recovery period, 1 week post-operatively, it is noted that he still has a persistent hoarse voice after extubation 5 days earlier. The nerve most likely to be damaged during surgery is:
+A 65-year-old male ex-smoker undergoes a single left main-stem LIMA (*left internal mammary artery*) CABG operation by a median sternotomy approach. During the recovery period, 1 week post-operatively, it is noted that he still has a *persistent hoarse voice* after extubation 5 days earlier. The nerve most likely to be damaged during surgery is:
 
 	A. Right recurrent laryngeal nerve
 	B. Superior laryngeal nerve
 	C. Left recurrent laryngeal nerve
 	D. Left phrenic nerve
 	E. Right phrenic nerve
-#### Answer: 
+#### Answer: C. Left recurrent laryngeal nerve - TRUE
  
 ### Q117	
-All of the following mechanisms are involved in the secretion of gastric acid, EXCEPT:
+All of the following mechanisms are involved in the *secretion of gastric acid*, EXCEPT:
 
 	A. Release of ACh from the vagus nerve in response to gastric distension
 	B. Release of gastrin from the G cells in response to acetylcholine stimulation
 	C. Release of gastrin from the G cells in response to histamine stimulation
 	D. Release of histamine from the enterochromaffin cells to act on the parietal cells
 	E. Neural stimulation arising from the hypothalamus in anticipation of food ingestion
-#### Answer: 
+#### Answer: C. Release of gastrin from the G cells in response to histamine stimulation - TRUE
  
 ### Q118	
-All of the following muscles are lateral rotators of the hip joint, EXCEPT:
+All of the following muscles are *lateral rotators* of the hip joint, EXCEPT:
 
 	A. Gluteus maximus
 	B. Pectineus
 	C. Gemellus superior
 	D. Obturator externus
 	E. Quadratus femoris
-#### Answer: 
+#### Answer: A. Gluteus maximus - *FALSE* = B. Pectineus
+- **NOTE** Pectineus is a medial rotator of the hip joint
+	- Arises from Pectineal Line of Pubis and small area on Superior Pubic Ramus
+	- Attaches to a vertical line below Lesser Trochanter of Femur
+- Nerve supply is from Anterior Division of Femoral Nerve
+	- Although it may occasionally receive a twig from Obturator Nerve
  
 ### Q119	
-A 54-year-old woman inpatient is referred to your surgical team with a diagnosis of small-bowel obstruction. Which one of the following clinical signs would you look for in trying to identify the commonest cause of this condition?
+A 54-year-old woman inpatient is referred to your surgical team with a diagnosis of *small-bowel obstruction*. Which one of the following *clinical signs* would you look for in trying to identify the commonest cause of this condition?
 
 	A. Previous abdominal surgery scar
 	B. Lump in the groin above and medial to the pubic tubercle
-	C. Lump in the groin below and lateral to the pubic tubercle
-	D. Cachexia and nodule at the umbilicus
-	E. Circumoral pigmentation and a family history of previous obstruction
-#### Answer: 
+	C. Lump in the groin below and lateral to the pubic tubercle - F
+	D. Cachexia and nodule at the umbilicus - F
+	E. Circumoral pigmentation and a family history of previous obstruction - F
+#### Answer: A. Previous abdominal surgery scar - TRUE
  
 ### Q120	
-All of the following causes of peptic ulceration may be cured by a course of proton-pump inhibitor (PPI) therapy, EXCEPT:
+All of the following *causes of peptic ulceration* may be cured by a course of proton-pump inhibitor (PPI) therapy, EXCEPT:
 
 	A. Non-steroidal anti-inflammatory drug (NSAID)-induced ulceration
 	B. Helicobacter pylori ulceration in addition to triple therapy
 	C. Cushing’s ulceration
 	D. Curling’s ulceration
 	E. Zollinger–Ellison syndrome
-#### Answer: 
+#### Answer: E. Zollinger–Ellison syndrome - TRUE
 
 
 Questions 121-130
 -----------------
 
 ### Q121
-The main effect of ADH (antidiuretic hormone) on the kidney is to:
+The main effect of ADH (*antidiuretic hormone*) on the kidney is to:
 
 	A. Reduce urine volume production by decreasing the GFR
 	B. Concentrate the urine by increasing Na+ excretion
 	C. Increase water retention by upregulating Na+/K+ receptors in the distal nephron
 	D. Increase water retention by increasing distal nephron permeability to water
 	E. Increase water retention by increasing Na+ resorption by acting on the Na/K-ATPase pump in the distal nephron
-#### Answer: 
+#### Answer: D. Increase water retention by increasing distal nephron permeability to water - TRUE
  
 ### Q122	
-An example of a depolarising muscle relaxant used in anaesthesia is:
+An example of a *depolarising muscle relaxant* used in anaesthesia is:
 
 	A. Vecuronium
 	B. Gallamine
 	C. Propofol
 	D. Suxamethonium
 	E. Neostigmine
-#### Answer: 
+#### Answer: C. Propofol - *FALSE* = D. Suxamethonium
+- Suxamethonium is an example of a depolarising muscle relaxant
+- It has a structure similar to acetylcholine, and acts in a similar way at the neuromuscular junction
+- Non-depolarising agents include gallamine and vecuronium
+	- which have a slower onset but longer duration of action
+- Neostigmine is an agent used to reverse non-depolarising neuromuscular blockade
+
+**NOTE** Propofol is an induction agent
  
 ### Q123	
-All of the following statements regarding renal artery stenosis are true, EXCEPT:
+All of the following statements regarding *renal artery stenosis* are true, EXCEPT:
 
 	A. It can cause acute renal failure in patients who are taking ACE inhibitor therapy
 	B. It is a cause of secondary hypertension
 	C. It is most commonly caused by atherosclerosis in younger patients
-	D. Treatment can include stenting of the involved vessels
+	D. Treatment can include stenting of the involved vessels - T
 	E. It can lead to hypokalaemia
-#### Answer: 
+#### Answer: C. It is most commonly caused by atherosclerosis in younger patients - TRUE
  
 ### Q124	
-A 14-year-old boy is referred from the Emergency Department to you with sudden onset right-sided testicular pain of 6 hours’ duration. On examination, you find the right testicle is hard, swollen, and lying transversely, with severe tenderness on light palpation. The next step in management is:
+A 14-year-old boy is referred from the Emergency Department to you with sudden onset *right-sided testicular pain* of 6 hours’ duration. On examination, you find the right testicle is hard, swollen, and lying transversely, with severe tenderness on light palpation. The next step in management is:
 
 	A. Urgent ultrasound scan of the testis
 	B. Analgesia, antibiotics and outpatient follow-up
 	C. Urgent theatre for testicular exploration
 	D. Admission for observation and analgesia
 	E. Elective arrangement for bilateral orchidopexy
-#### Answer: 
+#### Answer: C. Urgent theatre for testicular exploration - TRUE
  
 ### Q125	
-The following are all management options in the definitive treatment of urethral strictures, EXCEPT:
+The following are all management options in the definitive *treatment of urethral strictures*, EXCEPT:
 
 	A. Optical urethrotomy
 	B. Open urethroplasty
-	C. Urethral dilators
+	C. Urethral dilators - T
 	D. Urethral catheterisation
-	E. Urethral stenting
-#### Answer: 
+	E. Urethral stenting - T
+#### Answer: D. Urethral catheterisation - TRUE
  
 ### Q126	
-All of the following are correct boundaries of the foramen of Winslow, EXCEPT:
+All of the following are correct *boundaries of the foramen of Winslow*, EXCEPT:
 
-	A. Free edge of the lesser omentum
-	B. Inferior vena cava posteriorly
-	C. First part of the duodenum
-	D. Quadrate lobe of the liver
-	E. Porta hepatis
-#### Answer: 
+	A. Free edge of the lesser omentum - T
+	B. Inferior vena cava posteriorly - T
+	C. First part of the duodenum - T
+	D. Quadrate lobe of the liver - FALSE
+	E. Porta hepatis - T
+#### Answer: C. First part of the duodenum - *FALSE* = D. Quadrate lobe of the liver
  
-### Q127	
-The following layers of tissue are encountered during a Pfannenstiel incision, EXCEPT:
+#### Boundaries of Epiploic Foramen of Winslow - LEARN
+- Anteriorly: Free edge of lesser omentum containing Porta hHepatis
+- Posteriorly: Inferior Vena Cava (IVC)
+- Superiorly: Caudate Process of Liver
+- Inferiorly: First Part of Duodenum
 
-	A. Subcutaneous tissue layers of Camper and Scarpa
-	B. Anterior rectus sheath
-	C. Linea alba
+### Q127	
+The following layers of tissue are encountered during a *Pfannenstiel incision*, EXCEPT:
+
+	A. Subcutaneous tissue layers of Camper and Scarpa - T
+	B. Anterior rectus sheath - T
+	C. Linea alba - T
 	D. Posterior rectus sheath
-	E. Peritoneum
-#### Answer: 
+	E. Peritoneum - T
+#### Answer: D. Posterior rectus sheath - TRUE
  
 ### Q128	
-A 55-year-old woman is referred to you by the GP with an adenocarcinoma of the distal transverse colon recently found on colonoscopy and biopsy. Following the multidisciplinary team meeting, a decision to undertake an extended right hemicolectomy is agreed. You know that all of the following structures may be at risk of damage from direct or indirect effects when extended right hemicolectomy is performed, EXCEPT:
+A 55-year-old woman is referred to you by the GP with an adenocarcinoma of the distal transverse colon recently found on colonoscopy and biopsy. Following the multidisciplinary team meeting, a decision to undertake an extended right hemicolectomy is agreed. You know that all of the following *structures may be at risk of damage* from direct or indirect effects when *extended right hemicolectomy* is performed, EXCEPT:
 
-	A. Right ureter
-	B. Right gonadal vessels
+	A. Right ureter - T
+	B. Right gonadal vessels - T
 	C. Fourth part of the duodenum
 	D. Right ovary or testis
 	E. Spleen
-#### Answer: 
+#### Answer: C. Fourth part of the duodenum - TRUE
  
 ### Q129	
-A 67-year-old man who is an inpatient on your ward undergoes a thyroidectomy and right radical neck dissection. On the first postoperative day he complains that he is unable to initiate shoulder abduction. Which one of the following nerves is most likely to be injured?
+A 67-year-old man who is an inpatient on your ward undergoes a *thyroidectomy* and *right radical neck dissection*. On the first postoperative day he complains that he is unable to initiate shoulder abduction. Which one of the following *nerves is most likely to be injured*?
 
 	A. Axillary nerve
 	B. Suprascapular nerve
 	C. Dorsal scapular nerve
 	D. Lateral pectoral nerve
 	E. Thoracodorsal nerve
-#### Answer: 
- 
+#### Answer: A. Axillary nerve - *FALSE* = B. Suprascapular nerve
+- Suprascapular nerve injury is a rare clinical syndrome, but may arise in
+	- Volleyball players and those undergoing radical neck dissection for malignancy
+- Supraspinatus and Infraspinatus are affected and initiation of abduction is weakened
+
 ### Q130	 
-A 24-year-old motorcyclist has a collision with a car and is thrown 2 metres, landing on his head. When assessed at the scene he is mumbling incoherently, moving in response to command and opening his eyes only in response to painful stimuli. His GCS score is:
+A 24-year-old motorcyclist has a collision with a car and is thrown 2 metres, landing on his head. When assessed at the scene he is *mumbling incoherently*, *moving in response to command* and *opening his eyes only in response to painful stimuli*. His GCS score is:
 
 	A. 9
 	B. 10
 	C. 6
 	D. 12
 	E. 8
-#### Answer: 
+#### Answer: C. 6 - *FALSE* = B. 10
+
+##### Glasgow Coma Scale (GCS) - LEARN
+- Eye
+	1. None	
+	**2. Opens eyes in response to painful stimuli**	
+	3. Opens eyes in response to voice	
+	4. Opens eyes spontaneously
+- Verbal
+	1. None
+	**2. Incomprehensible sounds**
+	3. Inappropriate speech
+	4. Confused (disoriented)	
+	5. Oriented (converses normally)
+- Motor	
+	1. None
+	2. Abnormal extension to painful stimuli (*decerebrate response*)	
+	3. Abnormal flexion to painful stimuli (*decorticate response*)	
+	4. Flexion / Withdraws from painful stimuli	
+	5. Localizes painful stimuli	
+	**6. Obeys commands**
 
 
 Questions 131-134
