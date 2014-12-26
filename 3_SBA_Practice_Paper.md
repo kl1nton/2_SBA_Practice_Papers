@@ -1,24 +1,24 @@
 SBA Practice Paper: 3
 =====================
 
-Overall: ??/120 = ??.0% (?? errors)
+Overall: 55/135 = 41% (80 errors)
 
-Group	| Score			| Errors 						|
---------|---------------|-------------------------------|
-1-10	| 2/10 =  20%	|  1,  2,  3,  5,  7,  8, 9, 10
-11-20	| 4/10 =  40%	| 12, 14, 16, 17, 18, 19
-21-30	| 4/10 =  40%	| 21, 23, 24, 25, 27, 29
-31-40	| 4/10 =  40%	| 31, 35, 36, 37, 38, 40
-41-50	| 3/10 =  40%	| 43, 44, 46, 47, 48, 49, 50
-51-60	| 4/10 =  40%	| 52, 53, 54, 57, 58, 59
-61-70	| 5/10 =  50%	| 61, 62, 63, 66, 68
-71-80	| 3/10 =  30%	| 71, 72, 73, 74, 75, 77, 80
-81-90	| 5/10 =  50%	| 82, 83, 85, 87, 89
-91-100	| 5/10 =  50%	| 92, 94, 96, 97, 98
+Group	| Score			| Errors 								|
+--------|---------------|---------------------------------------|
+1-10	| 2/10 =  20%	|  1,    2,   3,   5,   7,   8,  9, 10
+11-20	| 4/10 =  40%	| 12,   14,  16,  17,  18,  19
+21-30	| 4/10 =  40%	| 21,   23,  24,  25,  27,  29
+31-40	| 4/10 =  40%	| 31,   35,  36,  37,  38,  40
+41-50	| 3/10 =  40%	| 43,   44,  46,  47,  48,  49,  50
+51-60	| 4/10 =  40%	| 52,   53,  54,  57,  58,  59
+61-70	| 5/10 =  50%	| 61,   62,  63,  66,  68
+71-80	| 3/10 =  30%	| 71,   72,  73,  74,  75,  77,  80
+81-90	| 5/10 =  50%	| 82,   83,  85,  87,  89
+91-100	| 5/10 =  50%	| 92,   94,  96,  97,  98
 101-110	| 3/10 =  30%	| 102, 104, 106, 107, 108, 109, 110
 111-120	| 6/10 =  60%	| 112, 113, 114, 118
 121-130	| 6/10 =  60%	| 122, 126, 129, 130
-131-135	| ?/5  =  ?%	|
+131-135	| 1/5  =  20%	| 131, 132, 133, 135
 
 
 Questions 1-10
@@ -2113,53 +2113,74 @@ Questions 131-134
 -----------------
 
 ### Q131
-A 23-year-old man sustains a stab wound to his cubital fossa during a fight. You suspect that there may be damage to the median nerve. All of the following muscles would lose their motor innervation, EXCEPT:
+A 23-year-old man sustains a *stab wound to his cubital fossa* during a fight. You suspect that there may be damage to the *median nerve*. All of the following muscles would lose their motor innervation, EXCEPT:
 
 	A. Palmaris longus
 	B. Abductor pollicis brevis
 	C. Pronator teres
 	D. Adductor pollicis
 	E. Opponens pollicis
-#### Answer: 
+#### Answer: E. Opponens pollicis - *FALSE* = D. Adductor pollicis
+- Adductor Pollicis is supplied by Ulnar Nerve as well as most intrinsic muscles of Hand
+
+#### Median Nerve in Hand - LEARN
+- Median Nerve supplies LOAF muscles
+	1. Lateral two lumbricals
+	2. Opponens pollicis
+	3. Abductor Pollicis Brevis (APB)
+	4. Flexor Pollicis Brevis (FPB)
  
 ### Q132	
-The following are true statements about the trachea, EXCEPT:
+The following are true statements about the *trachea*, EXCEPT:
 
-	A. The trachea commences at the cricoid cartilage at C6
-	B. The trachea ends at the bifurcation (carina) at the level of the second rib
-	C. The tracheal bifurcation varies with respiration between T4 and T6
-	D. The trachea is laterally related to the thyroid lobes and carotid arteries
-	E. The trachea is lined by stratified squamous, non-keratinising epithelium
-#### Answer: 
+	A. The trachea commences at the cricoid cartilage at C6 - T
+	B. The trachea ends at the bifurcation (carina) at the level of the second rib - T
+	C. The tracheal bifurcation varies with respiration between T4 and T6 - T
+	D. The trachea is laterally related to the thyroid lobes and carotid arteries - T
+	E. The trachea is lined by stratified squamous, non-keratinising epithelium - FALSE
+#### Answer: C. The tracheal bifurcation varies with respiration between T4 and T6 - *FALSE* = E. The trachea is lined by stratified squamous, non-keratinising epithelium
+- The trachea is 
+	- Lined by ciliated columnar epithelium 
+	- Commences at the level of the cricoid cartilage (C6) and ends at the carina (T4/5)
+		- Which is also level of second costal cartilage extending into Second Rib
  
 ### Q133	
-A 16-year-old boy is brought into the Emergency Department after having injured his right knee during a rugby game. After careful history-taking, the injury he describes indicates that his knee was forcibly abducted and externally rotated while in a flexed position. This scenario would classically result in a tear of:
+A 16-year-old boy is brought into the Emergency Department after having injured his right knee during a rugby game. After careful history-taking, the injury he describes indicates that his knee was *forcibly abducted* and *externally rotated* while in a flexed position. This scenario would classically result in a tear of:
 
 	A. Anterior cruciate ligament
 	B. Posterior cruciate ligament
 	C. Medial meniscus
 	D. Lateral meniscus
 	E. Lateral collateral ligament
-#### Answer: 
+#### Answer: A. Anterior cruciate ligament - *FALSE* = C. Medial meniscus
+- Meniscal injuries classically arise when a large force is applied to the knee in a semi-flexed position
+- The medial cartilage is more commonly damaged than the lateral one  
+	- Due to anatomical factors of size, location and mobility
+- Cruciate injuries result from hyperextension of the knee 
+	- Resulting in instability rather than locking (as found in meniscal tears)
  
 ### Q134	 
-Which of the following statements is true regarding HbF (fetal haemoglobin)?
+Which of the following statements is true regarding HbF (*fetal haemoglobin*)?
 
-	A. HbF contains two α and two β chains in its structure
-	B. The oxygen dissociation curve for HbF is shifted to the left because of the decreased affinity for O2
+	A. HbF contains two α and two β chains in its structure - F
+	B. The oxygen dissociation curve for HbF is shifted to the left because of the decreased affinity for O2 - F
 	C. HbF responds to an increase in 2,3-DPG by a right shift towards the adult Hb curve
 	D. HbF production is increased with the administration of erythropoietin (Epo)
-	E. Decreased levels are found in patients from African and Arabian populations
-#### Answer: 
+	E. Decreased levels are found in patients from African and Arabian populations - F
+#### Answer: D. HbF production is increased with the administration of erythropoietin (Epo) - TRUE
  
 ### Q135	
-Structures passing through the greater sciatic foramen include all of the following, EXCEPT:
+Structures passing through the *greater sciatic foramen* include all of the following, EXCEPT:
 
 	A. Piriformis muscle
 	B. Posterior cutaneous nerve of the thigh
 	C. Nerve to obturator internus
 	D. Tendon of obturator internus
 	E. Internal pudendal artery
-#### Answer: 
+#### Answer: E. Internal pudendal artery - *FALSE* = D. Tendon of obturator internus
+- Tendon of obturator internus and its corresponding nerve pass through **lesser sciatic foramen** as well as 
+	- Pudendal Nerve
+	- Internal Pudendal Vessels
+- Other structures listed all pass through **greater sciatic foramen** only
 
 ---
