@@ -1,7 +1,7 @@
 SBA Practice Paper: 4
 =====================
 
-Overall: ??/120 = ??.0% (?? errors)
+Overall: ??/135 = ??% (?? errors)
 
 Group	| Score			| Errors 					|
 --------|---------------|---------------------------|
@@ -25,7 +25,7 @@ Questions 1-10
 --------------
 
 ### Q1
-Regarding the anatomy of the rectum:
+Regarding the *anatomy of the rectum*:
 
 	A. The rectum begins after the termination of the sigmoid colon at the level of L5
 	B. The superior rectal artery is a branch of the internal iliac artery
