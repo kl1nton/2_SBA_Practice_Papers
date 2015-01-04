@@ -38,14 +38,14 @@ All of the following muscles are usually *supplied by the obturator nerve*, EXCE
 - It travels medially in relation to Psoas Major and passes through the **obturator foramen**
 - It divides into anterior and posterior divisions around Adductor Brevis 
 
-- 2x Branches of Obturator Nerve supply:
-	- Anterior Branch
-		- Adductor brevis
-		- Adductor longus
-		- Gracilis
-	- Posterior Branch
-		- Adductor magnus (also partly supplied by tibial nerve – hamstring portion)
-		- Obturator externus
+#### Muscles Supplied by Obturator Nerve - LEARN
+- Anterior Branch
+	- Adductor brevis
+	- Adductor longus
+	- Gracilis
+- Posterior Branch
+	- Adductor magnus (also partly supplied by tibial nerve – hamstring portion)
+	- Obturator externus
 
 **Notes**
 - Pectineus occasionally receives a nerve twig from Obturator Nerve
@@ -55,7 +55,7 @@ All of the following muscles are usually *supplied by the obturator nerve*, EXCE
 Select the correct statement regarding *action potentials*:
 
 	A. The size and shape of the action potential becomes smaller as it spreads across the membrane
-	B. The size and shape of action potentials are the same from one excitable tissue to another - F
+	B. The size and shape of action potentials are the same from one excitable tissue to another
 	C. The accumulation of positive charges due to Na+ influx promotes further depolarisation of the cell membrane
 	D. Repolarisation after an action potential is due to inactivation of the postassium channels
 	E. Tetrodotoxin (TTX) is a specific blocker of the potassium channel
@@ -67,30 +67,44 @@ Select the correct statement regarding *action potentials*:
 ### Q3	
 Select the correct statement regarding cerebrospinal fluid (CSF):
 
-	A. It is produced by specialised endothelial cells covering the choroid plexuses - F
+	A. It is produced by specialised endothelial cells covering the choroid plexuses
 	B. It has similar composition to plasma EXCEPT for glucose
 	C. It is produced at 1.5 ml/min, allowing it to be turned over four times a day
 	D. About half of the volume is distributed in the ventricles at any one time
 	E. It plays a critical role in important brain functions and in providing nutritive support
 #### Answer: C. It is produced at 1.5 ml/min, allowing it to be turned over four times a day - *FALSE* = E. It plays a critical role in important brain functions and in providing nutritive support
-- CSF is produced largely by the choroid plexuses, which are capillary loops covered by specialised ependymal cells located in the ventricular system. It is produced at a rate of 0.35–0.5 ml/min, distributed approximately as 20 ml in the ventricles, 45 ml in the cranial subarachnoid space and the rest in the spinal subarachnoid space and central canal. CSF has lower concentrations of K+, glucose and protein but greater concentrations of Na+ and Cl– than blood. CSF is important in regulation of brain function in many ways, for example: CSF pH and PCO2 on respiration; CSF sodium chloride on AVP (vasopressin); CSF carriage of neuromodulators, eg opioids. It plays a minor role in supplying glucose to inaccessible areas.
+- CSF is produced largely by the choroid plexuses
+	- which are capillary loops covered by *specialised ependymal cells* 
+	- located in the ventricular system
+- It is produced at a rate of 0.35–0.5 ml/min, distributed approximately as
+	- as 20 ml in the ventricles
+	- 45 ml in the cranial subarachnoid space
+	- rest in spinal subarachnoid space and central canal
+- CSF has 
+	- lower concentrations of K+, glucose and protein
+	- greater concentrations of Na+ and Cl– than blood
+- CSF is important in regulation of brain function in many ways, for example
+	- CSF pH and PCO2 on respiration
+	- CSF sodium chloride on AVP (vasopressin)
+	- CSF carriage of neuromodulators, eg opioids
+- It plays a minor role in supplying glucose to inaccessible areas
  
 ### Q4	
 All of the following special precautions should be taken when operating on a patient with known *HIV status*, EXCEPT:
 
-	A. Use of disposable gowns and drapes - T
-	B. Double gloving and use of indicator systems - T
-	C. Minimising the presence of unnecessary theatre staff - T
+	A. Use of disposable gowns and drapes
+	B. Double gloving and use of indicator systems
+	C. Minimising the presence of unnecessary theatre staff
 	D. Operating in a theatre with negative-pressure air ventilation
-	E. Use of the kidney dish to pass all instruments - T
+	E. Use of the kidney dish to pass all instruments
 #### Answer: D. Operating in a theatre with negative-pressure air ventilation - TRUE
 - Standard HIV precautions exist to minimise any chance of inoculation from blood contact
 	1. Double gloving
-	2. disposable gowns
-	3. kidney-dish passing of sharp instruments are just some of the few precautions listed
+	2. Disposable gowns
+	3. Kidney-dish passing of sharp instruments
 
 **Notes**	
-- There are no suggestions for specific theatre ventilation in HIV
+- No suggestions for specific theatre ventilation in HIV
 	- HIV is not transmitted via airborne routes!
  
 ### Q5	
@@ -129,7 +143,7 @@ Which one of the following statements regarding *skeletal muscle* is CORRECT?
 	- Where there is low ATPase activity (slow muscle fibres)
 
 **Notes**
-- The reason for muscle fatigue is unknown, but the following contribute to it
+- Reason for muscle fatigue is unknown, but the following contribute to it
 	- H+ ion (acid)
 	- Lactate
 	- PO43- ion rise
@@ -138,9 +152,9 @@ Which one of the following statements regarding *skeletal muscle* is CORRECT?
 ### Q7	
 A 23-year-old patient with *myasthenia gravis* is admitted under your care for a thymectomy. On further reading you discover that this autoimmune disorder affects the neuromuscular junction. Which one of the following statements concerning *neuromuscular junctions* is CORRECT?
 
-	A. It is also known as a 'gap junction' - F
-	B. Noradrenaline (norepinephrine) is the primary neurotransmitter in the neuromuscular junctions in the somatic nervous system - F
-	C. Choline is synthesised in adequate amounts in the ends of motor neurones - F
+	A. It is also known as a 'gap junction'
+	B. Noradrenaline (norepinephrine) is the primary neurotransmitter in the neuromuscular junctions in the somatic nervous system 
+	C. Choline is synthesised in adequate amounts in the ends of motor neurones
 	D. In myasthenia gravis the number of acetylcholine (Ach) molecules released is dramatically reduced
 	E. It is an example of a chemical synapse - F
 #### Answer: D. In myasthenia gravis the number of acetylcholine (Ach) molecules released is dramatically reduced - *FALSE* = E. It is an example of a chemical synapse
@@ -150,20 +164,20 @@ A 23-year-old patient with *myasthenia gravis* is admitted under your care for a
 ### Q8	
 A 12-year-old boy presents to the Emergency Department with spontaneous hip pain and inability to walk. You suspect that the patient might have *slipped upper femoral epiphysis* (SUFE). Which of the following statements regarding SUFE is CORRECT?
 
-	A. The incidence of SUFE is approximately 2% - F
-	B. SUFE is commoner in girls than in boys - F
+	A. The incidence of SUFE is approximately 2%
+	B. SUFE is commoner in girls than in boys
 	C. The incidence of bilateral SUFE in children with symptomatic disease is around 10%
 	D. The clinical presentation can be with pain located in the foot
 	E. It can be managed non-operatively
 #### Answer: D. The clinical presentation can be with pain located in the foot - *FALSE* = C. The incidence of bilateral SUFE in children with symptomatic disease is around 10%
 
-#### Slipped Upper Femoral Epiphysis (SUFE) Facts
+#### Slipped Upper Femoral Epiphysis (SUFE) - LEARN
 - Incidence is 2 per 100 000 of the population
 - Commoner in boys than girls (3:2)
 - Commonly occurs in the 10–15-years age group
 - Associated with hypogonadism, pituitary dysfunction and hypothyroidism
 - Reported incidence of bilateral disease in cases which are symptomatic is 10%
-- Usual presenting symptom is pain in the groin, thigh or knee, and a limp
+- Usual presenting symptom is pain in groin, thigh or knee, and a limp
 - X-rays should include an AP X-ray as well as a frog-lateral to avoid missing a SUFE
 - Cannulated screws are used to fix the femoral head very soon after diagnosis to prevent progression
 - In severe cases where avascular necrosis has occurred, salvage procedures such as osteotomy, joint replacement or arthrodesis may be required.
@@ -171,10 +185,10 @@ A 12-year-old boy presents to the Emergency Department with spontaneous hip pain
 ### Q9	
 You are looking after a 73-year-old woman in ITU who requires total parenteral nutrition (TPN) via a central venous catheter in her right internal jugular vein. All of the following are recognised *complications of central venous pressure* (CVP) line insertion, EXCEPT:
 
-	A. Tension pneumothorax - T
-	B. Air embolus - T
-	C. Cardiac arrythmias - T
-	D. Pleural effusions - T
+	A. Tension pneumothorax
+	B. Air embolus
+	C. Cardiac arrythmias
+	D. Pleural effusions
 	E. Thrombophlebitis
 #### Answer: C. Cardiac arrythmias - *FALSE* = E. Thrombophlebitis
 - Thrombophlebitis **does not** usually occur in such large-bore veins
@@ -185,20 +199,19 @@ You are looking after a 73-year-old woman in ITU who requires total parenteral n
 *Down syndrome* (trisomy 21) is associated with an increased risk of all of the following *surgical conditions*, EXCEPT:
 
 	A. Endocardial cushion defect
-	B. Cryptorchidism - T
-	C. Duodenal atresia - T
+	B. Cryptorchidism
+	C. Duodenal atresia
 	D. Diaphragmatic hernia
-	E. Hirschsprung’s disease - T
+	E. Hirschsprung’s disease
 #### Answer: A. Endocardial cushion defect - *FALSE* = D. Diaphragmatic hernia
-- Although case reports show that diaphragmatic hernias can occur in children with Down's
-	- There is no increased risk above that of the normal population
+- Case reports show that diaphragmatic hernias can occur in children with Down's
+	- No increased risk above that of the normal population
 
-**Notes**
-- Known surgical conditions associated with Down syndrome - **CHED**
-	1. **C**ryptorchidism
-	2. **H**irschsprung’s disease
-	3. **E**ndocardial cushion defects
-	4. **D**uodenal atresia
+#### Surgical Conditions Associated with Down Syndrome "CHED"
+1. C - **C**ryptorchidism
+2. H - **H**irschsprung’s disease
+3. E - **E**ndocardial cushion defects
+4. D - **D**uodenal atresia
 
 
 Questions 11-20
@@ -217,20 +230,20 @@ Which of the following is the most common cause of *osteomyelitis in adults*?
 ### Q12	
 A 39-year-old woman presents to the Orthopaedic Clinic complaining of severe pain and tingling in both hands at nighttime, especially in her thumb, index and middle fingers, and occasionally her ring finger. You confirm that she has carpal tunnel syndrome on nerve conduction tests. The following are all recognised *causes of carpal tunnel syndrome*, EXCEPT:
 
-	A. Acromegaly - T
-	B. Rheumatoid arthritis
-	C. Pregnancy - T
+	A. Acromegaly
+	B. Rheumatoid arthritis (RA)
+	C. Pregnancy
 	D. Addison’s disease
-	E. Repetitive strain injury - T
+	E. Repetitive strain injury
 #### Answer: B. Rheumatoid arthritis - *FALSE* = D. Addison’s disease
 - Carpal Tunnel Syndrome (CTS) affects women aged 40–60 years 
 	- Who perform *chronically repetitive tasks* that involve Hand
-- The median nerve can become compressed within the carpal tunnel in such cases
-- Patients often present with nocturnal symptoms in the Palm of Hand and Fingers
-	- frequent burning
-	- tingling
-	- itching
-	- numbness
+- Median Nerve can become compressed within carpal tunnel
+- Patients present with *nocturnal symptoms* in the Palm of Hand and Fingers
+	- Frequent burning
+	- Tingling
+	- Itching
+	- Numbness
 - Carpal Tunnel Syndrome especially affects thumb, index and middle fingers
 
 **Notes**
@@ -243,13 +256,13 @@ A 39-year-old woman presents to the Orthopaedic Clinic complaining of severe pai
 - Sensation over Lateral Aspect of Palm is controlled by Median Nerve
 	- Although branch innervating Palm (*palmar cutaneous branch*) passes superficially to Carpal Tunnel
 - Sensation over Medial Aspect of Dorsum of Hand is mediated by Ulnar Nerve
-	- As is the Medial Aspect of Palm
+	- As is Medial Aspect of Palm
 
 #### Causes of Carpal Tunnel Syndrome (CTS) - LEARN 
 - Idiopathic
 - Repetitive strain injury
 - Pregnancy
-- Rheumatoid arthritis
+- Rheumatoid arthritis (RA)
 - Acromegaly
 - Diabetes
 - Cushing’s disease
@@ -260,23 +273,23 @@ A 39-year-old woman presents to the Orthopaedic Clinic complaining of severe pai
 ### Q13	
 Select the correct statement regarding *compartment syndrome*:
 
-	A. It presents early with a pulseless limb - F
+	A. It presents early with a pulseless limb
 	B. Ischaemia occurs initially because compartment pressures exceed capillary pressures
-	C. Operative management is only mandatory after failed conservative treatment - F
-	D. Compartment pressures must be measured prior to any surgical procedure - 
-	E. Fasciotomy is a recognised cause - F
+	C. Operative management is only mandatory after failed conservative treatment
+	D. Compartment pressures must be measured prior to any surgical procedure
+	E. Fasciotomy is a recognised cause
 #### Answer: B. Ischaemia occurs initially because compartment pressures exceed capillary pressures - TRUE
  
 ### Q14
-All of the following are true statements regarding *diverticular disease*, EXCEPT:
+All of the following are true statements regarding *diverticular disease*, **EXCEPT**:
 
-	A. It is found more commonly in the developed world - T
-	B. Surgical treatment is usually unnecessary in acute uncomplicated disease - T
+	A. It is found more commonly in the developed world
+	B. Surgical treatment is usually unnecessary in acute uncomplicated disease 
 	C. Diverticulae are most commonly found in the descending colon
 	D. Perforation and fistula formation can result from an attack of acute diverticulitis - T
 	E. Resolution of the diverticulae can occur with a high-fibre diets and adequate hydration
 #### Answer: C. Diverticulae are most commonly found in the descending colon - *FALSE* = E. Resolution of the diverticulae can occur with a high-fibre diets and adequate hydration
-- Diverticular disease is more prevalent in the developed world
+- Diverticular disease is more prevalent in developed world
  	- Theories suggest this may be due to dietary factor
 - Prevention and not resolution of diverticular disease may occur with use of a high-fibre diet
 	- Which theoretically puts less strain on the colon
@@ -284,7 +297,8 @@ All of the following are true statements regarding *diverticular disease*, EXCEP
 	- Symptoms are troubling enough with frequent attacks, or
 	- Complications from initial disease have occurred (*fistula or abscess formation*)
 
-**NOTE** Once diverticular disease is established, **only surgery** can completely eradicate it
+**NOTE** Once diverticular disease is established
+	**only surgery** can completely eradicate it
  
 ### Q15
 A patient has blood sent away for clotting studies and the results show a *raised prothrombin time*, but activated partial thromboplastin time, thrombin time and platelet count are normal. What is the most likely reason?
@@ -299,15 +313,16 @@ A patient has blood sent away for clotting studies and the results show a *raise
 ### Q16
 Risk factors for *squamous cell carcinoma* include the following, EXCEPT:
 
-	A. UV radiation - T
-	B. Burn scars - T
+	A. UV radiation
+	B. Burn scars
 	C. Surgery
 	D. Vitiligo
-	E. Actinic keratoses and Bowen’s disease - T
+	E. Actinic keratoses and Bowen’s disease
 #### Answer: C. Surgery - *FALSE* = D. Vitiligo
 - Squamous cell carcinoma is a malignant epidermal tumour 
 	- Whose cells show maturation towards keratin formation
-- Squamous cell carcinoma has a number of risk factors, but vitiligo is **not** one of them
+- Squamous cell carcinoma has a number of risk factors
+	- vitiligo is **not** one of them
 
 #### Squamous Cell Carcinoma (SCC) - LEARN
 - Clinically this is a firm skin tumour normally found on the dorsum of the hand, the scalp or the face
@@ -316,30 +331,28 @@ Risk factors for *squamous cell carcinoma* include the following, EXCEPT:
 ### Q17
 Clinical features of a *basal cell carcinoma* include the following, EXCEPT:
 
-	A. Pink, pearly nodules - T
-	B. Surface telangiectasia - T
+	A. Pink, pearly nodules
+	B. Surface telangiectasia
 	C. Ulceration
 	D. Nodular
 	E. Associated (lymph)-adenopathy
 #### Answer: D. Nodular - *FALSE* = E. Associated adenopathy
 - Basal cell carcinoma (BCC) is a malignant tumour 
 	- Composed of cells derived from **basal layer of skin**
-- It is *commonest malignant tumour* of the skin in white races
+- *Commonest malignant tumour* of skin in white races
 	- With increased prevalence in locations of high sun exposure
 - Other risk factors include 
 	- UV and ionising radiation 
 	- Immunosuppression
-
-**Notes**
-- BCC are **locally invasive** and rarely metastasises to lymphatics 
+**NOTE** BCC are **locally invasive** and rarely metastasises to lymphatics 
 
 ### Q18
 Types of *radiation-induced cell damage* include all of the following, EXCEPT:
 
-	A. DNA strand breakage - T
-	B. Free radical peroxidation in cell membrane lipids - T
-	C. DNA base alterations - T
-	D. Catalytic dismutation of the superoxide anion - T
+	A. DNA strand breakage 
+	B. Free radical peroxidation in cell membrane lipids
+	C. DNA base alterations
+	D. Catalytic dismutation of the superoxide anion
 	E. DNA cross-linking
 #### Answer: E. DNA cross-linking - *FALSE* = D. Catalytic dismutation of the superoxide anion
 - Radiation-induced cell damage can produce several types of free radicals
@@ -361,18 +374,18 @@ Types of *radiation-induced cell damage* include all of the following, EXCEPT:
 All of the following statements regarding the *anion gap* are true, EXCEPT:
 
 	A. Normal range is between 10 and 19 mmol/L
-	B. It reflects the concentrations of normally unmeasured anions in the serum - F
+	B. It reflects the concentrations of normally unmeasured anions in the serum
 	C. It will be abnormal in conditions where bicarbonate is lost, such as diarrhoea and fistulae
 	D. It is calculated by taking the difference between the main cations and anions in the serum (Na+, K+, HCO3-, Cl-)
 	E. It would be increased in the serum of a runner immediately after a marathon
 #### Answer: D. It is calculated by taking the difference between the main cations and anions in the serum (Na+, K+, HCO3-, Cl-) - *FALSE* = C. It will be abnormal in conditions where bicarbonate is lost, such as diarrhoea and fistulae
-- Anion gap would be increased in conditions where unmeasured anions exist in the blood in metabolic acidosis
+- Anion gap &uarr; where unmeasured anions exist in blood in *metabolic acidosis*
 - Examples include 
-	- Lactic acidosis
-	- Ketones from diabetic ketoacidosis, and 
+	- *Lactic acidosis*
+	- Ketones from *diabetic ketoacidosis*
 	- Drugs that are taken in overdose
 
-**NOTE** Diarrhoea and loss of bicarbonate do **not** result in an increased anion gap
+**NOTE** Diarrhoea and loss of bicarbonate do **not** result in increased anion gap
  
 ### Q20
 All of the following features are associated with *necrotising enterocolitis*, EXCEPT:
@@ -408,13 +421,22 @@ Questions 21-30
 Which of the following is NOT a possible long-term *complication of gastrectomy*?
 
 	A. Bolus obstruction
-	B. Dumping - T
+	B. Dumping
 	C. Weight gain
-	D. Vitamin B12 deficiency - T
+	D. Vitamin B12 deficiency
 	E. Low serum calcium
 #### Answer: A. Bolus obstruction - *FALSE* = C. Weight gain
-- Gastrectomy is an effective treatment for gastric carcinoma but is associated with possible long-term complications. Dumping syndrome is caused by food and liquid passing too quickly into the small intestine causing abdominal cramps, diarrhoea, dizziness, sweating, nausea and vomiting. It is thought to be due to accelerated gastric emptying of hyperosmolar contents into the small bowel. This leads to fluid shifts from the intravascular compartment into the bowel lumen. It is often relieved by dietary changes. Another possible problem is vitamin B12 deficiency: the stomach is where intrinsic factor is secreted by the parietal cells and stomach acid also helps to release vitamin B12 from ingested food. Bolus obstruction can occur from the relative reduction in volume of the small intestine compared with the stomach. Hypocalcaemia can also occur post-gastrectomy and is due to increased transit time and therefore reduced time over which absorption can occur. 
-- Because of this malabsorption, **weight loss** is commonly seen post-gastrectomy.
+- Gastrectomy is an effective treatment for gastric carcinoma but is associated with possible long-term complications
+- Dumping syndrome is caused by food and liquid passing too quickly into the small intestine causing abdominal cramps, diarrhoea, dizziness, sweating, nausea and vomiting
+	- It is thought to be due to accelerated gastric emptying of hyperosmolar contents into the small bowel
+	- This leads to fluid shifts from the intravascular compartment into the bowel lumen
+	- It is often relieved by dietary changes
+- Another possible problem is vitamin B12 deficiency: 
+	- the stomach is where intrinsic factor is secreted by the parietal cells and stomach acid also helps to release vitamin B12 from ingested food
+- Bolus obstruction can occur from the relative reduction in volume of the small intestine compared with the stomach
+- HyPOcalcaemia can also occur post-gastrectomy
+	- due to increased transit time and therefore reduced time over which absorption can occur
+- Due to *malabsorption*, **weight loss** is commonly seen post-gastrectomy.
  
 ### Q22	
 All of the following statements regarding *fracture healing* are true, EXCEPT:
@@ -442,11 +464,11 @@ Which of the following *chemical mediators of acute inflammation* is correctly p
 
 #### Chemical Mediators of Acute Inflammation - LEARN
 
-Chemical Mediator	| Source (cell type)							|
---------------------|-----------------------------------------------|
+Chemical Mediator	| Source (cell type)								|
+--------------------|---------------------------------------------------|
 Lysosomes			| Neutrophils
 Histamine			| Mast cells, basophils, eosinophils, platelets
-Prostaglandins		| Platelets, endothelium, macrophages, others
+**Prostaglandins**	| **Platelets**, endothelium, macrophages, others
 Nitric oxide		| Endothelium, macrophages, free radicals
 Leukotrienes		| Neutrophils, mast cells, macrophages, others
 Cytokines			| Many cells
@@ -474,7 +496,7 @@ C5a					| neutrophil chemotaxis
 C3a					| similar activity as above but less potent
 C5, C6, C7			| neutrophil chemotaxis
 C5, C6, C7, C8, C9	| MAC (*membrane attack complex*) = cytolytic activity
-C2a, C3b, C4b		| bacterial **opsonisation** and phagocyte facilitation
+C2a, **C3b**, C4b	| bacterial **opsonisation** and phagocyte facilitation
  
 ### Q25	
 A complete division of the *right oculomotor nerve* (CN III) would result in all of the following signs, **EXCEPT**:
@@ -485,7 +507,7 @@ A complete division of the *right oculomotor nerve* (CN III) would result in all
 	D. Dilated pupil on the right side
 	E. Loss of a consensual pupillary reflex when the left eye is examined
 #### Answer: E. Loss of a consensual pupillary reflex when the left eye is examined - *FALSE* = C. Convergent squint
-- All of the following signs are seen as well as a divergent squint
+- All of the following signs are seen as well as a *divergent squint*
 - Occurs because of unopposed action of Lateral Rectus (CN VI) and Superior Oblique (CN IV)
 
 #### LR6-SO4-3 - LEARN
@@ -497,9 +519,9 @@ A complete division of the *right oculomotor nerve* (CN III) would result in all
 A 66-year-old man comes into the Emergency Department with *severe tearing chest pain*, which radiates to the back. His past medical history includes hypertension and diet-controlled diabetes. Examination reveals an early *diastolic murmur* and *blood pressure differences* in both arms of >15 mmHg. The *gold-standard investigation* of choice in confirming your diagnosis would be:
 
 	A. CT chest with contrast
-	B. MRI chest - F
-	C. Echocardiogram - F
-	D. Electrocardiogram - F
+	B. MRI chest
+	C. Echocardiogram
+	D. Electrocardiogram
 	E. Angiogram of the arch vessels
 #### Answer: E. Angiogram of the arch vessels - TRUE
 - Dx: Aortic Dissection
@@ -508,8 +530,8 @@ A 66-year-old man comes into the Emergency Department with *severe tearing chest
 Which of the following statements regarding *HIV* is CORRECT?
 
 	A. It is a double-stranded RNA retrovirus
-	B. HIV infection results in a fall of CD8+ T cells - F
-	C. HIV can be transmitted in normal saliva - F
+	B. HIV infection results in a fall of CD8+ T cells
+	C. HIV can be transmitted in normal saliva
 	D. There is an increased risk of malignancies other than Kaposi’s sarcoma
 	E. Newborn haemophiliacs will have an increased lifetime risk of contracting the virus
 #### Answer: E. Newborn haemophiliacs will have an increased lifetime risk of contracting the virus - *FALSE* = D. There is an increased risk of malignancies other than Kaposi’s sarcoma
@@ -518,13 +540,15 @@ Which of the following statements regarding *HIV* is CORRECT?
 	- Results in a fall in CD4+ T-helper cells and subsequent widespread immunological dysfunction 
 - Opportunistic infections and a wide variety of neoplastic disorders can occur in HIV infection
 
-#### Transmission of HIV - LEARN
+#### Human Immunodeficiency Virus (HIV)
+
+##### Transmission - LEARN
 - Sexual transmission
 - Vertical transmission: childbirth or breast-feeding
 - Intravenous drug use (IVDU)
 - Blood transfusion
 
-#### Individuals at Risk of HIV - LEARN
+#### Individuals at Risk - LEARN
 - Promiscuous individuals and prostitutes (and their partners)
 - Homosexual or bisexual males
 - Intravenous drug abusers
@@ -554,13 +578,14 @@ A 40-year-old woman presents with right upper quadrant pain and nausea. Ultrasou
 ### Q29	
 A 46-year-old man is noted to have a platelet count of 28 × 10^9/L as part of his full blood count results taken at a pre-admission clinic. You decide to postpone elective surgery and investigate this further to find the cause of his condition. *Causes of thrombocytopenia* include all of the following, EXCEPT:
 
-	A. Multiple myeloma - T
-	B. Alcohol abuse - T
-	C. Heparin administration - T
+	A. Multiple myeloma
+	B. Alcohol abuse
+	C. Heparin administration
 	D. Uraemia
-	E. HyPERsplenism - T
+	E. HyPERsplenism
 #### Answer: E. HyPERsplenism - *FALSE* = D. Uraemia
-- Uraemia can cause bleeding even with a normal platelet count because of loss of or abnormal platelet function
+- Uraemia can cause bleeding even with a normal platelet count 
+	- Due to loss of or abnormal platelet function
 
 #### Causes of Abnormal Platelet Function - LEARN
 - Drugs (eg aspirin, NSAIDs)
@@ -590,24 +615,26 @@ A 46-year-old man is noted to have a platelet count of 28 × 10^9/L as part of h
 ### Q30	
 Which of the following statements is true regarding the *aetiology of colorectal carcinoma*?
 
-	A. Crohn’s disease poses a similar risk in the development of colorectal carcinoma as does ulcerative colitis - F
-	B. Malignancy developing from ureterosigmoidostomy classically occurs at some distance from the anastomosis site - F
-	C. Colon cancer is more prevalent in non-urban areas compared with urban areas - F
+	A. Crohn’s disease poses a similar risk in the development of colorectal carcinoma as does ulcerative colitis
+	B. Malignancy developing from ureterosigmoidostomy classically occurs at some distance from the anastomosis site
+	C. Colon cancer is more prevalent in non-urban areas compared with urban areas
 	D. Hereditary non-polyposis colon cancer (HNPCC) causes over 60% of tumours proximal to the splenic flexure
 	E. Gardner syndrome results from a mutation on chromosome 6
 #### Answer: E. Gardner syndrome results from a mutation on chromosome 6 - *FALSE* = D. Hereditary non-polyposis colon cancer (HNPCC) causes over 60% of tumours proximal to the splenic flexure
-- Gardner syndrome and familial adenomatous polyposis (FAP) share the same APC gene 
-	- that mutates on the long arm of chromosome 5
-- Cancers occurring post-ureterosigmoidostomy classically occur at or near the ureterocolic anastomosis
+- Gardner syndrome and familial adenomatous polyposis (FAP) share same APC gene 
+	- mutates on the long arm of chromosome 5
+- Cancers occurring post-ureterosigmoidostomy classically occur 
+	- at or near ureterocolic anastomosis
 
 **NOTE** In HNPCC, around two-thirds (67%) of cancers are proximal to the splenic flexure
 
-#### Risk Factors for Colon Cancer
+#### Risk Factors for Colon Cancer - LEARN
 - Genetic causes
 - Diet
 - Irradiation
 - Surgical procedures
 - Inflammatory bowel disease
+
 
 Questions 31-40
 ---------------
@@ -615,17 +642,18 @@ Questions 31-40
 ### Q31
 All of the following statements about *carcinoma of the gallbladder* are correct, EXCEPT:
 
-	A. The neoplasm usually starts in the cystic duct and neck of the gallbladder - FALSE
-	B. It is found more commonly in women than in men - T
-	C. It is associated with the presence of gallstones in >85% of cases - T
-	D. Prognosis is generally poor with <1-year survival with local invasion - T
-	E. Chemotherapy and radiotherapy do not alter disease progression - T
+	A. The neoplasm usually starts in the cystic duct and neck of the gallbladder
+	B. It is found more commonly in women than in men
+	C. It is associated with the presence of gallstones in >85% of cases
+	D. Prognosis is generally poor with <1-year survival with local invasion
+	E. Chemotherapy and radiotherapy do not alter disease progression
 #### Answer: C. It is associated with the presence of gallstones in >85% of cases - *FALSE* = A. The neoplasm usually starts in the cystic duct and neck of the gallbladder
 - Gallbladder tumours occur in 
 	- Fundus in 60% of patients
 	- Body in 30% of patients
 	- Neck in 10% of patients
-- They are rarely found in the UK and are associated with gallstones and porcelain gallbladders.
+- Rarely found in the UK
+- Associated with gallstones and porcelain gallbladders
  
 ### Q32	
 A 15-year-old boy complains of *easy bruising* while playing sport and *bleeding gums* while brushing his teeth. He is seen by the GP, who orders a blood test for coagulation studies. His APTT is normal, but the PT is abnormal. The explanation for this result is a deficit in:
@@ -660,21 +688,21 @@ All of the following factors stimulate the *progression of the cell cycle*, EXCE
 ### Q35	
 Which of the following statements about the differences between *jejunum and ileum* are TRUE?
 
-	A. The ileum has a thicker wall than the jejunum - F
-	B. The jejunum has fewer arterial arcades - TRUE
-	C. The ileum has a wider lumen - F
-	D. The jejunum has fewer villi on its inner surface - F
-	E. The ileum has more valvulae conniventes - F
+	A. The ileum has a thicker wall than the jejunum
+	B. The jejunum has fewer arterial arcades
+	C. The ileum has a wider lumen
+	D. The jejunum has fewer villi on its inner surface
+	E. The ileum has more valvulae conniventes
 #### Answer: E. The ileum has more valvulae conniventes - *FALSE* = B. The jejunum has fewer arterial arcades
 - Jejunum forms upper 2/5ths of small bowel: ileum forms lower 3/5ths
 	- There are certain anatomical differences between them
 
 #### Jejunum Compare to Ileum - LEARN
-- Compared with Ileum, Jejunum has
-	1. a thicker wall
+- Compared with Ileum, Jejunum has (HIGHER)
+	1. thicker wall
 	2. more valvulae conniventes
-	3. a greater number of villi
-	4. a wider lumen
+	3. greater number of villi
+	4. wider lumen
 - There is also a difference in the arrangement of the blood vessels in the small bowel mesentery
 	- Ileal vessels form complex branching arcades before reaching bowel
 	- Jejunal vessels have much simpler arrangement - **fewer arterial arcades**
@@ -682,56 +710,60 @@ Which of the following statements about the differences between *jejunum and ile
 ### Q36	
 All of the following statements about *Herceptin* are correct, EXCEPT:
 
-	A. It is a form of immunotherapy as opposed to chemotherapy - T
-	B. Patients receiving Herceptin need regular cardiac function monitoring - T
-	C. It can be used in combination with paclitaxel as a first-line agent for metastatic breast cancer with HER2 overexpression - T
-	D. Up to 40% of patients may get an infusion reaction in the first 24 hours - T
-	E. Polycythaemia and leukaemia may occur - FALSE
+	A. It is a form of immunotherapy as opposed to chemotherapy
+	B. Patients receiving Herceptin need regular cardiac function monitoring
+	C. It can be used in combination with paclitaxel as a first-line agent for metastatic breast cancer with HER2 overexpression
+	D. Up to 40% of patients may get an infusion reaction in the first 24 hours
+	E. Polycythaemia and leukaemia may occur
 #### Answer: D. Up to 40% of patients may get an infusion reaction in the first 24 hours - *FALSE* = E. Polycythaemia and leukaemia may occur
-- Herceptin is the first humanised antibody (immunotherapy) approved for the treatment of HER2-positive metastatic breast cancer
-- Herceptin is designed to target and block the function of HER2 protein overexpression
-- Herceptin administration can result in the development of certain heart problems
-	- including congestive heart failure
+
+#### Herceptin Facts - LEARN
+- First humanised antibody (*immunotherapy*) approved for
+	- treatment of HER2-positive metastatic breast cancer
+- Designed to target and block function of HER2 protein overexpression
+- Administration can result in development of heart problems
+	- including *congestive heart failure*
 - Severe allergic reactions, infusion reactions, and lung problems have been observed
-- Anaemia and leucopenia have also been reported when it is used in combination with chemotherapy.
+- Anaemia and leucopenia have also been reported 
+	- when used in combination with chemotherapy
  
 ### Q37	
 The *sensitivity of a test* is defined by which one of the following:
 
 	A. True positives / (true positives + false positives)
 	B. True positives / (true positives + false negatives) 
-	C. True negatives / (true negatives + false positives) - F
-	D. True negatives / (true negatives + false negatives) - F
-	E. True positives / (true negatives + false positives) - F
+	C. True negatives / (true negatives + false positives)
+	D. True negatives / (true negatives + false negatives)
+	E. True positives / (true negatives + false positives)
 #### Answer: A. True positives / (true positives + false positives) - *FALSE* = B. True positives / (true positives + false negatives) 
 
 #### Test Results: Sensitivity, Specificity, PPV, NPV - LEARN
 - Sensitivity
-	- Probability of a positive diagnosis in all patients with the disease.
+	- Probability of a positive diagnosis in *all patients with disease*
 	- Sensitivity = true positives / (true positives + false negatives)
 - Specificity
-	- Probability of a negative diagnosis in all patients without the disease.
+	- Probability of a negative diagnosis in *all patients without the disease*
 	- Specificity = true negatives / (true negatives + false positives)
 
 - Positive Predictive Value (PPV) 
-	- Ability of a test to correctly report patients with disease in all patients who test positive
+	- Correctly report patients with disease in *all patients who test positive*
 	- Positive predictive value = true positives / (true positives + false positives)
 - Negative predictive value 
-	- Ability of a test to correctly report patients **without** disease in all patients who test negative
+	- Correctly report patients **without** disease in *all patients who test negative*
 	- Negative predictive value= true negatives / (true negatives + false negatives)
  
 ### Q38	
 Risk factors for *oesophageal carcinoma* include all of the following, EXCEPT:
 
-	A. Vitamin A deficiency - T
-	B. Opium ingestion - T
-	C. High intake of tannic acid - T
-	D. Pharyngeal pouch - FALSE
-	E. Lye strictures - T
+	A. Vitamin A deficiency
+	B. Opium ingestion
+	C. High intake of tannic acid
+	D. Pharyngeal pouch
+	E. Lye strictures
 #### Answer: A. Vitamin A deficiency - *FALSE* = D. Pharyngeal pouch
-- Oesophageal carcinoma accounts for around 2% of all malignant disease in the UK
+- Oesophageal carcinoma accounts for 2% of all malignant disease in UK
 
-#### Oesophageal Carcinoma: Risk Factors
+#### Oesophageal Carcinoma: Risk Factors - LEARN
 - Barratt’s oesophagus
 - Lye strictures
 - Smoking
@@ -749,10 +781,10 @@ Risk factors for *oesophageal carcinoma* include all of the following, EXCEPT:
 ### Q39	
 Which of the following statements regarding *malignant bone tumours* is CORRECT?
 
-	A. Primary malignant bone tumours account for 3% of all deaths from malignant disease in the UK - F
-	B. Ewing’s sarcoma is more common in prevalence than chondrosarcoma - F
-	C. Pain is an unusual presenting feature of bone tumours - F
-	D. The commonest presenting sites of osteosarcoma are the proximal femur and proximal humerus - F
+	A. Primary malignant bone tumours account for 3% of all deaths from malignant disease in the UK
+	B. Ewing’s sarcoma is more common in prevalence than chondrosarcoma
+	C. Pain is an unusual presenting feature of bone tumours
+	D. The commonest presenting sites of osteosarcoma are the proximal femur and proximal humerus
 	E. Radiographic features of an osteosarcoma reveal a sclerotic intramedullary lesion of the metaphysis
 #### Answer: E. Radiographic features of an osteosarcoma reveal a sclerotic intramedullary lesion of the metaphysis - TRUE
  
@@ -765,7 +797,7 @@ Which of the following is NOT a feature of *ulcerative colitis*?
 	D. Pseudopolyps
 	E. Backwash ileitis - T
 #### Answer: A. Crypt abscesses - *FALSE* = B. Granulomas
-- Ulcerative colitis is a disease of the mucosa lining the Rectum 
+- Ulcerative colitis is a disease of mucosa lining Rectum 
 	- Spreads proximally in a continuous manner to involve a variable proportion of Colon
 	- **NOTE** In a few cases the terminal ileum is involved and this is known as backwash ileitis
 - Even less commonly, the perianal region may be involved
@@ -774,7 +806,7 @@ Which of the following is NOT a feature of *ulcerative colitis*?
 	- inflammation in ulcerative colitis is restricted to the mucosa
 	- causing oedema, ulceration and pseudopolyps
 
-**NOTE** Granulomas are a typical feature of Crohn’s disease but not of ulcerative colitis
+**NOTE** Granulomas - typical feature of Crohn’s disease, *not of ulcerative colitis*
 
 
 Questions 41-50
@@ -803,15 +835,15 @@ Which of the following diseases is the commonest indication for a *bilateral lun
 ### Q43	
 Which of the following statements regarding *dumping syndrome* is correct?
 
-	A. Can be avoided by performing a gastroenterostomy - F
-	B. Results from hyperosmolar fluid reaching the small bowel - TRUE
-	C. Reduced by eating high-carbohydrate meals frequently - F
-	D. Can cause constipatory symptoms - F
-	E. Can be avoided by pylorus-preserving surgery - F
+	A. Can be avoided by performing a gastroenterostomy 
+	B. Results from hyperosmolar fluid reaching the small bowel
+	C. Reduced by eating high-carbohydrate meals frequently
+	D. Can cause constipatory symptoms
+	E. Can be avoided by pylorus-preserving surgery
 #### Answer: E. Can be avoided by pylorus-preserving surgery - *FALSE* = B. Results from hyperosmolar fluid reaching the small bowel
 - Dumping syndrome occurs after gastrectomy surgery due to 
-	- rapid emptying of hyperosmolar contents into the small bowel 
-	- resultant rapid fluid shift into the lumen of the bowel
+	- rapid emptying of hyperosmolar contents into small bowel 
+	- results in *rapid fluid shift into lumen of bowel*
 - Patients complain of dizziness, faintness, nausea, and vomiting within 15 minutes of eating a meal
 - Patients are advised to take small meals frequently with a low carbohydrate and high fibre component
 - Late dumping syndrome may result in a reactive hypoglycaemia from a delayed insulin secretory response
@@ -819,11 +851,11 @@ Which of the following statements regarding *dumping syndrome* is correct?
 ### Q44	
 All of the following statements about a *hiatus hernia* are correct, EXCEPT:
 
-	A. They are more common in males - T
-	B. Rolling types are more common than sliding - T
-	C. Sliding types are more common in the elderly - FALSE
-	D. Dysphagia is accounted for by extrinsic compression - T
-	E. Gastric volvulus is rare - T
+	A. They are more common in males
+	B. Rolling types are more common than sliding
+	C. Sliding types are more common in the elderly
+	D. Dysphagia is accounted for by extrinsic compression
+	E. Gastric volvulus is rare
 #### Answer: B. Rolling types are more common than sliding - *FALSE* = C. Sliding types are more common in the elderly
 - Hiatus hernias are protrusions of viscus through the oesophageal hiatus
 	- More common in the elderly and are usually (80%) of sliding variety
@@ -833,11 +865,11 @@ All of the following statements about a *hiatus hernia* are correct, EXCEPT:
 ### Q45	
 Which of the following cases should be considered to have the *highest priority* on the *emergency theatre list*?
 
-	A. Laparoscopic appendicectomy for suspected appendicitis - F
-	B. Pyloroplasty for congenital pyloric stenosis - F
+	A. Laparoscopic appendicectomy for suspected appendicitis
+	B. Pyloroplasty for congenital pyloric stenosis
 	C. Incarcerated inguinal hernia in a young man
 	D. Strangulated femoral hernia in an elderly woman
-	E. Hemiarthroplasty for fractured neck of femur - F
+	E. Hemiarthroplasty for fractured neck of femur
 #### Answer: D. Strangulated femoral hernia in an elderly woman - TRUE
 - A laparoscopic appendicectomy for suspected appendicitis should be done within 12 hours of diagnosis, although ideally as soon as possible
 	- Patients can be maintained on intravenous antibiotics in the meantime. 
@@ -859,8 +891,8 @@ A 69-year-old man presents with *mechanical bowel obstruction* confirmed by bari
 	A. Diverticular disease
 	B. Angiodysplasia
 	C. Crohn’s disease 
-	D. Gallstones - T
-	E. Carcinoma of the colon - T
+	D. Gallstones
+	E. Carcinoma of the colon
 #### Answer: C. Crohn’s disease - *FALSE* = B. Angiodysplasia
 - Diverticular disease can cause bowel obstruction, either as 
 	1. Rresult of repeated episodes of inflammation, which causes fibrosis and strictures
@@ -868,25 +900,26 @@ A 69-year-old man presents with *mechanical bowel obstruction* confirmed by bari
 - Similarly an adenocarcinoma of the bowel, particularly if it is annular in nature, can also cause obstruction
 - Crohn’s disease causes transmural inflammation and this also results in stricturing
 - Gallstones may erode into the duodenum causing a gallstone ileus
-- Angioplasia is a vascular malformation **does not cause obstruction**
-	- can result in PR bleeding, most commonly in the elderly
+- **NOTE** Angioplasia is a vascular malformation **does not cause obstruction**
+	- can result in PR bleeding, most commonly in elderly
  
 ### Q47	
 Which of the following statements regarding the *management of colorectal carcinoma* is true?
 
-	A. 5-FU is commonly used in the adjuvant treatment of Duke’s B colon cancer - F
-	B. Post-operative adjuvant radiotherapy for locally extensive but resectable colon cancer is preferred over pre-operative radiation - F
+	A. 5-FU is commonly used in the adjuvant treatment of Duke’s B colon cancer 
+	B. Post-operative adjuvant radiotherapy for locally extensive but resectable colon cancer is preferred over pre-operative radiation
 	C. Patients presenting with large-bowel obstruction from an ascending colon tumour are best treated with a primary resection with a defunctioning colostomy to aid healing of the anastomosis
-	D. Surveillance colonoscopy should be performed annually for the first 10 years to assess the presence of local recurrence and metachronous tumours - F
-	E. Hand-sewn anastomoses in bowel resections for cancer have been shown to be structurally and functionally superior to stapled anastomoses - F
+	D. Surveillance colonoscopy should be performed annually for the first 10 years to assess the presence of local recurrence and metachronous tumours
+	E. Hand-sewn anastomoses in bowel resections for cancer have been shown to be structurally and functionally superior to stapled anastomoses
 #### Answer: C. Patients presenting with large-bowel obstruction from an ascending colon tumour are best treated with a primary resection with a defunctioning colostomy to aid healing of the anastomosis - *FALSE* = A. 5-FU is commonly used in the adjuvant treatment of Duke’s B colon cancer
-- 5-FU is commonly used in the adjuvant chemotherapy in managing colorectal cancers
+- **NOTE** 5-FU is commonly used in adjuvant chemotherapy in managing colorectal cancers
 - Colorectal cancers should be treated with excision where possible
 	- although in some cases a limited course of pre-operative chemoradiotherapy may be required
-- Management of ascending colon tumour in the acute obstructed setting would include a 
-	- right hemicolectomy plus a defunctioning loop ileostomy
-	- **not a colostomy**
-- Surveillance colonoscopy should be performed for the first 5–10 years every 2 years and not annually
+- Management of ascending colon tumour in acute obstructed setting
+	- right hemicolectomy plus defunctioning loop ileostomy
+	- **not colostomy**
+- Surveillance colonoscopy should be performed 
+	- for first 5–10 years every 2 yrs - not annually
 	- although local guidelines may differ slightly
 
 **NOTE** Numerous studies have shown that there is no difference between hand-sewn and stapled bowel anastomoses
@@ -895,39 +928,54 @@ Which of the following statements regarding the *management of colorectal carcin
 Which of the following hepatobiliary conditions would typically result in an *unconjugated hyperbilirubinaemia*?
 
 	A. Crigler–Najjar syndrome
-	B. Primary biliary cirrhosis - F
+	B. Primary biliary cirrhosis
 	C. Mirizzi syndrome
-	D. Congenital biliary atresia - F
-	E. Hepatitis B infection - F
+	D. Congenital biliary atresia
+	E. Hepatitis B infection 
 #### Answer: C. Mirizzi syndrome - *FALSE* = A. Crigler–Najjar syndrome
-- Unconjugated hyperbilirubinaemia results from 
-	1. Prehepatic haemolysis or 
-	2. Hepatic disorders of bilirubin conjugation 
-		- e.g. *Gilbert syndrome* and *Crigler-Najjar syndrome*
 - Remainder of causes listed result in jaundice from an elevated level of conjugated bilirubin
+
+#### Causes of Unconjugated Hyperbilirubinaemia - LEARN
+1. Prehepatic haemolysis or 
+2. Hepatic disorders of **bilirubin conjugation** 
+	- e.g. *Gilbert syndrome* and *Crigler-Najjar syndrome*
  
 ### Q49	
 The following are all recognised *complications of acute pancreatitis*, EXCEPT:
 
-	A. Toxic psychosis - T
-	B. Gastric ulceration - T
-	C. Chronic renal failure - FALSE
-	D. Pancreatic abscess - T
-	E. HyPOcalcaemia - T
+	A. Toxic psychosis
+	B. Gastric ulceration
+	C. Chronic renal failure
+	D. Pancreatic abscess
+	E. HyPOcalcaemia
 #### Answer: B. Gastric ulceration - *FALSE* = C. Chronic renal failure
-- Acute pancreatitis can cause *acute* renal failure, ARDS, and DIC in very severe cases
-- **NOTE**: *chronic* renal failure is not a recognised complication of *acute* pancreatitis
+- Acute pancreatitis can cause 
+	- *acute* renal failure
+	- ARDS
+	- DIC in very severe cases
+- **NOTE**: *chronic* renal failure is not a complication of *acute* pancreatitis
 
 ### Q50	
 Which of the following is NOT a *cause of constipation*?
 
-	A. Volvulus - T
-	B. Fissure in ano - T
+	A. Volvulus 
+	B. Fissure in ano
 	C. Digoxin
 	D. Aspirin
-	E. Cerebral vascular accident (CVA) - T
+	E. Cerebral vascular accident (CVA)
 #### Answer: D. Aspirin - *FALSE* = C. Digoxin
+- **NOTE** Digoxin is known to cause *diarrhoea*
 
+- Constipation can occur for many different reasons
+- Volvulus is a twisting of a loop of bowel around its mesenteric axis
+	- resulting in partial or complete obstruction - constipation
+	- It also causes abdominal pain and nausea and vomiting
+- Painful anal conditions, such as anal fissure
+	- May result in constipation as patient is reluctant to pass stool
+- CVA, Parkinson’s disease and Hirschsprung’s disease 
+	- all cause adynamic bowel and therefore constipation
+- Drugs such as opiate analgesics, *aspirin* and anticonvulsants "3A"
+	- are also known causes
 
 Questions 51-60
 ---------------
@@ -953,8 +1001,8 @@ A 35-year-old woman presents to the Endocrine Clinic with complaints of lethargy
 #### Answer: E. Raised plasma cortisol levels - *FALSE* = C. Hyperglycaemia
 - Cushing’s disease is due to a pituitary adenoma, which secretes ACTH
 - The resulting clinical picture is no different from Cushing syndrome
-- However, the plasma ACTH is raised in contrast to an adrenal adenoma or exogenous source 
-	- where the plasma ACTH is lowered due to the negative feedback of cortisol on the pituitary
+- However, plasma ACTH is raised in contrast to an adrenal adenoma or exogenous source 
+	- where plasma ACTH is lowered due to negative feedback of cortisol on pituitary
  
 ### Q53	- TODO
 A 34-year-old woman undergoes a *right mastectomy and axillary clearance* for a 4-cm carcinoma of the right breast with *fixed unilateral axillary nodes*. A staging CT scan confirms that there are *no metastases* present. Which of the following *TNM stages* does this patient’s clinical picture represent?
@@ -990,9 +1038,10 @@ The commonest site for *peripheral vascular aneurysms* after the aorta is:
 	D. Splenic artery
 	E. Radial artery
 #### Answer: B. Femoral artery - *FALSE* = C. Popliteal artery
-- The commonest site of vascular aneurysms is the abdominal aorta
-- Following this, the commonest site of peripheral vascular aneurysms is the popliteal artery
-	- followed by the femoral artery
+- Commonest site of vascular aneurysms is *Abdominal Aorta*
+- Commonest site of *peripheral* vascular aneurysms
+	1. **Popliteal Artery**
+	2. followed by Femoral Artery
 
 **NOTE** Although rare, commonest site of abdominal vascular aneurysms is the splenic artery
  
@@ -1033,44 +1082,45 @@ Which of the following ulcers are *correctly associated*?
 	D. Neuropathic ulcer – glucosuria
 	E. Marjolin’s ulcer – chronic scarring
 #### Answer: D. Neuropathic ulcer – glucosuria - *FALSE* = E. Marjolin’s ulcer – chronic scarring
+- **NOTE** Marjolin's ulcer – SCC occurring in a chronic ulcer or scar tissue
 - Cushing’s ulcer – stress ulceration from head injuries
 - Venous ulcer – lipodermatosclerosis and haemosiderin deposits
 - Curling’s ulcer – stress ulcer from burns
 - Neuropathic ulcer – diabetes
-- Marjolin’s ulcer – squamous cell carcinoma (SCC) occurring in a chronic ulcer or scar tissue
  
 ### Q58	
 Which one of the following statements regarding *acoustic neuroma* is CORRECT?
 
-	A. Acoustic neuromas make up 1% of all intracranial tumours - F
-	B. The majority are bilateral - F
-	C. Vertigo is a common symptom - F
-	D. Acoustic neuromas arise from Schwann cells - TRUE
-	E. Most patients have normal hearing - F
+	A. Acoustic neuromas make up 1% of all intracranial tumours
+	B. The majority are bilateral
+	C. Vertigo is a common symptom
+	D. Acoustic neuromas arise from Schwann cells
+	E. Most patients have normal hearing
 #### Answer: C. Vertigo is a common symptom - *FALSE* = D. Acoustic neuromas arise from Schwann cells
-- Acoustic neuromas arise from Schwann cells and make up 8% of all intracranial tumours
-- The majority are unilateral (95%)
+- Acoustic neuromas arise from Schwann cells
+	- make up 8% of all intracranial tumours
+- Majority are unilateral (95%)
 - Patients usually present with 
 	1. Gradual progressive unilateral deafness (90%)
 	2. Associated with tinnitus (70%)
-- Vertigo is unusual
+- Vertigo is *unusual*
 
-**NOTE** The investigation of choice is a gadolinium-enhanced MRI scan
+**NOTE** Investigation of choice is a *gadolinium-enhanced MRI scan*
  
 ### Q59	
 Which of the following statements about *pharyngeal pouch* is TRUE?
 
-	A. Also known as Zenker’s diverticulum - TRUE
-	B. Arises from the anterior pharyngeal wall, known as Killian’s dehiscence - F
-	C. Hoarseness is a common symptom - F
-	D. Barium swallow should not be performed because of the risk of perforation - F
-	E. Commonly, a pouch contains an invasive squamous cell carcinoma (SCC) in its wall - F
+	A. Also known as Zenker’s diverticulum
+	B. Arises from the anterior pharyngeal wall, known as Killian’s dehiscence
+	C. Hoarseness is a common symptom
+	D. Barium swallow should not be performed because of the risk of perforation
+	E. Commonly, a pouch contains an invasive squamous cell carcinoma (SCC) in its wall
 #### Answer: B. Arises from the anterior pharyngeal wall, known as Killian’s dehiscence - *FALSE* = A. Also known as Zenker’s diverticulum
 - Pharyngeal pouches arise from Killian’s dehiscence
-	- a **posterior** pharyngeal weakness between thyropharyngeus and cricopharyngeus. 
+	- **posterior** pharyngeal weakness between thyropharyngeus and cricopharyngeus
 - It is also known as Zenker’s diverticulum
 - Patients may present with a lump in the throat, dysphagia and regurgitation of food
-- Only very rarely does a pouch contain an invasive SCC
+	- Only very rarely does a pouch contain an invasive SCC
 
 **NOTE** Barium swallow is the initial definitive investigation
  
@@ -1097,15 +1147,24 @@ A 1st-year medical student attends a dental appointment for a filling of a right
 	D. Mandibular nerve
 	E. Inferior alveolar nerve
 #### Answer: D. Mandibular nerve - *FALSE* = E. Inferior alveolar nerve
+- Branches of the posterior division of mandibular nerve supply tongue and oral cavity
+- Lingual Nerve
+	- Sensory to anterior two-thirds of tongue
+	- also contains within it *chorda tympani* - taste
+- **Inferior Alveolar Nerve** branch 
+	- passes through inferior alveolar foramen of mandible
+	- supplies sensation to lower teeth
+	- ends as Mental Nerve as it emerges from mental foramen
+		- suppling sensation to skin overlying chin and lower lip
  
 ### Q62	
 Which of the following statements about *salivary gland tumours* is FALSE?
 
-	A. 80% of parotid gland tumours are benign - T
-	B. 15% of salivary gland neoplasms are submandibular - T
-	C. Excision of the submandibular gland can result in Frey syndrome - FALSE
-	D. Malignant parotid tumours can cause facial nerve palsy - T
-	E. Adenolymphoma of the parotid (Warthin's tumour) is benign - T
+	A. 80% of parotid gland tumours are benign
+	B. 15% of salivary gland neoplasms are submandibular
+	C. Excision of the submandibular gland can result in Frey syndrome
+	D. Malignant parotid tumours can cause facial nerve palsy 
+	E. Adenolymphoma of the parotid (Warthin's tumour) is benign
 #### Answer: B. 15% of salivary gland neoplasms are submandibular - *FALSE* = C. Excision of the submandibular gland can result in Frey syndrome
 - The parotid gland is known as the 80% gland because: 
 	- 80% of salivary tumours are found in the parotid
@@ -1119,7 +1178,7 @@ Which of the following statements about *salivary gland tumours* is FALSE?
 	- This is due to inappropriate regeneration of parasympathetic nerve fibres
 		- which stimulate sweat glands of overlying skin resulting in gustatory sweating
 
-**NOTE** 15% of salivary gland neoplasms are located in the submandibular gland
+**NOTE** 15% of salivary gland neoplasms are located in Submandibular Gland
  
 ### Q63	
 All of the following sinuses *drain into the middle meatus* below the middle concha of the maxilla, EXCEPT the:
@@ -1130,6 +1189,8 @@ All of the following sinuses *drain into the middle meatus* below the middle con
 	D. Frontal sinus
 	E. Maxillary sinus
 #### Answer: E. Maxillary sinus - *FALSE* = A. Posterior ethmoidal sinus
+- Posterior Ethmoidal Sinus drains into superior recess underlying superior concha
+- Remaining named sinuses drain below middle concha
  
 ### Q64	
 A 4-year-old child is brought into the Emergency Department by his mother after having *fallen from a slide* at a height of 2 metres. His vital signs are: heart rate 135/min, BP 90/70mmHg, respiratory rate 28/min, and temperature 36.5 °C. Which one of the following signs would you *consider abnormal* in this child?
@@ -1173,7 +1234,7 @@ Which of the following is the *commonest cause of vocal cord palsy* in an adult?
 	E. Iatrogenic
 #### Answer: E. Iatrogenic - *FALSE* = B. Malignant disease
 - Unilateral vocal cord palsy produces hoarseness
-- The commonest cause is **malignant disease** (30%), especially of the bronchus
+- Commonest cause is **malignant disease** (30%), especially of bronchus
 	- followed by iatrogenic causes (25%)
 		- i.e. thyroid surgery or any surgery along course of Recurrent Laryngeal Nerve
 - Trauma, idiopathic and other causes e.g. central and myopathies, are unlikely (15% each)
@@ -1197,8 +1258,8 @@ A 34-year-old man wants to donate a kidney to his sister. His BMI is 31 kg/m^2. 
 	D. The kidney of choice for donation and transplant is the left kidney
 	E. The kidney of choice for donation and transplant is the right kidney
 #### Answer: C. The patient’s kidney function is not adequate for him to be a donor - *FALSE* = D. The kidney of choice for donation and transplant is the left kidney
-- The left kidney is the kidney of choice as it has the longer renal vein
-	- the vena cava being to the right of the aorta
+- Left kidney is the kidney of choice as it has *longer renal vein*
+	- Vena cava being to the right of the aorta
 - A BMI of 31 kg/m2 is not an absolute contraindication to donation
 	- GFR = 110 ml/min is within the normal range for his age
 - It is possible for siblings not to have HLA antigens in common
@@ -1231,13 +1292,15 @@ Questions 71-80
 ### Q71
 The following endocrine conditions are paired with the *correct hormone abnormality*, **EXCEPT**:
 
-	A. Cushing syndrome – excess glucocorticoid - F
-	B. Phaeochromocytoma – excess catecholamines - F
+	A. Cushing syndrome – excess glucocorticoid
+	B. Phaeochromocytoma – excess catecholamines
 	C. Conn syndrome – excess ACTH 
 	D. Addison’s disease – reduced cortisol secretion
-	E. Congenital adrenal hyperplasia – 21-hydroxylase deficiency - F
+	E. Congenital adrenal hyperplasia – 21-hydroxylase deficiency
 #### Answer: D. Addison’s disease – reduced cortisol secretion - *FALSE* = C. Conn syndrome – excess ACTH
-- Conn syndrome is caused by an aldosterone-secreting adrenocortical adenoma and causes raised plasma aldosterone 
+- Conn syndrome
+	- caused by an aldosterone-secreting adrenocortical adenoma
+	- causes *raised plasma aldosterone* 
 
 #### Endocrine Conditions - LEARN
 - Cushing syndrome is a disease caused by an excess of cortisol production or by excessive use of cortisol or other similar steroid (glucocorticoid) hormones
@@ -1260,12 +1323,12 @@ All of the following arteries are named direct branches of the *axillary artery*
 	D. Subscapular artery
 	E. Acromiothoracic artery
 #### Answer: A. Superior thoracic artery - *FALSE* = C. Suprascapular artery
-- Suprascapular Artery is a branch of the thyrocervical trunk of the subclavian artery
-- All of the others listed are direct branches of the axillary artery in addition to
+- *Suprascapular Artery* = branch of thyrocervical trunk of *subclavian artery*
+- All of others listed are direct branches of axillary artery in addition to
 	- Anterior and posterior circumflex humeral arteries from third part
  
 ### Q73	
-A 46-year-old woman presents with a *small mass* to the *left of the hyoid bone* and *anterior to the sternocleidomastoid* muscle. It is smooth and compressible and mobile in the horizontal but not the vertical plane. There is also a bruit. The probable diagnosis is:
+A 46-year-old woman presents with a *small mass* to the *left of the hyoid bone* and *anterior to the sternocleidomastoid* muscle. It is smooth and compressible and mobile in the horizontal but not the vertical plane. There is also a *bruit*. The probable diagnosis is:
 
 	A. Sternocleidomastoid tumour
 	B. Dermoid cyst
@@ -1273,7 +1336,9 @@ A 46-year-old woman presents with a *small mass* to the *left of the hyoid bone*
 	D. Laryngocele
 	E. Cystic hygroma
 #### Answer: E. Cystic hygroma - *FALSE* = C. Carotid body tumour
-- Carotid body tumours present as masses adjacent to the hyoid bone and anterior to the sternocleidomastoid
+- **Carotid body tumours** present as masses
+	- adjacent to hyoid bone
+	- anterior to sternocleidomastoid
 - They are typically pulsatile, compressible and smooth, with mobility in the horizontal but not the vertical plane 
 	- Approximately 5% are malignant
 - Cystic hygromas are congenital lymphatic malformations situated at the root of the neck and are present at birth in 50% of neonates
@@ -1288,9 +1353,9 @@ A 46-year-old woman presents with a *small mass* to the *left of the hyoid bone*
 ### Q74	
 Which of the following structures are skeletal derivatives of the *third branchial arch*?
 
-	A. Stapes - F
-	B. Styloid process - F
-	C. Incus and malleus - F
+	A. Stapes
+	B. Styloid process
+	C. Incus and malleus
 	D. Lesser cornu of the hyoid bone
 	E. Greater cornu of the hyoid bone
 #### Answer: D. Lesser cornu of the hyoid bone - *FALSE* = E. Greater cornu of the hyoid bone
@@ -1309,6 +1374,8 @@ Which of the following *pathological changes* is correctly associated with the *
 	D. Paget’s disease of the nipple – metaplasia
 	E. Gardner syndrome – hamartoma
 #### Answer: D. Paget’s disease of the nipple – metaplasia - *FALSE* = B. Peutz–Jehger – hamartoma
+
+#### Pathological Changes - LEARN
 - Peutz–Jehger disease 
 	- Autosomal dominant (AD) disorder characterised by 
 	- Hamartomatous polyps within GIT
@@ -1326,21 +1393,23 @@ Which of the following *pathological changes* is correctly associated with the *
 ### Q76	
 Which of the following is NOT a possible *complication of thyroidectomy*?
 
-	A. Laryngeal oedema - T
-	B. Hypercalcaemia
-	C. Hypothyroidism - T
-	D. Haematoma - T
-	E. Superior laryngeal nerve palsy - T
+	A. Laryngeal oedema
+	B. HyPERcalcaemia
+	C. Hypothyroidism
+	D. Haematoma
+	E. Superior laryngeal nerve palsy
 #### Answer: B. Hypercalcaemia - TRUE
+- Hypocalcaemia can result from inadvertent damage to the parathyroid glands and requires oral replacement
+- Thyroid surgery is associated with several complications. Hypothyroidism is an expected result and requires replacement with oral thyroxine. Haematoma formation can occur and, if it becomes enlarged, can compress the trachea, requiring urgent evacuation. Laryngeal oedema can be caused by trauma sustained during surgery and may make airway management difficult. There is a risk to the recurrent laryngeal and superior laryngeal nerves during thyroid surgery. Damage to the superior laryngeal nerve results in a monotonous voice because of paralysis of the cricothyroid muscle
  
 ### Q77	
 A *45-year-old patient* presents to the Emergency Department 1 hour after falling from his mountain bike. He is complaining of left hip pain and X-rays reveal an *undisplaced intracapsular* fracture of his left femoral neck. The best method of treatment for this patient is:
 
 	A. Dynamic hip screw (DHS)
 	B. Hemiarthroplasty
-	C. Partially threaded cancellous screws
-	D. Intramedullary reconstruction nail - F
-	E. Total hip replacement - F
+	C. Partially-threaded cancellous screws
+	D. Intramedullary reconstruction nail
+	E. Total hip replacement
 #### Answer: B. Hemiarthroplasty - *FALSE* = C. Partially threaded cancellous screws
 - Intracapsular fracture fixation in presence of **good-quality bone**
 	- Best method of fixation is with **cannulated screws**
@@ -1371,15 +1440,16 @@ In the spine, the *intervertebral disc* which is most commonly implicated in cau
 ### Q80	
 Following *pneumonectomy for carcinoma of the lung*, which of the following statements is TRUE?
 
-	A. A chest drain is always required - F
-	B. Mortality rates are higher for left-sided pneumonectomy compared with right-sided pneumonectomy - F
-	C. Bronchopleural fistulae occur in <5% of cases - F
-	D. A double-lumen endotracheal tube is contraindicated - TRUE
-	E. Mediastinal shift is a major problem, requiring further surgery - F
+	A. A chest drain is always required
+	B. Mortality rates are higher for left-sided pneumonectomy compared with right-sided pneumonectomy
+	C. Bronchopleural fistulae occur in <5% of cases
+	D. A double-lumen endotracheal tube is contraindicated
+	E. Mediastinal shift is a major problem, requiring further surgery
 #### Answer: B. Mortality rates are higher for left-sided pneumonectomy compared with right-sided pneumonectomy - *FALSE* = D. A double-lumen endotracheal tube is contraindicated
-- Double-lumen endotracheal tubes are essential for any cardiothoracic or oesophageal procedure to 
-	- Allow control of individual lungs during surgery 
-	- Avoid damaging lungs while the chest is opened
+- Double-lumen endotracheal tubes are 
+	- Essential for any cardiothoracic or oesophageal procedure to 
+		- Allow control of individual lungs during surgery 
+		- Avoid damaging lungs while the chest is opened
 
 
 Questions 81-90
@@ -1394,6 +1464,15 @@ Which of the following systemic conditions is **NOT** associated with *pruritus 
 	D. Diabetes
 	E. Lymphoma
 #### Answer: B. Systemic lupus erythematosus (SLE) - TRUE
+- Pruritus ani is a common condition, and can be due to a variety of causes
+- Men are more commonly affected and symptoms worsen during hot weather and at night 
+- Causes include 
+	- skin diseases (eg eczema and psoriasis)
+	- general medical diseases (eg diabetes, myeloproliferative disorders, lymphoma and obstructive jaundice)
+	- perianal disease (eg anal fissure and Crohn’s disease)
+	- local irritants such as mucus and sweat
+- Often an 'itch/scratch' cycle is set up 
+	- So symptoms can persist even when cause is eradicated
  
 ### Q82	
 A 50-year-old woman has a Colles' fracture manipulated in theatre, followed by application of a full below-elbow cast. One hour after being on the ward with her *arm elevated*, she starts to complain of *paraesthesia in the index and middle fingers*, along with wrist pain. The correct initial treatment should be:
@@ -1405,7 +1484,7 @@ A 50-year-old woman has a Colles' fracture manipulated in theatre, followed by a
 	E. Perform an urgent carpal tunnel decompression
 #### Answer: B. Split the cast and lower the arm - *FALSE* = D. Split the cast and keep the arm elevated
 - The commonest cause of pain after a manipulation is because of swelling and a tight cast
-	- It is important to keep the limb elevated to reduce the swelling and split the cast
+	- Important to *keep limb elevated* to reduce swelling and split cast
 - Delay can lead to limb ischaemia and muscle damage resulting in ischaemic contractures
 - If a patient undergoes an open reduction and there are median nerve symptoms at presentation
 	- Then a carpal tunnel decompression can be done at the same time
@@ -1421,9 +1500,9 @@ A 23-year-old man is brought into the Emergency Department after having been inv
 #### Answer: A. Apnoea - *FALSE* = B. Cervical spine injury
 - Blind nasotracheal intubation is contraindicated in apnoea
 - Any nasotracheal intubation is contraindicated 
-	- If a basal skull fracture is suspected from head or facial trauma
-
-**NOTE** C-spine injury on its own is not a contraindication, especially in a breathing patient
+	- If basal skull fracture is suspected from head or facial trauma
+**NOTE** C-spine injury on its own is not a contraindication
+	- especially in a breathing patient
  
 ### Q84	
 A 55-year-old woman treated for 6 months with *carbimazole for thyrotoxicosis* is no longer getting any control of her symptoms. What is the most appropriate form of management?
@@ -1434,7 +1513,12 @@ A 55-year-old woman treated for 6 months with *carbimazole for thyrotoxicosis* i
 	D. Propylthiouracil
 	E. Propranolol
 #### Answer: C. Radio-iodine treatment - TRUE
- 
+- First-line treatment for thyrotoxicosis disease is carbimazole
+- In certain individuals it has the unfortunate side effect of *agranulocytosis* and so propylthiouracil is used instead
+- This is also the drug of choice in pregnancy as it is *protein-bound* and therefore less likely to cross the placenta
+- Radio-iodine ablation is safe for patients in whom medical management has failed and who are not planning on becoming pregnant during treatment
+- Surgery for thyroid disorders is carried out for cosmesis, compression symptoms, retrosternal extension and carcinoma. 
+
 ### Q85	
 *Complications of a surgical cricothyroidotomy* include all of the following, EXCEPT:
 
@@ -1445,8 +1529,8 @@ A 55-year-old woman treated for 6 months with *carbimazole for thyrotoxicosis* i
 	E. Carotid artery puncture
 #### Answer: E. Carotid artery puncture - *FALSE* = C. Vocal cord paralysis
 - Vocal cord paralysis only occurs with direct trauma to the cords or damage to the recurrent laryngeal nerves
-- A surgical cricothyroidotomy does not involve direct trauma to the cord or nerves 
-	- Because the incision occurs at the cricothyroid membrane
+- Surgical cricothyroidotomy does not involve direct trauma to cord or nerves 
+	- As *incision occurs at cricothyroid membrane*
  
 ### Q86	
 Which one of the following associations between *daily gastrointestinal secretion* volume (in a normal 70-kg young adult) and fluid type are CORRECT?
@@ -1472,13 +1556,13 @@ Large bowel	| 100 mL
 ### Q87	
 All of the following conditions would result in *decreased lung compliance*, EXCEPT:
 
-	A. Alpha1-antitrypsin deficiency - FALSE
-	B. Pulmonary oedema - T
-	C. Supine position - T
-	D. Mechanical ventilation - T
-	E. Increased age - T
+	A. Alpha1-antitrypsin deficiency
+	B. Pulmonary oedema
+	C. Supine position 
+	D. Mechanical ventilation 
+	E. Increased age
 #### Answer: C. Supine position - *FALSE* = A. Alpha1-antitrypsin deficiency
-- Alpha1-antitrypsin deficiency causes emphysema
+- Alpha1-antitrypsin deficiency causes **emphysema**
 	- Resulting in an increased compliance of the lung tissue
 - **All** of the other listed conditions decrease lung compliance
  
@@ -1491,7 +1575,7 @@ A 24-year-old male is brought into the Emergency Department having sustained *mu
 	D. 1650 ml
 	E. 2000 ml
 #### Answer: D. 1650 ml - TRUE
-- This scenario demonstrates a class III haemorrhage
+- Scenario demonstrates a class III haemorrhage
 	- Tachycardia >120/min
 	- Reduced blood pressure and urine output
 	- Increased respiratory rate >30 litres
@@ -1508,7 +1592,7 @@ How much *crystalloid fluid volume resuscitation* does this patient require imme
 #### Answer: C. 3300 ml - *FALSE* = E. 4950 ml
 - Volume replacement in the trauma setting uses the 3 for 1 replacement rule with crystalloids
 - Ideally, for class III haemorrhage, blood replacement should be given as soon as possible
-	- Meanwhile volume of crystalloid should be replaced with 3L for every L of blood lost
+- Meanwhile volume of crystalloid should be replaced with 3L for every L of blood lost
  
 ### Q90	
 A 60-year-old male smoker who is under your care undergoes a *laryngectomy for cancer* of the larynx. In assessing the sterility of this operation, you would best classify this procedure as a:
@@ -1570,11 +1654,11 @@ A 42-year-old opera singer presents with a *laryngeal carcinoma of the vocal cor
 ### Q94	
 While performing a small-bowel resection for strictures following Crohn’s disease, you notice that, on inspection, there are marked differences between *jejunal and ileal anatomy*. Such differences include all of the following, EXCEPT:
 
-	A. Wider lumen in the jejunum - T
-	B. Fewer lymphatics in the jejunal mesentery compared with ileal - T
-	C. More prominent and multiple arcades of vessels in the ileum - T
-	D. Thicker wall of the ileum - FALSE
-	E. Thicker and more fat-laden mesentery increasing towards the ileum - T
+	A. Wider lumen in the jejunum
+	B. Fewer lymphatics in the jejunal mesentery compared with ileal
+	C. More prominent and multiple arcades of vessels in the ileum 
+	D. Thicker wall of the ileum
+	E. Thicker and more fat-laden mesentery increasing towards the ileum
 #### Answer: C. More prominent and multiple arcades of vessels in the ileum - *FALSE* = D. Thicker wall of the ileum
 
 #### Differences Between Jejunum vs Ileum - LEARN
@@ -1612,10 +1696,10 @@ The following statements about the *anatomy of the thyroid gland* are all true, 
 	- Occasionally there may be a pyramidal lobe
 - It obtains its blood supply from 
 	1. Superior Thyroid Artery
-		- Branch of external carotid
+		- Branch of *external carotid*
 		- Supplies the upper pole
 	2. Inferior Thyroid Artery 
-		- Branch of thyrocervical trunk of subclavian artery
+		- Branch of thyrocervical trunk of *subclavian artery*
 		- Supplies lower pole and posterior part
 - 10% of population has an additional artery
 	- Thyroid ima artery (arising from Arch of Aorta or Brachiocephalic Artery)
@@ -1630,10 +1714,10 @@ The following statements about the *anatomy of the thyroid gland* are all true, 
 ### Q97	
 Which of the following statements about immediate care of a *patient with burns* is CORRECT?
 
-	A. Third-degree burns are usually painless - T
-	B. Intravenous lines may be placed in burnt skin provided no other site is accessible and good venous access is obtained - F
-	C. Priority is given to the airway and breathing before attending to stopping the burning process - F
-	D. Fluid resuscitation is calculated by a formula involving the body weight, percentage area burned, and the degree of burns - F
+	A. Third-degree burns are usually painless
+	B. Intravenous lines may be placed in burnt skin provided no other site is accessible and good venous access is obtained
+	C. Priority is given to the airway and breathing before attending to stopping the burning process
+	D. Fluid resuscitation is calculated by a formula involving the body weight, percentage area burned, and the degree of burns
 	E. The most important complication found in the hospital phase of recovery from a large (>40%) burn is renal failure
 #### Answer: A. Third-degree burns are usually painless - *FALSE* = B. Intravenous lines may be placed in burnt skin provided no other site is accessible and good venous access is obtained
 - Priorities in management of burns 
@@ -1650,17 +1734,19 @@ Which of the following statements about immediate care of a *patient with burns*
 ### Q98	
 All of the following signs are found in *re-feeding syndrome*, EXCEPT:
 
-	A. Hypophosphataemia - T
-	B. Hypocalcaemia - T
-	C. Hypokalaemia - T
-	D. Hypoglycaemia - FALSE
-	E. Hypomagnesaemia - T
+	A. Hypophosphataemia 
+	B. Hypocalcaemia
+	C. Hypokalaemia
+	D. Hypoglycaemia
+	E. Hypomagnesaemia
 #### Answer: A. Hypophosphataemia - *FALSE* = D. Hypoglycaemia
+- Hypoglycaemia is **not** a key feature of re-feeding syndrome (RFS)
+	- Although may be seen if the insulin response is oversensitive
+
+#### Notes
 - Re-feeding syndrome occurs when previously malnourished patients are fed with high loads of carbohydrate
 	- Resulting in a rapid fall in phosphate, magnesium, potassium, and calcium (PMPC)
 	- Along with an increasing extracellular volume and subsequent hyponatraemia
-- Hypoglycaemia is **not** a key feature of re-feeding syndrome (RFS)
-	- Although may be seen if the insulin response is oversensitive
 - Initial **hyperglycaemia** is normal as a high-carbohydrate diet is given
  
 ### Q99	 
@@ -1721,6 +1807,12 @@ A 16-year-old boy is *hit over the head* with a bat while playing cricket. He *l
 	D. Subarachnoid haemorrhage
 	E. Diffuse axonal injury
 #### Answer: C. Extradural haematoma - TRUE
+- Extradural haematomas usually follow a blow to the head in the region of the pterion, which is where the middle meningeal artery runs in the extradural space
+- This results in rupture of the artery and an extradural bleed
+- After an initial period of concussion, there is a lucid interval while the haematoma is expanding
+- At the point when haematoma can no longer be accommodated
+	- intracranial pressure rises and coning can occur
+- Management is by formation of a burr hole to drain haematoma
  
 ### Q104	
 Which of the following statements regarding Familial Adenomatous Polyposis (FAP) is TRUE?
@@ -1758,11 +1850,11 @@ Which of the following pairings is correct regarding *complement function*?
 ### Q106	
 All of the following *familial cancer* syndromes are correctly associated with the *resultant neoplasm*, **EXCEPT**:
 
-	A. Li–Fraumeni – cerebral astrocytoma - T
-	B. Retinoblastoma (Rb1) – osteosarcoma - T
-	C. von Hippel–Lindau (VHL) – renal carcinoma - T
-	D. BRCA1 and 2 – ovarian carcinoma - T
-	E. MEN I – phaeochromocytoma - FALSE
+	A. Li–Fraumeni – cerebral astrocytoma
+	B. Retinoblastoma (Rb1) – osteosarcoma
+	C. von Hippel–Lindau (VHL) – renal carcinoma
+	D. BRCA1 and 2 – ovarian carcinoma
+	E. MEN I – phaeochromocytoma
 #### Answer: C. von Hippel–Lindau (VHL) – renal carcinoma - *FALSE* = E. MEN I – phaeochromocytoma
 - Multiple endocrine neoplasia (MEN) type I is an uncommon inherited disorder 
 	- affecting Parathyroid, Pituitary and Pancreas
@@ -1796,17 +1888,17 @@ All of the following *familial cancer* syndromes are correctly associated with t
 ### Q108	
 Which of the following statements regarding the *spleen* is correct?
 
-	A. Red pulp consists of central arteries ensheathed by lymphoid nodules and lymphocytes - F
-	B. Red pulp forms most of the splenic volume - TRUE
-	C. Most of the antibody synthesis in the spleen occurs in the red pulp - F
-	D. White pulp contains sinusoids, which trap defective red cells - F
-	E. White pulp contains B lymphocytes located in the immediate vicinity of the central artery - F
+	A. Red pulp consists of central arteries ensheathed by lymphoid nodules and lymphocytes
+	B. Red pulp forms most of the splenic volume
+	C. Most of the antibody synthesis in the spleen occurs in the red pulp
+	D. White pulp contains sinusoids, which trap defective red cells
+	E. White pulp contains B lymphocytes located in the immediate vicinity of the central artery
 #### Answer: D. White pulp contains sinusoids, which trap defective red cells - *FALSE* = B. Red pulp forms most of the splenic volume
 - White pulp consists of central arteries ensheathed by lymphoid nodules and lymphocytes
-- White pulp contains T lymphocytes located in the immediate the vicinity of the central artery
-- Most of the antibody synthesis in the spleen occurs in the white pulp
-- Red pulp forms most of splenic volume and contains sinusoids
-	- Which trap defective red cells
+- White pulp contains T lymphocytes located in immediate vicinity of central artery
+	- Most of the antibody synthesis in spleen occurs in the white pulp
+- Red pulp forms *most of splenic volume* and contains sinusoids
+	- Trapping defective red cells
  
 ### Q109	
 Which of the following phases in a cell cycle is the *most resistant to chemotherapeutic agents* and requires higher doses in order to obtain a response?
@@ -1817,22 +1909,22 @@ Which of the following phases in a cell cycle is the *most resistant to chemothe
 	D. G2
 	E. M
 #### Answer: C. S - *FALSE* = A. G0
+- **NOTE** G0 phase of cell cycle that is most resistant to chemotherapeutic agents
 - Quiescent or G0 phase is the dormant phase of the cell cycle where no cell division takes place
 	- Although cells are still capable of undergoing mitosis
-- This phase of cell cycle that is most resistant to chemotherapeutic agents
 - Most chemotherapeutic agents produce their lethal effect on cells that are actively replicating
 - Higher doses of chemotherapeutic agents are required to target cells in G0 phase of the cycle
  
 ### Q110	
 *Capacitance coupling* in laparoscopic surgery can be avoided by:
 
-	A. Careful use of prep solution - F
-	B. Having the surgery performed by the most experienced surgeon available - F
-	C. Use of an insulated instrument with a metal cannula - F
-	D. Use of all-metal instruments and cannula - TRUE
-	E. Use of lower power settings on the diathermy machine - F
+	A. Careful use of prep solution
+	B. Having the surgery performed by the most experienced surgeon available
+	C. Use of an insulated instrument with a metal cannula
+	D. Use of all-metal instruments and cannula
+	E. Use of lower power settings on the diathermy machine
 #### Answer: C. Use of an insulated instrument with a metal cannula - *FALSE* = D. Use of all-metal instruments and cannula
-- Capacitance coupling occurs with the use of insulated instruments 
+- Capacitance Coupling - occurs with use of *insulated instruments*
 	- Combining plastic and metal ports with instruments during laparoscopic surgery
 - Combined energy is insulated as metal–plastic–metal layering acts as a capacitor
 - Such coupling can be avoided by
@@ -1868,17 +1960,16 @@ All of the following *vitamins are synthesised* in the gut by *colonic bacteria*
 	- Fermentation of indigestible carbohydrates and 
 		- production of fatty acids that the colonic mucosa can use as an energy source
 	- Degradation of bilirubin to stercobilin, urobilin and urobilinogen
-
 **NOTE** Colonic flora synthesize of vitamins B1, B2, B12 and vitamin K
  
 ### Q113	
 Regarding *pulmonary blood flow*, which of the following statements is CORRECT?
 
 	A. Both hypoxia and hypercapnia result in constriction of smaller alveolar vessels - TRUE
-	B. Hypercapnia results in dilatation of smaller alveolar vessels - F
-	C. Pulmonary arterioles play an important role in the regulation of pulmonary blood flow - F
-	D. Perfusion of blood with alveolar ventilation is better matched towards the base of the lung rather than at the apex - F
-	E. Perfusion of blood with alveolar ventilation is better matched towards the apex of the lung rather than at the base - F
+	B. Hypercapnia results in dilatation of smaller alveolar vessels
+	C. Pulmonary arterioles play an important role in the regulation of pulmonary blood flow
+	D. Perfusion of blood with alveolar ventilation is better matched towards the base of the lung rather than at the apex
+	E. Perfusion of blood with alveolar ventilation is better matched towards the apex of the lung rather than at the base
 #### Answer: D. Perfusion of blood with alveolar ventilation is better matched towards the base of the lung rather than at the apex - *FALSE* = A. Both hypoxia and hypercapnia result in constriction of smaller alveolar vessels
 - Hypoxia and hypercapnia both cause constriction of *smaller alveolar vessel* 
 	- Diverting blood to areas that are better oxygenated
@@ -1991,12 +2082,12 @@ An example of a *depolarising muscle relaxant* used in anaesthesia is:
 	D. Suxamethonium
 	E. Neostigmine
 #### Answer: C. Propofol - *FALSE* = D. Suxamethonium
-- Suxamethonium is an example of a depolarising muscle relaxant
-- It has a structure similar to acetylcholine, and acts in a similar way at the neuromuscular junction
+- **NOTE** Suxamethonium is an example of a depolarising muscle relaxant
+- Structure is similar to acetylcholine
+	- acts in a similar way at neuromuscular junction
 - Non-depolarising agents include gallamine and vecuronium
 	- which have a slower onset but longer duration of action
 - Neostigmine is an agent used to reverse non-depolarising neuromuscular blockade
-
 **NOTE** Propofol is an induction agent
  
 ### Q123	
@@ -2018,25 +2109,28 @@ A 14-year-old boy is referred from the Emergency Department to you with sudden o
 	D. Admission for observation and analgesia
 	E. Elective arrangement for bilateral orchidopexy
 #### Answer: C. Urgent theatre for testicular exploration - TRUE
+- This case presentation is highly suggestive of a testicular torsion. With the limited time in which to prevent testicular infarction, the management in this case without a doubt is urgent exploration of the testes in the operating theatre. Any investigation would delay the diagnosis and possibly lead to an unviable testis at surgery. Ideally these cases should be operated on as soon as possible but most definitely within 6 hours of onset. After this time irreversible changes can occur, and an orchidectomy should also be considered as a likely possibility.
  
 ### Q125	
 The following are all management options in the definitive *treatment of urethral strictures*, EXCEPT:
 
 	A. Optical urethrotomy
 	B. Open urethroplasty
-	C. Urethral dilators - T
+	C. Urethral dilators
 	D. Urethral catheterisation
-	E. Urethral stenting - T
+	E. Urethral stenting
 #### Answer: D. Urethral catheterisation - TRUE
+- Urethral strictures can be managed with urethral catheterisation
+	- though this is not a definitive treatment
  
 ### Q126	
 All of the following are correct *boundaries of the foramen of Winslow*, EXCEPT:
 
-	A. Free edge of the lesser omentum - T
-	B. Inferior vena cava posteriorly - T
-	C. First part of the duodenum - T
-	D. Quadrate lobe of the liver - FALSE
-	E. Porta hepatis - T
+	A. Free edge of the lesser omentum
+	B. Inferior vena cava posteriorly
+	C. First part of the duodenum
+	D. Quadrate lobe of the liver
+	E. Porta hepatis
 #### Answer: C. First part of the duodenum - *FALSE* = D. Quadrate lobe of the liver
  
 #### Boundaries of Epiploic Foramen of Winslow - LEARN
@@ -2048,18 +2142,18 @@ All of the following are correct *boundaries of the foramen of Winslow*, EXCEPT:
 ### Q127	
 The following layers of tissue are encountered during a *Pfannenstiel incision*, EXCEPT:
 
-	A. Subcutaneous tissue layers of Camper and Scarpa - T
-	B. Anterior rectus sheath - T
-	C. Linea alba - T
+	A. Subcutaneous tissue layers of Camper and Scarpa
+	B. Anterior rectus sheath
+	C. Linea alba
 	D. Posterior rectus sheath
-	E. Peritoneum - T
+	E. Peritoneum
 #### Answer: D. Posterior rectus sheath - TRUE
  
 ### Q128	
 A 55-year-old woman is referred to you by the GP with an adenocarcinoma of the distal transverse colon recently found on colonoscopy and biopsy. Following the multidisciplinary team meeting, a decision to undertake an extended right hemicolectomy is agreed. You know that all of the following *structures may be at risk of damage* from direct or indirect effects when *extended right hemicolectomy* is performed, EXCEPT:
 
-	A. Right ureter - T
-	B. Right gonadal vessels - T
+	A. Right ureter
+	B. Right gonadal vessels
 	C. Fourth part of the duodenum
 	D. Right ovary or testis
 	E. Spleen
@@ -2075,7 +2169,7 @@ A 67-year-old man who is an inpatient on your ward undergoes a *thyroidectomy* a
 	E. Thoracodorsal nerve
 #### Answer: A. Axillary nerve - *FALSE* = B. Suprascapular nerve
 - Suprascapular nerve injury is a rare clinical syndrome, but may arise in
-	- Volleyball players and those undergoing radical neck dissection for malignancy
+	- *Volleyball players* and those undergoing *radical neck dissection* for malignancy
 - Supraspinatus and Infraspinatus are affected and initiation of abduction is weakened
 
 ### Q130	 
@@ -2133,19 +2227,18 @@ A 23-year-old man sustains a *stab wound to his cubital fossa* during a fight. Y
 ### Q132	
 The following are true statements about the *trachea*, EXCEPT:
 
-	A. The trachea commences at the cricoid cartilage at C6 - T
-	B. The trachea ends at the bifurcation (carina) at the level of the second rib - T
-	C. The tracheal bifurcation varies with respiration between T4 and T6 - T
-	D. The trachea is laterally related to the thyroid lobes and carotid arteries - T
-	E. The trachea is lined by stratified squamous, non-keratinising epithelium - FALSE
+	A. The trachea commences at the cricoid cartilage at C6
+	B. The trachea ends at the bifurcation (carina) at the level of the second rib
+	C. The tracheal bifurcation varies with respiration between T4 and T6
+	D. The trachea is laterally related to the thyroid lobes and carotid arteries
+	E. The trachea is lined by stratified squamous, non-keratinising epithelium
 #### Answer: C. The tracheal bifurcation varies with respiration between T4 and T6 - *FALSE* = E. The trachea is lined by stratified squamous, non-keratinising epithelium
-- The trachea is 
-	- Lined by ciliated columnar epithelium 
+- Trachea is lined by *ciliated columnar epithelium* 
 	- Commences at the level of the cricoid cartilage (C6) and ends at the carina (T4/5)
 		- Which is also level of second costal cartilage extending into Second Rib
  
 ### Q133	
-A 16-year-old boy is brought into the Emergency Department after having injured his right knee during a rugby game. After careful history-taking, the injury he describes indicates that his knee was *forcibly abducted* and *externally rotated* while in a flexed position. This scenario would classically result in a tear of:
+A 16-year-old boy is brought into the Emergency Department after having injured his right knee during a rugby game. After careful history-taking, the injury he describes indicates that his knee was *forcibly abducted* and *externally rotated* while in a *flexed position*. This scenario would classically result in a tear of:
 
 	A. Anterior cruciate ligament
 	B. Posterior cruciate ligament
@@ -2153,8 +2246,9 @@ A 16-year-old boy is brought into the Emergency Department after having injured 
 	D. Lateral meniscus
 	E. Lateral collateral ligament
 #### Answer: A. Anterior cruciate ligament - *FALSE* = C. Medial meniscus
-- Meniscal injuries classically arise when a large force is applied to the knee in a semi-flexed position
-- The medial cartilage is more commonly damaged than the lateral one  
+- **NOTE** Meniscal injuries classically arise 
+	- when a large force is applied to knee in a semi-flexed position
+- Medial cartilage is more commonly damaged than the lateral one  
 	- Due to anatomical factors of size, location and mobility
 - Cruciate injuries result from hyperextension of the knee 
 	- Resulting in instability rather than locking (as found in meniscal tears)
@@ -2168,6 +2262,12 @@ Which of the following statements is true regarding HbF (*fetal haemoglobin*)?
 	D. HbF production is increased with the administration of erythropoietin (Epo)
 	E. Decreased levels are found in patients from African and Arabian populations - F
 #### Answer: D. HbF production is increased with the administration of erythropoietin (Epo) - TRUE
+- Fetal haemoglobin (HbF), is made up of two α globin chains and two γ globin chains
+- This difference in globin structure makes HbF unable to react with 2,3-DPG and so it has a higher affinity for oxygen for a given PO2
+- This ensures that oxygen is transferred from the maternal blood to the fetal blood, regardless of the PO2 in the maternal blood
+- In comparison with the dissociation curve of adult haemoglobin
+	- that of HbF is shifted to the left
+- It is also found in higher proportions in the blood of those individuals affected with sickle cell anaemia or thalassaemia such as in Arabian or African populations
  
 ### Q135	
 Structures passing through the *greater sciatic foramen* include all of the following, EXCEPT:
@@ -2178,9 +2278,9 @@ Structures passing through the *greater sciatic foramen* include all of the foll
 	D. Tendon of obturator internus
 	E. Internal pudendal artery
 #### Answer: E. Internal pudendal artery - *FALSE* = D. Tendon of obturator internus
-- Tendon of obturator internus and its corresponding nerve pass through **lesser sciatic foramen** as well as 
-	- Pudendal Nerve
-	- Internal Pudendal Vessels
+- **T**endon of obturator internus and its corresponding nerve pass through **lesser sciatic foramen** as well as "PINT"
+	- **P**udendal Nerve
+	- **I**nternal Pudendal Vessels 
 - Other structures listed all pass through **greater sciatic foramen** only
 
 ---

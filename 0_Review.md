@@ -124,24 +124,55 @@ Overall: 55/135 = 41% (80 errors)
 
 Group	| Score			| Errors 								|
 --------|---------------|---------------------------------------|
-1-10	| 2/10 =  20%	|  1,    2,   3,   5,   7,   8,  9, 10
-11-20	| 4/10 =  40%	| 12,   14,  16,  17,  18,  19
-21-30	| 4/10 =  40%	| 21,   23,  24,  25,  27,  29
-31-40	| 4/10 =  40%	| 31,   35,  36,  37,  38,  40
-41-50	| 3/10 =  40%	| 43,   44,  46,  47,  48,  49,  50
-51-60	| 4/10 =  40%	| 52,   53,  54,  57,  58,  59
-61-70	| 5/10 =  50%	| 61,   62,  63,  66,  68
-71-80	| 3/10 =  30%	| 71,   72,  73,  74,  75,  77,  80
+1-10	| 2/10 =  20%	|  **1**,    2,   **3**,   5,   7,   **8**,  9, 10
+11-20	| 4/10 =  40%	| 12,   **14**,  16,  **17**,  **18**,  19
+21-30	| 4/10 =  40%	| **21**,   **23**,  24,  **25**,  27,  **29**
+31-40	| 4/10 =  40%	| 31,   **35**,  36,  37,  **38**,  40
+41-50	| 3/10 =  40%	| 43,   44,  46,  **47**,  48,  49,  50
+51-60	| 4/10 =  40%	| **52**,   53,  54,  57,  58,  59
+61-70	| 5/10 =  50%	| 61,   62,  63,  **66**,  68
+71-80	| 3/10 =  30%	| 71,   **72**,  73,  74,  75,  77,  80
 81-90	| 5/10 =  50%	| 82,   83,  85,  87,  89
-91-100	| 5/10 =  50%	| 92,   94,  96,  97,  98
+91-100	| 5/10 =  50%	| 92,   94,  **96**,  **97**,  98
 101-110	| 3/10 =  30%	| 102, 104, 106, 107, 108, 109, 110
-111-120	| 6/10 =  60%	| 112, 113, 114, 118
+111-120	| 6/10 =  60%	| **112**, 113, **114**, 118
 121-130	| 6/10 =  60%	| 122, 126, 129, 130
-131-135	| 1/5  =  20%	| 131, 132, 133, 135
+131-135	| 1/5  =  20%	| **131**, 132, **133**, 135
 
 LEARN
 -----
 
+- Muscles Supplied by Obturator Nerve (q1)
+- Slipped Upper Femoral Epiphysis (SUFE) (q8)
+- Surgical Conditions Associated with Down Syndrome "CHED" (q10)
+- Causes of Carpal Tunnel Syndrome (CTS) (q12)
+- Necrotising Entercolitis (NEC): Symptoms (q20)
+- Necrotising Entercolitis (NEC): Systemic Signs (q20)
+- Chemical Mediators of Acute Inflammation (q23)
+- Complement Cascade Components (q24)
+- LR6-SO4-3 (q25)
+- Human Immunodeficiency Virus (q27)
+- Causes of Abnormal Platelet Function (q29)
+- Causes of Thrombocytopenia (q29)
+- Causes of Platelet Destruction (q29)
+- Risk Factors for Colon Cancer (q30)
+- Jejunum Compare to Ileum (q35)
+- Herceptin Facts (q36)
+- Test Results: Sensitivity, Specificity, PPV, NPV (q37)
+- Oesophageal Carcinoma: Risk Factors (q38)
+- Causes of Unconjugated Hyperbilirubinaemia (q48)
+- Staging of Breast Cancer: TNM (q53)
+- Paediatric Vital Signs (q64)
+- Endocrine Conditions (q71)
+- Pathological Changes (q75)
+- Daily Gastrointestinal Secretion Volume (q86)
+- Classification of Procedure Sterility (q90)
+- Differences Between Jejunum vs Ileum (q94)
+- Complement Functions (q105)
+- Post-Splenectomy Sepsis (q107)
+- Boundaries of Epiploic Foramen of Winslow (q126)
+- Glasgow Coma Scale (GCS) (q130)
+- Median Nerve in Hand (q131)
 
 ---
 
