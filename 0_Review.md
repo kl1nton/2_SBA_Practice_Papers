@@ -6,23 +6,66 @@ Overall: 52/135 = 38.0% (83 errors)
 Group	| Score			| Errors 								|
 --------|---------------|---------------------------------------|
 1-10	| 8/10 =  80%	| 2, 3
-11-20	| 3/10 =  30%	| 13, 14, 15, 16, 17, 18, 20
-21-30	| 1/10 =  10%	| 21, 22, 23, 24, 25, 26, 28, 29, 30
-31-40	| 5/10 =  50%	| 31, 32, 33, 34, 35
-41-50	| 2/10 =  20%	| 41, 42, 43, 44, 45, 46, 47, 48
-51-60	| 6/10 =  60%	| 51, 53, 55, 58
-61-70	| 5/10 =  50%	| 61, 62, 65, 67, 70
-71-80	| 2/10 =  20% 	| 71, 72, 73, 74, 75, 76, 78, 80
-81-90	| 4/10 =  40%	| 82, 84, 85, 87, 88, 89
-91-100	| 2/10 =  20%	| 91, 93, 94, 95, 96, 97, 98, 99
-101-110	| 4/10 =  40%	| 101, 102, 103, 104, 105, 106
-111-120	| 2/10 =  20%	| 111, 112, 113, 114, 115, 116, 117, 118
-121-130	| 5/10 =  50%	| 121, 123, 125, 128, 129
-131-135	| 3/5  =  60%	| 131, 135
+11-20	| 3/10 =  30%	| **13**, 14, **15**, 16, **17**, 18, **20**
+21-30	| 1/10 =  10%	| **21**, **22**, **23**, 24, **25**, **26**, **28**, **29**, **30**
+31-40	| 5/10 =  50%	| **31**, 32, 33, **34**, **35**
+41-50	| 2/10 =  20%	| 41, **42**, **43**, **44**, **45**, **46**, 47, 48
+51-60	| 6/10 =  60%	| **51**, 53, 55, 58
+61-70	| 5/10 =  50%	| 61, **62**, **65**, 67, **70**
+71-80	| 2/10 =  20% 	| **71**, **72**, 73, 74, **75**, **76**, 78, **80**
+81-90	| 4/10 =  40%	| **82**, **84**, **85**, 87, 88, **89**
+91-100	| 2/10 =  20%	| 91, **93**, 94, 95, 96, **97**, 98, **99**
+101-110	| 4/10 =  40%	| 101, 102, **103**, **104**, 105, 106
+111-120	| 2/10 =  20%	| 111, 112, 113, **114**, 115, 116, 117, 118
+121-130	| 5/10 =  50%	| 121, **123**, **125**, 128, **129**
+131-135	| 3/5  =  60%	| 131, **135**
 
 LEARN
 -----
 
+- Pericardial Sinuses (q2) 
+- Temperature Control (q3)
+- Branchial Plexus (q4)
+- Structures in Sciatic Foramena (q15)
+- Sympathetic Nervous System (q16)
+- Parasympathetic Nervous System Functions (*rest and digest*) (q17)
+- Hyperventilation (q18)
+- Compartments of Leg (q20)
+- Diaphragmatic Openings (q25)
+- Types of Shock (q26)
+- Inotropes (q28)
+- Approaches to Hip Joint (q29)
+- Rotator Cuff (q30)
+- Empyema (q31)
+- Midpoint of Inguinal Ligament vs. Mid-Inguinal Point (q35)
+- Nerves Lying in Lateral Wall of Cavernous Sinus (q41)
+- Common Flexor Origin (CFO) (q42)
+- Boundaries of Femoral Triangle (q43)
+- Contents of Rectus Sheath (q45)
+- Respiratory Volumes: Normal Values (q46)
+- Muscles Supplied By Sciatic Nerve (q51)
+- Branches of Posterior Cord "STARS" (q52)
+- Ulcers of the Lower Limb (q53)
+- Criteria for Brain Stem Death (q55)
+- Contents of Carpal Tunnel (q59)
+- Foramen Magnum: Structures (q63)
+- Calot's Triangle (q64)
+- Epiploic Foramen of Winslow (q65)
+- Structure of Stomach Bed (q70)
+- Planes of The Abdomen (q71)
+- Extensor Compartments of Wrist (q74)
+- Gram-Positive/Gram-Negative Rods (q75)
+- Quadrilateral Space (q76)
+- Adrenal Glands: Secretions (q78)
+- Daily Gastrointestinal Secretions (q84)
+- COAGULATION CASCADE (q88)
+- Pancreatic Secretions (q91)
+- Posterior pituitary: ADH (Vasopressin) + Oxytocin
+- Politeal Fossa (q95)
+- Hepatocellular Carcinoma: Risk Factors (q103) - Not Hepatitis E
+- Synthesised by Liver (q113)
+- Local Factors Delaying Wound Healing (q114)
+- Granulomas (q126)
 
 ---
 
@@ -50,6 +93,9 @@ Group	| Score			| Errors 							|
 
 LEARN
 -----
+
+- ?
+
 
 ---
 

@@ -47,23 +47,23 @@ The _oblique sinus_ of the heart:
 
 	A. Is bounded by the pulmonary arteries
 	B. Forms a recess between the pericardium and the left atrium 
-	C. Lies posteriorly between the aorta and pulmonary trunk anteriorly - F
-	D. Lies anteriorly between the superior vena vaca (SVC) and left atrium - F
-	E. Is smaller than the transverse sinus - F
+	C. Lies posteriorly between the aorta and pulmonary trunk anteriorly
+	D. Lies anteriorly between the superior vena vaca (SVC) and left atrium
+	E. Is smaller than the transverse sinus
 	
 #### Answer: A. Is bounded by the pulmonary arteries - *FALSE* = B. Forms a recess between the pericardium and the left atrium - TRUE
-- **Note**: had this correct but changed answer!
 - Pericardial sinuses (2x) are formed by 
 	- Reflection of pericardium on heart and great vessels
 
+#### Pericardial Sinuses - LEARN
 ##### Transverse Sinus
-	- Lies posteriorly between aorta and pulmonary trunk
-	- Lies anteriorly between superior vena cava (SVC) and left atrium
+- **NOTE** Lies posteriorly between aorta and pulmonary trunk
+- Lies anteriorly between superior vena cava (SVC) and left atrium
 
 ##### Oblique Sinus
-	- Forms a recess between pericardium and left atrium 
-	- Bounded by four pulmonary veins and inferior vena cava (IVC)
-	- It is larger, more J-shaped, and lies *inferior* to transverse sinus
+- **NOTE** Forms a recess between pericardium and left atrium 
+- Bounded by four pulmonary veins and inferior vena cava (IVC)
+- Larger, more J-shaped - lies *inferior* to transverse sinus
 
 ### Q3
 Which of the following statements regarding core temperature is TRUE?
@@ -77,8 +77,9 @@ Which of the following statements regarding core temperature is TRUE?
 #### Answer: D. Autonomic temperature control is regulated by the parasympathetic system - *FALSE*
 B. Hypothermia is defined as core temperature <35ºC - TRUE
 
+#### Temperature Control - LEARN
 1. Temperature control is regulated by hypothalamus + sympathetic nervous system (SNS)
-	- Core temperature is generally about 0.5°C higher than axillary temperature
+	- Core temperature is generally 0.5°C *higher* than axillary temperature
 		- Normal range is between 36 °C and 37.5 °C
 	- Temperature <35°C is regarded as **hypothermia**
 		- Can often be fatal at levels under 30°C
@@ -93,23 +94,23 @@ B. Hypothermia is defined as core temperature <35ºC - TRUE
 4. Cardiac arrhythmias occur at core temperature below 32°C
 	- Asystole can supervene below 28°C
 	- Re-warming a patient can reactivate heart
-	- Essential to re-warm patient before confirming cardiac arrest
+	- Essential to re-warm patient *before confirming cardiac arrest*
 	
 ### Q4 - LEARN
 Which statement is true of the brachial plexus?
 
-	A. The medial cord continues as the musculocutaneous nerve - F
+	A. The medial cord continues as the musculocutaneous nerve
 	B. The posterior cord continues as the axillary nerve
 	C. The lateral cord continues as the axillary nerve
-	D. The nerve to subclavius is a branch of the C8 nerve root - F
-	E. The suprascapular nerve is a branch of the lower trunk - F
+	D. The nerve to subclavius is a branch of the C8 nerve root
+	E. The suprascapular nerve is a branch of the lower trunk
 	
 #### Answer: B. The posterior cord continues as the axillary nerve - TRUE
 - Medial Cord continues as Ulnar nerve
 - Lateral Cord continues as Musculocutaneous Nerve
 - **Posterior Cord** continues as Radial Nerve + Axillary Nerve
-- Nerve to subclavius is a branch of C6 root
-- Suprascapular nerve is a branch from upper trunk
+- Nerve to Subclavius - branch of C6 root
+- Suprascapular Nerve - branch from Upper Trunk
 
 ### Q5
 Structure NOT at risk of being damaged during carotid endarterectomy include the:
@@ -281,16 +282,23 @@ Which of the following _antiemetics_ is correctly classed as a _5-HT3 antagonist
 - Ondansetron is an example of a 5-HT3 antagonist. The main mechanism of action lies in the blockage of the receptors, which are located in the chemoreceptor trigger zone (CTZ). The CTZ is found within the area postrema of the brainstem and is a direct stimulator of the vomiting centre in the medulla oblongata. The CTZ also contains D2 receptors, which can be blocked by the use of dopamine antagonists such as prochlorperazine and metoclopramide. Hyoscine works as an antimuscarinic agent and cyclizine as an antihistamine. Both muscarinic and histamine receptors are present directly on the vomiting centre, and blockage of these is used to reduce motion sickness-induced nausea.
 
 ### Q13
-Which of the following _parenteral analgesics_ would be the most appropriate in a severely injured, _haemodynamically unstable_ patient following a road traffic accident?
+Which of the following _parenteral analgesics_ would be the *most appropriate* in a severely injured, _haemodynamically unstable_ patient following a road traffic accident?
 
 	A. Paracetamol
-	B. Morphine - F
+	B. Morphine
 	C. Midazolam
-	D. Propofol - F
+	D. Propofol
 	E. Fentanyl
 
 #### Answer: A. Paracetamol - *FALSE* = E. Fentanyl = TRUE
-- Paracetamol is a weak analgesic in the setting of severe trauma. Morphine administration should be avoided as it is associated with histamine release, which can result in vasodilatation and worsening hypotension in the unstable patient. Propofol and midazolam have no analgesic properties. Fentanyl is ideal for use in haemodynamically unstable patients with severe injuries as it is a very strong analgesic with a rapid onset of action and short half-life, with no resultant metabolites.
+- **Fentanyl** - ideal for use in *haemodynamically unstable patients with severe injuries*
+	- Very strong analgesic 
+	- Rapid onset of action and short half-life
+	- No resultant metabolites
+- Paracetamol is a *weak* analgesic in the setting of severe trauma
+- Morphine should be avoided as it is associated with histamine release 
+	- Can result in vasodilatation and worsening hypotension in unstable patient 
+- Propofol and midazolam have **no** analgesic properties
 
 ### Q14
 The _right ureter_ in females:
@@ -302,25 +310,47 @@ The _right ureter_ in females:
 	E. Lies beneath the bifurcation of the iliac vessels - F
 
 #### Answer: B. Runs over the ovarian artery - *FALSE* = D. Is crossed by the right colic artery - TRUE
-- The right ureter lies beneath the second part of the duodenum at its origin
-- It is crossed by the ovarian, uterine, right colic and ileocolic arteries
-	- It crosses the bifurcation of the iliac arteries
+- RIGHT ureter lies *beneath* Second Part of Duodenum at its origin
+- Crossed by arteries
+	1. Ovarian
+	2. Uterine
+	3. **Right colic**
+	4. Ileocolic
+- Crosses Bifurcation of Iliac Arteries
  
-### Q15	- LEARN
+### Q15
 Passing through the _lesser sciatic foramen_ are the:
 
 	A. Inferior gluteal artery
 	B. Pudendal nerve
-	C. Posterior cutaneous nerve of the thigh - F
+	C. Posterior cutaneous nerve of the thigh
 	D. Inferior gluteal nerve
-	E. Nerve to quadratus femoris - F
+	E. Nerve to quadratus femoris
 
 #### Answer: D. Inferior gluteal nerve - *FALSE* = B. Pudendal nerve - TRUE
-- Structures that pass through Lesser Sciatic Foramen 
-	1. Pudendal Nerve
-	2. Nerve to Obturator Internus
-	3. Internal Pudendal Artery
-	4. Tendon of Obturator Internus
+
+#### Structures in Sciatic Foramena - LEARN
+##### Greater Sciatic Foramen
+- Contents *include* Piriformis Muscle
+
+###### Above Piriformis - Suprapiriform Foramen
+1. Superior Gluteal Vessels	
+2. Superior Gluteal Nerve
+
+###### Below Piriformis - Infrapiriform Foramen - "PIN-PINS"
+1. P - Posterior Cutaneous Nerve of Thigh (*posterior femoral cutaneous nerve*)
+2. I - Inferior Gluteal Nerve
+3. N - Nerve to Quadratus Femoris
+4. P - Pudendal Nerve (OUT)
+5. I - Internal Pudendal Nerve
+6. N - Nerve to Obturator Internus
+7. S - Sciatic Nerve
+
+##### Lesser Sciatic Foramen - "PINT"
+1. P - Pudendal Nerve (IN)
+2. N - Nerve to Obturator Internus
+3. I - Internal Pudendal Vessels
+4. T - Tendon of Obturator Internus
  
 ### Q16	
 All of the following functions are mediated by the α-adrenoreceptors within the _sympathetic nervous system_, EXCEPT:
@@ -330,9 +360,12 @@ All of the following functions are mediated by the α-adrenoreceptors within the
 	C. - DELETED - 
 	D. Pupillary dilation
 	E. Secretion of thick saliva
+
 #### Answer: D. Pupillary dilation - *FALSE* = B. Bronchodilation - TRUE
 - Sympathetic functions are classified by class of adrenoreceptor that is stimulated by noradrenaline 
  
+#### Sympathetic Nervous System - LEARN
+
 ##### Alpha Functions
 - Pupillary dilation
 - Secretion of thick saliva
@@ -348,7 +381,7 @@ All of the following functions are mediated by the α-adrenoreceptors within the
 ##### Beta Functions
 - Increase in heart rate and force of contraction (β1)
 - Vasodilatation in vessels supplying the muscles (β2)
-- Bronchodilatation (β2)
+- **Bronchodilatation** (β2)
 - Glycogenolysis (β2)
 - Gluconeogenesis (β2/α)
 - Relaxation of the detrusor muscle (β2/α)
@@ -359,13 +392,13 @@ Stimulation of the _parasympathetic nervous system_ (PNS):
 
 	A. Increases the heart rate
 	B. Decreases the rate of gastric emptying
-	C. Dilates the pupil - F
-	D. Causes vasoconstriction - F
+	C. Dilates the pupil
+	D. Causes vasoconstriction
 	E. Causes contraction of the detrusor muscle in the bladder
 
 #### Answer: B. Decreases the rate of gastric emptying - *FALSE* = E. Causes contraction of the detrusor muscle in the bladder - TRUE
 
-##### Parasympathetic Functions (PNS)
+##### Parasympathetic Nervous System Functions (*rest and digest*) - LEARN
 - **P**upil dilation
 - Salivary and lacrimal secretion
 - Reduction of heart rate and contractility
@@ -378,21 +411,34 @@ Stimulation of the _parasympathetic nervous system_ (PNS):
 ### Q18	
 Which of the following statements regarding _pulmonary physiology_ is CORRECT?
 
-	A. Pulmonary airways are all collapsible - F
-	B. An increased systemic PCO2 causes a respiratory alkalosis - F
+	A. Pulmonary airways are all collapsible
+	B. An increased systemic PCO2 causes a respiratory alkalosis
 	C. The Haldane effect promotes the transport of O2 in systemic arterial blood
 	D. Respiratory chemoreceptors in the carotid and aortic bodies are the most important in the ventilatory response to an elevated Po2
 	E. Ventilation can be increased in respiratory failure
 
 #### Answer: C. The Haldane effect promotes the transport of O2 in systemic arterial blood - *FALSE* = E. Ventilation can be increased in respiratory failure - TRUE
-- Not all pulmonary airways are collapsible because bronchi contain cartilage and therefore do not collapse. An increased systemic PCO2 causes an acidosis due to increased carbonic acid formation. The function of central chemoreceptors (medullary neurones) is to detect changes in PO2 levels. Chemoreceptors in the carotid and aortic bodies are peripheral chemoreceptors which respond to changes in blood PCO2 and pH, as well as PO2. During respiratory failure a patient might hyperventilate in an attempt to correct abnormal arterial gases. Hyperventialtion can also occur with an emotional upset, in response to a metabolic acidosis (in this instance the PCO2 concentration drops, helping the pH to return to normal), and with marked falls in arterial pressure (this effect is mediated via chemoreceptor stimulation in conditions of very low blood flow, when the tissue PO2 falls).
+- Not all pulmonary airways are collapsible because bronchi contain cartilage and therefore do not collapse
+- An increased systemic PCO2 causes an acidosis due to increased carbonic acid formation.
+- Function of *central chemoreceptors* (medullary neurones) is to detect changes in *PO2* levels
+- Chemoreceptors in carotid and aortic bodies are *peripheral chemoreceptors* 
+	- respond to changes in blood *PCO2* and *pH*, as well as *PO2*
+- **NOTE** During *respiratory failure* a patient might hyperventilate 
+	- in an attempt to correct abnormal arterial gases 
+
+#### Hyperventilation - LEARN
+1. with an emotional upset
+2. In response to a *metabolic acidosis*
+	- PCO2 concentration drops, helping to return pH to normal - *compensation*
+3. With marked falls in *arterial pressure*
+	- mediated via chemoreceptor stimulation in conditions of very low blood flow, when tissue PO2 falls
  
 ##### Notes
 - Haldane effect relates to CO2 transport – **Bohr effect** relates to O2 transport
 - The Haldane effect promotes CO2 release in pulmonary capillaries as PO2 rises
 	- Almost doubling amount of CO2 which is taken up by blood as it passes through systemic capillaries
  
-### Q19	- LEARN
+### Q19
 Which statement is true of the _compartments of the leg_?
 
 	A. The anterior compartment contains the superficial peroneal nerve - F
@@ -403,12 +449,14 @@ Which statement is true of the _compartments of the leg_?
 
 #### Answer: E. The (*deep*) posterior compartment contains the peroneal artery - TRUE
 
-##### Anterior Compartment
+#### Compartments of Leg - LEARN
+
+##### Anterior Compartment "DAP"
 - Nerves: Deep Peroneal Nerve
 - Artery: Anterior Tibial Artery
 - Muscle: Peroneus Tertius
 
-##### Lateral Compartment
+##### Lateral Compartment "SPP"
 - Nerves: Superficial Peroneal Nerve
 - Artery: NONE 
 - Muscle: 
@@ -417,7 +465,7 @@ Which statement is true of the _compartments of the leg_?
 
 ##### Posterior Compartment 
 
-###### Superficial
+###### Superficial "GSP"
 - Nerves: Ø
 - Artery: Ø
 - Muscle:
@@ -425,7 +473,7 @@ Which statement is true of the _compartments of the leg_?
 	2. Soleus
 	3. Plantaris
 
-##### Deep 
+##### Deep "PPP"
 - Nerves: Posterior Tibial Nerve
 - Artery:
 	1. Posterior Tibial Artery
@@ -465,55 +513,81 @@ During the surgical ward round, you note that two of your patients are on the IT
 	E. Isoprenaline
 
 #### Answer: A. Dobutamine - *FALSE* = D. Noradrenaline (norepinephrine) - TRUE
-- Sepsis induces systemic vasodilatation. Adrenaline works on α1, β1 and β2 receptors and while it does have a role in sepsis it is not frequently used because of the β-agonist effect (more likely to cause tachycardia). Dobutamine also works primarily on β receptors. Dopamine has a dose-dependent effect on β, α and δ receptors. Noradrenaline increases blood pressure and cardiac output by a vasocontrictive α1 effect. Isoprenaline is a β-selective agonist.
+- **NOTE** Sepsis induces *systemic vasodilatation*
+- Noradrenaline &uarr; blood pressure and cardiac output by *vasocontrictive* α1 effect 
+
+#### Notes
+- Adrenaline works on α1, β1 and β2 receptors and while it does have a role in sepsis it is 
+	- **Not frequently used** because of β-agonist effect (*more likely to cause tachycardia*)
+- Dobutamine also works primarily on β receptors
+- Dopamine has a dose-dependent effect on β, α and δ receptors
+- Isoprenaline is a β-selective agonist
  
 ### Q22	
 The following statements regarding the _absolute refractory period_ in the ventricles are correct, EXCEPT:
 
-	A. This is the period when the ventricles are completely inexcitable - T
+	A. This is the period when the ventricles are completely inexcitable
 	B. It corresponds to the period of ventricular depolarisation
 	C. It corresponds to the period of ventricular contraction
 	D. It is shorter than the corresponding period in atrial muscle
 	E. It decreases during sympathetic stimulation of the heart
 
 #### Answer: C. It corresponds to the period of ventricular contraction - *FALSE* = D. It is shorter than the corresponding period in atrial muscle - TRUE
-- The state in which the ventricles are completely inexcitable defines an ‘absolute refractory period’ during a heartbeat. During this absolute refractory period the ventricles are in a state of contraction where all the cells are completely depolarised and cannot be excited, ie it is impossible to generate another action potential. The refractory period limits the frequency at which action potentials can be generated to <1000/s and ensures that, once initiated, an action potential can only travel in one direction. Sympathetic stimulation results in a decreased refractory period, thereby permitting higher heart rates.
+- Ventricles are completely inexcitable = 'absolute refractory period' during a heartbeat
+- During this absolute refractory period ventricles are in a state of contraction
+	- all cells are completely depolarised and cannot be excited
+	- it is *impossible* to generate another action potential
+- Refractory period limits the frequency at which action potentials can be generated to <1000/s
+	- Ensuring that, once initiated, action potential can only travel in one direction
+- Sympathetic stimulation results in a *decreased refractory period*
+	- Permitting higher heart rates
 
 ### Q23	
 The role of coronary angioplasty and coronary artery bypass surgery is to improve coronary blood flow. In a normal, healthy 70-kg man, which of the following statements regarding _myocardial blood flow_ is correct?
 
-	A. It is approximately 125 ml/min at rest - F
+	A. It is approximately 125 ml/min at rest
 	B. It is increased by pain 
-	C. The right coronary artery typically a third of the blood to the right ventricular muscle - F
-	D. Occurs during systole and diastole - F
-	E. It is independent of arterial pressure - F
+	C. The right coronary artery is typically a third of the blood to the right ventricular muscle
+	D. Occurs during systole and diastole
+	E. It is independent of arterial pressure
 
-#### Answer: B. It is increased by pain - *FALSE* = C. The right coronary artery typically a third of the blood to the right ventricular muscle - TRUE
-- Myocardial blood flow is approx 250 ml/min at rest. This represents 5% of the cardiac output and is dependent on arterial pressure. Flow is seen in diastole and pain reduces myocardial blood flow.
+#### Answer: B. It is increased by pain - *FALSE* = C. The right coronary artery is typically a third of the blood to the right ventricular muscle - TRUE
+- Myocardial blood flow is 
+	- Approx 250 ml/min at rest
+	- Represents 5% of cardiac output 
+	- Dependent on arterial pressure
+	- Flow is seen in **diastole** 
+	- Pain &darr; myocardial blood flow
  
 ### Q24	
 Which of the following medications is NOT known to cause _renal failure_?
 
-	A. Diclofenac - F
+	A. Diclofenac
 	B. Ciprofloxacin
 	C. Simvastatin
 	D. Furosemide
 	E. Mannitol
 #### Answer: D. Furosemide - *FALSE* = C. Simvastatin - TRUE
-- Drugs can cause renal failure through a variety of mechanisms. Those that have a direct tubular effect include aminoglycosides, mannitol, NSAIDs, ACE inhibitors and ciclosporin. Sulphonamides and aciclovir can cause tubular obstruction, and beta lactam antibiotics, vancomycin, ciprofloxacin and furosemide can cause acute interstitial nephritis. Acute glomerulonephritis is a recognised complication of penacillamine use. Simvastatin is not known to cause renal impairment.
+- **NOTE** Simvastatin is not known to cause renal impairment
+- Many medications can cause renal failure
+	- Direct tubular effect - aminoglycosides, mannitol, NSAIDs, ACE inhibitors and ciclosporin
+	- Tubular obstruction - sulphonamides and aciclovir
+	- Acute Interstitial Nephritis - beta-lactam antibiotics, vancomycin, ciprofloxacin and furosemide
+	- Acute Glomerulonephritis - penacillamine
  
-### Q25	- LEARN
+### Q25
 Which statement is true of _diaphragmatic openings_?
 
 	A. The thoracic duct passes through the opening at T12
-	B. The aorta passes through the opening at T10 - F
+	B. The aorta passes through the opening at T10
 	C. The left phrenic nerve passes through the opening at T8
 	D. The right gastric artery passes through the opening at T10
 	E. The azygos vein passes through the opening at T10
 
 #### Answer: C. The left phrenic nerve passes through the opening at T8 - *FALSE* = A. The thoracic duct passes through the opening at T12 - TRUE
+- **NOTE** Left Phrenic Nerve pierces dome of Left Hemidiaphragm
 
-##### Diaphragmatic Openings
+#### Diaphragmatic Openings - LEARN
 - T8
 	1. Inferior Vena Cava (8)
 	2. Right Phrenic Nerve
@@ -529,14 +603,19 @@ Which statement is true of _diaphragmatic openings_?
 ### Q26	
 Regarding _shock_, which one of the following _associations_ is most correct?
 
-	A. Cardiogenic shock is associated with a high cardiac output and low systemic vascular resistance (SVR) - F
+	A. Cardiogenic shock is associated with a high cardiac output and low systemic vascular resistance (SVR)
 	B. Septic shock is characterised by a low SVR and a high cardiac output
-	C. Cardiogenic shock is best treated with noradrenaline (norepinephrine) - F
+	C. Cardiogenic shock is best treated with noradrenaline (norepinephrine)
 	D. Septic shock is characterised by a high SVR and a low cardiac output
 	E. Noradrenaline is a vasodilator - F
 
 #### Answer: D. Septic shock is characterised by a high SVR and a low cardiac output - *FALSE* = B. Septic shock is characterised by a low SVR and a high cardiac output - TRUE
-- Shock is the inability of the body to maintain tissue perfusion and oxygen delivery to its tissues. Septic shock is characterised by vasodilatation (low SVR) and a hyperdynamic circulation / high cardiac output. Cardiogenic shock, on the other hand, generally results in a low cardiac output state with a high SVR to try to maintain tissue perfusion. Noradrenaline is a potent vasoconstrictor used in the treatment of septic shock. It is not used generally in the treatment of cardiogenic shock.
+- **DEFINE** Shock is inability of body to maintain tissue perfusion and oxygen delivery to tissues
+- **NOTE** Septic shock is characterised by vasodilatation (low SVR) and high cardiac output 
+	- Cardiogenic shock generally results in a low cardiac output state with a high SVR 
+		- in order to try to maintain tissue perfusion
+- Noradrenaline is a *potent vasoconstrictor* used in treatment of **septic shock** (ICU)
+	- Not used generally in treatment of cardiogenic shock
 
 ### Q27	
 Your medical student has just performed her first _arterial blood gas_ (ABG) procedure and runs to the ITU to process the sample. She returns promptly with the results below and asks you to explain them. You outline the clinical picture and then describe the blood gas results.
@@ -582,11 +661,13 @@ The _muscle divided_ in the _Hardinge approach_ to the hip is the:
 	E. Vastus lateralis - F
 
 #### Answer: C. Gluteus maximus - *FALSE* = E. Vastus lateralis - TRUE
-- The Hardinge (**lateral**) approach to the hip splits 
+
+#### Approaches to Hip Joint - LEARN
+- Hardinge (**Lateral**) Approach splits 
 	1. Tensor Fascia Lata
 	2. **Vastus Lateralis**
 	3. Gluteus Medius
-- Posterior Approach - muslces detached from Greater Trochanter
+- Posterior Approach - detached from Greater Trochanter
 	1. Piriformis
 	2. Obturator Internus
 	3. Gemellae 
@@ -602,7 +683,18 @@ Which statement is TRUE regarding the _rotator cuff_?
 
 #### Answer: D. Subscapularis runs through a tunnel formed by the acromion and the coraco-acromial ligament - *FALSE* = E. It supports the shoulder joint but is deficient inferiorly - TRUE
 
-- The rotator cuff is a ring of muscles that surrounds and strengthens the shoulder joint, but is deficient inferiorly. They attach at the level of the anatomical neck of the humerus. Specifically, the attachments are: subscapularis to the lesser tuberosity; supraspinatus, teres minor and infraspinatus to the greater tuberosity (in that order from above down). As well as moving the shoulder joint they also act as a muscular support. Supraspinatus runs thorough a tunnel formed by the acromion and the coraco-acromial ligament and its tendon is fused to the capsule of the shoulder joint.
+#### Rotator Cuff - LEARN
+- Rotator cuff is a ring of muscles that surrounds and strengthens shoulder joint
+	- It is **deficient inferiorly**
+- Attach at level of *Anatomical Neck* of Humerus
+	1. Greater Tuberosity (*proximal to distal*)
+		- Supraspinatus
+		- Teres minor
+		- Infraspinatus
+	2. Lesser Tuberosity 
+		- Subscapularis
+- Supraspinatus runs thorough a tunnel formed by Acromion and Coraco-Acromial Ligament
+	- With its tendon is fused to Capsule of Shoulder Joint
 
 
 Questions 31-40
@@ -616,22 +708,24 @@ A 74-year-old _immunosuppressed patient_ presents with _recurrent pneumonia_. He
 	A. Chronic scarring
 	B. Bronchiectasis
 	C. Systemic sepsis
-	D. Bronchopleural fistula - T
-	E. Lung collapse - T
+	D. Bronchopleural fistula
+	E. Lung collapse
 
 #### Answer: C. Systemic sepsis - *FALSE* = B. Bronchiectasis - TRUE
-- Empyema is defined as pus within the pleural cavity or gallbladder
+- **DEFINE** Empyema = pus within pleural cavity or gallbladder
 - Organisms causing empyema include 
-	- Streptococcus pneumoniae
-	- Staphylococcus aureus and other organisms arising from the specific cause
+	- *Streptococcus pneumoniae*
+	- *Staphylococcus aureus* + other organisms arising from specific cause
 - Gram-negative organisms can cause empyema in trauma and in oesophageal surgery or disease
  
+#### Empyema - LEARN
+
 ##### Causes of Empyema
-- Pulmonary infections
+- Pulmonary Infections
 	- Pneumonia
 	- Tuberculosis (TB)
 	- Lung abscess
-- Other infections
+- Other Infections
 	- Subphrenic abscess
 	- Mediastinitis
 	- Distant foci
@@ -653,50 +747,65 @@ A 61-year old man is referred to your surgical clinic with _right calf pain_ whi
 	B. Arrange a digital subtraction angiogram
 	C. Lifestyle advice and tightening of risk factor control
 	D. Prescribe warfarin to prevent thrombus formation
-	E. Elective admission for a left femoro-popliteal bypass graft - F
+	E. Elective admission for a left femoro-popliteal bypass graft
 
 #### Answer: B. Arrange a digital subtraction angiogram - *FALSE* = C. Lifestyle advice and tightening of risk factor control - TRUE
-- This patient has multiple vascular risk factors and a history which suggests a stenosis of the left superficial femoral artery. As he is able to walk 300 yards at present, most of his daily activities are not limited by this claudication. He needs an initial modification and tighter control of his hypertension, diabetes and hypercholesterolaemia, which will prevent progression of his vascular disease. He also needs lifestyle advice – he should stop smoking altogether, eat a healthy diet and take regular exercise. He should be encouraged to walk through the pain. These initial measures might very well improve his symptoms of claudication but in a few people the disease can progress to a point where intervention is required. A duplex scan initially or angiogram might be worthwhile if any intervention is being considered at a later stage. He certainly should not be taken for surgery in the immediate instance and this can be undertaken should the disease or symptoms progress.
+- This patient has multiple vascular risk factors and a history which suggests a stenosis of the left superficial femoral artery
+- As he is able to walk 300 yards at present
+	- most of his daily activities are not limited by this claudication
+- He needs an initial modification and *tighter control* of his hypertension, diabetes and hypercholesterolaemia, which will prevent progression of his vascular disease
+- He also needs *lifestyle advice* – he should stop smoking altogether, eat a healthy diet and take regular exercise
+- He should be encouraged to walk through the pain
+- These initial measures might very well improve his symptoms of claudication but in a few people the disease can progress to a point where intervention is required
+- A duplex scan initially or angiogram might be worthwhile if any intervention is being considered at a later stage
+- He certainly should not be taken for surgery in the immediate instance
+	- this can be undertaken *should disease or symptoms progress*
  
 ### Q33
 An 81-year-old patient is noted to be in _atrial fibrillation_ but she states that she has never been on anticoagulation therapy. You consider that to lessen the risk of future emboli, she would benefit from starting on _long-term warfarin_ and that this would reduce her risk of developing acute strokes, visceral or limb ischaemia. Arterial emboli leading to _acute limb ischaemia_ most commonly lodge at which one of the following sites?
 
-	A. Brachial artery - F
+	A. Brachial artery
 	B. Common femoral artery
 	C. Popliteal artery
-	D. Aortic bifurcation - F
-	E. Common iliac bifurcation - F
+	D. Aortic bifurcation
+	E. Common iliac bifurcation
 
 #### Answer: C. Popliteal artery - *FALSE* = B. Common femoral artery - TRUE
-- Common Femoral artery is *commonest site of arterial emboli* causing Acute Limb Ischaemia
-	- Treatment of choice is urgent femoral embolectomy
+- Common Femoral Artery is *commonest site of arterial emboli* causing Acute Limb Ischaemia
+	- Treatment of choice is *urgent femoral embolectomy*
  
 ### Q34	
 Sites of _ulnar nerve entrapment_ include the:
 
 	A. Arcade of Frohse
-	B. Carpal tunnel - F
-	C. Lateral triangular space - F
+	B. Carpal tunnel
+	C. Lateral triangular space
 	D. Arcade of Struthers
-	E. Cubital fossa - F
+	E. Cubital fossa
 
 #### Answer: A. Arcade of Frohse - *FALSE* = D. Arcade of Struthers - TRUE
-- Ulnar nerve can get trapped in the arcade of Struthers, which is the proximal end of the cubital tunnel
-- Median and radial nerves pass through the cubital fossa, but not the ulnar
-- Radial nerve passes through the lateral triangular space and the median nerve through the carpal tunnel
-- Arcade of Frohse is a site of possible posterior interosseus nerve entrapment
+- **NOTE** Ulnar Nerve can get trapped in *Arcade of Struthers*
+	- Proximal end of cubital tunnel
+- Median and Radial nerves pass through cubital fossa, but not Ulnar Nerve
+- Radial Nerve passes through lateral triangular space and median nerve through carpal tunnel
+- **NOTE** Arcade of Frohse is a site of possible Posterior Interosseus Nerve Entrapment
  
-### Q35	- LEARN
+### Q35
 Which statement is true of the _inguinal region_?
 
-	A. The midpoint of the inguinal ligament lies halfway between the anterior superior iliac spine and the pubic symphysis - T
-	B. The midinguinal point lies halfway between the anterior superior iliac spine and the pubic tubercle - F
+	A. The midpoint of the inguinal ligament lies halfway between the anterior superior iliac spine and the pubic symphysis
+	B. The midinguinal point lies halfway between the anterior superior iliac spine and the pubic tubercle
 	C. The deep inguinal ring lies at the midinguinal point - F (MPoIL)
 	D. The femoral artery lies at the midpoint of the inguinal ligament - F (MIP)
-	E. The femoral nerve lies halfway between the anterior superior iliac spine and the pubic tubercle - F
+	E. The femoral nerve lies halfway between the anterior superior iliac spine and the pubic tubercle
 
 #### Answer: A. The midpoint of the inguinal ligament lies halfway between the anterior superior iliac spine and the pubic *symphysis* - *FALSE* = E. The femoral nerve lies halfway between the anterior superior iliac spine and the pubic tubercle - TRUE
-- The midpoint of the inguinal ligament is halfway between the anterior superior iliac spine and the pubic tubercle. The deep inguinal ring and femoral nerve lie at this point. The midinguinal point is halfway between the anterior superior iliac spine and the pubic symphysis. The femoral artery lies at this point.
+- *Midpoint of Inguinal Ligament*
+	- Halfway between anterior superior iliac spine (ASIS) and pubic tubercle
+	- *Deep Inguinal Ring* + *Femoral Nerve* lie here
+- Midinguinal Point
+	- Halfway between anterior superior iliac spine (ASIS) and pubic symphysis
+	- Femoral Artery lies here
 
 ### Q36	
 A **pregnant** 41-year-old woman with tortuous varicose veins in the right thigh and leg attends the Vascular Clinic. A Doppler scan shows _incompetence at the right sapheno-femoral junction_ (SFJ), with multiple perforators. Which one of the following treatment options is best in this case?
@@ -787,7 +896,7 @@ Questions 41-50
 
 20% = F: 41, 42, 43, 44, 45, 46, 47, 48
 
-### Q41 - LEARN
+### Q41
 Which of these nerves does NOT lie in the lateral wall of the _cavernous sinus_?
 
 	A. Trochlear nerve (CN IV)
@@ -798,7 +907,7 @@ Which of these nerves does NOT lie in the lateral wall of the _cavernous sinus_?
 
 #### Answer: B. Oculomotor nerve (CN III) - *FALSE* = C. Mandibular branch of the trigeminal nerve (CN Vc) - TRUE
 
-##### Nerves Lying in Lateral Wall of Cavernous Sinus
+##### Nerves Lying in Lateral Wall of Cavernous Sinus - LEARN
 1. CN III: Oculomotor
 2. CN IV : Trochlear
 3. Trigeminal  Nerve (CN V)
@@ -816,20 +925,20 @@ Which of the following muscles does NOT attach to the _common flexor origin_ of 
 
 #### Answer: A. Pronator teres - *FALSE* = E. Flexor pollicis longus (FPL) - TRUE
 
-##### Common Flexor Origin (CFO)
+##### Common Flexor Origin (CFO) - LEARN
 1. Muscles Attached to CFO
 	- Pronator teres
 	- Flexor Carpi Radialis (FCR)
 	- Palmaris longus
 	- Flexor Digitorum Superficialis (FDS)
 	- Flexor Carpi Ulnaris (FCU)
-2. Deep Muscles of Forearm do **not** attach
+2. **NOTE** Deep Muscles of Forearm do **not** attach
 	- Pronator quadratus
 	- Flexor Digitorum Profundus (FDP)
 	- Flexor Pollicis Longus (FPL)
  
-### Q43	- LEARN
-Which of these statements is TRUE regarding the _femoral triangle_?
+### Q43
+Which of these statements is TRUE regarding _femoral triangle_?
 
 	A. The lateral border of sartorius forms the lateral border - F
 	B. The lateral border of adductor magnus forms the medial border
@@ -839,26 +948,49 @@ Which of these statements is TRUE regarding the _femoral triangle_?
 
 #### Answer: B. The lateral border of adductor magnus forms the medial border - *FALSE* = E. Pectineus forms part of the floor - TRUE
 
-##### Boundaries of Femoral Triangle
-- Superiorly (*base*): inguinal ligament
-- Medially: medial border of adductor longus
-- Laterally: medial border of sartorius
-- **Floor**: adductor longus, **pectineus**, iliac and psoas
-- Roof: fascia and skin
+##### Boundaries of Femoral Triangle - LEARN
+- Superiorly (*base*)
+	- Inguinal Ligament
+- Medially
+	- **medial** border of Adductor Longus
+- Laterally
+	- **medial** border of Sartorius
+- **Floor**
+	- Adductor Longus
+	- **Pectineus**
+	- Iliac and Psoas
+- Roof
+	- Fascia and Skin
  
 ### Q44	
 All of the following statements about radiotherapy are true, EXCEPT:
 
-	A. It can be administered via X-rays - T
+	A. It can be administered via X-rays
 	B. The nature of the surrounding tissue influences how much radiotherapy is administered
-	C. Multiple fractions are required for palliation of bone pain - T
+	C. Multiple fractions are required for palliation of bone pain
 	D. Seminomas are very sensitive to radiotherapy
-	E. Ulceration is a recognised complication - T
+	E. Ulceration is a recognised complication
 
 #### Answer: D. Seminomas are very sensitive to radiotherapy - *FALSE* = C. Multiple fractions are required for palliation of bone pain - TRUE
-- Radiotherapy uses ionising radiation to kill cells. Doses are given at intervals, allowing the normal tissues to recover, but preventing the malignant cells, which take longer to regenerate, from growing. It works by damaging DNA through release of kinetic energy and can be administered through a variety of methods, including electrons, protons, neutrons, X-rays and gamma rays. The success of radiotherapy treatment is dependent on the radiosensitivity of the tumour (for example seminoma is very radiosensitive) and the tolerance of the surrounding tissue, as this can limit the amount of radiotherapy administered. It can be given as a primary treatment, adjuvant and neoadjuvant therapy and as palliative treatment. Palliation of bone pain can be a single treatment. Complications include ulceration, bleeding, delayed wound healing and lymphoedema.
+- Radiotherapy uses ionising radiation to kill cells
+- Doses are given at intervals, allowing the normal tissues to recover, but preventing the malignant cells, which take longer to regenerate, from growing
+- It works by damaging DNA through release of kinetic energy and can be administered through a variety of methods, including electrons, protons, neutrons, X-rays and gamma rays
+- Success of radiotherapy treatment is dependent on
+	1. radiosensitivity of tumour (*seminoma is very radiosensitive*) 
+	2. tolerance of the surrounding tissue
+		- this can limit the amount of radiotherapy administered
+- It can be given as
+	- primary treatment
+	- adjuvant and neoadjuvant therapy
+	- palliative treatment
+- Palliation of bone pain can be a single treatment
+- Complications include 
+	- ulceration
+	- bleeding
+	- delayed wound healing
+	- lymphoedema
  
-### Q45	- LEARN
+### Q45
 The _rectus sheath_ does NOT contain the:
 
 	A. Rectus abdominis
@@ -869,13 +1001,13 @@ The _rectus sheath_ does NOT contain the:
 
 #### Answer: B. Inferior epigastric vein - *FALSE* = D. Lower eight thoracic nerves - TRUE
 
-##### Contents of Rectus Sheath - TODO
-- superior and inferior epigastric arteries and veins
-- rectus abdominis
-- pyramidalis 
-- lower six thoracic nerves
+##### Contents of Rectus Sheath - LEARN
+- Superior and Inferior Epigastric vessels
+- Rectus Abdominis
+- Pyramidalis 
+- Lower 6 thoracic nerves
  
-### Q46	- LEARN
+### Q46
 Which statement is correct regarding respiratory volumes?
 
 	A. The tidal volume in males is 1000 ml
@@ -886,25 +1018,25 @@ Which statement is correct regarding respiratory volumes?
 
 #### Answer: E. The total lung capacity is 4000 ml - *FALSE* = D. The residual volume is 1900 ml - TRUE
 
-##### Respiratory Volumes: Normal Values - TODO
-- tidal volume 500 ml
-- inspiratory reserve volume 3000 ml
-- expiratory reserve volume 2000 ml
-- vital capacity 5600 ml
-- total lung capacity 6000 ml
+##### Respiratory Volumes: Normal Values - LEARN
+- Tidal volume = 500 ml
+- Inspiratory reserve volume (IRV) = 3000 ml
+- Expiratory reserve volume (ERV) 2000 ml
+- Vital capacity (VC) = 5600 ml
+- Total lung capacity (TLC) = 6000 ml
  
 ### Q47
-The following statements regarding lung function tests are true, EXCEPT:
+The following statements regarding *lung function tests* are true, EXCEPT:
 
 	A. The functional residual capacity is made up of the residual volume and expiratory reserve volume
-	B. In an average 20-year-old male, tidal volume is approximately 0.5 litres - F
+	B. In an average 20-year-old male, tidal volume is approximately 0.5 litres
 	C. The residual volume is the amount of air remaining in the lungs after maximum expiration
 	D. Total lung capacity is the sum of residual volume and tidal volume
-	E. Vital capacity can be measured by spirometry - T
+	E. Vital capacity can be measured by spirometry
 #### Answer: B. In an average 20-year-old male, tidal volume is approximately 0.5 litres - *FALSE* = D. Total lung capacity is the sum of residual volume and tidal volume - TRUE
 - Lung function tests are useful pre-operatively as they provide the anaesthetist with information about lung function and capacity. Lung volumes vary with sex/height but not weight. The tidal volume is the amount of air moved into/out of the lung during quiet respiration. The amount of air that can be inspired on top of this is the inspiratory reserve volume, and the amount of air that can be forcibly expired on top of the tidal volume is the expiratory reserve volume. Air left in the lung at the end of a maximal expiration is the residual volume. The residual volume together with the expiratory reserve volume is the functional residual capacity. This is important as it is the volume in which gas exchange takes place. Total lung capacity is the sum of the residual volume and the vital capacity, which is the volume expired after a maximum inspiration.
  
-### Q48	- LEARN
+### Q48
 Which of these is NOT part of the _medial longitudinal arch_ of the foot?
 
 	A. Talus
@@ -914,6 +1046,13 @@ Which of these is NOT part of the _medial longitudinal arch_ of the foot?
 	E. Medial cuneiform
 
 #### Answer: A. Talus - *FALSE* = C. Cuboid - TRUE
+- medial longitudinal arch 
+	- Talus
+	- Navicular
+	- Calcaneum
+	- Cuneiforms
+	- Medial three metatarsals
+- **NOTE** Cuboid is *lateral*
  
 ### Q49	
 The plane of Louis is NOT the:
@@ -925,7 +1064,9 @@ The plane of Louis is NOT the:
 	E. Level at which the azygos vein enters the SVC
 
 #### Answer: B. Level of the third costal cartilage - TRUE
-- The plane of Louis lies at the lower border of T4, at the level of the second costal cartilage. It divides the mediastinum into superior and inferior parts. The trachea bifurcates at this level, the aorta arches and the azygos vein enters the SVC.
+- Plane of Louis lies at lower border of T4 = at level of second costal cartilage
+	- Dividing Mediastinum into superior and inferior parts
+- Trachea bifurcates at this level, aorta arches and azygos vein enters SVC
  
 ### Q50	
 Which of the following regarding the _duodenum_ is INCORRECT?
@@ -955,7 +1096,7 @@ The _sciatic nerve_ does NOT supply which of the following muscles:
 	E. Biceps femoris
 #### Answer: E. Biceps femoris - *FALSE* = A. Obturator externus - TRUE
 
-##### Sciatic Nerve: Supplies
+##### Muscles Supplied By Sciatic Nerve - LEARN
 1. Both gemellae
 2. Quadratus femoris
 3. Semitendinosus
@@ -965,7 +1106,7 @@ The _sciatic nerve_ does NOT supply which of the following muscles:
 
 **NOTE** Obturator Externus is supplied by Obturator Nerve
  
-### Q52	- LEARN
+### Q52
 The branches of the _posterior cord_ of the _brachial plexus_ do NOT include the
 	
 	A. Upper subscapular nerve
@@ -983,7 +1124,7 @@ The branches of the _posterior cord_ of the _brachial plexus_ do NOT include the
 4. Radial Nerve
 5. Lower Subscapular Nerve
 
-**NOTE** Musculocutaneous Nerve is a branch of Lateral Cord
+**NOTE** Musculocutaneous Nerve is a branch of *Lateral Cord*
  
 ### Q53	
 Which of the following statements about _arterial ulcers_ is NOT true?
@@ -996,11 +1137,12 @@ Which of the following statements about _arterial ulcers_ is NOT true?
 
 #### Answer: B. The foot can show venous guttering - **FALSE** = C. They are associated with lipodermatosclerosis - TRUE
 
+#### Ulcers of the Lower Limb - LEARN
 ##### Arterial Ulcers = 4Ps
 - Found at ‘**Pressure points**’ of foot, i.e. tips of toes, heel and over malleoli
 - **Painful** 
 - ‘**Punched** out’ appearance
-- **Poor** blood flow to feet is associated with venous guttering
+- **Poor** blood flow to feet is associated with *venous guttering*
 	- Can be seen in association with *arterial ulcers*
 
 ##### Venous Ulcers
@@ -1013,26 +1155,41 @@ Which of the following statements about _arterial ulcers_ is NOT true?
 ### Q54	- LEARN
 Which of the following is NOT _risk factors for bladder cancer_?
 
-	A. β-Naphthylamine - F
-	B. Schistosoma - F
-	C. Catheterisation - F
+	A. β-Naphthylamine
+	B. Schistosoma
+	C. Catheterisation 
 	D. Alcohol
-	E. Smoking - F
+	E. Smoking
 
 #### Answer: D. Alcohol - TRUE
-- There is no proved link between alcohol and bladder cancer; links have been shown to β-naphthylamine (in dyes and in cigarette smoke), schistosomiasis, benzidine, aromatic amines and trauma (eg from catheterisation or calculi).
+- **NOTE** no proved link between alcohol and bladder cancer
+- Links have been shown to 
+	- β-naphthylamine (in dyes and in cigarette smoke)
+	- schistosomiasis
+	- benzidine
+	- aromatic amines
+	- trauma (*catheterisation or calculi*)
  
 ### Q55	
 The _criteria for brainstem death_ do NOT include:
 
-	A. Apnoeic coma requiring ventilation - F
-	B. Absence of sedative medications - F
-	C. Absence of gag reflex - F
-	D. Lack of response to painful stimulus - F
+	A. Apnoeic coma requiring ventilation
+	B. Absence of sedative medications
+	C. Absence of gag reflex
+	D. Lack of response to painful stimulus
 	E. Normal body temperature
 
 #### Answer: E. Normal body temperature - **FALSE** = D. Lack of response to painful stimulus - TRUE
-- Apnoeic coma and a known cause of irreversible brain damage are prerequisites for brainstem death testing. The patient must not be hypothermic, have uncorrected metabolic derangements (except Na+ in diabetes insipidus), or be under the influence of sedative medications. Tests to be performed are: pupil responses, corneal reflexes, a caloric test, gag reflex, apnoea test and pain reflex. However, the pain reflex must be in the facial nerve distribution, as reflexes below the neck may be spinal.
+- Apnoeic coma and a known cause of irreversible brain damage are prerequisites for brainstem death testing
+- The patient must not be hypothermic, have uncorrected metabolic derangements (except Na+ in diabetes insipidus), or be under the influence of sedative medications
+- Tests to be performed
+	1. pupil responses
+	2. corneal reflexes
+	3. a caloric test
+	4. gag reflex
+	5. apnoea test
+	6. pain reflex
+- **NOTE** Pain reflex **must** be in Facial Nerve distribution - reflexes below neck may be spinal
  
 ### Q56	- LEARN
 Risks associated with _carotid endarterectomy_ include all of the following, EXCEPT:
@@ -1067,9 +1224,13 @@ Which statement is correct regarding _carbon dioxide transport_?
 	D. 50% is transported as sodium bicarbonate
 	E. Carbonic anhydrase catalyses the reaction of CO2 and plasma
 #### Answer: C. 20% is transported dissolved in the plasma - *FALSE* = E. Carbonic anhydrase catalyses the reaction of CO2 and plasma - TRUE
-- Around 30% is transported as carbaminohaemoglobin, 10% dissolved in the plasma and 60% transported as sodium bicarbonate. The carbaminohaemoglobin curve never saturates. Carbonic anhydrase catalyses the reaction of CO2 and plasma.
+- **NOTE** Carbonic anhydrase catalyses the reaction of CO2 and plasma
+- Around 30% is transported as *carbaminohaemoglobin*
+	- 10% dissolved in plasma
+	- 60% transported as sodium bicarbonate
+- **NOTE** Carbaminohaemoglobin curve never saturates 
  
-### Q59	- LEARN
+### Q59
 The carpal tunnel does NOT contain:
 
 	A. Flexor digitorum superficialis (FDS) - ?
@@ -1080,7 +1241,7 @@ The carpal tunnel does NOT contain:
 
 #### Answer: E. Flexor carpi ulnaris (FCU) - TRUE
 
-##### Contents of Carpal Tunnel
+#### Contents of Carpal Tunnel - LEARN
 1. Median nerve
 2. Flexor digitorum superficialis (FDS)
 3. Flexor digitorum profundus (FDP)
@@ -1122,16 +1283,23 @@ The _maximum safe dose_ of 1% _lidocaine without adrenaline_ for a 70-kg male is
 ### Q62	
 _Parathyroid hormone_ (PTH) secretion is decreased by:
 
-	A. An increase in serum phosphate - F
-	B. A decrease in free Ca2+ - F
-	C. A large decrease in serum magnesium - F
-	D. An increase in serum potassium - F
+	A. An increase in serum phosphate
+	B. A decrease in free Ca2+
+	C. A large decrease in serum magnesium
+	D. An increase in serum potassium
 	E. A decrease in 1,25(OH)2 vitamin D
 
 #### Answer: E. A decrease in 1,25(OH)2 vitamin D - *FALSE* = C. A large decrease in serum magnesium - TRUE
-- PTH secretion is decreased by decreased serum phosphate, increased free calcium ions, large decreased magnesium and increased 1,25(OH)2 vitamin D. Its secretion is unrelated to serum potassium level. Mild decreases in serum magnesium may increase PTH secretion as will low calcium and high phosphate levels.
+- PTH secretion is *decreased*
+	1. decreased serum phosphate
+	2. increased free calcium ions
+	3. **large decreased magnesium**
+	4. increased 1,25(OH)2 vitamin D
+- Secretion is unrelated to serum potassium level
+- *Mild decreases* in serum magnesium may *increase* PTH secretion as will
+	- low calcium and high phosphate levels
  
-### Q63	- LEARN
+### Q63
 Structures passing through the _foramen magnum_ do NOT include the:
 
 	A. Vagus nerve
@@ -1142,7 +1310,7 @@ Structures passing through the _foramen magnum_ do NOT include the:
 
 #### Answer: A. Vagus nerve - TRUE
 
-##### Foramen Magnum: Structures
+##### Foramen Magnum: Structures - LEARN
 1. Medulla
 2. Meninges
 3. Tectorial membrane
@@ -1150,41 +1318,41 @@ Structures passing through the _foramen magnum_ do NOT include the:
 5. Vertebral artery
 6. Spinal branches of (spinal) accessory nerve
  
-### Q64	- LEARN
+### Q64
 _Calot’s triangle_:
 
-	A. Is bounded laterally by the common hepatic duct - F
-	B. Is bounded medially by the right hepatic duct - F
+	A. Is bounded laterally by the common hepatic duct
+	B. Is bounded medially by the right hepatic duct
 	C. Is bounded laterally by the cystic duct 
-	D. Contains the left hepatic duct - F
-	E. Contains the hepatic artery - F
+	D. Contains the left hepatic duct
+	E. Contains the hepatic artery
 
 #### Answer: C. Is bounded laterally by the cystic duct - TRUE
  
-##### Calot's Triangle
+##### Calot's Triangle - LEARN
 - Boundaries
 	1. Medially: Common Hepatic Duct (CBD)
 	2. Laterally: Cystic Duct 
 	3. Superiorly: Visceral Surface of Liver
 - Contents
-	1. Cystic Artery
-	2. Cystic Lymph Nodes
+	1. *Cystic* Artery
+	2. *Cystic* Lymph Nodes
 	3. Right Hepatic Duct
-	4. Cystic Vein - occasionally
+	4. *Cystic* Vein (*occasionally*)
 
-### Q65	- LEARN
+### Q65
 The _epiploic foramen_ (of Winslow):
 
-	A. Is the opening of the lesser sac on the left side of the abdomen - F
+	A. Is the opening of the lesser sac on the left side of the abdomen
 	B. Lies anterior to the SVC
-	C. Lies inferior to the quadrate lobe of the liver - F
-	D. Is superior to the third part of the duodenum - ?
-	E. Contains the hepatic artery lying on the left of the common bile duct in the anterior border - F
+	C. Lies inferior to the quadrate lobe of the liver
+	D. Is superior to the third part of the duodenum
+	E. Contains the hepatic artery lying on the left of the common bile duct in the anterior border
 
 #### Answer: B. Lies anterior to the SVC - *FALSE* = E. Contains the hepatic artery lying on the left of the common bile duct in the anterior border - TRUE
  
-##### Epiploic Foramen of Winslow
-- Definition: opening of Lesser Sac on the right side of Abdomen
+##### Epiploic Foramen of Winslow - LEARN
+- Definition: opening of Lesser Sac on the **right** side of Abdomen
 - Boundaries
 	1. Anteriorly: free edge of Lesser Omentum
 		- Right: Common Bile Duct
@@ -1212,10 +1380,10 @@ A 60-year-old man presents with a history of _claudication pain_ in his left leg
 Types of tumour markers do NOT include:
 
 	A. Enzymes
-	B. Hormones - F
-	C. Ectopic hormones - F
-	D. Oncofetal antibodies - F!
-	E. Oncofetal antigens - F
+	B. Hormones
+	C. Ectopic hormones
+	D. Oncofetal antibodies
+	E. Oncofetal antigens
 
 #### Answer: A. Enzymes - *FALSE* = D. Oncofetal antibodies - TRUE
 - Tumour markers: enzymes, hormones, oncofetal antigens and ectopic hormones
@@ -1257,14 +1425,14 @@ A man presents with _left buttock_, _thigh_ and _calf claudication pain_. Which 
 The _stomach bed_ does NOT include the:
 
 	A. Splenic artery
-	B. Coeliac trunk - F
-	C. Transverse mesocolon - F
-	D. Left adrenal gland - F
-	E. Neck of the pancreas - F
+	B. Coeliac trunk
+	C. Transverse mesocolon
+	D. Left adrenal gland
+	E. Neck of the pancreas
 
 #### Answer: A. Splenic artery - *FALSE* = E. Neck of the pancreas - TRUE
 
-##### Structure of Stomach Bed 
+##### Structure of Stomach Bed - LEARN
 1. Lesser sac of the peritoneum
 2. Left crus of the diaphragm
 3. Upper left kidney
@@ -1284,48 +1452,60 @@ Questions 71-80
 
 ??% = F: 71, 72, 73, 74, 75, 76, 78, 80
 
-### Q71 - LEARN
+### Q71
 Which of the following statements is true regarding the _planes of the abdomen_?
 
-	A. The subcostal plane runs through the inferior border of L3 - F
+	A. The subcostal plane runs through the inferior border of L3
 	B. The transtubercular plane runs through the body of L5
 	C. The sagittal planes run through the midpoints of the inguinal ligaments
 	D. The transpyloric plane runs through the superior border of L2
 	E. The transumbilical plane runs through the L2/3 intervertebral disc
 #### Answer: A. The subcostal plane runs through the inferior border of L3 - *FALSE* = B. The transtubercular plane runs through the body of L5 - TRUE
  
-##### Planes of The Abdomen
+##### Planes of The Abdomen - LEARN
 - Sagittal planes are continuations of midclavicular lines, running through midinguinal points
 - Transpyloric plane runs through the inferior border of L1
 - Subcostal plane runs through the superior border of L3
 - Transumbilical plane runs through the umbilicus at the level of the L3/4 intervertebral disc
 - Transtubercular plane runs through the iliac tubercles, passing through the body of L5
 
-### Q72 - LEARN: TODO
+### Q72
 The _facial nerve_ passes through:
 
-	A. The superior orbital fissure - F
+	A. The superior orbital fissure
 	B. The foramen ovale
 	C. The foramen rotundum
-	D. The stylomastoid foramen - F
-	E. The petrosquamous fissure - F
+	D. The stylomastoid foramen
+	E. The petrosquamous fissure
 
 #### Answer: C. The foramen rotundum - *FALSE* = D. The stylomastoid foramen - TRUE
-- The facial nerve traverses the facial canal, the internal auditory meatus and the stylomastoid foramen. The superior orbital foramen contains the oculomotor, trochlear, trigeminal and abducent nerves. The trigeminal nerve passes through the foramen ovale and the foramen rotundum. The petrosquamous fissure has no contents.
+- Facial Nerve traverses 
+	- Facial canal
+	- Internal auditory meatus
+	- Stylomastoid foramen
+- Superior orbital foramen contains
+	- Oculomotor (CN III)
+	- Trochlear (CN IV)
+	- Trigeminal (CN V)
+	- Abducent nerves (CN IV)
+- Trigeminal nerve passes through 
+	- foramen ovale 
+	- foramen rotundum
+- Petrosquamous Fissure has *no contents*
  
 ### Q73	
 Which of the following statements about _abdominal aortic aneurysms_ (AAA) is TRUE?
 
-	A. They can can be stented if above the renal arteries - F
-	B. They are operated on when <5.5 cm in diameter - F
+	A. They can can be stented if above the renal arteries
+	B. They are operated on when <5.5 cm in diameter
 	C. They can cause emboli
 	D. They are not identified on ultrasound scan
-	E. They are more common in females - F
+	E. They are more common in females
 
 #### Answer: D. They are not identified on ultrasound scan - *FALSE* = C. They can cause emboli - TRUE
 - Elective surgery is normally carried out for abdominal aortic aneurysm (AAA) only if the patient is relatively fit and has an aneurysm >5.5 cm in diameter, as the mortality for the operation is 5%. Endoluminal stenting is a relatively new alternative that can be used to treat infrarenal aneurysms. Overall mortality in ruptured aneurysms is 75% and unstable patients should proceed to urgent surgery. Ultrasound scan or CT scan can aid diagnosis, and regular ultrasound scans are a means of carrying out regular surveillance of aneurysms not large enough to require surgery. Thrombus formation within aneurysms can lead to distal emboli. AAAs are much more common in men.
  
-### Q74	- LEARN
+### Q74
 Extensor compartment II of the wrist contains:
 
 	A. Abductor pollicis longus 
@@ -1335,11 +1515,11 @@ Extensor compartment II of the wrist contains:
 	E. Extensor digitorum
 #### Answer: D. Extensor pollicis longus (EPL) - *FALSE* = C. Extensor carpi radialis (ECR) - TRUE
 
-##### Contents of Extensor Compartment
+##### Extensor Compartments of Wrist - LEARN
 1. Abductor Pollicis Longus (APL) and Extensor Pollicis Brevis (EPB)
 2. Extensor carpi radialis (ECR)
 3. Extensor pollicis longus (EPL)
-4. Extensor digitorum and Extensor indicis
+4. Extensor digitorum and Extensor Indicis
 5. Extensor digiti minimi (EDM)
 6. Extensor carpi ulnaris (ECU)
 
@@ -1354,6 +1534,7 @@ Which of the following is NOT a _Gram-negative rod_?
 
 #### Answer: E. Pseudomonas - *FALSE* = B. Clostridium tetani - TRUE
 
+#### Gram-Positive/Gram-Negative Rods - LEARN
 ##### Gram-Positive Rods
 - Clostridia 
 - Listeria
@@ -1374,14 +1555,14 @@ Which of the following is NOT a _Gram-negative rod_?
 The _quadrilateral space_:
 
 	A. Is bounded inferiorly by teres minor
-	B. Is bounded inferiorly by subscapularis - F
-	C. Is bounded laterally by the long head of triceps - F
+	B. Is bounded inferiorly by subscapularis
+	C. Is bounded laterally by the long head of triceps
 	D. Is bounded inferiorly by teres major 
-	E. Contains the radial nerve - F
+	E. Contains the radial nerve
 
 #### Answer: A. Is bounded inferiorly by teres minor - *FALSE* = D. Is bounded inferiorly by teres major - TRUE
 
-##### Quadrilateral Space
+##### Quadrilateral Space - LEARN
 - Boundaries
 	- Superiorly: Subscapularis
 	- **Inferiorly: Teres Major**
@@ -1401,19 +1582,25 @@ All of these statements about _lymphoedema_ are correct, EXCEPT:
 	E. Operative treatment is rarely used - F
 
 #### Answer: D. Ulceration in primary lymphoedema is common - TRUE
-- Lymphoedema is an abnormal collection of tissue fluid from defective lymphatics, and may be either primary or secondary in nature. Secondary causes include infection, malignancy and radiotherapy. Surgery is rarely used to treat it and management is usually conservative, with compression stockings, intermittent mechanical compression and treatment of cellulitis when it occurs. Ulceration is not commonly seen with primary lymphoedema.
+- Lymphoedema is an abnormal collection of tissue fluid from defective lymphatics, and may be either primary or secondary in nature
+- Secondary causes include infection, malignancy and radiotherapy
+- Surgery is rarely used to treat it and management is usually conservative, with 
+	- compression stockings
+	- intermittent mechanical compression
+	- treatment of cellulitis when it occurs
+- **NOTE** Ulceration is not commonly seen with primary lymphoedema
  
 ### Q78	- LEARN
 Which statement is correct regarding _secretions_ from the _adrenal glands_?
 
 	A. Aldosterone is produced by the zona glomerulosa
-	B. Progesterone is produced by the zona fasciculata - F
-	C. Testosterone is produced by the zona reticularis - F
+	B. Progesterone is produced by the zona fasciculata
+	C. Testosterone is produced by the zona reticularis
 	D. Adrenaline is produced by the zona reticularis
 	E. Cortisol is produced by the zona glomerulosa
 #### Answer: E. Cortisol is produced by the zona glomerulosa - *FALSE* = A. Aldosterone is produced by the zona glomerulosa - TRUE
 
-##### Adrenal Glands: Secretions
+##### Adrenal Glands: Secretions - LEARN
 - Zona Glomerulos**a**: **a**ldosterone
 - Zona Fas**c**icula**t**a: cortisol & testosterone
 - Zona Reticularis: oestradiol & progesterone
@@ -1423,13 +1610,17 @@ Which statement is correct regarding _secretions_ from the _adrenal glands_?
 Which of the following statements is true regarding the _pharyngeal arches and pouches_?
 
 	A. The superior parathyroid glands are derived from the fourth pharyngeal pouch
-	B. The mandible is derived from the second pharyngeal arch - F
-	C. The third pharyngeal arch is supplied by the vagus nerve - F
-	D. The pharyngeal arches consist of endoderm and ectoderm only - F
-	E. The inferior parathyroid glands are derived from the fifth pharyngeal pouch - F
+	B. The mandible is derived from the second pharyngeal arch
+	C. The third pharyngeal arch is supplied by the vagus nerve
+	D. The pharyngeal arches consist of endoderm and ectoderm only
+	E. The inferior parathyroid glands are derived from the fifth pharyngeal pouch
 
 #### Answer: A. The superior parathyroid glands are derived from the fourth pharyngeal pouch - TRUE
-- The pharyngeal arches are composed of mesoderm, endoderm and ectoderm. The superior parathyroids are derived from the fourth pharyngeal pouch and the inferior parathyroids are derived from the third pharyngeal pouch. The mandible, maxilla and zygoma are derived from the first pharyngeal arch. The third pharyngeal arch is supplied by the glossopharyngeal nerve.
+- Pharyngeal arches are composed of *mesoderm, endoderm and ectoderm*
+	- *Superior* parathyroids derived from *fourth *pharyngeal pouch
+	- *Inferior* parathyroids derived from *third* pharyngeal pouch
+- Mandible, maxilla and zygoma derived from first pharyngeal arch
+- Third Arch is supplied by Glossopharyngeal Nerve
  
 ### Q80	
 _Epstein–Barr virus_ (EBV) is known to be a carcinogen for:
@@ -1441,7 +1632,10 @@ _Epstein–Barr virus_ (EBV) is known to be a carcinogen for:
 	E. Hepatocellular carcinoma
 
 #### Answer: E. Hepatocellular carcinoma = *FALSE* = D. B-cell lymphoma - TRUE
-- EBV is known to be carcinogenic for B-cell lymphoma, nasopharyngeal carcinoma and Hodgkin’s lymphoma.
+- **NOTE** EBV is known to be carcinogenic
+	- **B**-cell lymphoma
+	- Nasopharyngeal carcinoma
+	- Hodgkin’s lymphoma
 
 
 Questions 81-90
@@ -1452,10 +1646,10 @@ Questions 81-90
 ### Q81
 One litre of _Hartmann’s solution_ contains
 
-	A. 154 mmol/l of sodium - F
-	B. 5 mmol/l of glucose - F
-	C. 130 mmol/l of chloride - F
-	D. 10 mmol/l of calcium - F
+	A. 154 mmol/l of sodium
+	B. 5 mmol/l of glucose
+	C. 130 mmol/l of chloride
+	D. 10 mmol/l of calcium
 	E. 5 mmol/l of potassium
 
 #### Answer: E. 5 mmol/l of potassium - TRUE
@@ -1471,7 +1665,12 @@ A _4-year-old girl_ falls from her bike, landing on her left leg, which becomes 
 	E. Ewing’s sarcoma
 
 #### Answer: B. Chondrosarcoma - *FALSE* = C. Bone cyst - TRUE
-- Bone cysts are common benign fluid-containing lesions that usually occur in the metaphysis of long bones. Half of all bone cysts present as pathological fractures and most occur in children aged 4–10 years. Bone metastases usually present with pain, although occurrence of a pathological fracture may be the first presentation. Osteosarcoma has a bimodal distribution, with 75% of those affected being aged between 10 and 25 years. The remainder are elderly with a history of Paget’s disease. It typically presents with a painful mass, most commonly affecting the lower femur and arising from the medullary cavity. Chondrosarcomas can present de novo or from malignant transformation of a benign cartilage tumour such an osteochondroma. They usually affect middle-aged or elderly people. Ewing’s sarcoma usually affects young people aged between 5 and 15 years. It presents as a lytic lesion, which causes a periosteal reaction, giving it a characteristic ‘onion skin’ appearance.
+- Bone cysts - common benign fluid-containing lesions that usually occur in metaphysis of long bones
+	- Half of all bone cysts present as *pathological fractures*
+	- Most occur in children aged 4–10 years
+
+#### Notes
+- Bone metastases usually present with pain, although occurrence of a pathological fracture may be the first presentation. Osteosarcoma has a bimodal distribution, with 75% of those affected being aged between 10 and 25 years. The remainder are elderly with a history of Paget’s disease. It typically presents with a painful mass, most commonly affecting the lower femur and arising from the medullary cavity. Chondrosarcomas can present de novo or from malignant transformation of a benign cartilage tumour such an osteochondroma. They usually affect middle-aged or elderly people. Ewing’s sarcoma usually affects young people aged between 5 and 15 years. It presents as a lytic lesion, which causes a periosteal reaction, giving it a characteristic ‘onion skin’ appearance.
  
 ### Q83	
 Which of the following statements is true regarding the _adrenal glands_?
@@ -1484,10 +1683,9 @@ Which of the following statements is true regarding the _adrenal glands_?
 
 #### Answer: C. The left adrenal lies posterior to the splenic artery - TRUE
 - The left adrenal lies more medially than the right. The left adrenal lies posterior to the splenic artery and body of the pancreas, anterior to the left crus of the diaphragm, lateral to the coeliac ganglion and left gastric vessels, and medial to the left kidney. The right adrenal lies posterior to the right lobe of the liver and IVC, anterior to the right crus of the diaphragm, and lateral to the right inferior phrenic vessels.
-- The zona glomerulosa secretes aldosterone, the zona fasciculata cortisol and testosterone, and the zona reticularis oestradiol and progesterone.
+- Zona glomerulosa secretes aldosterone, Zona fasciculata cortisol and testosterone, and Zona reticularis oestradiol and progesterone.
 
- 
-### Q84	- LEARN
+### Q84
 Volumes of _gastrointestinal secretions_ per day are:
 
 	A. 3000 ml of saliva
@@ -1498,7 +1696,7 @@ Volumes of _gastrointestinal secretions_ per day are:
 
 #### Answer: B. 2000 ml of pancreatic juices - *FALSE* = D. 3500 ml of small-bowel secretions - TRUE
 
-##### Daily Gastrointestinal Secretions
+##### Daily Gastrointestinal Secretions - LEARN
 - 1500 ml of saliva
 - 2000 ml of gastric secretions
 - 1000 ml of pancreatic juices
@@ -1509,14 +1707,17 @@ Volumes of _gastrointestinal secretions_ per day are:
 ### Q85	
 A 40-year-old _diabetic_ man presents with _pain in the upper lumbar spine_. X-ray at the time showed soft-tissue swelling only and he was discharged home with anti-inflammatories. He returns 10 days later as his symptoms are no better and he has been suffering from a _constant fever_. X-ray at this time shows _sclerotic changes_ and _periosteal reaction_. His symptoms are most likely to be due to infection with:
 
-	A. Salmonella - F
+	A. Salmonella
 	B. Haemophilus influenzae
-	C. Gonococcus - F
-	D. Tuberculosis - F
+	C. Gonococcus
+	D. Tuberculosis
 	E. Staphylococcus aureus
 
 #### Answer: B. Haemophilus influenzae - *FALSE* = E. Staphylococcus aureus - TRUE
-- Osteomyelitis is characterised by pain and swelling over the affected part and a fever. Bacteria can enter the bone via direct inoculation or haematogenous spread. People most susceptible are those with diabetes and immunosuppression. Radiological changes do not usually appear until 10 days after onset and consist of soft-tissue swelling and sclerotic bone changes with periosteal elevation. The most likely causative organism in this case is S. aureus. In young children, Haemophilus influenzae can also be a cause. Salmonella can cause osteomyelitis in sickle cell patients.
+- Osteomyelitis is characterised by pain and swelling over the affected part and a fever
+	- Young Children: *Haemophilus influenzae*
+	- Adults        : *Staphylococcus aureus*
+- Bacteria can enter the bone via direct inoculation or haematogenous spread. People most susceptible are those with diabetes and immunosuppression. Radiological changes do not usually appear until 10 days after onset and consist of soft-tissue swelling and sclerotic bone changes with periosteal elevation. The most likely causative organism in this case is S. aureus. In young children, Haemophilus influenzae can also be a cause. Salmonella can cause osteomyelitis in sickle cell patients.
  
 ### Q86	
 Which of the following is NOT true regarding gastric secretions?
@@ -1530,7 +1731,7 @@ Which of the following is NOT true regarding gastric secretions?
 #### Answer: E. Hydrochloric acid is produced by the chief cells - TRUE
 - Hydrochloric acid is produced by the parietal cells.
  
-### Q87	- LEARN
+### Q87
 Which of the following factors is part of the _extrinsic pathway_ in the coagulation cascade?
 	
 	A. Factor XII - F
@@ -1542,7 +1743,6 @@ Which of the following factors is part of the _extrinsic pathway_ in the coagula
 #### Answer: C. Factor IX - *FALSE* = D. Factor VII - TRUE
 - Factors XII, XI and IX are all part of the intrinsic pathway
 - Factor VII is common to both pathways
-- Factor III is part of the extrinsic pathway
 - Factor XIII is part of the final common pathway
  
 ### Q88	
@@ -1573,15 +1773,15 @@ Functions of the _terminal ileum_ do NOT include:
 ### Q90	
 Which of the following statements is NOT true regarding vitamin B12?
 
-	A. It is necessary for maturation of red cells - T
-	B. It is stored in the liver - T
-	C. Intrinsic factor is required for its absorption - T
-	D. Stores can last for up to a year - F
-	E. There is a small amount in bile - ?
+	A. It is necessary for maturation of red cells
+	B. It is stored in the liver
+	C. Intrinsic factor is required for its absorption
+	D. Stores can last for up to a year
+	E. There is a small amount in bile
 
 #### Answer: D. Stores can last for up to a year - TRUE
 - Vitamin B12 is necessary for maturation of red cells
-	- It is stored in the liver and also present in bile
+	- Stored in the liver and also present in bile
 - Stores are large and can last 3–6 years
 - Intrinsic factor secreted by **Gastric Parietal Cells** is necessary for its uptake
 
@@ -1591,21 +1791,21 @@ Questions 91-100
 
 20% = F: 91, 93, 94, 95, 96, 97, 98, 99
 
-### Q91 - LEARN
+### Q91
 Which of the following is an _exocrine secretion_ of the pancreas?
 
 	A. Pancreatic polypeptide
 	B. Somatostatin
 	C. Trypsinogen
-	D. Glucagon - F
-	E. Insulin - F
+	D. Glucagon
+	E. Insulin
 #### Answer: B. Somatostatin - *FALSE* = C. Trypsinogen - TRUE
 
-##### Pancreatic Secretions
-1. Endocrine Secretions
+##### Pancreatic Secretions - LEARN
+1. Endocrine Secretions - LEARN
 	- Pancreatic polypeptide
 	- Somatostatin
-	- Glucagons 
+	- Glucagon 
 	- Insulin
 2. Exocrine Secretions
 	- Trypsinogen
@@ -1616,53 +1816,85 @@ Which of the following is an _exocrine secretion_ of the pancreas?
 	- Amylase
 	- Lecithin
  
-### Q92	- LEARN
+### Q92
 All of the following may be _radiological features_ of osteoarthritis, EXCEPT:
 
 	A. Bone cysts
 	B. Subchondral sclerosis
 	C. Osteophytes
-	D. Increased joint space - F
+	D. Increased joint space
 	E. Joint effusion
 
 #### Answer: D. Increased joint space - TRUE
-- Characteristic radiological features of osteoarthritis are bone cysts, subchondral sclerosis, osteophytes, reduced joint space and joint effusion. In contrast, features of rheumatoid arthritis are periarticular soft-tissue swelling, loss of joint space, bony erosions, juxta-articular osteoporosis and pseudocysts.
+- Characteristic radiological features of osteoarthritis are 
+	- L - loss of joint space
+	- O - osteophytes
+	- S - subchondral bone cysts 
+	- S - subchondral sclerosis
+	- joint effusion
+- In contrast, features of rheumatoid arthritis are 
+	- periarticular soft-tissue swelling
+	- loss of joint space
+	- bony erosions
+	- juxta-articular osteoporosis
+	- pseudocysts
  
-### Q93	- LEARN
+### Q93
 _Lung compliance_ is increased by:
 
 	A. Alveolar oedema
 	B. Pulmonary hypertension
-	C. Atelectasis - F
-	D. Pulmonary fibrosis - F
-	E. Emphysema - F
+	C. Atelectasis
+	D. Pulmonary fibrosis
+	E. Emphysema 
 #### Answer: A. Alveolar oedema - *FALSE* = E. Emphysema - TRUE
-- Compliance is reduced by alveolar oedema, pulmonary hypertension, atelectasis and pulmonary fibrosis
-- It is increased by emphysema, acute asthma and increasing age
+- Compliance is *reduced* by 
+	- alveolar oedema
+	- pulmonary hypertension
+	- atelectasis
+	- pulmonary fibrosis
+- Compliance is increased by emphysema, acute asthma and increasing age
  
-### Q94	- LEARN
+### Q94
 The _posterior pituitary_ releases:
 
-	A. Adrenocorticotropic hormone (ACTH) - F
+	A. Adrenocorticotropic hormone (ACTH)
 	B. Follicle-stimulating hormone (FSH)
 	C. Antidiuretic hormone (ADH)
-	D. Thyroid-stimulating hormone (TSH) - F
-	E. Growth hormone (GH) - F
+	D. Thyroid-stimulating hormone (TSH)
+	E. Growth hormone (GH)
 #### Answer: B. Follicle-stimulating hormone (FSH) - *FALSE* = C. Antidiuretic hormone (ADH) - TRUE
 - Anterior pituitary secretes ACTH, FSH, LH, thyroid-stimulating hormone (TSH), GH and prolactin
-- Posterior pituitary releases ADH
+- **NOTE** Posterior pituitary releases ADH (Vasopressin) + Oxytocin
  
-### Q95	- LEARN
+### Q95
 Which of the following statements about the _popliteal fossa_ is TRUE?
 
-	A. The lateral edge is bounded by semimembranosus and gastrocnemius - F
-	B. The deep fascia forms the roof and is pierced by the long saphenous vein - F
-	C. The popliteal artery is the deepest structure within the fossa - F
-	D. The common peroneal nerve lies medially within the fossa - F
+	A. The lateral edge is bounded by semimembranosus and gastrocnemius
+	B. The deep fascia forms the roof and is pierced by the long saphenous vein
+	C. The popliteal artery is the deepest structure within the fossa
+	D. The common peroneal nerve lies medially within the fossa
 	E. Soleus forms the medial lower edge
 
 #### Answer: E. Soleus forms the medial lower edge - *FALSE* = C. The popliteal artery is the deepest structure within the fossa - TRUE
-- The popliteal fossa is a diamond-shaped area on the back of the knee. It is bounded superiorly by biceps femoris (laterally) and semimembranosus (medially) and the two heads of gastrocnemius (inferiorly). The roof is formed by deep fascia pierced by the short saphenous vein. It contains the branches of the sciatic nerve (tibial and common peroneal nerves), the popliteal vein and artery. The deepest structure is the artery. The common peroneal nerve lies laterally and winds around the head of the fibula, whereas the tibial nerve lies medially.
+- Popliteal fossa is a diamond-shaped area on the back of the knee. 
+	- Common Peroneal Nerve lies laterally
+		- winds around Head of Fibula
+	- Tibial nerve lies medially
+
+#### Politeal Fossa - LEARN
+1. Superiorly
+	- Laterally: Biceps Femoris
+	- Medially: Semimembranosus
+2. Inferiorly
+	- Two heads of Gastrocnemius
+2. Roof
+	- Deep fascia pierced by Short Saphenous Vein
+3. Contents
+	- Branches of Sciatic Nerve: Tibial and Common Peroneal Nerves
+	- Popliteal Vein and Artery 
+4. Deepest Structure
+	- Popliteal Artery
  
 ### Q96	
 Which of the following is NOT the _correct daily requirement_ for an average 70-kg male?
@@ -1680,19 +1912,34 @@ Which of the following is NOT the _correct daily requirement_ for an average 70-
 	- 0.1 mmol/kg of calcium
 	- approximately 35 ml/kg of water
 
-### Q97	- LEARN
+### Q97
 Which of the following statements about the _brachial plexus_ is FALSE?
 
 	A. The thoracodorsal nerve arises from the posterior cord
-	B. The medial and lateral cords join to form the median nerve - T
-	C. The trunks of the plexus are found in the posterior triangle of the neck - T
-	D. The long thoracic nerve originates from trunks C5, C6 and C7 - T
+	B. The medial and lateral cords join to form the median nerve
+	C. The trunks of the plexus are found in the posterior triangle of the neck
+	D. The long thoracic nerve originates from trunks C5, C6 and C7
 	E. The nerve that supplies subscapularis is a branch from the posterior cord
 
 #### Answer: A. The thoracodorsal nerve arises from the posterior cord - *FALSE* = D. The long thoracic nerve originates from trunks C5, C6 and C7 - TRUE
-- The brachial plexus is made up of five nerve roots (C5–T1), which then form trunks in the posterior triangle of the neck. C6 and C7 join to form the superior trunk, C7 continues as the middle trunk and C8 and T1 form the inferior trunk. The trunks divide into anterior and posterior divisions and then combine to form lateral posterior and medial cords. The cords divide to form the main nerves: musculocutaneous nerve (lateral cord), median nerve (lateral and medial cords), axillary nerve (posterior cord), radial nerve (posterior cord) and ulnar nerve (medial cord). There are several branches arising from the roots, trunks and cords, for example the long thoracic nerve, which supplies serratus anterior, arises from nerve roots C5–C7; the thoracodorsal nerve, which supplies the latissimus dorsi and the nerve to subscapularis both arise from the posterior cord.
+- The brachial plexus is made up of five nerve roots (C5–T1)
+	- which then form trunks in the posterior triangle of the neck
+- C6 and C7 join to form the *superior trunk*
+	- C7 continues as the *middle trunk*
+	- C8 and T1 form the *inferior trunk*
+- Trunks divide into anterior and posterior divisions and then combine to form lateral posterior and medial cords
+- Cords divide to form *main nerves*
+	1. Musculocutaneous nerve (lateral cord)
+	2. Median nerve (lateral and medial cords)
+	3. Axillary nerve (posterior cord)
+	4. Radial nerve (posterior cord)
+	5. Ulnar nerve (medial cord)
+- Several branches arising from roots, trunks and cords
+	- Long thoracic nerve (Serratus Anterior) - C5–C7
+	- Thoracodorsal Nerve (Latissimus Dorsi) - posterior cord
+	- Nerve to subscapularis (Subscapularis) - posterior cord
  
-### Q98	- LEARN
+### Q98
 Causes of _metabolic acidosis_ with a _normal anion gap_ include:
 
 	A. Diarrhoea
@@ -1702,8 +1949,8 @@ Causes of _metabolic acidosis_ with a _normal anion gap_ include:
 	E. Lactic acidosis
 
 #### Answer: C. Salicylate overdose - *FALSE* = A. Diarrhoea - TRUE
-- Excess acid intake and excess bicarbonate loss, eg in diarrhoea
-	- Are causes of metabolic acidosis with a normal anion gap
+- Excess acid intake and excess bicarbonate loss e.g. diarrhoea
+	- Are causes *metabolic acidosis with a normal anion gap*
 - The other conditions **all** cause an increased anion gap
  
 ### Q99	
@@ -1716,19 +1963,23 @@ Which statement is true of _pleomorphic adenoma_:
 	E. It is commonest in the fourth and fifth decades
 
 #### Answer: C. It is more common in females - *FALSE* = E. It is commonest in the fourth and fifth decades - TRUE
-- Pleomorphic adenoma is the commonest salivary gland tumour. It is benign, although a small number undergo malignant transformation. It is commonest in the parotid gland, but can occur in any salivary gland. It is commoner in males, most often presenting in the fourth and fifth decades. Ten per cent of Warthin’s tumours are bilateral.
+- Pleomorphic adenoma is the commonest salivary gland tumour
+	- It is benign, although a small number undergo malignant transformation
+- Commonest in parotid gland, but can occur in any salivary gland
+- Commoner in Males - most often presenting in fourth and fifth decades
+- **NOTE** Ten per cent of Warthin’s tumours are bilateral
  
 ### Q100
 Which of the following are NOT normally found in bile?
 
 	A. Sodium chloride
 	B. Unconjugated bilirubin
-	C. Cholesterol - F
-	D. Water - F
-	E. Bile salts - F
+	C. Cholesterol
+	D. Water
+	E. Bile salts
 
 #### Answer: B. Unconjugated bilirubin - TRUE
-- Bile contains conjugated bilirubin with glucuronic acid, which make up the bile pigments. The other constituents are bile salts/acids, inorganic salts (eg sodium chloride and sodium bicarbonate), phospholipids (eg cholesterol and lecithins) and water, which makes up 97% of the bile.
+- Bile contains *conjugated bilirubin* with glucuronic acid, which make up the bile pigments. The other constituents are bile salts/acids, inorganic salts (eg sodium chloride and sodium bicarbonate), phospholipids (eg cholesterol and lecithins) and water, which makes up 97% of the bile.
 
 
 Questions 101-110
@@ -1737,7 +1988,7 @@ Questions 101-110
 40% = F: 101, 102, 103, 104, 105, 106
 
 ### Q101
-A 26-year-old woman is involved in a road traffic accident. On arrival in the Emegency Department she has a painful, deformed-looking left leg, which is _shortened and internally rotated_. She is unable to dorsiflex or plantar-flex her foot and there is sensory loss below the knee apart from the medial leg and foot and upper back of the calf. The nerve most likely to have been affected is:
+A 26-year-old woman is involved in a road traffic accident. On arrival in the Emergency Department she has a painful, deformed-looking left leg, which is _shortened and internally rotated_. She is unable to dorsiflex or plantar-flex her foot and there is sensory loss below the knee apart from the medial leg and foot and upper back of the calf. The nerve most likely to have been affected is:
 
 	A. Obturator nerve
 	B. Sciatic nerve
@@ -1746,12 +1997,12 @@ A 26-year-old woman is involved in a road traffic accident. On arrival in the Em
 	E. Common peroneal nerve
 
 #### Answer: E. Common peroneal nerve - *FALSE* = B. Sciatic nerve - TRUE
-- A posterior dislocation of hip causes the leg to appear shortened and internally rotated
-- In 20% of fracture dislocations of the hip, the sciatic nerve is damaged
+- Posterior dislocation of hip causes leg to appear *shortened and internally rotated*
+	- In 20% of fracture dislocations of the hip, sciatic nerve is damaged
 	- This results in paralysis of hamstrings and all flexors and extensors below knee
 - Also, all of the skin below the knee loses its sensation apart from areas supplied by
-	- saphenous nerve (medial posterior calf) 
-	- posterior cutaneous nerve of thigh (upper posterior calf)
+	- Saphenous Nerve (medial posterior calf) 
+	- Posterior Cutaneous Nerve of Thigh (upper posterior calf)
  
 ### Q102
 Reed–Sternberg cells are characteristic of:
@@ -1765,7 +2016,7 @@ Reed–Sternberg cells are characteristic of:
 #### Answer: B. Non-Hodgkin’s lymphoma (NHL) - *FALSE* = A. Hodgkin’s lymphoma - TRUE
 - **NOTE** Reed–Sternberg cells are characteristic of Hodgkin’s lymphoma
  
-### Q103 - LEARN
+### Q103
 _Risk factors for hepatocellular carcinoma_ do NOT include:
 
 	A. Hepatitis B
@@ -1776,7 +2027,7 @@ _Risk factors for hepatocellular carcinoma_ do NOT include:
 
 #### Answer: E. Anabolic steroids - *FALSE* = C. Hepatitis E - TRUE
 
-##### Hepatocellular Carcinoma: Risk Factors
+##### Hepatocellular Carcinoma: Risk Factors - LEARN
 - Hepatitis B and C
 - Aflatoxin
 - Anabolic steroids
@@ -1790,18 +2041,26 @@ A 35-year-old tennis player finds herself unable to play because of a _painful l
 	B. Frozen shoulder
 	C. Acromioclavicular joint dislocation
 	D. Supraspinatus tendonitis
-	E. Biceps tendon rupture - F
+	E. Biceps tendon rupture
 
 #### Answer: B. Frozen shoulder - *FALSE* = D. Supraspinatus tendonitis - TRUE
-- Supraspinatus tendonitis is usually caused by vigorous exercise in people aged over 40 years. They present with a ‘painful arc’ of shoulder movement when the arm passes through 60–120 degrees of abduction. In contrast, supraspinatus rupture makes active abduction impossible, although there is a full range of passive movement. Frozen shoulder occurs as a result of degenerative changes of the rotator cuff. Pain due to this causes the patient to hold the shoulder still and adhesions form, which limit movement even more until only scapular movement remains. Rupture of the long head of biceps usually occurs in a previously diseased tendon and causes pain, tenderness and bunching-up of the muscle in the lower arm.
+- **NOTE** *Supraspinatus tendonitis* is usually caused by vigorous exercise in people aged over 40 years
+	- Present with a ‘painful arc’ of shoulder movement when arm passes through 60–120 degrees of abduction
+- In contrast, supraspinatus rupture makes active abduction impossible
+	- although there is a full range of passive movement
+- Frozen shoulder occurs as a result of degenerative changes of the rotator cuff
+	- Pain due to this causes the patient to hold the shoulder still and adhesions form
+	- Limiting movement even more until only scapular movement remains
+- Rupture of the long head of biceps usually occurs in a previously diseased tendon
+	- Causing pain, tenderness and bunching-up of muscle in the lower arm
  
 ### Q105
 Infantile _hypertrophic pyloric stenosis_:
 
 	A. Is more common in females
 	B. Is more common in second-born and subsequent children
-	C. Usually presents at approximately 3 months old - F
-	D. Causes a metabolic acidosis - F
+	C. Usually presents at approximately 3 months old
+	D. Causes a metabolic acidosis
 	E. Occurs in 1 in 31,000 live births
 #### Answer: B. Is more common in second-born and subsequent children - *FALSE* = E. Occurs in 1 in 31,000 live births - TRUE
 - Infantile hypertrophic pyloric stenosis is present in 1 in 31,000 live births
@@ -1811,23 +2070,23 @@ Infantile _hypertrophic pyloric stenosis_:
 Tumour markers for _testicular cancer_ do NOT include:
 
 	A. Gamma-glutamyltransferase (GGT) for seminoma and non-seminomatous germ-cell tumour (NSGCT)
-	B. Human chorionic gonadotropin (γ-hCG) for seminoma and NSGCT - F
-	C. Lactate dehydrogenase (LDH) for NSGCT - F
-	D. Carcinoembryonic antigen (CEA) for NSGCT - F
-	E. Alpha-fetoprotein (AFP) for NSGCT - F
+	B. Human chorionic gonadotropin (γ-hCG) for seminoma and NSGCT
+	C. Lactate dehydrogenase (LDH) for NSGCT
+	D. Carcinoembryonic antigen (CEA) for NSGCT
+	E. Alpha-fetoprotein (AFP) for NSGCT 
 
 #### Answer: A. Gamma-glutamyltransferase (GGT) for seminoma and non-seminomatous germ-cell tumour (NSGCT) - *FALSE* = D. Carcinoembryonic antigen (CEA) for NSGCT - TRUE
 - CEA is a *non-specific marker* for a variety of tumours and pathologies
 	- **But not for testicular tumours**
-- Alpha-fetoprotein is a marker for NGSCT, but not for pure seminoma
+- **NOTE** Alpha-fetoprotein - marker for NGSCT, but *not* for pure seminoma
  
 ### Q107
 All of the following statements about a _fractured neck of femur_ are true, EXCEPT:
 
-	A. The affected leg is shortened and externally rotated - T
-	B. Associated mortality is in the region of >30% at 6 months - T
-	C. Intertrochanteric fractures are usually fixed using a dynamic hip screw - T
-	D. Intracapsular fractures can result in avascular necrosis of the femoral head - T
+	A. The affected leg is shortened and externally rotated
+	B. Associated mortality is in the region of >30% at 6 months
+	C. Intertrochanteric fractures are usually fixed using a dynamic hip screw
+	D. Intracapsular fractures can result in avascular necrosis of the femoral head
 	E. Femoral nerve injury is common
 
 #### Answer: E. Femoral nerve injury is common - TRUE
@@ -1836,16 +2095,23 @@ All of the following statements about a _fractured neck of femur_ are true, EXCE
 ### Q108
 The following viruses are NOT known to be _carcinogenic_:
 
-	A. Epstein–Barr virus - F
-	B. Hepatitis B - F
-	C. Human immunodeficiency virus (HIV) - F
+	A. Epstein–Barr virus
+	B. Hepatitis B
+	C. Human immunodeficiency virus (HIV)
 	D. Hepatitis A
-	E. Human papilloma virus (HPV) - F
+	E. Human papilloma virus (HPV)
 
 #### Answer: D. Hepatitis A - TRUE
-- Epstein–Barr virus is linked to B-cell lymphoma, Hodgkin’s lymphoma and nasopharyngeal carcinoma
-- Hepatitis B and C are linked to hepatocellular carcinoma (HCC), but no link has been shown to Hepatitis A
-- HIV is linked to leukaemia, lymphoma and Kaposi's sarcoma
+- Epstein–Barr virus (EBV) is linked to 
+	- B-cell lymphoma
+	- Hodgkin’s lymphoma
+	- nasopharyngeal carcinoma
+- Hepatitis B and C are linked to hepatocellular carcinoma (HCC)
+	- link has been shown to Hepatitis A
+- Human Immunodeficiency Virus (HIV) is linked to 
+	- leukaemia
+	- lymphoma
+	- Kaposi's sarcoma
 - HPV is linked to cervical cancer
  
 ### Q109
@@ -1858,24 +2124,33 @@ Swan–Ganz catheters CANNOT be used to _directly_ measure:
 	E. Central venous pressure (CVP)
 
 #### Answer: D. Systemic vascular resistance (SVR) - TRUE
-- A Swan–Ganz catheter can be used to directly measure 
-	- mean arterial pressure
-	- central venous pressure
-	- pulmonary artery wedge pressure
-	- cardiac output (using Fick’s principle)
+- A Swan–Ganz catheter can be used to directly *measure *
+	- Mean arterial pressure
+	- Central venous pressure
+	- Pulmonary artery wedge pressure
+	- Cardiac output (using *Fick's* principle)
 - Peripheral and systemic vascular resistance and ventricular stroke work are calculated, not directly measured
  
 ### Q110
 A 67-year-old man presents _extremely unwell_ with left-sided abdominal pain, fever and shock. At emergency laparotomy he is found to have a _large tumour of the sigmoid colon_, which has _perforated_, causing _faecal contamination_. What is the most appropriate operation?
 
-	A. Left hemicolectomy and primary anastomosis - F
-	B. Sigmoid colectomy - F
+	A. Left hemicolectomy and primary anastomosis
+	B. Sigmoid colectomy
 	C. Hartmann’s procedure
-	D. Anterior resection - F
-	E. Abdominoperineal resection - F
+	D. Anterior resection
+	E. Abdominoperineal resection
 
 #### Answer: C. Hartmann’s procedure - TRUE
-- The safest operation to carry out in these circumstances, where a patient is unstable and the operating field is highly contaminated, is a Hartmann’s operation, where the affected segment of colon is excised and the proximal end is brought out as an end-colostomy. The rectal stump is closed and left inside or alternatively may be brought out as a mucous fistula. It is possible then to rejoin the two ends of bowel once the patient is in a more stable state and infection has settled to allow optimum conditions for forming an anastomosis.
+- Safest operation to carry out in these circumstances where
+	- patient is unstable 
+	- operating field is highly contaminated
+- Hartmann’s procedure
+	1. affected segment of colon is excised
+	2. proximal end is brought out as an *end-colostomy*
+- The rectal stump is closed and left inside or alternatively may be brought out as a mucous fistula
+- It is possible then to rejoin the two ends of bowel 
+	- once the patient is in a more stable state
+	- infection has settled to allow optimum conditions for forming an anastomosis
 
 
 Questions 111-120
@@ -1883,34 +2158,34 @@ Questions 111-120
 
 20% = F: 111, 112, 113, 114, 115, 116, 117, 118
 
-### Q111 - LEARN
+### Q111
 _Multiple endocrine neoplasia_ type I (MEN I)
 
 	A. Has an autosomal recessive inheritance
-	B. Has its gene located on chromosome 10 - F (chromosome 11)
-	C. Is known as Sipple syndrome - F (MEN 11A)
-	D. Commonly includes phaeochromocytoma - F
+	B. Has its gene located on chromosome 10
+	C. Is known as Sipple syndrome
+	D. Commonly includes phaeochromocytoma
 	E. Commonly includes hyperparathyroidism
 
 #### Answer: D. Commonly includes phaeochromocytoma - *FALSE* = E. Commonly includes hyperparathyroidism - TRUE
-- MEN I is inherited in an autosomal dominant fashion
-- The gene is located on chromosome 11; the gene for MEN II is on chromosome 10
+- MEN I is inherited in an autosomal dominant (AD) fashion
+	- Gene is located on chromosome 11; the gene for MEN II is on chromosome 10
 - MEN IIA is known as Sipple syndrome
-- Phaeochromocytoma is a common feature of MEN IIB, not MEN I
+	- *Phaeochromocytoma* is a common feature of MEN IIB, not MEN I
  
 ### Q112
 Which of the following is NOT true regarding _malignant hyperpyrexia_?
 
-	A. It can be caused by suxamethonium - T
-	B. It can be caused by isoflurane - T
-	C. It can be caused by nitrous oxide - F
-	D. Dantrolene is the treatment - T
-	E. It occurs in 1 in 150,000 - T
+	A. It can be caused by suxamethonium
+	B. It can be caused by isoflurane
+	C. It can be caused by nitrous oxide
+	D. Dantrolene is the treatment
+	E. It occurs in 1 in 150,000
 
 #### Answer: A. It can be caused by suxamethonium - *FALSE* = C. It can be caused by nitrous oxide - TRUE
-- All inhalational anaesthetic agents except nitrous oxide can cause malignant hyperpyrexia
+- All inhalational anaesthetic agents *except nitrous oxide* can cause malignant hyperpyrexia
 	- suxamethonium can also cause it
-- Treatment involves dantrolene
+- Treatment involves *dantrolene*
 - Malignant hyperpyrexia occurs in 1 in 150,000
  
 ### Q113
@@ -1924,9 +2199,8 @@ The liver does NOT synthesise:
 
 #### Answer: D. Antithrombin - *FALSE* = B. Pro-accelerin - TRUE
 - Pro-accelerin is a plasma protein
-- All of the other factors (prothrombin, plasminogen, antithrombin and fibrinogen) are synthesised by the liver, as is factor VIII.
- 
-##### Factors Synthesised by Liver - PPAFF
+
+##### Factors Synthesised by Liver "PPAFF" - LEARN
 - Prothrombin
 - Plasminogen
 - Antithrombin
@@ -1936,15 +2210,15 @@ The liver does NOT synthesise:
 ### Q114 - LEARN
 **Local factors** that affect wound healing do NOT include:
 
-	A. Foreign bodies - F
+	A. Foreign bodies
 	B. Haematoma
-	C. Malnutrition - F
-	D. Infection - F
-	E. Decreased blood supply - F
+	C. Malnutrition
+	D. Infection
+	E. Decreased blood supply
 
 #### Answer: B. Haematoma - *FALSE* = C. Malnutrition - TRUE
 
-##### Local Factors Delaying Wound Healing 
+##### Local Factors Delaying Wound Healing - LEARN
 1. Infection
 2. Haematoma
 3. Foreign bodies
@@ -1957,61 +2231,67 @@ The liver does NOT synthesise:
 Which statement is _correct_ regarding the _renin–angiotensin system_ (RAAS)?
 
 	A. Antidiuretic hormone (ADH) is released from the anterior pituitary
-	B. Renin is secreted by the granular cells of the juxtaglomerular apparatus - F
-	C. Angiotensinogen is released into the plasma only when required - F
-	D. Antidiuretic hormone is produced by the anterior pituitary
-	E. Angiotensin I is converted to angiotensin II by angiotensin-converting enzyme (ACE) in the liver - F
+	B. Renin is secreted by the granular cells of the juxtaglomerular apparatus
+	C. Angiotensinogen is released into the plasma only when required
+	D. Antidiuretic hormone (ADH) is produced by the anterior pituitary
+	E. Angiotensin I is converted to angiotensin II by angiotensin-converting enzyme (ACE) in the liver
 
 #### Answer: D. Antidiuretic hormone is produced by the anterior pituitary - *FALSE* = B. Renin is secreted by the granular cells of the juxtaglomerular apparatus - TRUE
-- Renin is secreted by granular cells of Juxtaglomerular Apparatus
-	- In the blood it converts angiotensin to angiotensin I
+- Renin is secreted by granular cells of Juxtaglomerular Apparatus (JGA)
+	- In blood it converts angiotensin to angiotensin I
 - Angiotensin I is converted to angiotensin II by ACE in Lungs
 	Angiotensin II stimulates aldosterone and antidiuretic hormone
-- Antidiuretic hormone (ADH) is produced by hypothalamus 
+- Antidiuretic hormone (ADH) is *produced by hypothalamus* 
 	- Stored in posterior pituitary, from which it is released
  
 ### Q116
 Which statement is correct regarding transport in the _proximal tubule of the kidney_?
 
-	A. Sodium is passively reabsorbed - F
-	B. Glucose is passively reabsorbed - F
-	C. Amino acids are actively reabsorbed - F
-	D. Urea is actively reabsorbed - F
+	A. Sodium is passively reabsorbed
+	B. Glucose is passively reabsorbed
+	C. Amino acids are actively reabsorbed
+	D. Urea is actively reabsorbed
 	E. Potassium is secreted
 
 #### Answer: E. Potassium is secreted - *FALSE* = C. Amino acids are actively reabsorbed - TRUE
-- Sodium, glucose, bicarbonate and amino acids are **actively reabsorbed** in the proximal tubule
+- Sodium, glucose, bicarbonate and amino acids are **actively reabsorbed** in proximal tubule
 - Phosphate and calcium are reabsorbed subject to control
 - Urea and water are passively reabsorbed
 - Hydrogen ions are secreted, dependent on pH
  
 ### Q117
-The chemoreceptors involved in maintenance of blood pressure are:
+The *chemoreceptors* involved in maintenance of *blood pressure* are:
 
-	A. Located in the pulmonary arteries - F
-	B. Stimulated by high oxygen levels - F
-	C. Stimulated by alkaline pH - F
-	D. Stimulated by high carbon dioxide levels - F
+	A. Located in the pulmonary arteries
+	B. Stimulated by high oxygen levels
+	C. Stimulated by alkaline pH
+	D. Stimulated by high carbon dioxide levels
 	E. Stimulated by stretching of the vessel walls
 
 #### Answer: E. Stimulated by stretching of the vessel walls - *FALSE* = D. Stimulated by high carbon dioxide levels - TRUE
 - Chemoreceptors concerned with BP maintenance are located at carotid bifurcation and aortic bodies
 	- Stimulated by low oxygen levels, **high carbon dioxide levels** and acidic pH
 - Stretch receptors are located in walls of the atria and pulmonary arteries
-	- Respond to stretching of the vessel walls
+	- Respond to stretching of vessel walls
  
 ### Q118
 Which of the following is NOT part of the _'flight or fight'_ response?
 
-	A. Constriction of blood vessels - F
+	A. Constriction of blood vessels
 	B. Constriction of the pupils
 	C. Sweating
 	D. Increased heart rate
 	E. Decreased GI activity
 
 #### Answer: A. Constriction of blood vessels - *FALSE* = B. Constriction of the pupils - TRUE
-- The fight or flight response is controlled by the hypothalamus, which controls release of catecholamines from the adrenal medulla
-- It includes constriction of blood vessels, increased heart rate and increased contraction strength, sweating, decreased GI activity and dilatation of the pupils.
+- Fight or flight (SNS) response is controlled by the hypothalamus
+	- which controls release of catecholamines from the adrenal medulla
+- It includes 
+	- constriction of blood vessels
+	- increased heart rate and increased contraction strength
+	- sweating
+	- decreased GI activity
+	- dilatation of the pupils
  
 ### Q119
 Which of the following is an _anion_?
@@ -2026,20 +2306,20 @@ Which of the following is an _anion_?
 - Cations (POS): sodium, magnesium, calcium and potassium
 - Anions (NEG): chloride, phosphate, bicarbonate, lactate, sulphate & albumin
  
-### Q120 - LEARN
+### Q120
 Which is NOT a common feature of _MEN IIB_?
 
-	A. Medullary thyroid carcinoma - F
+	A. Medullary thyroid carcinoma
 	B. Multiple mucosal neuromas
-	C. Phaeochromocytoma - F
-	D. Marfanoid appearance - F
+	C. Phaeochromocytoma
+	D. Marfanoid appearance
 	E. Gastrinoma
 
 #### Answer: E. Gastrinoma - TRUE
 - Gastrinoma is a common feature of MEN I
 
 
-Questions 121-130 - HERE
+Questions 121-130
 -----------------
 
 40% = F: 121, 123, 125, 128, 129
@@ -2053,7 +2333,12 @@ Which of the following is an _accessory muscle of expiration_?
 	D. Latissimus dorsi
 	E. Rectus abdominis
 #### Answer: D. Latissimus dorsi - *FALSE* = E. Rectus abdominis - TRUE
-- The accessory muscles of expiration are the abdominal muscles, which can force the diaphragm upwards by contracting, including rectus abdominis, transversus abdominis, internal and external obliques. Sternocleidomastoid and the scalene muscles are the major accessory muscles of inspiration.
+- **NOTE** Accessory muscles of expiration are abdominal muscles
+	- which can force the diaphragm upwards by contracting 
+		1. rectus abdominis
+		2. transversus abdominis
+		3. internal and external obliques
+- Sternocleidomastoid (SCM) and scalene muscles are *major accessory muscles* of inspiration
  
 ### Q122 - LEARN
 _Characteristic signs of acute inflammation_ include all of the following, EXCEPT:
@@ -2082,27 +2367,27 @@ Apoptosis:
 
 #### Answer: D. Causes swelling of the cell - *FALSE* = E. Results in orderly vesicle formation - TRUE
 - Answers A–D are characteristics of necrosis. 
-- Apoptosis is a physiological process of programmed cell death
+- Apoptosis is a physiological process of *programmed cell death*
 	- irreversible once initiated
 	- energy-driven
-- Cells shrink and are packed into vesicles
+- Cells shrink and are *packed into vesicles*
  
 ### Q124
-Tumours that commonly metastasise to bone do NOT include:
+Tumours that *commonly metastasise to bone* do NOT include:
 
-	A. Breast - B
-	B. Lung - L
-	C. Prostate - P
+	A. Breast
+	B. Lung
+	C. Prostate
 	D. Adrenal
-	E. Thyroid - T
+	E. Thyroid
 #### Answer: D. Adrenal - TRUE (BLT-KP)
 - Tumours that commonly metastasise to bone (BLT-KP)
-	-breast, bronchus (lung), thyroid, kidney and prostate
+	- breast, lung, thyroid, kidney and prostate
  
 ### Q125 - LEARN (2s)
 Meckel’s diverticulum:
 
-	A. Is more common in females - F
+	A. Is more common in females
 	B. Is usually 2-cm long
 	C. Can contain hepatic mucosa
 	D. Contains only the mucosa and submucosa of the intestinal wall
@@ -2110,32 +2395,39 @@ Meckel’s diverticulum:
 
 #### Answer:  B. Is usually 2-cm long - *FALSE* = E. Is a remnant of the omphalomesenteric duct - TRUE
 - Meckel’s diverticulum is commonest congenital developmental anomaly, more common in males 
-	- 2% of population, 2-inches-long and 2 feet from ileocaecal junction
+	- 2% of population, **2-inches-long** and 2 feet from ileocaecal junction
 - It contains all layers of the intestinal wall
 - It can contain gastric or pancreatic mucosa
-- It is a remnant of the omphalomesenteric duct
+- **NOTE** It is a remnant of omphalomesenteric (*vitelline*) duct
 
 ### Q126
 _Granulomas_ are NOT found in:
 
-	A. Tuberculosis (TB) - F
-	B. Sarcoidosis - F
+	A. Tuberculosis (TB)
+	B. Sarcoidosis
 	C. Ulcerative colitis
-	D. Crohn’s disease - F
-	E. Leprosy - F
+	D. Crohn’s disease
+	E. Leprosy
 
 #### Answer: C. Ulcerative colitis - TRUE
-- Granulomas are found in TB, leprosy, schistosomiasis, syphilis, sarcoidosis and Crohn’s disease
-- The lack of granulomas in ulcerative colitis is one of differences between two types of IBD
+- *Lack of granulomas* in ulcerative colitis is one of differences between two types of IBD
+
+#### Granulomas - LEARN
+- TB
+- Leprosy
+- Schistosomiasis
+- Syphilis
+- Sarcoidosis
+- Crohn’s disease
  
 ### Q127
 _Dysplasia_ does NOT cause:
 
-	A. Increased cell growth - F
-	B. Cellular atypia - F
-	C. Abnormal differentiation - F
+	A. Increased cell growth
+	B. Cellular atypia
+	C. Abnormal differentiation
 	D. A low nuclear-to-cytoplasmic ratio
-	E. Pleomorphism - F
+	E. Pleomorphism
 
 #### Answer: D. A low nuclear-to-cytoplasmic ratio - TRUE
 - Dysplasia is a premalignant change
@@ -2152,10 +2444,10 @@ _Psammoma bodies_ are characteristic of:
 	B. Anaplastic thyroid carcinoma
 	C. Papillary thyroid carcinoma
 	D. Medullary thyroid carcinoma
-	E. Thyroid lymphoma - F
+	E. Thyroid lymphoma
 
 #### Answer: A. Follicular thyroid carcinoma - *FALSE* = C. Papillary thyroid carcinoma - TRUE
-- Psammoma bodies are a characteristic histological finding in papillary thyroid carcinoma
+- Psammoma bodies are a characteristic histological finding in *papillary thyroid carcinoma*
  
 ### Q129
 Risk factors for _malignant melanoma_ do NOT include:
@@ -2168,22 +2460,22 @@ Risk factors for _malignant melanoma_ do NOT include:
 
 #### Answer: A. Fair skin - *FALSE* = C. Continuous sun exposure - TRUE
 - Fair skin, albinism, xeroderma pigmentosum and family history are all risk factors for malignant melanoma 
-- Intermittent sun exposure is a risk factor
-	- With stronger links between continuous exposure and BCC and SCC
+- *Intermittent sun exposure* is a risk factor
+	- Stronger links between *continuous exposure* and BCC and SCC
  
 ### Q130
 Which of the following is NOT a _benign skin lesion_?
 
 	A. Pott’s peculiar tumour
-	B. Seborrhoeic keratosis - F
-	C. Hamartoma - F
-	D. Merkel cell tumour - F
-	E. Turban tumour - F
+	B. Seborrhoeic keratosis
+	C. Hamartoma
+	D. Merkel cell tumour
+	E. Turban tumour
 
 #### Answer: A. Pott’s peculiar tumour - *FALSE* = D. Merkel cell tumour - TRUE
 - **NOTE** Pott’s peculiar tumour is a trichilemmal cyst
 - Hamartoma is an overgrowth of one or more cell types that are normally present
-- A turban tumour is a type of cylindroma
+- Turban tumour is a type of cylindroma
 - Seborrhoeic keratoses are benign overgrowths of basal layer of epidermis
 
 
@@ -2234,11 +2526,11 @@ Which of the following statements is correct regarding _cells involved in wound 
  
 ### Q134
 Which of the following statements regarding _cell growth_ is NOT true?
-	A. Hypertrophy is an increase in cell size - T
-	B. Hyperplasia is an increase in cell number - T
-	C. Metaplasia is the conversion of one tissue type to another - T
-	D. Teratoma is a growth of cells originating from more than one germ-cell line - T
-	E. Hamartoma is an overgrowth of a cell not normally found in that tissue - F
+	A. Hypertrophy is an increase in cell size 
+	B. Hyperplasia is an increase in cell number
+	C. Metaplasia is the conversion of one tissue type to another
+	D. Teratoma is a growth of cells originating from more than one germ-cell line
+	E. Hamartoma is an overgrowth of a cell not normally found in that tissue
 
 #### Answer: E. Hamartoma is an overgrowth of a cell not normally found in that tissue - TRUE
 - Hypertrophy is an increase in cell size, and hyperplasia is an increase in cell number
@@ -2255,7 +2547,7 @@ The _most common_ type of _lung cancer_ is:
 	E. Adenosquamous carcinoma
 
 #### Answer: B. Small-cell carcinoma - *FALSE* = A. Squamous cell carcinoma - TRUE
-- Squamous cell carcinoma is the most common type, followed by 
+- Squamous cell carcinoma is *most common type*, followed by 
 	- Small-cell, adenocarcinoma, large-cell and adenosquamous
 
 ---
