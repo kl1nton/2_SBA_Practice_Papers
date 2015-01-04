@@ -36,6 +36,8 @@ Structures derived from the _first (mandibular) branchial arch_ include all of t
 
 #### Answer: C. Incus and malleus - *FALSE* = B. Stylohyoid ligament - TRUE
 
+#### Contents of Branchial Arches - LEARN
+
 Arch			| Nerve	| Bone							| Muscles						| Ligaments			|
 ----------------|-------|-------------------------------|-------------------------------|-------------------|
 1st 			| V		| Incus							| Muscles of Mastication		| Sphenomandibular	
@@ -55,7 +57,7 @@ Arch			| Nerve	| Bone							| Muscles						| Ligaments			|
 				|		| Cuneiform cartilage			|								|
  
 ### Q2	
-Regarding _branchial cysts_, which of the following statements is FALSE?
+Regarding _branchial cysts_, which of the following statements is **FALSE**?
 
 	A. They are lined by stratified squamous epithelium
 	B. Diagnosis is by clinical examination and needle aspiration
@@ -64,47 +66,71 @@ Regarding _branchial cysts_, which of the following statements is FALSE?
 	E. A quarter of cysts become infected
 
 #### Answer: D. They are present in 60% of males - *FALSE* = C. They occur at the junction of the lower third and upper two-thirds of sternocleidomastoid - TRUE
-- Branchial cysts are congenital epithelial cysts which arise on the lateral part of the neck from a failure of obliteration of the second branchial cleft in embryonic development
-- Branchial cysts are commonly found in young adults, 60% on the left and 60% in males
+- Branchial cysts are *congenital epithelial cysts* 
+	- which arise on lateral part of the neck 
+	- from a failure of obliteration of second branchial cleft in embryonic development
+- Branchial cysts are commonly found in young adults
+	- 60% on *left* and 60% in *males*
 	- They are lined by stratified squamous epithelium
-- Most arise deep to the anterior border of sternocleidomastoid 
-	- At the junction of the upper third and the lower two-thirds of this muscle
+- Most arise *deep to anterior border of sternocleidomastoid *
+	- **NOTE** At junction of upper third and lower two-thirds of SCM
 - Diagnosis is made by clinical assessment and needle aspiration
-- Depending on the size and the anatomical extension of the mass
-	- Local symptoms include: dysphagia, dysphonia, dyspnoea and stridor
+	- Depending on size and anatomical extension of mass
+- Local symptoms - "DDDS"
+	- dysphagia
+	- dysphonia
+	- dyspnoea
+	- stridor
 - Needle aspiration may reveal cholesterol crystals
-- Approximately 25% of all cysts become infected
+- **NOTE** 25% of all cysts become infected
  
 ### Q3 - LEARN
 Which one of the following statements regarding the development of the _parathyroid glands_ is TRUE?
 
-	A. The superior parathyroids develop from the third pharyngeal pouch - F
-	B. The inferior parathyroids develop from the fourth pharyngeal pouch - F
-	C. Development of the superior parathyroids occurs in company with the thymus gland - F
-	D. Development of the inferior parathyroids occurs in company with the parafollicular C cells - F
+	A. The superior parathyroids develop from the third pharyngeal pouch 
+	B. The inferior parathyroids develop from the fourth pharyngeal pouch
+	C. Development of the superior parathyroids occurs in company with the thymus gland
+	D. Development of the inferior parathyroids occurs in company with the parafollicular C cells
 	E. The inferior parathyroids can be found in the superior mediastinum in association with the thymus gland
 
 #### Answer: E. The inferior parathyroids can be found in the superior mediastinum in association with the thymus gland - TRUE
 - Embryology questions are common and simple derivatives of the arches and pouches should be known
 
-#### Arches & Pouches
+#### Arches & Pouches - LEARN
 - First arch (Meckel’s cartilage)
-	- gives rise to malleus, incus, sphenomandibular ligament and the muscles of mastication
-	- supplied by the mandibular division of the trigeminal nerve (CN Vc)
+	- gives rise to 
+		- malleus
+		- incus
+		- sphenomandibular ligament
+		- *muscles of mastication*
+	- supplied by 
+		- *mandibular division* of trigeminal nerve (CN Vc)
 - First pouch
-	- gives rise to the Eustachian tube
+	- gives rise to Eustachian tube
 - Second arch (Reichert’s cartilage)
-	- gives rise to stapes, styloid process, lesser cornu and superior part of the hyoid bone, stylohyoid ligament and the muscles of facial expression
-	- supplied by the facial nerve (VII)
+	- gives rise to 
+		- stapes
+		- styloid process
+		- lesser cornu and superior part of hyoid bone
+		- stylohyoid ligament
+		- muscles of *facial expression*
+	- supplied by 
+		- *facial nerve* (CN VII)
 - Second pouch
-	- contains the palatine tonsils
+	- contains palatine tonsils
 - Third arch
-	- gives rise to the lower part and the greater cornu of the hyoid bone and stylopharyngeus
-	- supplied by the glossopharyngeal nerve (IX)
+	- gives rise to 
+		- lower part and greater cornu of hyoid bone
+		- stylopharyngeus
+	- supplied by 
+		- *glossopharyngeal nerve* (IX)
 - Third pouch
-	- gives rise to the inferior parathyroids (superior part) and thymus (inferior part)
-	- inferior parathyroids might be dragged beyond thyroid gland into upper mediastinum 
-		- to lie alongside the thymus gland
+	- gives rise to
+		- *inferior parathyroids* (superior part)
+		- *thymus* (inferior part)
+	- inferior parathyroids
+		- *might be* dragged beyond thyroid gland into upper mediastinum 
+			- lie alongside thymus gland
 - Fourth and sixth arches
 	- both give rise to thyroid cartilages and the muscles of the larynx
 	- supplied by the vagus nerve (X)
@@ -123,22 +149,39 @@ A 55-year-old man presents to you with _back pain and paraesthesia_ along the _m
 	E. S2
 
 #### Answer: C. L5 - *FALSE* = B. L4 - TRUE
-- L4 dermatome supplies the sensation of the medial leg from the knee down to the medial aspect of the big toe
-- L3 primarily supplies the superior knee and medial thigh region
-- L5 supplies the lateral leg
-- S1 the lateral foot and heel
+- L4 dermatome supplies the sensation of  
+	- medial leg from knee down to medial aspect of big toe
+- L3 = superior knee and medial thigh region
+- L5 = lateral leg + big toe
+- S1 = lateral foot and heel
  
 ### Q5	
 All of the following are complications of _transurethral resection of prostate_ (TURP), EXCEPT:
 
-	A. Urethral stricture - T
-	B. Retrograde ejaculation - T
-	C. HyPERnatraemia - F
-	D. Incontinence - T
+	A. Urethral stricture
+	B. Retrograde ejaculation
+	C. HyPERnatraemia
+	D. Incontinence
 	E. Increased risk of myocardial infarction
 
 #### Answer: E. Increased risk of myocardial infarction - *FALSE* = C. HyPERnatraemia - TRUE
-- TURP is performed by passing a resectoscope through the urethra into the bladder and using a wire loop to pass electrical current to resect the prostate gland. It is a relatively safe procedure (mortality <0.25%) but is associated with certain complications. These include urinary incontinence (2–4%), erectile dysfunction (5%), urethral stricture (5%), retrograde ejaculation (65%) and increase risk of MI. In addition there is the risk of developing TUR syndrome, which is due to the absorption of irrigation fluid into the body. This presents with hypotension, bradycardia, nausea and vomiting and collapse. Blood tests show hyponatraemia.
+- TURP is performed by passing a resectoscope through urethra into bladder
+	- using a wire loop to pass electrical current to resect prostate 
+- It is a relatively safe procedure (mortality <0.25%) 
+	- but is associated with certain complications including 
+		- urinary incontinence (2–4%)
+		- erectile dysfunction (5%)
+		- urethral stricture (5%)
+		- retrograde ejaculation (65%)
+		- &uarr; risk of MI 
+- In addition there is risk of developing TUR syndrome
+	- due to the *absorption of irrigation fluid*
+- This presents with 
+	- hypotension
+	- bradycardia
+	- nausea and vomiting
+	- collapse
+- Blood tests show hyPOnatraemia
  
 ### Q6	
 Which of the following _muscles of mastication_ inserts into the _neck of the mandible_ and _anterior surface of the disc_ of the temporomandibular joint?
@@ -156,26 +199,39 @@ Which of the following _muscles of mastication_ inserts into the _neck of the ma
 
 - The temporalis muscle arises from the temporal fossa and inserts into the coronoid process of the mandible. The masseter arises from the anterior two-thirds of the lower border of the zygomatic arch as well as the posterior third of the lower border and the whole of the deep surface of the arch. It then inserts into the outer surface of the ramus of the mandible from the mandibular notch above, down to the angle of the mandible. Both temporalis and masseter are palpable on the facial examination as superficial muscles.
  
-### Q7 - LEARN
+### Q7
 Which one of these _muscle and nerve pairings_ is correct?
 
 	A. Stylopharyngeus – glossopharyngeal nerve
-	B. Tensor veli palatini – pharyngeal plexus - F
-	C. Buccinator – cranial nerve Vc - F
-	D. Palatoglossus – hypoglossal nerve - F
-	E. Cricothyroid – recurrent laryngeal nerve - F
+	B. Tensor veli palatini – pharyngeal plexus
+	C. Buccinator – cranial nerve Vc
+	D. Palatoglossus – hypoglossal nerve
+	E. Cricothyroid – recurrent laryngeal nerve
 
 #### Answer: C. Buccinator – cranial nerve Vc - *FALSE* = A. Stylopharyngeus – glossopharyngeal nerve - TRUE
-- There are a few simple rules for muscle innervation. All pharyngeal and palatal muscles are supplied by the pharyngeal plexus (IX, X and sympathetics), except stylopharyngeus, which is supplied by the glossopharyngeal nerve (IX) and tensor veli palatini, which is supplied by the nerve to the medial pterygoid (Vc). All tongue muscles are supplied by the hypoglossal nerve (XII), except palatoglossus, which is supplied by the pharyngeal plexus. Muscles of facial expression are supplied by the facial nerve (VII), except levator palpabrae superioris, which is supplied by the oculomotor nerve (III). Muscles of mastication are supplied by the mandibular division of the trigeminal nerve (Vc), except buccinator, which is supplied by the facial nerve. Laryngeal muscles are supplied by the recurrent laryngeal nerve (X), except cricothyroid, which is supplied by the superior laryngeal nerve (X).
+- There are a few simple rules for muscle innervation. 
+
+#### Muscle and Nerve Pairings - LEARN
+- Pharyngeal/Palatal Muscles supplied by Pharyngeal Plexus (IX, X, sympathetics) EXCEPT
+	- Stylopharyngeus = Glossopharyngeal Nerve (CN IX)
+	- Tensor Veli Palatini = Nerve to Medial Pterygoid (CN Vc) 
+- Tongue Muscles are supplied by Hypoglossal nerve (CN XII), EXCEPT 
+	- Palatoglossus = Pharyngeal Plexus
+- Muscles of Facial Expression supplied by Facial Nerve (CN VII), EXCEPT 
+	- Levator Palpabrae Superioris = Oculomotor Nerve (CN III)  
+- Muscles of Mastication supplied by Mandibular Division of Trigeminal (CN Vc) EXCEPT 
+	- Buccinator = Facial Nerve (CN VIII)
+- Laryngeal Muscles supplied Recurrent Laryngeal Nerve (CN X) EXCEPT 
+	- Cricothyroid - Superior Laryngeal Nerve (CN X)
  
 ### Q8	
 Concerning _parasympathetic nerve supply_, which one of the following pairings is correct?
 
 	A. Otic ganglion – submandibular gland
 	B. Pterygopalatine ganglion – lacrimal gland
-	C. Pterygopalatine ganglion – parotid gland - F
-	D. Auriculotemporal nerve – submandibular gland - F
-	E. Facial nerve – otic ganglion - F
+	C. Pterygopalatine ganglion – parotid gland
+	D. Auriculotemporal nerve – submandibular gland
+	E. Facial nerve – otic ganglion
 
 #### Answer: B. Pterygopalatine ganglion – lacrimal gland - TRUE
 - Parasympathetic supply arises from cranial nerves III, VII, IX and X. Oculomotor fibres (CN III, Edinger–Westphal nucleus) pass to the ciliary ganglion before supplying pupillary constriction and accommodation. Facial fibres (CN VII, superior salivary nucleus), via the nervus intermedius and greater petrosal nerve, pass to the pterygopalatine and submandibular ganglion, supplying the lacrimal, submandibular, sublingual and palatine glands. Glossopharyngeal fibres (CN IX, inferior salivary nucleus) run via the lesser petrosal to the otic ganglion and then in the auriculotemporal nerve to the parotid gland. Vagus fibres (CN X, dorsal motor nucleus of vagus) pass to the thorax and abdomen.
@@ -184,20 +240,20 @@ Concerning _parasympathetic nerve supply_, which one of the following pairings i
 A patient arrives in the Emergency Department with the following arterial blood gas results: PaO2 8.0 kPa; PaCO2 2.0 kPa; pH 7.54; bicarbonate 18 mmol/l. The most likely cause is:
 
 	A. Excessive vomiting
-	B. Pulmonary embolus (PE) - F
-	C. Diabetic ketoacidosis (DKA) - F
-	D. Cerebrovascular Accident (CVA) - ?
-	E. Chest wall trauma - F
+	B. Pulmonary embolus (PE)
+	C. Diabetic ketoacidosis (DKA)
+	D. Cerebrovascular Accident (CVA)
+	E. Chest wall trauma
 
 #### Answer: A. Excessive vomiting - *FALSE* = B. Pulmonary embolus (PE)
 - The example shows a patient with low PaO2, low PaCO2, high pH and low bicarbonate. When PaCO2 is low, it shifts the following equilibrium to the left
 	- CO2 + H2O <> H2CO3 < > H+ + HCO3–
-therefore reducing the concentration of H+ and causing a respiratory alkalosis
+therefore reducing the concentration of H+ and causing a *respiratory alkalosis*
 - From the given examples, PE is the most likely cause
-	- this results in hyperventilation, which ‘blows off’ and therefore reduces blood levels of CO2 
+	- Hyperventilation = ‘blows off’ CO2 = reduces blood levels of CO2 
 	- but at the same time **fails to achieve satisfactory oxygenation**
  
-### Q10 - LEARN	
+### Q10
 The operation of choice for treatment of a _strangulated femoral hernia_, which is likely to contain _infarcted small bowel_ is:
 
 	A. McEvedy’s abdominal approach
@@ -207,7 +263,7 @@ The operation of choice for treatment of a _strangulated femoral hernia_, which 
 	E. Lower midline laparotomy
 
 #### Answer: A. McEvedy’s abdominal approach - TRUE
-- The abdominal approach is best reserved where bowel resection is contemplated
+- **NOTE** *Abdominal approach* is best reserved where bowel resection is contemplated
 - An inguinal or high approach is used to repair co-existing inguinal hernias or where the diagnosis is in doubt
 - For small uncomplicated femoral hernias in the elective setting, the low or crural approach is preferable
 
@@ -217,21 +273,35 @@ Questions 11-20
 
 ??% = F: 11, 13, 14, 17, 18, 20
 
-### Q11 - LEARN
+### Q11
 A 21-year-old medical student presents to the Emergency Department with conjunctivitis. You prescribe him eye drops, but he mentions that he dislikes taking them as he gets a bitter taste at the back of his throat. You explain that the lacrimal drainage is connected to the nasopharynx, hence the bitter taste. He wishes to know exactly where the drainage occurs. 
 
 Within the lateral wall of the nasal cavity the _nasolacrimal duct_ opens at the:
 
-	A. Superior meatus - F
-	B. Middle meatus - F
+	A. Superior meatus
+	B. Middle meatus
 	C. Inferior meatus
 	D. Spheno-ethmoidal recess 
-	E. Nasopharynx - F
+	E. Nasopharynx
 
 #### Answer: D. Spheno-ethmoidal recess - *FALSE* = C. Inferior meatus - TRUE
-- The nasolacrimal duct enters the nasal cavity under the anterior lip of the inferior concha in the inferior meatus and connects the conjunctival sac to the nasal cavity for drainage of tears. The frontal sinus, anterior and middle ethmoidal sinuses and the maxillary sinus open into the middle meatus under the middle concha at the hiatus semilunaris. The posterior ethmoidal sinus opens into the superior meatus and the sphenoidal sinus onto the sphenoethmoidal recess. The opening of the pharyngotympanic tube, which is bounded by salpingopharyngeus, opens into the nasopharynx posterior to all the nasal turbinates.
+
+#### Sinuses of Head and Neck - LEARN
+- Nasolacrimal duct enters nasal cavity 
+	- under anterior lip of inferior concha in *inferior meatus*
+	- connecting conjunctival sac to nasal cavity for drainage of tears
+- Opening *middle meatus* under middle concha at hiatus semilunaris
+	- Frontal sinus
+	- Anterior and middle *Ethmoidal Sinuses*
+	- Maxillary Sinus 
+- Posterior Ethmoidal Sinus 
+	- Opens into *superior meatus*
+- Sphenoidal Sinus 
+	- Opens onto *sphenoethmoidal recess*
+- Pharyngotympanic tube (bounded by salpingopharyngeus) 
+	- opens into nasopharynx posterior to all nasal turbinates
  
-### Q12	- LEARN
+### Q12
 An 18-year-old _motorcycle accident victim_ is noted to have a fluctuating Glasgow Coma Scale (GCS) score and a dilated right pupil in the Emergency Department. You suspect an extradural haemorrhage and this is confirmed on computed tomography. Which one of the following _branches of the maxillary artery_ is classically injured in an _extradural haemorrhage_?
 
 	A. Deep auricular
@@ -243,9 +313,9 @@ An 18-year-old _motorcycle accident victim_ is noted to have a fluctuating Glasg
 #### Answer: C. Middle meningeal - TRUE
 - The middle meningeal artery is classically injured in extradural haemorrhage. Such injuries usually result from a fracture of the squamous part of the temporal bone and require burr holes to drain the blood. Other types of haemorrhage include subdural and subarachnoid haemorrhages.
  
-- Subdural haematomas usually result from torn bridging veins or venous sinuses and are most commonly found in the elderly as a result of age-related cerebral atrophy and subsequent vulnerability of the bridging veins. Treatment involves drainage of the blood through burr holes, similar to the treatment of extradural haemorrhage.
+- Subdural haematomas usually result from *torn bridging veins* or *venous sinuses* and are most commonly found in the elderly as a result of age-related cerebral atrophy and subsequent vulnerability of the bridging veins. Treatment involves drainage of the blood through burr holes, similar to the treatment of extradural haemorrhage.
  
-- Subarachnoid haemorrhage can result from trauma or can occur spontaneously from a ruptured berry aneurysm, resulting in blood within the ventricular system. Treatment includes coiling or clipping of aneurysms in addition to rest, supportive fluids, nimodipine therapy and analgesia. Occasionally, an external ventricular drain might be required to drain blood from within the ventricular system and prevent hydrocephalus.
+- Subarachnoid haemorrhage can result from trauma or can occur spontaneously from a *ruptured berry aneurysm*, resulting in blood within the ventricular system. Treatment includes coiling or clipping of aneurysms in addition to rest, supportive fluids, nimodipine therapy and analgesia. Occasionally, an external ventricular drain might be required to drain blood from within the ventricular system and prevent hydrocephalus.
  
 ### Q13	
 A patient of yours requires _central venous access_ via the _internal jugular vein_ (IJV). The internal jugular vein is formed by the union of the _sigmoid sinus_ with which one of the following sinuses?
@@ -257,50 +327,55 @@ A patient of yours requires _central venous access_ via the _internal jugular ve
 	E. Occipital sinus
 
 #### Answer: C. Cavernous sinus - *FALSE* = B. Inferior petrosal sinus - TRUE
+- Internal Jugular Vein (IJV)
+	- formed by union of *inferior petrosal sinus* and *sigmoid sinus*
+	- emerges from *jugular foramen*
+	- runs down caudally *within carotid sheath*
+
+#### Notes
 - The straight sinus usually runs into the left transverse sinus, which can also drain into the occipital and superior petrosal sinuses. The cavernous sinus receives drainage from the ophthalmic veins, sphenoparietal sinus, superficial middle cerebral vein and the basilar plexus. Subsequent drainage of the cavernous sinus is into the inferior petrosal sinus, although a large connection still exists to the superior petrosal sinus, running along the superior edge of the petrous temporal bone.
 - The superior sagittal sinus runs in the upper border of the falx cerebri and runs posteriorly to the internal occipital protuberance, where it usually deviates to the right to become continuous with the corresponding transverse sinus. The inferior sagittal sinus lies in the free lower margin of the falx cerebri. It joins the great cerebral vein to become the straight sinus, which usually becomes continuous with the left transverse sinus. The sigmoid sinus is continuous with the transverse sinus.
  
 - The petrosal sinuses drain the cavernous sinus. The superior petrosal sinus drains to the transverse sinus and the inferior petrosal sinus to the internal jugular vein.
-- The internal jugular vein is formed by the union of the inferior petrosal sinus and the sigmoid sinus on each side of the skull base, to emerge from the jugular foramen and run down caudally within the carotid sheath.
  
 ### Q14	
-All of the following statements about _5-fluorouracil_ (5-FU) are correct, EXCEPT:
+All of the following statements about _5-fluorouracil_ (5-FU) are correct, **EXCEPT**:
 
-	A. It is indicated in the adjuvant treatment of rectal cancers - T
-	B. It interferes with DNA synthesis by reducing the availability of thymidylic acid - T
-	C. It is used in the treatment of solid cancers - T
-	D. It is an alkylating agent - FALSE
-	E. It inhibits pyrimidine rather than purine synthesis - T
+	A. It is indicated in the adjuvant treatment of rectal cancers
+	B. It interferes with DNA synthesis by reducing the availability of thymidylic acid
+	C. It is used in the treatment of solid cancers
+	D. It is an alkylating agent
+	E. It inhibits pyrimidine rather than purine synthesis
 
 #### Answer: B. It interferes with DNA synthesis by reducing the availability of thymidylic acid - *FALSE* = D. It is an alkylating agent - TRUE
-- 5-FU is commonly used in the treatment of colorectal cancers
-- It belongs to the group of antimetabolites and 
+- 5-FU is commonly used in treatment of colorectal (and solid) cancers
+	- belongs to group of antimetabolites
 	- inhibits DNA synthesis accordingly by interfering with pyrimidine synthesis
  
 ### Q15	
 Which statement is true regarding the _bladder_?
 
 	A. Sympathetic fibres cause relaxation of the detrusor muscle and contraction of the internal sphincter 
-	B. In the male, the external sphincter lies above the prostate - F
-	C. It receives its blood supply from branches of the external iliac arteries - F
-	D. It is entirely covered by peritoneum - F
+	B. In the male, the external sphincter lies above the prostate
+	C. It receives its blood supply from branches of the external iliac arteries
+	D. It is entirely covered by peritoneum
 	E. The trigone is situated at the apex of the bladder
 
 #### Answer: A. Sympathetic fibres cause relaxation of the detrusor muscle and contraction of the internal sphincter - TRUE
 - The bladder is covered only on its upper aspect by peritoneum. Its muscular wall is formed by the detrusor muscle and it is lined by transitional epithelium. The triangular-shaped area at the bladder base, which lies between the two ureteric orifices, is the trigone. The detrusor muscle is supplied by parasympathetic fibres, which cause contraction, and sympathetic fibres, which cause relaxation. It has an internal sphincter formed by smooth muscle and an external sphincter, which lies below the prostate in the male. The blood supply comes from the superior and inferior vesical arteries, which are branches of the internal iliac artery.
  
-### Q16	- LEARN
+### Q16
 Which one of the following structures passes through the _foramen rotundum_ in the base of the skull?
 
 	A. Mandibular division of the trigeminal (CN Vc)
 	B. Maxillary division of the trigeminal (CN Vb)
-	C. Lesser petrosal nerve - F
-	D. Middle meningeal artery - F
+	C. Lesser petrosal nerve
+	D. Middle meningeal artery
 	E. Facial nerve
 
 #### Answer: B. Maxillary division of the trigeminal (CN Vb) - TRUE
  
-### Q17	- LEARN
+### Q17
 Structures entering through the _jugular foramen_ in the base of the skull include all of the following, EXCEPT:
 
 	A. Glossopharyngeal nerve (CN IX)
@@ -311,17 +386,21 @@ Structures entering through the _jugular foramen_ in the base of the skull inclu
 
 #### Answer: B. Vagus nerve (CN X) - *FALSE* = E. Superior petrosal sinus - TRUE
 
+#### Foramen of Skull - LEARN
+
 Foramen			| Structures														|
 ----------------|-------------------------------------------------------------------|
+Rotundum		| Maxillary division of trigeminal nerve (Vb)
 Ovale			| Mandibular division of trigeminal nerve (Vc)
 				| Lesser petrosal nerve
 				| Accessory meningeal arteries
 Spinosum		| Middle meningeal vessels
 				| Meningeal branch of Mandibular nerve
-Rotundum		| Maxillary division of trigeminal nerve (Vb)
 Stylomastoid	| Facial nerve (VII)
 Jugular			| Internal jugular vein from sigmoid and inferior petrosal sinuses
-				| Cranial nerves IX, X and XI
+				| Glossopharyngeal Nerve (CN IX)
+				| Vagus Nerve (CN X)
+				| Spinal Accessory Nerve (CN XI)
 
 **Notes**
 - The sigmoid and inferior petrosal sinuses enter the jugular foramen to combine and form the internal jugular vein, which exits the foramen and runs caudally within the carotid sheath
@@ -337,7 +416,8 @@ Which of the following anti-cancer drugs would be classified as an _alkylating a
 	E. Cisplatin
 
 #### Answer: D. Vincristine - *FALSE* = E. Cisplatin - TRUE
-- Cisplatin, along with busulfan, chlorambucil, chlormethine and cyclophosphamide are some of the drugs classed as alkylating agents
+- Cisplatin, along with busulfan, chlorambucil, chlormethine and cyclophosphamide 
+	- are some of the drugs classed as *alkylating agents*
 - Doxorubicin is an antibiotic
 - Vincristine is a vinca alkaloid
 - Methotrexate is an antimetabolite
@@ -352,8 +432,11 @@ An obese 45-year-old waitress is referred to you by her GP with a diagnosis of _
 	D. Medial thigh
 	E. Groin area
 #### Answer: A. Lateral thigh region - TRUE (Greek: 'meros' = thigh; 'algos' = pain)
-- Meralgia paraesthetica refers to compression of the lateral femoral cutaneous nerve as it passes through or just under the inguinal ligament, just medial to the anterior superior iliac spine
-- Compression of the nerve results in symptoms in the anteromedial thigh region
+- Meralgia paraesthetica refers to 
+	- compression of lateral femoral cutaneous nerve 
+	- as it passes through or just under inguinal ligament
+		- just medial to anterior superior iliac spine (ASIS)
+- Compression of nerve results in symptoms in *antero-lateral* thigh region
  
 ### Q20	
 Cricoid pressure is often applied to assist anaesthetists during the intubation process. Anatomically, the cricoid cartilage can also be used to identify other vessels and landmarks in the neck. The _surface marking of the cricoid cartilage_ in a normal male adult is represented by which of the following vertebral levels?
@@ -365,9 +448,11 @@ Cricoid pressure is often applied to assist anaesthetists during the intubation 
 	E. C7
 
 #### Answer: B. C4 - *FALSE* = D. C6 - TRUE
-- The cricoid cartilage is the most inferior of the laryngeal cartilages and lies at the level of the sixth cervical vertebral body
-- It is also here that the recurrent laryngeal nerve enters the larynx
-- The carotid artery pulse can also be felt here as it is compressed by the transverse processes of C6 vertebrae
+- Cricoid cartilage is most inferior of laryngeal cartilages
+	- Lying at level of sixth cervical vertebral body
+	- It is also here that recurrent laryngeal nerve enters larynx
+- Carotid artery pulse can also be felt here 
+	- As it is compressed by transverse processes of C6 vertebrae
 
 
 Questions 21-30
@@ -375,16 +460,18 @@ Questions 21-30
 
 40% = F: 21, 24, 25, 26, 28, 30
 
-### Q21 - LEARN
+### Q21
 A patient has a tuning fork test with central vertex placement localising to the left ear; left ear bone conduction is better than air conduction on left mastoid tuning fork placement. The right ear demonstrates better air than bone conduction. Which one of the following statements is TRUE?
 
-	A. Weber’s test is positive in the left ear - F
+	A. Weber’s test is positive in the left ear
 	B. There is sensorineural hearing loss in the left ear
-	C. Rinne’s test involves central tuning fork placement on the vertex of the skull - F
-	D. There is a conductive loss of greater than 20 dB in the left ear - F
-	E. Masking can be achieved with a Baroness sound box - ?
+	C. Rinne’s test involves central tuning fork placement on the vertex of the skull
+	D. There is a conductive loss of greater than 20 dB in the left ear
+	E. Masking can be achieved with a Baroness sound box
 
 #### Answer: B. There is sensorineural hearing loss in the left ear - *FALSE* = D. There is a conductive loss of greater than 20 dB in the left ear - TRUE
+
+#### Hearing: Rinne and Weber Tests - LEARN
 - Weber’s test involves localising sound to one or other ear (signifies a 10-dB difference between the ears) or to the midline and involves central tuning fork placement, commonly on the vertex of the skull. Rinne’s test is conducted by comparing air conduction with bone conduction on the mastoid bone, signifying a conduction loss of greater than 20 dB. A positive Rinne’s test is one in which air conduction is better than bony conduction, signifying either a normal ear or sensorineural loss on that side. This patient has a Weber localising to the left, with a left negative and a right positive Rinne’s test. This is consistent with a conductive loss on the left. Masking can be achieved with a Barany sound box (not Baroness).
  
 ### Q22	
@@ -415,7 +502,7 @@ The classic visual field defect caused by a _pituitary adenoma_ will be a:
 	- causes compression of the medial aspects of the optic chiasm
 - The resultant visual field defect is bitemporal hemianopia
  
-### Q24 - LEARN
+### Q24
 Which of the following veins accompanies the _marginal branch of the right coronary artery_?
 
 	A. Great cardiac vein
@@ -425,26 +512,32 @@ Which of the following veins accompanies the _marginal branch of the right coron
 	E. Oblique cardiac vein
 
 #### Answer: D. Anterior cardiac vein - *FALSE* = C. Small cardiac vein - TRUE
-- The small cardiac vein accompanies the marginal artery along the inferior aspect of the heart and drains into the coronary sinus near its termination
-- The great cardiac vein accompanies the left anterior descending artery and the middle cardiac vein with the posterior interventricular artery
+- Small Cardiac Vein accompanies Marginal Branch of Right Coronary Artery 
+	- along inferior aspect of heart
+	- drains into coronary sinus near its termination
+- Great Cardiac Vein accompanies Left Anterior Descending Artery
+- Middle Cardiac Vein with Posterior Interventricular Artery
  
 ### Q25	
 A 17-year-old boy presents to the ENT Clinic for follow-up of his nasal fracture treatment. Incidentally, he mentions that he has had long-standing nasal stuffiness. A nasal speculum examination reveals bilateral polyps. Regarding _nasal polyps_, which one of the following statements is TRUE?
 
-	A. Co-existent asthma is rare - F
-	B. Polyps in childhood can indicate cystic fibrosis - T
-	C. Epistaxis is unlikely to be associated with neoplasia - F
-	D. Polyps are commonly treated with long courses of high-dose steroids - F
-	E. Surgery is not indicated - F
+	A. Co-existent asthma is rare
+	B. Polyps in childhood can indicate cystic fibrosis
+	C. Epistaxis is unlikely to be associated with neoplasia
+	D. Polyps are commonly treated with long courses of high-dose steroids
+	E. Surgery is not indicated
 
 #### Answer: C. Epistaxis is unlikely to be associated with neoplasia - *FALSE* = B. Polyps in childhood can indicate cystic fibrosis - TRUE
 - Inflammatory nasal conditions can lead to swelling of the nasal mucosa and formation of nasal polyps
 - Co-existent asthma is common
-- Epistaxis and contact bleeding suggest the possibility of neoplasia
-- Polyps are initially treated medically with intranasal steroids, antihistamines or even short courses of high-dose steroids
+- Epistaxis and contact bleeding suggest possibility of neoplasia
+- Polyps are initially treated medically
+	- intranasal steroids
+	- antihistamines
+	- even short courses of high-dose steroids
 - Surgery can provide symptomatic improvement in cases of stubborn disease
 
-**NOTE** Childhood nasal polyps are rare and are associated with cystic fibrosis
+**NOTE** Childhood nasal polyps are rare = associated with cystic fibrosis
  
 ### Q26	
 A 5-year-old boy presents with a 2-hour history of _sudden-onset distress_ while playing with Lego at nursery. He has very _noisy inspiratory breathing_ from the neck, with raised respiratory and heart rates. The most likely site of obstruction would be at the level of the:
@@ -456,11 +549,13 @@ A 5-year-old boy presents with a 2-hour history of _sudden-onset distress_ while
 	E. Main bronchi
 
 #### Answer: E. Main bronchi - *FALSE* = C. Larynx - TRUE
-- This child has inspiratory stridor, most likely from a foreign object stuck at the level of the larynx 
-	- **NOTE** Inspiratory stridor characterises a laryngeal lesion
-- Tracheal lesions cause **expiratory stridor**, although high lesions can cause biphasic stridor
+- Inspiratory stridor
+	- most likely from a foreign object stuck at level of larynx 
+	- **NOTE** Inspiratory stridor = *laryngeal lesion*
+- Tracheal lesions cause **expiratory stridor**
+	- although high lesions can cause biphasic stridor
 - Wheezing is caused by chest pathology
-- Stertor is noisy breathing originating from the mouth and back of the nose
+- Stertor is noisy breathing originating from mouth and back of the nose
  
 ### Q27	
 Which of the following features is NOT associated with a full-thickness burn?
@@ -483,14 +578,14 @@ A 52-year-old businessman is admitted to the Emergency Department with acute-ons
 
 	A. Phrenic nerve
 	B. Vagus nerve
-	C. Somatic nerves to the arm - F
-	D. Intercostal nerves - F
+	C. Somatic nerves to the arm
+	D. Intercostal nerves
 	E. Splanchnic nerves
 
 #### Answer: B. Vagus nerve - *FALSE* = E. Splanchnic nerves - TRUE
-- Pain arising from the heart travels within visceral afferent nerve fibres
-	- which can run within the upper thoracic splanchnic nerves to reach the sympathetic chain, or
-	- within the middle and inferior cardiac cervical nerves to reach the sympathetic chain 
+- Pain arising from the heart travels within *visceral* afferent nerve fibres
+	- run within *upper thoracic splanchnic nerves* to reach sympathetic chain, or
+	- within middle and inferior cardiac cervical nerves to reach sympathetic chain 
 		- and then further onto T1–T2 levels
  
 ### Q29	
@@ -518,7 +613,7 @@ With regard to the synthesis and uptake of _thyroid hormones_, which one of the 
 	B. Iodine is reduced to iodide and absorbed in the thyroid gland
 	C. The follicular cells take up iodide by simple diffusion
 	D. Thyroid-stimulating hormone (TSH) stimulates iodide trapping at all iodide-trapping sites within the body - F
-	E. Thiouracils inhibit T4 production - F
+	E. Thiouracils inhibit T4 production
 #### Answer: B. Iodine is reduced to iodide and absorbed in the thyroid gland - *FALSE* = E. Thiouracils inhibit T4 production - TRUE
 
 
@@ -545,7 +640,7 @@ Regarding TSH:
  
 - TSH is secreted in a pulsatile fashion with a diurnal variation, peaking around midnight. Cold weather will lead to an increase in the plasma concentrations of thyroid hormones, with a subsequent rise in basal metabolic rate. Glucocorticoids inhibit thyroid hormone secretions by reducing the TSH secretory response to TRH; oestrogens have the opposite effect.
 
-### Q32	- LEARN: CHECK
+### Q32
 A _Richter’s hernia_ refers to a hernia that:
 
 	A. Contains two loops of small bowel within it - (Maydl's hernia)
@@ -559,8 +654,8 @@ A _Richter’s hernia_ refers to a hernia that:
 	- So does not classically cause an obstruction
 - Amyand’s hernia contains a perforated appendix within an inguinal hernia
 - A hernia through the linea semilunaris is called a Spigelian hernia
-- Maydl’s hernia contains loops of small bowel, often forming a W-shaped configuration.
-
+- Maydl’s hernia contains loops of small bowel
+	- often forming a W-shaped configuration
  
 ### Q33	
 Innervation to the _muscles of the back_ originate from:
@@ -572,11 +667,12 @@ Innervation to the _muscles of the back_ originate from:
 	E. Lateral perforating branches of the ventral primary rami
 
 #### Answer: E. Lateral perforating branches of the ventral primary rami - *FALSE* = A. Dorsal primary rami - TRUE
-- The dorsal primary rami supply the deep muscles of the back such as erector spinae
+- *Dorsal primary rami* supply the deep muscles of the back such as erector spinae
 - Rami communicantes are involved in autonomic communications and are classed as grey (unmyelinated) or white (*myelinated*)
-- Ventral rami supply all other muscles anteriorly and make up the remaining nerve root plexuses
+- *Ventral Rami* supply all other muscles anteriorly
+	- making up the remaining nerve root plexuses
  
-### Q34	- LEARN
+### Q34
 Regarding multiple endocrine neoplasia (MEN) syndromes, which one of the following statements is correct?
 
 	A. Pituitary adenomas are mainly a feature of MEN II - F
@@ -592,15 +688,15 @@ Regarding multiple endocrine neoplasia (MEN) syndromes, which one of the followi
 The _sensory nerve_ supply to the _diaphragmatic pleura_ is derived from the:
 
 	A. Phrenic nerve
-	B. Vagus nerve - F
+	B. Vagus nerve
 	C. Intercostal nerve
-	D. Sympathetic chain - F
-	E. Pectoral nerves - F
+	D. Sympathetic chain
+	E. Pectoral nerves
 
 #### Answer: C. Intercostal nerve - *FALSE* = A. Phrenic nerve - TRUE
 - The phrenic nerve is derived from the roots of C3, C4, and C5 and is the only motor supply to the diaphragm. It is also involved in the sensory supply of the diaphragmatic parietal pleura, the mediastinal parietal pleura, as well as the diaphragmatic peritoneum. The vagus (CN X, parasympathetic) supplies the visceral pleura and is only sensitive to stretch, in contrast to the parietal pleura, which is sensitive to pain. The intercostal nerves supply sensation to the costal pleura. There is no sympathetic nerve supply to the pleura, although within the lungs it is involved in bronchodilation. The pectoral nerves are derived from the brachial plexus and supply the pectoralis muscles.
  
-### Q36 - LEARN	
+### Q36
 The _intervertebral joint_ is an example of a:
 
 	A. Primary cartilaginous joint
@@ -610,7 +706,14 @@ The _intervertebral joint_ is an example of a:
 	E. Synovial plane
 
 #### Answer: B. Secondary cartilaginous joint - TRUE
-- The intervertebral joints are an example of a secondary cartilaginous joint. This variety of joint occurs conveniently along the midline of the axial skeleton. Other examples include the manubriosternal and xiphisternal joints and the symphysis pubis. Structurally, they are similar to primary cartilaginous joints, except they also have a disc of fibrocartilage between the hyaline layers.
+- Intervertebral joints are an example of a *secondary cartilaginous joint*
+- This variety of joint occurs conveniently along the midline of the axial skeleton
+- Other examples include
+	- manubriosternal joint
+	- xiphisternal joint
+	- symphysis pubis 
+- Structurally, they are similar to primary cartilaginous joints
+	- EXCEPT they also have a disc of *fibrocartilage* between hyaline layers
 
 **Notes** 
 - Fibrous joints are formed when two bones meet with fibrous tissue in-between. Examples include the teeth, skull sutures and interosseous membranes between the limb bones.
@@ -630,7 +733,7 @@ E		| +		| +		| +				| +				|
 #### Answer: C: HBsAg +; HBeAg -; Anti-HBsAg +; Anti-HBcAg -; - *FALSE* D: HBsAg +; **HBeAg +**; **Anti-HBsAg -**; Anti-HBcAg -;
 - Hepatitis B is a hepadnavirus, which is a DNA virus. In the acute phase of infection, the virus releases its surface antigen (HBsAg) into the blood. This is also found to be present in persistent/chronic infections. The core antigen (HBcAg) causes production of HBc antibodies, which are the first antibodies to occur in the course of the infection. It is present in the blood in the brief period when HBsAg disappears and before Hbs antibodies appear, and thus it is an important diagnostic indicator of early infection. HBsAb confers immunity to the HBV virus. The ‘e’ antigen (HBeAg) is also found in the core of the virus and its presence in the blood indicates active viral production and infection. The antibody against HBeAG (HBeAb) is found at a much later stage of infection.
 
-### Q38	- LEARN
+### Q38
 Which of the following nerves provides the _afferent limb of the sneezing reflex_?
 
 	A. Ophthalmic division of the trigeminal nerve
@@ -641,25 +744,26 @@ Which of the following nerves provides the _afferent limb of the sneezing reflex
 
 #### Answer: B. Maxillary division of the trigeminal nerve - TRUE
 
-##### Afferent Limbs for Reflexes
+##### Afferent Limbs for Reflexes - LEARN
 - Ophthalmic division of the trigeminal (CN Va) – blink reflex
 - Maxillary division of the trigeminal (CN Vb) – sneeze reflex
 - Mandibular division of the trigeminal (CN Vc) – jaw jerk
 - Glossopharyngeal nerve (CN IX) – gag reflex
 - Vagus nerve (CN X) – cough reflex
  
-### Q39	- LEARN
+### Q39
 All of the following muscles are involved in _abduction of the hip joint_, EXCEPT:
 
-	A. Gluteus medius - T
-	B. Gluteus minimus - T
-	C. Sartorius - T
+	A. Gluteus medius
+	B. Gluteus minimus
+	C. Sartorius
 	D. Quadratus femoris
-	E. Tensor fascia lata - T
+	E. Tensor fascia lata
 
 #### Answer: C. Sartorius - *FALSE* = D. Quadratus femoris - TRUE
-- Quadratus femoris is a lateral rotator of the hip joint as it connects the lateral border of the ischial tuberosity to the quadrate tubercle of the femur
-- All the others listed abduct the hip joint acting together
+- Quadratus femoris is a lateral rotator of the hip joint as it connects
+	- lateral border of the ischial tuberosity to quadrate tubercle of femur
+- All the others listed abduct hip joint acting together
  
 ### Q40	
 Which of the following _hereditary immune disorders_ is NOT correctly paired with the affected component of the immune system?
@@ -683,16 +787,18 @@ Questions 41-50
 A 44-year-old-man presents to you with signs of a _facial infection_ around the area of the _pterygopalatine fossa_ following maxillary surgery. You initially suspect that the infection has tracked from the _pterygoid venous plexus_. All of the following structures are at risk of subsequent _infection tracking down_, EXCEPT:
 
 	A. Orbit
-	B. Oral cavity - T
-	C. Nasal cavity - T
-	D. Maxillary sinus - T
-	E. Middle cranial fossa - T
+	B. Oral cavity
+	C. Nasal cavity 
+	D. Maxillary sinus
+	E. Middle cranial fossa
 
 #### Answer: A. Orbit - *FALSE* = D. Maxillary sinus - TRUE
 - The pterygopalatine fossa communicates with the mouth, nose, eyes and middle cranial fossa through many foramina directly
-- The maxillary sinus communicates via the nose through the middle meatus so any connection to the pterygopalatine fossa is indirect
+- *Maxillary sinus* communicates 
+	- via nose through *middle meatus *
+	- any connection to pterygopalatine fossa is **indirect**
  
-### Q42	- LEARN
+### Q42
 All of the following nerves pass along the _lateral wall of the cavernous sinus_, EXCEPT:
 
 	A. Oculomotor nerve (CN III)
@@ -702,7 +808,10 @@ All of the following nerves pass along the _lateral wall of the cavernous sinus_
 	E. Abducent nerve (CN VI)
 
 #### Answer: E. Abducent nerve (CN VI) - TRUE
-- The abducent nerve runs into the medial wall of the cavernous sinus, running immediately lateral to the internal carotid artery before passing into the orbit through the superior orbital fissure. All the other nerves run in the lateral wall of the cavernous sinus.
+- Abducent nerve runs into *medial wall of cavernous sinus*
+	- running immediately lateral to the internal carotid artery 
+	- before passing into orbit through superior orbital fissure
+- **NOTE** All other nerves run in lateral wall of cavernous sinus
  
 ### Q43	
 A 28-year-old woman gives birth to a healthy baby girl in the delivery suite. During her second stage of labour an _episiotomy_ was necessary to allow delivery of her baby under local anaesthesia. Immediately after this procedure, the woman now complains that she is unable to maintain continence of faeces as she has no _voluntary control of her anal sphincters_. Which nerve in this clinical scenario has been anaesthetised?
@@ -719,14 +828,16 @@ A 28-year-old woman gives birth to a healthy baby girl in the delivery suite. Du
 ### Q44	
 A bleeding ulcer on the _posterior aspect of the first part of the duodenum_ would classically erode through which of the following vessels?
 
-	A. Right gastric artery - F
-	B. Superior pancreaticoduodenal artery - F
-	C. Right gastroepiploic artery - F
+	A. Right gastric artery
+	B. Superior pancreaticoduodenal artery
+	C. Right gastroepiploic artery
 	D. Gastroduodenal artery
-	E. Hepatic artery - F
+	E. Hepatic artery 
 
 #### Answer: E. Hepatic artery - *FALSE* = D. Gastroduodenal artery - TRUE
-- The gastroduodenal artery classically passes behind the first part of the duodenum (D1). Posterior ulcers that perforate through the wall of the duodenum may erode into this artery, resulting in life-threatening haemorrhage.
+- Gastroduodenal artery classically passes behind first part of duodenum (D1) 
+- Posterior ulcers that perforate through the wall of the duodenum 
+	- may erode into this artery, resulting in life-threatening haemorrhage
  
 ### Q45	
 The _lateral umbilical folds_ in the abdominal wall are formed by
@@ -742,18 +853,19 @@ The _lateral umbilical folds_ in the abdominal wall are formed by
 - Medial umbilical folds – obliterated umbilical arteries
 - Median umbilical fold – caudal remnant of ventral mesentery containing urachus
  
-### Q46 - BROKEN
+### Q46
 All of the following statements regarding Swan–Ganz pulmonary artery catheters are true, EXCEPT:
 
-	A. The insertion procedure may be complicated by arrhythmias - T
-	B. Pulmonary arterial pressures readings of 6–12 mmHg are normal - F
+	A. The insertion procedure may be complicated by arrhythmias
+	B. Pulmonary arterial pressures readings of 6–12 mmHg are normal
 	C. Left atrial pressure may be measured reasonably accurately
 	D. It can be used as part of the thermodilution mechanism to measure cardiac output accurately
-	E. It should always be inserted under strict aseptic technique - T
+	E. It should always be inserted under strict septic technique
 
-#### Answer: B. Pulmonary arterial pressures readings of 6–12 mmHg are normal - *FALSE* = E. It should always be inserted under strict aseptic technique - TRUE
-- All CVP lines and Swan–Ganz catheters should be inserted under the strictest of aseptic technique
-	- as infection is the commonest complication of these procedures
+#### Answer: B. Pulmonary arterial pressures readings of 6–12 mmHg are normal - *FALSE* = E. It should always be inserted under strict septic technique - TRUE
+- All CVP lines and Swan–Ganz catheters 
+	- should be inserted under the strictest of aseptic technique
+	- as infection is commonest complication of these procedures
  
 ### Q47	
 _Cerebrospinal fluid_ is connected to the _subarachnoid space_ from the ventricles via the:
@@ -820,11 +932,11 @@ Questions 51-60
 ### Q51
 Damage to peripheral nerves results in specific areas of sensory loss. Which of the following nerve–sensory area pairings is INCORRECT?
 
-	A. Radial nerve – dorsal web space between thumb and index finger - T
-	B. Musculocutaneous nerve – lateral area of forearm - T
-	C. Median nerve – palmar aspect of index finger - T
-	D. Obturator nerve – lateral aspect of thigh - F
-	E. Deep peroneal nerve – dorsal aspect of first web space - T
+	A. Radial nerve – dorsal web space between thumb and index finger
+	B. Musculocutaneous nerve – lateral area of forearm
+	C. Median nerve – palmar aspect of index finger
+	D. Obturator nerve – lateral aspect of thigh
+	E. Deep peroneal nerve – dorsal aspect of first web space
 
 #### Answer: D. Obturator nerve – lateral aspect of thigh - TRUE
 - The obturator nerve supplies the muscles in the medial compartment of the thigh and arises from the lumbar plexus (L1–4 ventral rami). It also supplies sensation to a patch of skin on the medial aspect of the thigh. Irritation of this nerve by pelvic pathology can result in pain in this distribution because the lateral pelvic peritoneum is supplied by the obturator nerve as it passes through the pelvis.
@@ -832,25 +944,25 @@ Damage to peripheral nerves results in specific areas of sensory loss. Which of 
 ### Q52
 All of the following structures would _drain through the thoracic duct_, EXCEPT:
 
-	A. Left arm and thorax - T
+	A. Left arm and thorax
 	B. Left face and neck
-	C. Left side of abdomen - T
+	C. Left side of abdomen
 	D. Right face and neck
-	E. Right side of abdomen - T
+	E. Right side of abdomen 
 
 #### Answer: B. Left face and neck - *FALSE* = D. Right face and neck - TRUE
 - The thoracic duct drains everything below the level of the diaphragm
 	- as well as **all** structures on the left-hand side of the body above Diaphragm
-- **NOTE** It does not drain RIGHT thorax, arm, head (face) and neck 
+- **NOTE** Does not drain RIGHT thorax, arm, head (face) and neck 
  
 ### Q53	
 All of the following can be considered _risk factors for compartment syndrome_ in trauma, EXCEPT:
 
-	A. Severe crush injury to muscles - T
-	B. Ischaemic reperfusion to limb muscles - T
+	A. Severe crush injury to muscles
+	B. Ischaemic reperfusion to limb muscles
 	C. Flexion–distraction spinal injuries
 	D. Presence of limb burns
-	E. Immobilisation of injuries in tight casts and dressings - T
+	E. Immobilisation of injuries in tight casts and dressings 
 
 #### Answer: D. Presence of limb burns - *FALSE* = C. Flexion–distraction spinal injuries - TRUE
 - Flexion–distraction spinal injuries do not involve the limbs unless part of a multi-trauma case
@@ -876,24 +988,24 @@ _Sick euthyroid syndrome_ consists of all of the following signs, EXCEPT:
 ### Q55	
 All of the following principles are used in the _management of chronic renal failure_, EXCEPT:
 
-	A. High-dose loop diuretics in the management of hypertension - T
-	B. Fluid restriction to prevent the development of oedema - T
-	C. Sodium restriction to help limit fluid overload - T
+	A. High-dose loop diuretics in the management of hypertension
+	B. Fluid restriction to prevent the development of oedema
+	C. Sodium restriction to help limit fluid overload
 	D. High-protein diet to prevent muscle atrophy in catabolism
-	E. Calcium chloride to help bind gut phosphate in hyperphosphataemia 
+	E. Calcium chloride to help bind gut phosphate in hyPERphosphataemia 
 
 #### Answer: E. Calcium chloride to help bind gut phosphate in hyperphosphataemia - *FALSE* = D. High-protein diet to prevent muscle atrophy in catabolism - TRUE
 - High-protein diets should be avoided in chronic renal failure as this increases the urea load on the kidney
 - Severe protein restriction is also not advised in haemodialysis, as more protein is lost through filtration
 - A balanced protein intake is required at about 0.5 g/kg/day in chronic renal failure
  
-### Q56	- LEARN
+### Q56
 All of the following signs _might_ be produced by a _Pancoast’s tumour_ at the apex of the right lung, EXCEPT:
 
 	A. Oedema and venous engorgement of the right upper limb
 	B. Hoarseness of the voice
 	C. Ipsilateral paradoxical diaphragmatic movement
-	D. Hyperhidrosis of the right side of the face - ANHYDROSIS
+	D. HyPERhidrosis of the right side of the face
 	E. Enophthalmos and miosis in the right eye
 
 #### Answer: B. Hoarseness of the voice - *FALSE* = D. Hyperhidrosis of the right side of the face - TRUE
@@ -901,9 +1013,9 @@ All of the following signs _might_ be produced by a _Pancoast’s tumour_ at the
 	1. Miosis
 	2. Enophthalmos
 	3. Ptosis 
-	4. **Anhidrosis** of the side of the face
+	4. **Anhidrosis** of side of face
  
-### Q57	- LEARN
+### Q57
 All of the following statements regarding the _chemical control of respiration_ are correct, EXCEPT:
 
 	A. The carotid bodies are sensitive to hypoxaemia
@@ -913,12 +1025,12 @@ All of the following statements regarding the _chemical control of respiration_ 
 	E. The central medullary chemoreceptors are sensitive to changes in H+
 
 #### Answer: E. The central medullary chemoreceptors are sensitive to changes in H+ - *FALSE* = C. The central medullary chemoreceptors are sensitive to hypoxaemia - TRUE
-- Central Medullary Chemoreceptors are sensitive to changes in PCO2 via changes in H+ (pH)
+- Central Medullary Chemoreceptors = sensitive to changes in PCO2 via changes in H+ (pH)
 - Peripheral Chemoreceptors located in carotid and aortic bodies are sensitive to 
-	1. Hypercapnia
-	2. Hypoxaemia
-	3. Acidaemia
-	4. Hyperkalaemia
+	1. HyPERcapnia
+	2. HyPOxaemia
+	3. Acidaemia (via CO2)
+	4. HyPERkalaemia
 - Glomus cell (type I) senses these changes and feedback via Glossopharyngeal (IX) and Vagus (X)
  
 ### Q58	
@@ -955,10 +1067,12 @@ All of the following muscles are supplied by the _posterior interosseous branch 
 	E. Extensor pollicis brevis
 
 #### Answer: C. Extensor digiti minimi - *FALSE* = A. Extensor carpi radialis longus - TRUE
-- Posterior Interosseous Nerve is the terminal motor branch of the radial nerve 
-	- Supplies extensor muscles from Common Extensor Origin distally
-- Brachioradialis and Extensor Carpi Radialis Longus muscles are directly supplied by Radial Nerve 
-	- Arise from upper two-thirds and lower third of lateral supracondylar ridge of humerus respectively
+- Posterior Interosseous Nerve is terminal motor branch of radial nerve 
+	- Supplies all extensor muscles from *Common Extensor Origin* distally
+- **Directly supplied by Radial Nerve **
+	- Brachioradialis
+	- Extensor Carpi Radialis Longus
+- Arise from upper two-thirds and lower third of lateral supracondylar ridge of humerus respectively
 
 
 Questions 61-70
@@ -970,10 +1084,10 @@ Questions 61-70
 Which of the following statements regarding the _triquetral bone_ is correct?
 
 	A. The degree of contact with the radioulnar articular disc is maximal in full adduction of the wrist joint
-	B. It lies just laterally to the lunate bone - F
-	C. It forms part of the radiocarpal joint in the wrist - T
-	D. The hamate lies just anterolaterally to the triquetral - F
-	E. During forced hyperextension of the wrist joint, anterior dislocation of the triquetral can cause carpal tunnel syndrome - F
+	B. It lies just laterally to the lunate bone
+	C. It forms part of the radiocarpal joint in the wrist
+	D. The hamate lies just anterolaterally to the triquetral
+	E. During forced hyperextension of the wrist joint, anterior dislocation of the triquetral can cause carpal tunnel syndrome
 
 #### Answer: C. It forms part of the radiocarpal joint in the wrist - *FALSE* = A. The degree of contact with the radioulnar articular disc is maximal in full adduction of the wrist joint - TRUE
 - Triquetral participates in ulnocarpal joint and articulates with triangular articular disc proximally
@@ -1019,17 +1133,29 @@ Which of these conditions does NOT predispose towards _acute sinusitis_?
 - Predisposing factors can be divided into local or general, the commonest causes being nasal. Any condition leading to blockage of the sinus ostia can lead to secretion retention and predisposition towards infection. Local causes can be due to upper respiratory tract infections, rhinitis, nasal polyps, tumours and foreign bodies, nasal anatomical variations, dental problems, swimming and diving and sinus fractures. 
 - General causes are debilitation, immuno-compromise, mucociliary disorders (Kartagener syndrome, cystic fibrosis) and atmospheric pollutants (dust, fumes).
  
-### Q65	- LEARN
+### Q65
 Which of the following is NOT a feature of _acute respiratory distress syndrome_ (ARDS)?
 
-	A. Severe hypoxaemia (PaO2/FiO2 <27) - T
-	B. Pulmonary infiltrates on chest X-ray - T
-	C. A known cause (eg pancreatitis) - T
+	A. Severe hypoxaemia (PaO2/FiO2 <27)
+	B. Pulmonary infiltrates on chest X-ray
+	C. A known cause (eg pancreatitis)
 	D. Cardiac pulmonary oedema
 	E. Pulmonary artery wedge pressure (PAWP) <18 mmHg
 
 #### Answer: E. Pulmonary artery wedge pressure (PAWP) <18 mmHg - *FALSE* = D. Cardiac pulmonary oedema - TRUE
-- ARDS is a specific disease of the lungs characterised by hypoxaemia, alveolar inflammation and oedema and pulmonary fibrosis. Clinically the patient has a raised respiratory rate; cyanosis and arterial blood gases show hypercapnia. Lung compliance is greatly reduced, therefore increasing the work required. There are certain criteria that need to be met in order to make a diagnosis of ARDS. These are: severe hypoxaemia (PaO2/FiO2 of <27), pulmonary infiltrates on chest X-ray, pulmonary artery wedge pressure of <18 mmHg (therefore non-cardiogenic pulmonary oedema) and a recognised cause. There are a variety of causes, including pancreatitis, sepsis, disseminated intravascular coagulation (DIC), burns and aspiration.
+- ARDS is a specific disease of the lungs characterised by hypoxaemia, alveolar inflammation and oedema and pulmonary fibrosis. Clinically the patient has a raised respiratory rate; cyanosis and arterial blood gases show hypercapnia. Lung compliance is greatly reduced, therefore increasing the work required. There are certain criteria that need to be met in order to make a diagnosis of ARDS.
+
+#### Criteria for ARDS - LEARN
+1. Severe hypoxaemia (PaO2/FiO2 of <27)
+2. Pulmonary infiltrates on chest X-ray
+3. Pulmonary artery wedge pressure of <18 mmHg
+	- therefore non-cardiogenic pulmonary oedema
+4. Recognised cause, including 
+	- pancreatitis
+	- sepsis
+	- disseminated intravascular coagulation (DIC)
+	- burns 
+	- aspiration
  
 ### Q66	
 A 43-year-old female patient has had a successful _kidney transplant_ and is being discharged on the 5th post-operative day. One of the instructions she was given was not to eat _grapefruit_ or drink grapefruit juice. This is because:
@@ -1043,14 +1169,14 @@ A 43-year-old female patient has had a successful _kidney transplant_ and is bei
 #### Answer: C. Grapefruit juice can interfere with the metabolism of tacrolimus, one of the immunosuppressive agents being used - TRUE
 - Drugs that interact with grapefruit and/or grapefruit juice undergo cytochrome p450 oxidative metabolism in the intestinal wall or liver. Grapefruit juice contains various furanocoumarins, which have been demonstrated to affect the cytochrome p450 system, especially at the isoenzyme CYP3A4. From the immunosuppressive agents, both ciclosporine and tacrolimus can show reduced metabolism with consumption of grapefruit juice, leading to toxic effects.
  
-### Q67	- LEARN
+### Q67
 Which of the following is NOT a _complication of tracheostomy_?
 
 	A. Tracheal necrosis
 	B. Recurrent laryngeal nerve injury
-	C. Pneumothorax - T
+	C. Pneumothorax
 	D. Hypothyroidism
-	E. Tracheocutaneous fistula - T
+	E. Tracheocutaneous fistula
 
 #### Answer: B. Recurrent laryngeal nerve injury - *TRUE* = D. Hypothyroidism - TRUE
  
@@ -1089,11 +1215,11 @@ A man presents to the Emergency Department with a _very low urine output_. Analy
 ### Q69	
 The most common site affected in _oral cavity carcinoma_ is:
 
-	A. Hard palate - F
+	A. Hard palate
 	B. Lateral border of the tongue
-	C. Tonsils - F
+	C. Tonsils 
 	D. Buccal mucosa
-	E. Soft palate - F
+	E. Soft palate
 
 #### Answer: D. Buccal mucosa - *FALSE* = B. Lateral border of the tongue - TRUE
 - Some 90% of malignant oral cavity tumours are squamous cell carcinomas, accounting for <2% of malignancies in the UK. The commonest site is the lateral border of the tongue, presenting as an ulcer or an exophytic lesion. 
@@ -1122,11 +1248,11 @@ Questions 71-80
 
 50% = F: 72, 73, 75, 79, 80
 
-### Q71 - LEARN
+### Q71
 Which of the following is NOT a test used to determine _brainstem death_?
 
-	A. Corneal reflex - T
-	B. Gag reflex - T
+	A. Corneal reflex
+	B. Gag reflex
 	C. Caloric test
 	D. Pain reflex
 	E. Flexor response
@@ -1144,34 +1270,46 @@ The following vessels all _supply blood to the oesophagus_, EXCEPT:
 	E. Aortic and bronchial branches - T
 
 #### Answer: A. Inferior thyroid artery - *FALSE* = D. Superior phrenic artery - TRUE
-- The blood supply to the oesophagus is classically divided into thirds. The upper third is supplied by branches of the inferior thyroid artery, the middle third from aortic oesophageal branches, and the lower third mainly from the left gastric artery, although contributions from the inferior phrenic are also received. The pericardiophrenic arterial branch of the internal thoracic acts as the superior diaphragmatic supply, but does not contribute branches to the oesophagus.
+- Blood supply to the oesophagus is classically divided into thirds
+- Pericardiophrenic arterial branch of internal thoracic 
+	- acts as superior diaphragmatic supply
+	- but does not contribute branches to the oesophagus
+
+#### Blood Supply of Oesophagus - LEARN
+- Upper Third
+	- Inferior Thyroid Artery
+- Middle Third
+	- Aortic and Bronchial branches
+- Lower Third 
+	- Left Gastric Artery
+	- also Inferior Phrenic
  
 ### Q73	
 _High anal fistulae_:
 
-	A. Are more common than low anal fistulae - F
+	A. Are more common than low anal fistulae
 	B. Open into the rectum above the puborectalis muscle
-	C. Can be managed with a loose seton - F
-	D. Are typically associated with ulcerative colitis - F
-	E. May be laid open without hazard - F
+	C. Can be managed with a loose seton
+	D. Are typically associated with ulcerative colitis
+	E. May be laid open without hazard
 
 #### Answer: B. Open into the rectum above the puborectalis muscle - *FALSE* = C. Can be managed with a loose seton - TRUE
 - High anal fistulae can be difficult to manage as their treatment can involve dividing the anal sphincters
 - A loose seton helps establish drainage of sepsis
-	- great importance as the first step in managing any anal fistula
-- **NOTE** High fistulae are seen in Crohn’s disease rather than ulcerative colitis
+	- great importance as first step in managing any anal fistula
+- **NOTE** High fistulae are seen in *Crohn's disease* rather than ulcerative colitis
  
-### Q74 - LEARN	
+### Q74
 Which of the following is NOT used in the definition of systemic inflammatory response syndrome (SIRS)?
 
-	A. Temperature >39 °C - T
-	B. Tachycardia >90 bpm - T
-	C. Temperature <36 °C - T
+	A. Temperature >38 °C
+	B. Tachycardia >90 bpm
+	C. Temperature <36 °C
 	D. Bradycardia <45 bpm
 	E. PaCO2 <4.3 kPa
 
 #### Answer: D. Bradycardia <45 bpm - TRUE
-- SIRS involves the systemic activation of the acute-phase response following an insult
+- SIRS = systemic activation of acute-phase response following an insult
 - SIRS is defined by the presence of two or more of the following
 	1. Tachycardia: >90 bpm
 	2. Respiratory rate: >20 bpm **or** PaCO2 of <4.3 kPa
@@ -1188,25 +1326,31 @@ The _developmental origin_ of the _uterus and uterine tubes_ is the:
 	E. Wolffian ducts
 
 #### Answer: E. Wolffian ducts - *FALSE* = D. Paramesonephric ducts - TRUE
-- Pronephros – develops in the third week but never develops fully
+- **Paramesonephric ducts** – rise parallel to mesonephric ducts to form uterus and uterine tubes
+- Pronephros – develops in third week but never develops fully
 - Mesonephric ducts – develop in males to form vas deferens and epididymis; also known as the Wolffian ducts
 - Metanephric ducts – develop into the ureter, pelvis, calyces and collecting tubule
-- **Paramesonephric ducts** – rise parallel to mesonephric ducts to form the uterus and uterine tubes
 
 ### Q76	
 _High-output stomas_ are associated with all of the following, EXCEPT:
 
 	A. Distal position
-	B. Electrolyte disturbances - T
-	C. Diarrhoea - T
+	B. Electrolyte disturbances
+	C. Diarrhoea
 	D. Octreotide to reduce output
 	E. Loperamide to reduce output
 
 #### Answer: A. Distal position - TRUE
-- Proximal stomas, such as jejunostomies for example, are associated with very high outputs because of the increased secretions from the gastroinstestinal tract and pancreaticobiliary enzymes
+- *Proximal stomas*, such as jejunostomies for example
+	- associated with very high outputs 
+	- due to &uarr; secretions from GIT and pancreaticobiliary enzymes
 - The more distal position allows these fluids, along with most of the oral intake, to be digested and absorbed to a greater degree, so there is less stoma output
 
-**NOTE** Proximal stomas can be associated with dehydration, electrolyte abnormalities and renal failure
+**NOTE** Proximal stomas associated with 
+	- high output 
+	- dehydration
+	- electrolyte abnormalities
+	- renal failure
  
 ### Q77	
 A 57-year-old man was admitted to Neurointensive Care after a subarachnoid haemorrhage. He is not brainstem-dead, but the neurosurgeon is of the opinion that further treatment is futile. His long-standing partner of 15 years, a 55-year-old man, is in agreement that treatment should be withdrawn. Which of the following statements is TRUE?
@@ -1239,16 +1383,19 @@ Concerning _laparoscopic surgery_, which of the following is NOT true?
 ### Q79	
 _Smoking_ causes all of the following _physiological effects_, EXCEPT:
 
-	A. A shift of the oxygen dissociation curve to the left - F
-	B. Impaired wound healing and increased risk of wound breakdown - T
-	C. Impaired mucociliary function - T
+	A. A shift of the oxygen dissociation curve to the left
+	B. Impaired wound healing and increased risk of wound breakdown
+	C. Impaired mucociliary function
 	D. No change in cardiovascular function when stopped 1 day before surgery
-	E. An increase in pulse rate and mean arterial pressure - T
+	E. An increase in pulse rate and mean arterial pressure
 
 #### Answer: A. A shift of the oxygen dissociation curve to the left - *FALSE* = D. No change in cardiovascular function when stopped 1 day before surgery - TRUE
-- Sudden cessation in smoking causes a rebound tachycardia and hypertension, which is temporary and mostly resultant from the irritability and depression of cravings. Cardiovascular and respiratory function will improve long term and aid in recovery from surgery, anaesthesia and wound healing on stopping smoking. Effects are related to the volume and frequency of smoking for individual patients.
+- Sudden cessation in smoking causes a *rebound tachycardia* and *hyPERtension*
+	- temporary - resultant from irritability and depression of cravings 
+- Cardiovascular and respiratory function will improve long term and aid in recovery from surgery, anaesthesia and wound healing on stopping smoking
+	- Effects are related to volume and frequency of smoking for individual
  
-### Q80	- LEARN
+### Q80
 Which of the following phases is correctly matched with its physiological action within the _cardiac ventricular muscle action_ potential graph?
 
 	A. Phase 0 – resting membrane potential
@@ -1259,7 +1406,7 @@ Which of the following phases is correctly matched with its physiological action
 
 #### Answer: A. Phase 0 – resting membrane potential - *FALSE* = D. Phase 3 – rapid repolarisation - TRUE
 
-##### Phases of Cardiac Action Potential
+##### Phases of Cardiac Action Potential - LEARN
 - Phase 0 – initial rapid depolarisation
 - Phase 1: rapid repolarisation
 - Phase 2: slow repolarisation plateau
@@ -1272,18 +1419,18 @@ Questions 81-90
 
 60% = F: 81, 86, 88, 89
 
-### Q81 - LEARN
-During observation of the _venous pulse_, you note that the x descent is:
+### Q81
+During observation of the _venous pulse_, you note that the *x descent* is:
 
-	A. Is prominent in atrial systole - F
-	B. Is synchronous with the carotid pulse wave - F
-	C. Reflects a rise in atrial pressure before the tricuspid valve opens - F
-	D. Is due to the tricuspid valve moving down during ventricular systole - F
+	A. Is prominent in atrial systole
+	B. Is synchronous with the carotid pulse wave
+	C. Reflects a rise in atrial pressure before the tricuspid valve opens
+	D. Is due to the tricuspid valve moving down during ventricular systole
 	E. Reflects opening of the tricuspid valve and a fall in right atrial pressure
 
 #### Answer: E. Reflects opening of the tricuspid valve and a fall in right atrial pressure - *FALSE* = D. Is due to the tricuspid valve moving down during ventricular systole - TRUE
 
-##### Jugular Venous Pressure (JVP)
+##### Jugular Venous Pressure (JVP) - LEARN
 - a wave: prominent in atrial systole
 - c wave: synchronous with the carotid pulse wave
 - v wave: reflects a rise in atrial pressure before the tricuspid valve opens
@@ -1339,22 +1486,22 @@ The following are known to cause a _metabolic acidosis_, EXCEPT:
 
 #### Answer: E. Persistent vomiting - TRUE
 - Any cause of shock can result in **metabolic acidosis** as 
-	- inadequate perfusion results in an anaerobic metabolic response 
-	- addition to the production of lactate
+	- inadequate perfusion results in an *anaerobic metabolic response* 
+	- in addition to production of lactate
 - Persistent vomiting typically results in a large loss of gastric acid → *metabolic alkalosis*
 
-### Q86	- LEARN
+### Q86
 Which of the following is true of _ulcerative colitis_?
 
-	A. It is commonly associated with anal fistulae - F
-	B. It is commonly associated with oral ulceration - F
-	C. It is worsened by smoking - F
+	A. It is commonly associated with anal fistulae 
+	B. It is commonly associated with oral ulceration
+	C. It is worsened by smoking
 	D. It is associated with abdominal masses
-	E. It is associated with joint pain - F
+	E. It is associated with joint pain
 
 #### Answer: D. It is associated with abdominal masses - *FALSE* 
 
-##### Ulcerative Colitis: Extraintestinal Manifestations
+##### Ulcerative Colitis: Extraintestinal Manifestations - LEARN
 - Ankylosing spondylitis
 - Arthritis
 - Uveitis
@@ -1362,16 +1509,16 @@ Which of the following is true of _ulcerative colitis_?
 - Erythema nodosum
 - Sclerosing cholangitis
 
-**NOTE** Smoking, unusually, appears to be protective against development of ulcerative colitis
+**NOTE** Smoking appears to be protective against development of UC
  
 ### Q87	- LEARN
 Which of the following is NOT a feature of _multiple endocrine neoplasia_ type II?
 
-	A. Medullary thyroid cancer - T
-	B. Phaeochromocytoma - T
+	A. Medullary thyroid cancer
+	B. Phaeochromocytoma
 	C. Pituitary adenoma
 	D. Parathyroid tumours
-	E. Multiple mucosal neuromas - T
+	E. Multiple mucosal neuromas
 
 #### Answer: C. Pituitary adenoma - TRUE
 - MEN is a familial autosomal dominant disorder. There are two types, MEN I (pituitary adenomas, pancreatic islet tumours, hyperplasia of the parathyroids and tumours of the adrenal cortex) and MEN II, which is further subdivided into MEN IIa (medullary thyroid carcinoma, phaeochromocytoma, parathyroid adenoma/hyperplasia) and MEN IIb (parathyroid tumours, medullary thyroid carcinoma, phaeochromocytoma, multiple mucosal neuromas and marfanoid habitus). MEN syndromes can be picked up by genetic screening techniques.
@@ -1379,14 +1526,24 @@ Which of the following is NOT a feature of _multiple endocrine neoplasia_ type I
 ### Q88	
 All of the following statements regarding _malignant hyperpyrexia_ are true, EXCEPT:
 
-	A. Relatives of affected individuals should always be tested - F
-	B. Inheritance is in an autosomal recessive pattern - T
-	C. Incidence is 1 in 200,000 - T
-	D. Treatment involves the use of dantrolene sodium and fluids - T
-	E. Conclusive diagnosis requires a muscle biopsy in addition to the clinical picture - T
+	A. Relatives of affected individuals should always be tested
+	B. Inheritance is in an autosomal recessive pattern
+	C. Incidence is 1 in 200,000
+	D. Treatment involves the use of dantrolene sodium and fluids
+	E. Conclusive diagnosis requires a muscle biopsy in addition to the clinical picture
 
 #### Answer: A. Relatives of affected individuals should always be tested - *FALSE* = B. Inheritance is in an autosomal recessive pattern - TRUE
-- Malignant hyperpyrexia is an **autosomal dominant** condition with an incidence of 1 in 200 000. It produces a hypermetabolic state of skeletal muscle on exposure to general anaesthetics or muscle relaxants, which produces hyperthermia as a side effect. Muscle rigidity and rhabdomyolysis can occur, with resulting hyperkalaemia and multi-organ failure. Treatment is supportive, with intravenous fluids, dantrolene sodium, cooling, forced diuresis and intensive care as necessary.
+- Malignant hyperpyrexia 
+	- is an **autosomal dominant** condition 
+	- with an incidence of 1 in 200 000
+- It produces a hypermetabolic state of skeletal muscle on exposure to general anaesthetics or muscle relaxants, which produces hyperthermia as a side effect
+- Muscle rigidity and rhabdomyolysis can occur, with resulting hyperkalaemia and multi-organ failure
+- Treatment is supportive, with 
+	- intravenous fluids
+	- dantrolene sodium
+	- cooling
+	- forced diuresis
+	- intensive care as necessary
  
 ### Q89	
 The main _host defences against bacterial exotoxins_ in a person with an intact immunological system are:
@@ -1400,7 +1557,7 @@ The main _host defences against bacterial exotoxins_ in a person with an intact 
 #### Answer: C. Activated macrophages that secrete proteases - *FALSE* = D. IgM and IgG antibodies - TRUE
 - Exotoxins are secreted by both Gram-positive and Gram-negative bacteria
 	- whereas endotoxins are found within cell walls of Gram-negative bacteria only
-- The main defence against these secreted toxins are antibodies such as IgG and IgM
+- Main defence against these secreted toxins are *antibodies such as IgG and IgM*
 - *Clinical Example*: tetanus toxin and tetanus immunoglobulin injected to help counter its effects
  
 ### Q90	
@@ -1424,21 +1581,25 @@ Questions 91-100
 ### Q91
 All of the following statements regarding _interferons_ are correct, EXCEPT that they:
 
-	A. Are induced by dsRNA - T
-	B. Are typically specific to their host species cell of origin - T
-	C. Appear typically before antibodies in viral infections - T
-	D. Inhibit the growth of both DNA and RNA viruses - T
+	A. Are induced by dsRNA
+	B. Are typically specific to their host species cell of origin
+	C. Appear typically before antibodies in viral infections
+	D. Inhibit the growth of both DNA and RNA viruses
 	E. Enhance the metabolism of infected cells
 
 #### Answer: C. Appear typically before antibodies in viral infections - *FALSE* = E. Enhance the metabolism of infected cells - TRUE
-- Interferons are a heterogeneous group of endogenous glycoproteins which inhibit the growth of viruses, bacteria, protozoa and cancer cells by blocking the translation of proteins. They are the most important part of the non-specific defence response to viral infections. Interferons classically appear within hours of initiation of viral replication, in contrast to antibodies, which take some days to appear. They are species-specific, so therapy with animal interferons is ineffective in humans.
+- Interferons are a heterogeneous group of endogenous glycoproteins which inhibit the growth of viruses, bacteria, protozoa and cancer cells by blocking the translation of proteins
+- Most important part of non-specific defence response to viral infections
+- Appear within hours of initiation of viral replication
+	- in contrast to antibodies, which take some days to appear
+- Species-specific - therapy with animal interferons is ineffective in humans
  
-### Q92 - LEARN	
+### Q92
 Which of the following statements regarding the hepatitis B virus (HBV) is correct?
 
-	A. HBV belongs to the Picornaviridae group of viruses - F
-	B. Hepatitis B cannot be transmitted via breast milk - F
-	C. 25% of patients infected with hepatitis B become chronic carriers - F
+	A. HBV belongs to the Picornaviridae group of viruses
+	B. Hepatitis B cannot be transmitted via breast milk
+	C. 25% of patients infected with hepatitis B become chronic carriers
 	D. Risk of transmission from needlestick injuries is greater for HBV than for HIV
 	E. HBV vaccines are live attenuated vaccines
 
@@ -1451,18 +1612,18 @@ Which of the following statements regarding the hepatitis B virus (HBV) is corre
 - Risk of HIV transmission following needlestick injury is 0.3% and for HBV is around 3% (10x)
 - HBV vaccine is a recombinant DNA vaccine
  
-### Q93	- LEARN
+### Q93
 The CHARGE syndrome is NOT associated with which of the following conditions?
 
-	A. Choanal atresia - T
-	B. Genital abnormalities - T
-	C. Facial nerve palsy - T
-	D. Retarded lung maturation - F
-	E. Coloboma - T
+	A. Choanal atresia
+	B. Genital abnormalities
+	C. Facial nerve palsy
+	D. Retarded lung maturation
+	E. Coloboma
 
 #### Answer: D. Retarded lung maturation - TRUE
 - The CHARGE association is a sporadic condition associated with multiple congenital anomalies: 
-	- C: coloboma (failure of eyeball closure) and cranial nerve palsies (facial nerve)
+	- C: coloboma (failed eyeball closure), cranial nerve palsies (Facial Nerve)
 	- H: heart disease
 	- A: atresia choanae
 	- R: retarded growth
@@ -1470,7 +1631,7 @@ The CHARGE syndrome is NOT associated with which of the following conditions?
 	- E: ear abnormalities and deafness
 - Patients may also have laryngotracheal abnormalities
 
-##### Charge Syndrome
+##### Charge Syndrome - LEARB
 - C: **C**oloboma of Eye + Cranial Nerve Abnormalities (I, VII, IX/X)
 - H: **H**eart Defects
 - A: **A**tresia Choanae
@@ -1481,14 +1642,14 @@ The CHARGE syndrome is NOT associated with which of the following conditions?
 ### Q94	
 _Indications for splenectomy_ include all of the following, EXCEPT:
 
-	A. Thrombotic thrombocytopenic purpura (TTP) - T
+	A. Thrombotic thrombocytopenic purpura (TTP)
 	B. Felty syndrome
-	C. Thrombocytopenia associated with drug abuse - T
+	C. Thrombocytopenia associated with drug abuse
 	D. Sickle cell disease without hypersplenism
 	E. Splenomegaly related to haemodialysis
 
 #### Answer: E. Splenomegaly related to haemodialysis - *FALSE* = D. Sickle cell disease without hypersplenism - TRUE
-- Numerous reasons exist for splenectomy in the non-trauma setting. The incidence of elective splenectomy in the UK has declined as this was used in the staging of lymphomas previously. Any cause of hypersplenism or thrombocytopenia resulting from hypersplenism can justify a splenectomy, as very large spleens can be symptomatic as well as have a very high incidence of rupture from trauma. Spleens, occasionally can cause pressure symptoms if large enough.
+- Numerous reasons exist for splenectomy in the non-trauma setting. The incidence of elective splenectomy in the UK has declined as this was used in the staging of lymphomas previously. Any cause of hypersplenism or thrombocytopenia resulting from hypersplenism can justify a splenectomy, as very large spleens can be symptomatic as well as have a *very high incidence of rupture from trauma*. Spleens, occasionally can cause pressure symptoms if large enough.
  
 ### Q95	
 The clinical presentation of _neurogenic shock_ includes which one of the following combinations of signs?
@@ -1500,7 +1661,13 @@ The clinical presentation of _neurogenic shock_ includes which one of the follow
 	E. Hypertension, bradycardia, cool skin
 
 #### Answer: C. Hypotension, bradycardia, cool skin - *FALSE* = A. Hypotension, bradycardia, warm skin - TRUE
-- Neurogenic shock is shock caused by the sudden loss of the sympathetic nervous system signals to the smooth muscle in vessel walls. This results in the triad of bradycardia, hypotension and peripheral vasodilatation, resulting from loss of sympathetic tone. This should be distinguished from septic shock, which results classically in a tachycardia and hypotension.
+- Neurogenic shock is shock caused by the sudden loss of
+	-  sympathetic nervous system signals to smooth muscle in vessel walls
+- Loss of sympathetic tone results in triad of 
+	- bradycardia
+	- hypotension
+	- peripheral vasodilatation (*warm skin*)
+- **NOTE** septic shock results classically in *tachycardia* and hypotension
  
 ### Q96	
 A woman with _suspected breast cancer_ has fine-needle aspiration (FNA) of a breast lump. The report comes back as 'C3'. What does this mean?
@@ -1512,13 +1679,14 @@ A woman with _suspected breast cancer_ has fine-needle aspiration (FNA) of a bre
 	E. Benign - C2
 
 #### Answer: B. Suspicious for cancer - *FALSE* = A. Equivocal (C3) - TRUE
-- Cytology reports grade samples according to the cellular appearances by a 5-point system
+- Cytology reports grade samples according to cellular appearances by a 5-point system
 	- C1 = inadequate sample
 	- C2 = benign
 	- C3 = **equivocal**
 	- C4 = suspicious for malignancy
 	- C5 = malignant
-- Fine-needle aspiration cytology (FNAC) forms part of the triple assessment for suspected breast cancer
+- Fine-needle aspiration cytology (FNAC) forms part of
+	- triple assessment for suspected breast cancer
 	- along with clinical examination and imaging (mammogram or ultrasound)
  
 ### Q97	
@@ -1574,9 +1742,9 @@ Which of the following is the _strongest_ of all the other _risk factors_ in the
 	D. Pernicious anaemia
 	E. Low socioeconomic class
 
-:#### Answer: A. Helicobacter pylori - *FALSE* = B. Atrophic gastritis - TRUE
+#### Answer: A. Helicobacter pylori - *FALSE* = B. Atrophic gastritis - TRUE
 - Atrophic gastritis and hypogammaglobulinaemia are both associated with a 30-fold increase
-- The other conditions listed have proved risks of developing gastric carcinoma but not as great
+- Other conditions are proved risks of developing gastric carcinoma but not as high
 
 
 Questions 101-110
@@ -1600,22 +1768,25 @@ A patient with a diagnosis of inflammatory bowel disease (IBD) may have the foll
 Colonic diverticular disease:
 
 	A. Can present with a colo-vesical fistula
-	B. Does not present with colonic obstruction - F
-	C. Is an inherited condition - F
+	B. Does not present with colonic obstruction
+	C. Is an inherited condition
 	D. Is a premalignant condition
-	E. Is not a feature of ageing - F
+	E. Is not a feature of ageing
 
 #### Answer: D. Is a premalignant condition - *FALSE* = A. Can present with a colo-vesical fistula - TRUE
-- Diverticular disease occurs in the colon more frequently in the developed countries and increases with increasing age. It is not inherited and has no known risk of causing colorectal cancers. There are theories suggesting that their development may be due to high intraluminal pressures arising from diets that lack fibre and cause the colon to strain in propelling the stools along. Diverticular disease may present as diverticulitis, although it may also present as obstruction, perforation, or even as a fistula into surrounding organs such as bladder, uterus, vagina and even skin.
+- Diverticular disease occurs in the colon more frequently in the developed countries and increases with increasing age
+- It is not inherited and has no known risk of causing colorectal cancers
+- There are theories suggesting that their development may be due to high intraluminal pressures arising from diets that lack fibre and cause the colon to strain in propelling the stools along
+- Diverticular disease may present as diverticulitis, although it may also present as obstruction, perforation, or even as a fistula into surrounding organs such as bladder, uterus, vagina and even skin.
  
 ### Q103	
 Which of the following _stoma complications_ makes closure technically easier?
 
 	A. Parastomal hernia
-	B. Prolapse - F
+	B. Prolapse
 	C. Stenosis
-	D. Retraction - F
-	E. Ischaemia - F
+	D. Retraction
+	E. Ischaemia
 
 #### Answer: C. Stenosis - *FALSE* = A. Parastomal hernia - TRUE
 - Parastomal hernias spread and stretch tissue planes
@@ -1638,11 +1809,11 @@ Which of the following statements regarding _immunosuppressive drugs_ used in _r
 ### Q105
 _Bowel obstruction_ can be caused by all of the following, EXCEPT:
 
-	A. Volvulus - T
-	B. Hiatus hernia - F (GORD)
-	C. Adhesions from previous surgery - T
-	D. Intussusception - T
-	E. Polyp - T
+	A. Volvulus
+	B. Hiatus hernia
+	C. Adhesions from previous surgery
+	D. Intussusception
+	E. Polyp
 
 #### Answer: B. Hiatus hernia - TRUE
 - Hiatus hernia is a protrusion of a viscus
@@ -1655,29 +1826,30 @@ _Bowel obstruction_ can be caused by all of the following, EXCEPT:
 The commonest infection to affect the _asplenic patient_ following splenectomy is:
 
 	A. Streptococcus pneumoniae
-	B. Neisseria meningitidis - F
-	C. Escherichia coli - F
+	B. Neisseria meningitidis
+	C. Escherichia coli
 	D. Haemophilus influenzae
 	E. Staphylococcus aureus
 
 #### Answer: D. Haemophilus influenzae - *FALSE* = A. Streptococcus pneumoniae - TRUE
-- The asplenic patient is at risk of infections from encapsulated organisms such as streptococci, Neisseria meningitidis, Haemophilus influenzae
-- Commonest infection to affect asplenic patient out of this group is *Streptococcus pneumoniae*
+- Asplenic patient is at risk of infections from encapsulated organisms 
+	- such as streptococci, Neisseria meningitidis, Haemophilus influenzae
+- Commonest infection to affect asplenic patient is *Streptococcus pneumoniae*
 - Regular immunisations as well as penicillin prophylaxis is mandatory for these patients
  
 ### Q107
 All of the following statements regarding the _management of trauma in pregnant women_ are true, EXCEPT:
 
-	A. A qualified surgeon and obstetrician should always be consulted early in the evaluation of the pregnant patient - T
-	B. Small-bowel injury is commoner in upper abdominal penetrating wounds than lower penetrating injuries in late pregnancy - T
-	C. Pregnant women show earlier signs of hypovolaemia during haemorrhage - F
-	D. Unless contraindicated, pregnant women should be placed in the left-lateral position during assessment and management as early as possible - T
+	A. A qualified surgeon and obstetrician should always be consulted early in the evaluation of the pregnant patient
+	B. Small-bowel injury is commoner in upper abdominal penetrating wounds than lower penetrating injuries in late pregnancy
+	C. Pregnant women show earlier signs of hypovolaemia during haemorrhage
+	D. Unless contraindicated, pregnant women should be placed in the left-lateral position during assessment and management as early as possible
 	E. All Rh-negative pregnant patients should be considered for Rh immunoglobulin therapy in penetrating abdominal injuries - T
 
 #### Answer: E. All Rh-negative pregnant patients should be considered for Rh immunoglobulin therapy in penetrating abdominal injuries - *FALSE* = C. Pregnant women show earlier signs of hypovolaemia during haemorrhage - TRUE
 - The management of a pregnant woman in the trauma setting is no different from that of a normal patient. In this case the mother rather than the fetus takes priority and an obstetrician needs to be involved from early on. A special consideration that needs to be addressed is that, in mid- to late pregnancy, a large uterus can compress the IVC when lying in the supine position, and so a left-lateral position whenever possible will provide a better volume return to the heart, as there is lack of caval compression. Pregnant women exhibit slightly altered physiology, which needs to be considered as well; they may not show signs of haemorrhage as they have a larger vascular volume.
  
-### Q108 - LEARN
+### Q108
 Which of the following is NOT part of the Glasgow Scale used to assess the severity of pancreatitis on initial assessment?
 
 	A. White cell count >15 × 109/l
@@ -1687,25 +1859,38 @@ Which of the following is NOT part of the Glasgow Scale used to assess the sever
 	E. Lactate dehydrogenase (LDH) >600 units/l
 
 #### Answer: C. Age >55 years - *FALSE* = D. Glucose <10 mmol/l - TRUE
-- The Glasgow scale is one of the scoring systems used to determine the severity of an attack of pancreatitis. The criteria used are: age >55, WBC >15 × 109/l, blood glucose >10 mmol/l, serum urea >16 mmol/l, PaO2 <8 kPa, serum calcium <2.0 mmol/l, albumin <32 g/l, LDH >600 units/l, AST/ALT >100 U/l. The other scoring system in use is Ranson’s criteria.
+- The Glasgow scale is one of the scoring systems used to determine the severity of an attack of pancreatitis. 
+- The other scoring system in use is Ranson’s criteria.
+
+#### Modified Glasgow Acute Pancreatitis Severity Score "PANCREAS" - LEARN
+- P - PaO2 <8 kPa
+- A - age >55
+- N - Neutrophilia: WBC >15 × 109/l
+- C - serum Calcium <2.0 mmol/l
+- R - Renal urea >16 mmol/l
+- E - Enzymes: 
+	- LDH >600 units/l
+	- AST/ALT >100 U/l
+- A - Albumin <32 g/l
+- S - Sugar: blood glucose >10 mmol/l
  
 ### Q109
 Complications of _intraosseous needle puncture_ in children include all of the following, EXCEPT:
 
 	A. Physeal plate injury
-	B. Skin pressure necrosis - T
-	C. Subperiosteal infiltration - T
+	B. Skin pressure necrosis
+	C. Subperiosteal infiltration 
 	D. Musculocutaneous fistula
-	E. Osteomyelitis - T
+	E. Osteomyelitis
 
 #### Answer: A. Physeal plate injury - *FALSE* = D. Musculocutaneous fistula - TRUE
 - Intraosseous needle insertion is not without its recognised complications
-	- Musculocutaneous fistulae are not recognised complications as they do not exist
+	- *Musculocutaneous fistulae* - not recognised complications - **do not exist**
 - A fistula is an abnormal communication between two epithelial surfaces 
 	- an abscess or infection can drain from the muscle into the skin
 - However, this would by definition **not** be called a musculocutaneous fistula
  
-### Q110 - LEARN
+### Q110
 Which of the following volumes of blood loss would accurately fall into a class II haemorrhage?
 
 	A. 500 ml
@@ -1715,7 +1900,7 @@ Which of the following volumes of blood loss would accurately fall into a class 
 	E. 2000 ml
 #### Answer: C. 1000 ml - TRUE
 
-##### Class of Haemorrhage
+##### Class of Haemorrhage - LEARN
 
 Class	| Volume Lost	| % Blood Loss	|
 --------|---------------|---------------|
@@ -1730,7 +1915,7 @@ Questions 111-120
 
 30% = F: 111, 113, 114, 115, 116, 118, 120
 
-### Q111 - LEARN
+### Q111
 A man is found to have a PSA of 14 mg/ml on routine testing. He is entirely asymptomatic. Investigation with transrectal biopsy confirms _prostate cancer_. MRI scan shows a _nodule on the left lobe_, which extends into the _seminal vesicles_. The stage of prostate cancer based on this information is:
 
 	A. T4
@@ -1744,7 +1929,7 @@ A man is found to have a PSA of 14 mg/ml on routine testing. He is entirely asym
 	- Staging often determines management plan
 - T3b disease would be treated with hormone therapy and radiotherapy
 
-##### Prostate Cancer: Staging
+##### Prostate Cancer: Staging - LEARN
 - T1: tumour is not palpable or visible - picked up on examination of chips obtained at TURP
 - T2: tumour is confined to the prostate - can be further subdivided into 
 	- T2a (one lobe)
@@ -1754,7 +1939,7 @@ A man is found to have a PSA of 14 mg/ml on routine testing. He is entirely asym
 	- T3b: **invasion into seminal vesicles**
 - T4: tumour is fixed or is invading into adjacent structures
  
-### Q112 - LEARN
+### Q112
 The following statements about _hernias_ are all true, EXCEPT:
 
 	A. Direct hernias are due to a deficiency at Hesselbach’s triangle - T
@@ -1770,19 +1955,19 @@ The following statements about _hernias_ are all true, EXCEPT:
 	- more commonly in elderly women
 - Inguinal hernias present as a lump in the groin just above and medial to pubic tubercle
  
-### Q113 - LEARN
+### Q113
 Causes of _spontaneous secondary pneumothorax_ include all of the following, EXCEPT:
 
 	A. Marfan syndrome 
-	B. Lung cancer - T
-	C. Asthma - T
-	D. COPD - T
-	E. Lung abscesses - T
+	B. Lung cancer 
+	C. Asthma 
+	D. COPD
+	E. Lung abscesses
 
 #### Answer: C. Asthma - *FALSE* = A. Marfan syndrome - TRUE
 - Spontaneous secondary pneumothoraces occur secondary to lung pathology such as 
 	- cancer, infection or airways disease
-- Marfan syndrome results in a primary (i.e. *cause unknown*) pneumothorax
+- **NOTE** Marfan syndrome results in a primary (i.e. *cause unknown*) pneumothorax
  
 ### Q114
 All of the following statements regarding _dead-space ventilation_ are correct, EXCEPT:
@@ -1796,46 +1981,49 @@ All of the following statements regarding _dead-space ventilation_ are correct, 
 #### Answer: C. Anatomical dead space can be measured using Fowler’s method - *FALSE* = E. Anatomical dead space is reduced in the standing-up position - TRUE
 - Dead space is the volume of air that has to be ventilated, but does not actually take part in gas exchange. Anatomical dead space is the volume that does not mix with air in the alveoli, and physiological dead space is the volume of air that may reach the alveoli, but does not take part in gas exchange, eg due to lack of perfusion. Anatomical dead space will be increased in the standing position, with larger lung volumes and bronchodilatation. Physiological dead space is increased in hypotension, hypoventilation, pulmonary embolus, emphysema and positive-pressure ventilation.
  
-### Q115 - LEARN
+### Q115
 Which one of the following conditions would result in a _positive base excess_ on a blood gas report?
 
 	A. Cushing syndrome
 	B. Starvation
 	C. Septicaemia
-	D. Pulmonary embolus - F
-	E. Myasthenia gravis - F
+	D. Pulmonary embolus
+	E. Myasthenia gravis
 
 #### Answer: C. Septicaemia - *FALSE* = A. Cushing syndrome - TRUE
 - Cushing syndrome classically causes a **hyPOkalaemia** and **metabolic alkalosis** 
-	- resulting in a high bicarbonate serum level and positive base excess
+	- resulting in high bicarbonate serum level and *positive base excess*
 - Starvation and septicaemia will both result in metabolic acidosis
-- Respiratory acidosis in myasthenia gravis due to hypoventilation
+- Myasthenia Gravis - respiratory acidosis due to hypoventilation
 - **NOTE** Respiratory alkalosis occurs in pulmonary embolus due to hyperventilation and tachypnoea
  
 ### Q116
 A 47-year-old male patient received a cadaver kidney transplant with immediate function 2 weeks ago. Within 3 days his serum creatinine had normalised to 110 µmol/l. He was discharged on the 5th post-operative day and has been followed up at the transplant follow-up clinic, attending thrice weekly. On attendance today his serum creatinine is 167 µmol/l and he is well in himself with no symptoms. You note on checking the blood results that the creatinine was 115 µmol/l 2 days ago. His tacrolimus (immunosuppression drug) level is normal. Ultrasound scan shows a normal transplant kidney. What is the most likely cause of his raised serum creatinine?
 
 	A. Acute rejection episode (and a transplant biopsy is urgently required to confirm the diagnosis)
-	B. Acute tubular necrosis - F
-	C. Volume depletion due to diarrhoea and vomiting - F
-	D. Ureteric obstruction - F
+	B. Acute tubular necrosis 
+	C. Volume depletion due to diarrhoea and vomiting 
+	D. Ureteric obstruction
 	E. Transplanted renal artery stenosis
 
 #### Answer: E. Transplanted renal artery stenosis - *FALSE* = A. Acute rejection episode (and a transplant biopsy is urgently required to confirm the diagnosis) - TRUE
-- Volume depletion is not likely as the patient did not complain of diarrhoea or vomiting. The ultrasound scan would have excluded ureteric stenosis (hydronephrosis) and transplanted renal artery stenosis. Residual acute tubular necrosis does not usually lead to a jump in the serum creatinine level. The serum creatinine levels tend to plateau at a level above the normal range in such a case. Acute rejection should be suspected in this case and can be proved on an urgent biopsy.
+- Volume depletion is not likely as the patient did not complain of diarrhoea or vomiting - The ultrasound scan would have excluded ureteric stenosis (hydronephrosis) and transplanted renal artery stenosis
+- Residual acute tubular necrosis does not usually lead to a jump in the serum creatinine level
+- The serum creatinine levels tend to plateau at a level above the normal range in such a case. 
+- Acute rejection should be suspected in this case - can be proved on an urgent biopsy
  
 ### Q117
 _Fever_ can be caused by all of the following, EXCEPT:
 
-	A. Heatstroke - T
-	B. Hyperthyroidism - T
+	A. Heatstroke
+	B. Hyperthyroidism
 	C. Posterior hypothalamic lesions
-	D. Dehydration - T
-	E. Exercise - T
+	D. Dehydration
+	E. Exercise
 
 #### Answer: C. Posterior hypothalamic lesions - TRUE
 
-##### Causes of Fever 
+##### Causes of Fever - LEARN
 - Illness
 - Exercise
 - Heatstroke
@@ -1847,14 +2035,26 @@ _Fever_ can be caused by all of the following, EXCEPT:
 ### Q118
 Which of the following agents used in the treatment of urological conditions is NOT paired with its correct description?
 
-	A. Mitomycin C – intravesical chemotherapy agent - T
+	A. Mitomycin C – intravesical chemotherapy agent
 	B. Finasteride – luteinising hormone-releasing hormone (LH-RH) agonist
 	C. Oxybutinin – anticholinergic agent
 	D. Tamsulosin – α-adrenergic blocker
 	E. Flutamide – anti-androgen agent
 
 #### Answer: D. Tamsulosin – α-adrenergic blocker - *FALSE* = B. Finasteride – luteinising hormone-releasing hormone (LH-RH) agonist - TRUE
-- Mitomycin C is an agent instilled intravesically for the treatment of superficial transitional cell carcinoma of the bladder, to prevent a recurrence. Finasteride is a 5α-reductase inhibitor. By blocking the action of 5α-reductase, it reduces the formation of dihydrotestosterone, therefore reducing the stimulatory effect this has on prostate gland growth. Oxybutynin is an anticholinergic agent used in the management of detrusor instability. Tamsulosin is an α-adrenergic blocker used in the management of BPH. It causes smooth-muscle relaxation of prostate and bladder neck, therefore improving urine flow rates. Flutamine is used in the management of prostate cancer. It is an anti-androgen and works by preventing testosterone from causing growth of the tumour.
+
+#### Treatment of Urological Conditions - LEARN
+- Mitomycin C is an agent instilled intravesically
+	- Tx of superficial transitional cell carcinoma of bladder
+- **NOTE** Finasteride is a 5α-reductase inhibitor
+	- By blocking the action of 5α-reductase, it reduces the formation of dihydrotestosterone, therefore 
+	- reducing the stimulatory effect this has on prostate gland growth
+- Oxybutynin is an anticholinergic agent used in the management of detrusor instability 
+- Tamsulosin is an α-adrenergic blocker used in the management of BPH
+	- It causes smooth-muscle relaxation of prostate and bladder neck, therefore improving urine flow rates
+- Flutamine is used in the management of prostate cancer
+	- an anti-androgen 
+	- prevents testosterone from causing growth of tumour
  
 ### Q119
 All of the following features are found in _Adult Respiratory Distress Syndrome_ (ARDS), EXCEPT:
@@ -1886,7 +2086,11 @@ The _superficial radial nerve_:
 	E. Is difficult to see during surgery
 
 #### Answer: D. Supplies most of the muscles in the posterior compartment of the forearm - *FALSE* = A. Runs between brachioradialis and extensor carpi radialis longus - TRUE
-- The radial nerve enters the forearm anterior to the lateral epicondyle, runs between brachialis and brachioradialis and divides into the superficial radial and posterior interosseous nerve (PIN). The PIN splits the supinator (site of damage during retraction of the muscle) and supplies all of the extensor muscles except brachioradialis, extensor carpi radialis brevis and extensor carpi radialis longus. The superficial radial nerve passes to the dorsal radial surface of the hand in the distal third of the forearm by passing between brachioradialis and extensor carpi radialis longus. It can be visualised during the anterior approach to the forearm.
+- The radial nerve enters the forearm anterior to the lateral epicondyle, runs between brachialis and brachioradialis and divides into the superficial radial and posterior interosseous nerve (PIN). The PIN splits the supinator (site of damage during retraction of the muscle) and supplies all of the extensor muscles except brachioradialis, extensor carpi radialis brevis and extensor carpi radialis longus
+- Superficial Radial Nerve 
+	- passes to dorsal radial surface of hand in distal third of forearm 
+	- passing between Brachioradialis and Extensor Carpi Radialis Longus
+	- It can be visualised during the anterior approach to the forearm
 
 
 Questions 121-130
@@ -1904,33 +2108,39 @@ In _achondroplasia_, clinical features include the following, EXCEPT:
 	E. Short trunk - F
 
 #### Answer: A. Excessive lordosis - *FALSE* = E. Short trunk - TRUE
+- **NOTE** *Achondroplasia* = common cause of dwarfism
 - Clinical features of achondroplasia include small nasal bridge, button nose, trident hands (inability to approximate extended middle and ring fingers), lumbar stenosis, excessive lordosis, hypotonia during the first year of life, radial head subluxation, frontal bossing and a normal trunk but short limbs (**rhizomelic**).
  
 ### Q122
 A man is found to have a hydrocele, which at operation is found to extend from the _testis to the deep inguinal ring_, but does not connect with the peritoneal cavity. Which of the following best describes this hydrocele?
 
 	A. Vaginal hydrocele
-	B. Congenital hydrocele - F
+	B. Congenital hydrocele
 	C. Infantile hydrocele
-	D. Hydrocele of cord - F
-	E. Malignant hydrocele - F
+	D. Hydrocele of cord
+	E. Malignant hydrocele
 
 #### Answer: A. Vaginal hydrocele - *FALSE* = C. Infantile hydrocele - TRUE
-- A hydrocele is an abnormal collection of fluid in the tunica vaginalis surrounding the testis or spermatic cord. They occur in males of any age but are most common at extreme ends of the age spectrum. They can present from birth because during descent of the testis from the abdomen to the scrotum, a sac of peritoneum is pulled along, which envelops the testis and epididymis, creating a tubular communication between the abdomen and the tunica vaginalis of the scrotum. Usually the part surrounding the spermatic cord obliterates, therefore closing off this communication. If it does not, a congenital hydrocele is formed, where fluid accumulates within the patent processus vaginalis and around the testis. If the processus vaginalis obliterates at the level of the deep inguinal ring, the resulting hydrocele is an infantile hydrocele. If fluid is present in the tunica vaginalis surrounding the testis but not the spermatic cord, this is a vaginal hydrocele. A hydrocele of the cord is formed when the distal portion of the processus vaginalis closes, the midportion remains patent and fluid-filled and the proximal portion may be open or closed. In older men, an increase in the production of serous fluid by the tunica vaginalis (eg due to infection, trauma or tumour) can result in a hydrocele. In 10% of cases a testicular tumour is associated with a hydrocele.
+- A hydrocele is an abnormal collection of fluid in the tunica vaginalis surrounding the testis or spermatic cord. They occur in males of any age but are most common at extreme ends of the age spectrum. They can present from birth because during descent of the testis from the abdomen to the scrotum, a sac of peritoneum is pulled along, which envelops the testis and epididymis, creating a tubular communication between the abdomen and the tunica vaginalis of the scrotum. Usually the part surrounding the spermatic cord obliterates, therefore closing off this communication. If it does not, a congenital hydrocele is formed, where fluid accumulates within the patent processus vaginalis and around the testis. 
+- If processus vaginalis obliterates at the level of the deep inguinal ring
+	- resulting hydrocele is an *infantile hydrocele* 
+- If fluid is present in tunica vaginalis surrounding testis but not spermatic cord
+	- this is a *vaginal hydrocele*
+- A hydrocele of the cord is formed when the distal portion of the processus vaginalis closes, the midportion remains patent and fluid-filled and the proximal portion may be open or closed. In older men, an increase in the production of serous fluid by the tunica vaginalis (eg due to infection, trauma or tumour) can result in a hydrocele. In 10% of cases a testicular tumour is associated with a hydrocele.
  
 ### Q123
 A 23-year-old man is brought into the Emergency Department after having sustained three stab wounds to the abdomen with evisceration of small bowel. A laparotomy is performed where _gross faecal contamination_ is found from _large-bowel lacerations_. The bowel injuries are resected and a _defunctioning ileostomy_ is performed. On the 4th post-operative day, the patient develops a temperature of 39°C with peritonitis as well as buttock myonecrosis with _foul-smelling discharge_. In this clinical scenario, which of the following organisms is most likely to have caused this infection?
 
-	A. Helicobacter pylori - F
+	A. Helicobacter pylori
 	B. Bacteroides fragilis
 	C. Vibrio parahaemolyticus
-	D. Salmonella typhi - F
+	D. Salmonella typhi
 	E. Shigella dysenteriae
 
 #### Answer: E. Shigella dysenteriae - *FALSE* = B. Bacteroides fragilis - TRUE
 - Bacteroides organisms are anaerobic, non-spore-forming, Gram-negative rods normally found within the human colon
-	- They can cause endogenous infections and lead to peritonitis, sepsis and abscess formation
-	- The polysaccharide capsule of the Bacteroides organisms is responsible for the high virulence factor
+	- causing endogenous infections and lead to peritonitis, sepsis and abscess formation
+	- Polysaccharide capsule of Bacteroides organisms is responsible for high virulence factor
 - Shigella, Salmonella, and Vibrio are all enteric pathogens that cause gastroenteritis
 - Helicobacter pylori is a well-known cause of gastritis and is limited to the upper GIT
  
@@ -1938,9 +2148,9 @@ A 23-year-old man is brought into the Emergency Department after having sustaine
 The _most common problem_ following _total knee replacement_ (TKR) involves:
 
 	A. Infection
-	B. Incorrect prosthesis size - F
-	C. Chronic pain - F
-	D. Cosmesis - F
+	B. Incorrect prosthesis size
+	C. Chronic pain 
+	D. Cosmesis
 	E. Patellar tracking
 
 #### Answer: E. Patellar tracking - TRUE
@@ -1956,19 +2166,21 @@ The _most common problem_ following _total knee replacement_ (TKR) involves:
 	- the patellar component is medialised
 	- and the joint position is maintained
  
-### Q125 - LEARN
+### Q125
 A 68-year-old man develops a massive acute _myocardial infarction_ and dies in hospital while being resuscitated in the Emergency Department. An autopsy is performed and, while you are inspecting the heart, you note that it has undergone necrosis as expected. 
 
 Which _type of necrosis_ is found to be consistent with the pathology of this disease?
 
 	A. Coagulative necrosis
 	B. Liquefactive necrosis
-	C. Fat necrosis - F
-	D. Fibrinoid necrosis - F
+	C. Fat necrosis
+	D. Fibrinoid necrosis
 	E. Caseating necrosis
 
 #### Answer: A. Coagulative necrosis - TRUE
-- Coagulative necrosis commonly occurs in fibrous or muscular tissue where the outline of the cell is retained, but not the cell nucleus. The brain classically undergoes liquefactive necrosis, which results from complete hydrolysis of the cell. Caseating necrosis is seen in cases of TB and may represent a combination of coagulative and liquefactive necrosis. Fat necrosis usually occurs in abdominal wall, pancreatic or breast tissue that has sustained trauma and has been damaged by lipases. Fibrinoid necrosis may be seen in damaged vessel walls where plasma proteins accumulate.
+- Coagulative necrosis commonly occurs in fibrous or muscular tissue 
+	- where outline of cell is retained, but *not cell nucleus*
+- The brain classically undergoes liquefactive necrosis, which results from complete hydrolysis of the cell. Caseating necrosis is seen in cases of TB and may represent a combination of coagulative and liquefactive necrosis. Fat necrosis usually occurs in abdominal wall, pancreatic or breast tissue that has sustained trauma and has been damaged by lipases. Fibrinoid necrosis may be seen in damaged vessel walls where plasma proteins accumulate.
  
 ### Q126
 Which one of the following laboratory stains is used to identify _amyloid staining_ in pathological tissue sections?
@@ -1993,7 +2205,7 @@ Diagnostic _specificity_ is defined as:
 	E. Probability of being disease-free and test-negative within all people testing negative
 
 #### Answer: C. Probability of a negative diagnostic test in the absence of disease - TRUE
-- Specificity refers to how well a test picks up disease-free individuals
+- **DEFINE** Specificity = how well a test picks up disease-free individuals
 - It is expressed as a proportion of 
 	- disease-free individuals testing negative (true negatives) 
 	- out of all disease-free individuals (true negatives plus false positives)
@@ -2017,28 +2229,29 @@ Sertoli cells:
 ### Q129
 A 15-year-old boy presents with sudden-onset right testicular pain associated with nausea and vomiting. On examination, the right testis is found to be drawn up into the groin with a horizontal lie and is very tender. What is the most appropriate form of management?
 
-	A. Broad-spectrum antibiotics - F
+	A. Broad-spectrum antibiotics
 	B. Exploration of testis via inguinal incision
-	C. Bedrest and scrotal support - F
-	D. ‘Watch and wait’ policy - F
+	C. Bedrest and scrotal support
+	D. ‘Watch and wait’ policy
 	E. Exploration of testis via transverse incision over testis
 
 #### Answer: E. Exploration of testis via transverse incision over testis - TRUE
-- These symptoms are most likely to be due to a testicular torsion. This has to be considered a surgical emergency as the longer this is left, the higher the chance of testicular infarction. The purpose of surgery is to correct the torsion in the affected testis and to anchor the other testis to prevent future torsion. This can be achieved via a transverse incision over the testis or via a small midline incision in the scrotal raphe. If the testis is found to be clearly necrotic, it should be removed.
+- Symptoms are most likely to be due to a *testicular torsion*
+- This has to be considered a surgical emergency as the longer this is left, the higher the chance of testicular infarction. The purpose of surgery is to correct the torsion in the affected testis and to anchor the other testis to prevent future torsion. This can be achieved via a transverse incision over the testis or via a small midline incision in the scrotal raphe. If the testis is found to be clearly necrotic, it should be removed.
  
 ### Q130
 In the _induction of anaesthesia_:
 
 	A. Thiopentone injection results in a delayed recovery because of its high lipid solubility
-	B. Propofol commonly causes nausea on recovery - F
+	B. Propofol commonly causes nausea on recovery
 	C. Ketamine is a stimulant that works by dissociation
-	D. Ketamine is routinely used in adult anaesthesia - F
+	D. Ketamine is routinely used in adult anaesthesia
 	E. Ketamine can cause a bradycardia on injection
 
 #### Answer: E. Ketamine can cause a bradycardia on injection - *FALSE* = C. Ketamine is a stimulant that works by dissociation - TRUE
 - Ketamine is a stimulant that works by dissociation
-- Commonly causes a tachycardia and rise in blood pressure on injection
-- Use is commonly within paediatric anaesthesia
+	- Causes a tachycardia and &uarr; blood pressure on injection
+- Use is commonly within *paediatric anaesthesia*
 - Commonest side effects are nightmares and hallucinations
 
 
@@ -2063,15 +2276,16 @@ The first step in the management of an episode of _massive haematemesis_ is:
 ### Q132
 All of the following statements regarding polytetrafluoroethylene (polytef or PTFE) are correct, EXCEPT:
 
-	A. Pre-clotting is not required before use - T
-	B. It allows tissue ingrowth and neo-intima formation - T
-	C. It is a hydrophobic-non-elastic polymer - T
+	A. Pre-clotting is not required before use
+	B. It allows tissue ingrowth and neo-intima formation
+	C. It is a hydrophobic-non-elastic polymer
 	D. Platelet deposition can occur on its surface
-	E. It is used in the creation of arteriovenous (AV) fistulae - T
+	E. It is used in the creation of arteriovenous (AV) fistulae
 
 #### Answer: E. It is used in the creation of arteriovenous (AV) fistulae - *FALSE* = D. Platelet deposition can occur on its surface - TRUE
-- Smooth inert surface of PTFE as well as negatively charged surface inhibits platelet deposition
-	- Bleeding can sometimes be a problem through pores made by suture needles
+- Smooth inert surface of PTFE as well as negatively charged surface 
+	- inhibits platelet deposition
+- Bleeding can sometimes be a problem through pores made by suture needles
  
 ### Q133
 Which of the following features is found with a _large pulmonary embolus_ (PE)?
@@ -2106,13 +2320,13 @@ All of the following drugs can cause _acute pancreatitis_, EXCEPT:
 ### Q135
 All of the following statements regarding _prostate cancer_ are true, EXCEPT:
 
-	A. It is the second leading cause of male cancer deaths - T
+	A. It is the second leading cause of male cancer deaths
 	B. The lifetime risk of microscopic prostate cancer in all men is 30%
-	C. The incidence is decreasing as a result of screening measures - F
-	D. The lifetime risk of developing overt disease is 10% - T
-	E. Consumption of carrots and cereals may have some protective effect - F
+	C. The incidence is decreasing as a result of screening measures
+	D. The lifetime risk of developing overt disease is 10% 
+	E. Consumption of carrots and cereals may have some protective effect
 #### Answer: E. Consumption of carrots and cereals may have some protective effect - *FALSE* = C. The incidence is decreasing as a result of screening measures - TRUE
 - Incidence of prostate cancer is rising as the general elderly population increases
-- Average age of death in men is rising and so prostate cancer will be more prevalent
+	- Average age of death in men is rising - prostate cancer will be more prevalent
 
 ---
